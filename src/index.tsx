@@ -2,7 +2,7 @@
 import * as React from 'react';
 import * as ReactDOM from 'react-dom/client';
 import { StyledEngineProvider } from '@mui/material/styles';
-import App from './MarketingPage';
+import App from './HomePage';
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
