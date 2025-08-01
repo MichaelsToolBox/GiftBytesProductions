@@ -44,10 +44,10 @@ const items = [
   },
 ];
 
-export default function Philosophy() {
+export default function Principles() {
   return (
     <Box
-      id="philosophy"
+      id="principles"
       sx={{
         pt: { xs: 4, sm: 12 },
         pb: { xs: 8, sm: 16 },

@@ -11,8 +11,8 @@ import * as React from 'react';
 const articleInfo = [
   {
     tag: 'Projects',
-    title: 'New project will be a desktop video game',
-    description: 'We announce that our new project will be a free to play desktop video game that will be available on all operating systems',
+    title: 'New project announcement',
+    description: 'We announce that our new project will be a free to play desktop video game that will be available on all operating systems and platforms',
     authors: [
       { name: 'Michael Schenk, Developer', avatar: '/static/images/avatar/1.jpg' },
     ],

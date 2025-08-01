@@ -1,9 +1,9 @@
 import LogoCollection from './components/LogoCollection';
-import Accessibility from './components/Accessibility';
 import Testimonials from './components/Testimonials';
 import CssBaseline from '@mui/material/CssBaseline';
-import Philosophy from './components/Philosophy';
+import Principles from './components/Principles';
 import AppAppBar from './components/AppAppBar';
+import Download from './components/Download';
 import Features from './components/Features';
 import Divider from '@mui/material/Divider';
 import Footer from './components/Footer';
@@ -22,9 +22,9 @@ export default function HomePage(props: { disableCustomTheme?: boolean }) {
         <LogoCollection />
         <Features />
         <Divider />
-        <Philosophy />
+        <Principles />
         <Divider />
-        <Accessibility />
+        <Download />
         <Divider />
         <Latest />
         <Divider />

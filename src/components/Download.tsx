@@ -15,13 +15,14 @@ const tiers = [
 {
     title: 'Dev Logs',
     price: 'Free',
+    subheader: 'Available',
     description: [
       'Studio-quality video production',
       'Deep dives into our code and design',
       'Direct interaction with our developers',
       'Accessible worldwide on YouTube',
     ],
-    buttonText: 'Subscribe',
+    buttonText: 'Free Sub',
     buttonVariant: 'outlined',
     buttonColor: 'primary',
 },
@@ -33,17 +34,19 @@ const tiers = [
       'Available on IOS and Android',
       'Free to play with no hidden cost',
       'Supports old mobile devices',
-      'Test',
-      'Dedicated team',
-      'Best deals',
+      'Simple game for any time and day',
+      'Presented in dev logs',
+      'Support',
     ],
-    buttonText: 'Download now',
+    buttonText: 'Download IOS',
+    buttonText2: 'Download Android',
     buttonVariant: 'contained',
     buttonColor: 'secondary',
   },
   {
     title: 'Upcoming project',
     price: 'Free',
+    subheader: 'In progress',
     description: [
       'Available for Windows, Macos and Linux',
       'Distribution through Steam and Apple Store',
@@ -56,10 +59,10 @@ const tiers = [
   },
 ];
 
-export default function Accessibility() {
+export default function Download() {
   return (
     <Container
-      id="accessibility"
+      id="download"
       sx={{
         pt: { xs: 4, sm: 12 },
         pb: { xs: 8, sm: 16 },
@@ -82,10 +85,10 @@ export default function Accessibility() {
           gutterBottom
           sx={{ color: 'text.primary' }}
         >
-          Accessibility
+          Download
         </Typography>
         <Typography variant="body1" sx={{ color: 'text.secondary' }}>
-           Test
+           Here you can download and view our projects
         </Typography>
       </Box>
       <Grid
@@ -136,7 +139,7 @@ export default function Accessibility() {
                   <Typography component="h3" variant="h6">
                     {tier.title}
                   </Typography>
-                  {tier.title === 'TouchSlider' && (
+                  {tier.subheader && (
                     <Chip icon={<AutoAwesomeIcon />} label={tier.subheader} />
                   )}
                 </Box>
@@ -194,6 +197,16 @@ export default function Accessibility() {
                     >
                     {tier.buttonText}
                   </Button>
+                  {
+                    tier.title === 'TouchSlider' &&
+                       <Button
+                    fullWidth
+                    variant={tier.buttonVariant as 'outlined' | 'contained'}
+                    color={tier.buttonColor as 'primary' | 'secondary'}
+                    >
+                    {tier.buttonText2}
+                  </Button>
+                  }
                 </CardActions>
               }
             </Card>

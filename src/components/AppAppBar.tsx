@@ -58,7 +58,7 @@ export default function AppAppBar() {
                 Philosophy
               </Button>
               <Button variant="text" color="info" size="small">
-                Accessibility
+                Download
               </Button>
               <Button variant="text" color="info" size="small">
                 Latest
@@ -107,7 +107,7 @@ export default function AppAppBar() {
 
                 <MenuItem>Projects</MenuItem>
                 <MenuItem>Philosophy</MenuItem>
-                <MenuItem>Accessibility</MenuItem>
+                <MenuItem>Download</MenuItem>
                 <MenuItem>Latest</MenuItem>
                 <MenuItem>Testimonials</MenuItem>
                 <MenuItem>FAQ</MenuItem>
