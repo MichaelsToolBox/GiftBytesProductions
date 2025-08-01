@@ -1,11 +1,12 @@
 import LogoCollection from './components/LogoCollection';
+import Accessibility from './components/Accessibility';
 import Testimonials from './components/Testimonials';
 import CssBaseline from '@mui/material/CssBaseline';
-import Highlights from './components/Highlights';
+import Philosophy from './components/Philosophy';
+// import Container from '@mui/material/Container';
 import AppAppBar from './components/AppAppBar';
 import Features from './components/Features';
 import Divider from '@mui/material/Divider';
-import Pricing from './components/Pricing';
 import Footer from './components/Footer';
 import AppTheme from './theme/AppTheme';
 import Hero from './components/Hero';
@@ -21,11 +22,17 @@ export default function HomePage(props: { disableCustomTheme?: boolean }) {
         <LogoCollection />
         <Features />
         <Divider />
-        <Highlights />
+        <Philosophy />
         <Divider />
-        <Pricing />
+        <Accessibility />
         <Divider />
         <Testimonials />
+        {/*
+        <Container maxWidth="lg" component="main" sx={{ display: 'flex', flexDirection: 'column', my: 16, gap: 4 }}>
+          <MainContent />
+          <Latest />
+        </Container>
+        */}
         <Divider />
         <FAQ />
         <Divider />

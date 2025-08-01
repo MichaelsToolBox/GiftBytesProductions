@@ -12,54 +12,51 @@ import Grid from '@mui/material/Grid';
 import Box from '@mui/material/Box';
 
 const tiers = [
-  {
-    title: 'Free',
-    price: '0',
+{
+    title: 'Dev Logs',
+    price: 'Free',
     description: [
-      '10 users included',
-      '2 GB of storage',
-      'Help center access',
-      'Email support',
+      'Studio-quality video production',
+      'Deep dives into our code and design',
+      'Direct interaction with our developers',
+      'Accessible worldwide on YouTube',
     ],
-    buttonText: 'Sign up for free',
+    buttonText: 'Subscribe',
     buttonVariant: 'outlined',
     buttonColor: 'primary',
-  },
+},
   {
-    title: 'Professional',
+    title: 'TouchSlider',
     subheader: 'Recommended',
-    price: '15',
+    price: 'Free',
     description: [
-      '20 users included',
-      '10 GB of storage',
-      'Help center access',
-      'Priority email support',
+      'Available on IOS and Android',
+      'Free to play with no hidden cost',
+      'Supports old mobile devices',
+      'Test',
       'Dedicated team',
       'Best deals',
     ],
-    buttonText: 'Start now',
+    buttonText: 'Download now',
     buttonVariant: 'contained',
     buttonColor: 'secondary',
   },
   {
-    title: 'Enterprise',
-    price: '30',
+    title: 'Upcoming project',
+    price: 'Free',
     description: [
-      '50 users included',
-      '30 GB of storage',
-      'Help center access',
-      'Phone & email support',
-    ],
-    buttonText: 'Contact us',
-    buttonVariant: 'outlined',
-    buttonColor: 'primary',
+      'Available for Windows, Macos and Linux',
+      'Distribution through Steam, Apple Store and possibly Epic Games',
+      'Accessible worldwide on YouTube',
+      'Support',
+    ]
   },
 ];
 
-export default function Pricing() {
+export default function Accessibility() {
   return (
     <Container
-      id="pricing"
+      id="accessibility"
       sx={{
         pt: { xs: 4, sm: 12 },
         pb: { xs: 8, sm: 16 },
@@ -82,13 +79,10 @@ export default function Pricing() {
           gutterBottom
           sx={{ color: 'text.primary' }}
         >
-          Pricing
+          Accessibility
         </Typography>
         <Typography variant="body1" sx={{ color: 'text.secondary' }}>
-          Quickly build an effective pricing table for your potential customers with
-          this layout. <br />
-          It&apos;s built with default Material UI components with little
-          customization.
+           Test
         </Typography>
       </Box>
       <Grid
@@ -98,7 +92,7 @@ export default function Pricing() {
       >
         {tiers.map((tier) => (
           <Grid
-            size={{ xs: 12, sm: tier.title === 'Enterprise' ? 12 : 6, md: 4 }}
+            size={{ xs: 12, sm: tier.title === 'TouchSlider' ? 12 : 6, md: 4 }}
             key={tier.title}
           >
             <Card
@@ -109,7 +103,7 @@ export default function Pricing() {
                   flexDirection: 'column',
                   gap: 4,
                 },
-                tier.title === 'Professional' &&
+                tier.title === 'TouchSlider' &&
                   ((theme) => ({
                     border: 'none',
                     background:
@@ -133,7 +127,7 @@ export default function Pricing() {
                       alignItems: 'center',
                       gap: 2,
                     },
-                    tier.title === 'Professional'
+                    tier.title === 'TouchSlider'
                       ? { color: 'grey.100' }
                       : { color: '' },
                   ]}
@@ -141,7 +135,7 @@ export default function Pricing() {
                   <Typography component="h3" variant="h6">
                     {tier.title}
                   </Typography>
-                  {tier.title === 'Professional' && (
+                  {tier.title === 'TouchSlider' && (
                     <Chip icon={<AutoAwesomeIcon />} label={tier.subheader} />
                   )}
                 </Box>
@@ -151,16 +145,13 @@ export default function Pricing() {
                       display: 'flex',
                       alignItems: 'baseline',
                     },
-                    tier.title === 'Professional'
+                    tier.title === 'TouchSlider'
                       ? { color: 'grey.50' }
                       : { color: null },
                   ]}
                 >
                   <Typography component="h3" variant="h2">
-                    ${tier.price}
-                  </Typography>
-                  <Typography component="h3" variant="h6">
-                    &nbsp; per month
+                    {tier.price}
                   </Typography>
                 </Box>
                 <Divider sx={{ my: 2, opacity: 0.8, borderColor: 'divider' }} />
@@ -174,7 +165,7 @@ export default function Pricing() {
                         {
                           width: 20,
                         },
-                        tier.title === 'Professional'
+                        tier.title === 'TouchSlider'
                           ? { color: 'primary.light' }
                           : { color: 'primary.main' },
                       ]}
@@ -183,7 +174,7 @@ export default function Pricing() {
                       variant="subtitle2"
                       component={'span'}
                       sx={[
-                        tier.title === 'Professional'
+                        tier.title === 'TouchSlider'
                           ? { color: 'grey.50' }
                           : { color: null },
                       ]}
@@ -193,15 +184,17 @@ export default function Pricing() {
                   </Box>
                 ))}
               </CardContent>
-              <CardActions>
-                <Button
-                  fullWidth
-                  variant={tier.buttonVariant as 'outlined' | 'contained'}
-                  color={tier.buttonColor as 'primary' | 'secondary'}
-                >
-                  {tier.buttonText}
-                </Button>
-              </CardActions>
+              {tier.buttonText && 
+                <CardActions>
+                  <Button
+                    fullWidth
+                    variant={tier.buttonVariant as 'outlined' | 'contained'}
+                    color={tier.buttonColor as 'primary' | 'secondary'}
+                    >
+                    {tier.buttonText}
+                  </Button>
+                </CardActions>
+              }
             </Card>
           </Grid>
         ))}
