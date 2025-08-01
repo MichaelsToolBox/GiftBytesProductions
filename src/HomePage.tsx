@@ -1,15 +1,15 @@
-import CssBaseline from '@mui/material/CssBaseline';
-import Divider from '@mui/material/Divider';
-import AppTheme from './theme/AppTheme';
-import AppAppBar from './components/AppAppBar';
-import Hero from './components/Hero';
 import LogoCollection from './components/LogoCollection';
-import Highlights from './components/Highlights';
-import Pricing from './components/Pricing';
-import Features from './components/Features';
 import Testimonials from './components/Testimonials';
-import FAQ from './components/FAQ';
+import CssBaseline from '@mui/material/CssBaseline';
+import Highlights from './components/Highlights';
+import AppAppBar from './components/AppAppBar';
+import Features from './components/Features';
+import Divider from '@mui/material/Divider';
+import Pricing from './components/Pricing';
 import Footer from './components/Footer';
+import AppTheme from './theme/AppTheme';
+import Hero from './components/Hero';
+import FAQ from './components/FAQ';
 
 export default function HomePage(props: { disableCustomTheme?: boolean }) {
   return (
@@ -21,11 +21,11 @@ export default function HomePage(props: { disableCustomTheme?: boolean }) {
         <LogoCollection />
         <Features />
         <Divider />
-        <Testimonials />
-        <Divider />
         <Highlights />
         <Divider />
         <Pricing />
+        <Divider />
+        <Testimonials />
         <Divider />
         <FAQ />
         <Divider />

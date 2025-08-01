@@ -90,9 +90,7 @@ export default function Hero() {
               width: { sm: '100%', md: '80%' },
             }}
           >
-            Explore our cutting-edge dashboard, delivering high-quality solutions
-            tailored to your needs. Elevate your experience with top-tier features
-            and services.
+            We are a German-based creative development studio leveraging the latest technology to craft captivating and accessible video games, apps, and media experiences for everyone
           </Typography>
         </Stack>
         <StyledBox id="image" />
