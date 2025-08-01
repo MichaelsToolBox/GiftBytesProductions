@@ -46,10 +46,13 @@ const tiers = [
     price: 'Free',
     description: [
       'Available for Windows, Macos and Linux',
-      'Distribution through Steam, Apple Store and possibly Epic Games',
-      'Accessible worldwide on YouTube',
+      'Distribution through Steam and Apple Store',
+      'Accessible in various languages',
       'Support',
-    ]
+    ],
+    buttonText: 'To be announced',
+    buttonVariant: 'outlined',
+    buttonColor: 'primary',
   },
 ];
 
@@ -106,12 +109,10 @@ export default function Accessibility() {
                 tier.title === 'TouchSlider' &&
                   ((theme) => ({
                     border: 'none',
-                    background:
-                      'radial-gradient(circle at 50% 0%, hsl(220, 20%, 35%), hsl(220, 30%, 6%))',
+                    background: 'radial-gradient(circle at 50% 0%, hsl(220, 20%, 35%), hsl(220, 30%, 6%))',
                     boxShadow: `0 8px 12px hsla(220, 20%, 42%, 0.2)`,
                     ...theme.applyStyles('dark', {
-                      background:
-                        'radial-gradient(circle at 50% 0%, hsl(220, 20%, 20%), hsl(220, 30%, 16%))',
+                      background: 'radial-gradient(circle at 50% 0%, hsl(220, 20%, 20%), hsl(220, 30%, 16%))',
                       boxShadow: `0 8px 12px hsla(0, 0%, 0%, 0.8)`,
                     }),
                   })),
@@ -184,7 +185,7 @@ export default function Accessibility() {
                   </Box>
                 ))}
               </CardContent>
-              {tier.buttonText && 
+              {tier.buttonColor && 
                 <CardActions>
                   <Button
                     fullWidth

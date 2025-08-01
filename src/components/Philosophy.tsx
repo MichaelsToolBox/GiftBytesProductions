@@ -14,35 +14,33 @@ import Box from '@mui/material/Box';
 const items = [
   {
     icon: <SettingsSuggestRoundedIcon />,
-    title: 'Adaptable performance',
-    description: 'Our product effortlessly adjusts to your needs, boosting efficiency and simplifying your tasks.',
+    title: 'Accessible Everywhere',
+    description: 'We believe great software should work for everyone, on any device. Our projects are meticulously engineered for cross-platform compatibility and accessibility from the ground up.',
   },
   {
     icon: <ConstructionRoundedIcon />,
-    title: 'Built to last',
-    description: 'Experience unmatched durability that goes above and beyond with lasting investment.',
+    title: 'Polished & Performant',
+    description: 'We deliver complete and highly optimized experiences. Our focus on clean architecture and rigorous testing ensures every product is stable, performant, and ready to enjoy from day one.',
   },
   {
     icon: <ThumbUpAltRoundedIcon />,
-    title: 'Great user experience',
-    description: 'Integrate our product into your routine with an intuitive and easy-to-use interface.',
+    title: 'Intuitive by Design',
+    description: 'We believe powerful software doesn\'t have to be complicated. Our passion lies in crafting clean, intuitive interfaces that make every interaction straightforward and enjoyable.',
   },
   {
     icon: <AutoFixHighRoundedIcon />,
-    title: 'Innovative functionality',
-    description: 'Stay ahead with features that set new standards, addressing your evolving needs better than the rest.',
+    title: 'Powered by Innovation',
+    description: 'We build with the future in mind. By leveraging the latest in software and hardware technology, we create forward-thinking products with powerful, cutting-edge functionality.',
   },
   {
     icon: <SupportAgentRoundedIcon />,
-    title: 'Reliable support',
-    description:
-      'Count on our responsive customer support, offering assistance that goes beyond the purchase.',
+    title: 'Dedicated Support',
+    description: 'Our relationship doesn\'t end at the download. We provide friendly, responsive support directly from our team to ensure you have a great experience with our products, always.',
   },
   {
     icon: <QueryStatsRoundedIcon />,
-    title: 'Precision in every detail',
-    description:
-      'Enjoy a meticulously crafted product where small touches make a significant impact on your overall experience.',
+    title: 'Meticulous Craftsmanship',
+    description: 'We believe excellence lies in the details. From the first concept to the final line of code, every element of our work is thoughtfully planned and precisely executed for a flawless final product.',
   },
 ];
 
@@ -73,10 +71,10 @@ export default function Philosophy() {
           }}
         >
           <Typography component="h2" variant="h4" gutterBottom>
-            Philosophy
+            Our Principles
           </Typography>
           <Typography variant="body1" sx={{ color: 'grey.400' }}>
-            Here are the priniciples that guide our community and projects
+            These values are at the heart of everything we build, from the first line of code to the final user experience
           </Typography>
         </Box>
         <Grid container spacing={2}>
