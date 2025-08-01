@@ -61,13 +61,13 @@ export default function AppAppBar() {
                 Accessibility
               </Button>
               <Button variant="text" color="info" size="small">
+                Latest
+              </Button>
+                <Button variant="text" color="info" size="small">
                 Testimonials
               </Button>
               <Button variant="text" color="info" size="small" sx={{ minWidth: 0 }}>
                 FAQ
-              </Button>
-              <Button variant="text" color="info" size="small" sx={{ minWidth: 0 }}>
-                Blog
               </Button>
             </Box>
           </Box>
@@ -108,9 +108,9 @@ export default function AppAppBar() {
                 <MenuItem>Projects</MenuItem>
                 <MenuItem>Philosophy</MenuItem>
                 <MenuItem>Accessibility</MenuItem>
+                <MenuItem>Latest</MenuItem>
                 <MenuItem>Testimonials</MenuItem>
                 <MenuItem>FAQ</MenuItem>
-                <MenuItem>Blog</MenuItem>
                 <Divider sx={{ my: 3 }} />
                 <MenuItem>
                   <Button color="primary" variant="outlined" fullWidth>
