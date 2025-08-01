@@ -11,14 +11,13 @@ import Testimonials from './components/Testimonials';
 import FAQ from './components/FAQ';
 import Footer from './components/Footer';
 
-export default function MarketingPage(props: { disableCustomTheme?: boolean }) {
+export default function HomePage(props: { disableCustomTheme?: boolean }) {
   return (
     <AppTheme {...props}>
       <CssBaseline enableColorScheme />
 
       <AppAppBar />
       <Hero />
-      <div>
         <LogoCollection />
         <Features />
         <Divider />
@@ -31,7 +30,6 @@ export default function MarketingPage(props: { disableCustomTheme?: boolean }) {
         <FAQ />
         <Divider />
         <Footer />
-      </div>
     </AppTheme>
   );
 }

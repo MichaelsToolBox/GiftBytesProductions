@@ -1,12 +1,12 @@
-import * as React from 'react';
-import Accordion from '@mui/material/Accordion';
 import AccordionDetails from '@mui/material/AccordionDetails';
 import AccordionSummary from '@mui/material/AccordionSummary';
-import Box from '@mui/material/Box';
+import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
+import Typography from '@mui/material/Typography';
+import Accordion from '@mui/material/Accordion';
 import Container from '@mui/material/Container';
 import Link from '@mui/material/Link';
-import Typography from '@mui/material/Typography';
-import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
+import Box from '@mui/material/Box';
+import * as React from 'react';
 
 export default function FAQ() {
   const [expanded, setExpanded] = React.useState<string[]>([]);
@@ -14,9 +14,7 @@ export default function FAQ() {
   const handleChange =
     (panel: string) => (_event: React.SyntheticEvent, isExpanded: boolean) => {
       setExpanded(
-        isExpanded
-          ? [...expanded, panel]
-          : expanded.filter((item) => item !== panel),
+        isExpanded ? [...expanded, panel] : expanded.filter((item) => item !== panel),
       );
     };
 

@@ -1,15 +1,14 @@
-import * as React from 'react';
-import Box from '@mui/material/Box';
-import Button from '@mui/material/Button';
-import Card from '@mui/material/Card';
-import MuiChip from '@mui/material/Chip';
-import Container from '@mui/material/Container';
-import Typography from '@mui/material/Typography';
-import { styled } from '@mui/material/styles';
-
-import DevicesRoundedIcon from '@mui/icons-material/DevicesRounded';
 import EdgesensorHighRoundedIcon from '@mui/icons-material/EdgesensorHighRounded';
 import ViewQuiltRoundedIcon from '@mui/icons-material/ViewQuiltRounded';
+import DevicesRoundedIcon from '@mui/icons-material/DevicesRounded';
+import Typography from '@mui/material/Typography';
+import Container from '@mui/material/Container';
+import { styled } from '@mui/material/styles';
+import Button from '@mui/material/Button';
+import MuiChip from '@mui/material/Chip';
+import Card from '@mui/material/Card';
+import Box from '@mui/material/Box';
+import * as React from 'react';
 
 const items = [
   {
