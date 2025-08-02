@@ -17,16 +17,15 @@ import Box from '@mui/material/Box';
 import * as React from 'react';
 
 export default function AppAppBar() {
-  const { i18n, t } = useTranslation(); // Get the i18n instance and translation function
+  const { i18n, t } = useTranslation();
   const [open, setOpen] = React.useState(false);
 
-  // The current language is now managed by i18next
   const currentLanguageCode = i18n.language;
   const currentLanguage = availableLanguages.find(l => l.code === currentLanguageCode) || availableLanguages[0];
 
   const handleLanguageChange = (newLanguage: Language) => {
     console.log('Language changed to:', newLanguage.code);
-    i18n.changeLanguage(newLanguage.code); // This will update the language globally
+    i18n.changeLanguage(newLanguage.code);
   };
 
   const toggleDrawer = (newOpen: boolean) => () => {
