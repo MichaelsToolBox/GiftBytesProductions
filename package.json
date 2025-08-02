@@ -13,8 +13,11 @@
     "@mui/icons-material": "latest",
     "@mui/material": "latest",
     "@mui/utils": "latest",
+    "i18next": "^25.3.2",
+    "i18next-http-backend": "^3.0.2",
     "react": "latest",
     "react-dom": "latest",
+    "react-i18next": "^15.6.1",
     "typescript": "latest"
   },
   "devDependencies": {

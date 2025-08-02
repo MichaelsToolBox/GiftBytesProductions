@@ -1,0 +1,16 @@
+{
+  "translation": {
+    "appBar": {
+      "projects": "Proyectos",
+      "principles": "Principios",
+      "download": "Descargar",
+      "latest": "Últimos",
+      "testimonials": "Testimonios",
+      "faq": "Preguntas Frecuentes"
+    },
+    "hero": {
+      "title": "Bienvenido a Nuestra Aplicación",
+      "subtitle": "Descubre las increíbles características que ofrecemos."
+    }
+  }
+}

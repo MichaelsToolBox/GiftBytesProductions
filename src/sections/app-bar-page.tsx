@@ -8,6 +8,7 @@ import SitemarkIcon from '../utils/styles/app-bar-icon';
 import IconButton from '@mui/material/IconButton';
 import Container from '@mui/material/Container';
 import MenuIcon from '@mui/icons-material/Menu';
+import { useTranslation } from 'react-i18next';
 import MenuItem from '@mui/material/MenuItem';
 import AppBar from '@mui/material/AppBar';
 import Button from '@mui/material/Button';
@@ -16,15 +17,16 @@ import Box from '@mui/material/Box';
 import * as React from 'react';
 
 export default function AppAppBar() {
-  // useStates
+  const { i18n, t } = useTranslation(); // Get the i18n instance and translation function
   const [open, setOpen] = React.useState(false);
-  const [currentLanguage, setCurrentLanguage] = React.useState<Language>(availableLanguages[0]);
 
-  // Language change
+  // The current language is now managed by i18next
+  const currentLanguageCode = i18n.language;
+  const currentLanguage = availableLanguages.find(l => l.code === currentLanguageCode) || availableLanguages[0];
+
   const handleLanguageChange = (newLanguage: Language) => {
-    console.log('Language changed to (object):', newLanguage);
-    setCurrentLanguage(newLanguage);
-    // Here you would typically update your i18n instance, For example: i18n.changeLanguage(newLanguage.code);
+    console.log('Language changed to:', newLanguage.code);
+    i18n.changeLanguage(newLanguage.code); // This will update the language globally
   };
 
   const toggleDrawer = (newOpen: boolean) => () => {
@@ -38,12 +40,12 @@ export default function AppAppBar() {
           <Box sx={{ flexGrow: 1, display: 'flex', alignItems: 'center', px: 0 }}>
             <SitemarkIcon />
             <Box sx={{ display: { xs: 'none', md: 'flex' } }}>
-              <Button variant="text" color="info" size="small">Projects</Button>
-              <Button variant="text" color="info" size="small">Principles</Button>
-              <Button variant="text" color="info" size="small">Download</Button>
-              <Button variant="text" color="info" size="small">Latest</Button>
-              <Button variant="text" color="info" size="small">Testimonials</Button>
-              <Button variant="text" color="info" size="small" sx={{ minWidth: 0 }}>FAQ</Button>
+              <Button variant="text" color="info" size="small">{t('appBar.projects')}</Button>
+              <Button variant="text" color="info" size="small">{t('appBar.principles')}</Button>
+              <Button variant="text" color="info" size="small">{t('appBar.download')}</Button>
+              <Button variant="text" color="info" size="small">{t('appBar.latest')}</Button>
+              <Button variant="text" color="info" size="small">{t('appBar.testimonials')}</Button>
+              <Button variant="text" color="info" size="small" sx={{ minWidth: 0 }}>{t('appBar.faq')}</Button>
             </Box>
           </Box>
           <Box sx={{ display: { xs: 'none', md: 'flex' }, gap: 1, alignItems: 'center' }}>
@@ -57,24 +59,24 @@ export default function AppAppBar() {
             <Drawer anchor="top" open={open} onClose={toggleDrawer(false)}>
               <Box sx={{ p: 2, backgroundColor: 'background.default' }}>
                 <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-                  <Box sx={{ display: 'flex', gap: 0.5 }}>
-                     <LanguageSelectorDropdown
+                  <Box sx={{ display: { xs: 'none', md: 'flex' }, gap: 1, alignItems: 'center' }}>
+                      <LanguageSelectorDropdown
                         selectedLanguage={currentLanguage}
                         availableLanguages={availableLanguages}
                         onChange={handleLanguageChange}
                       />
-                    <ColorModeIconDropdown />
-                  </Box>
+                      <ColorModeIconDropdown />
+                   </Box>
                   <IconButton onClick={toggleDrawer(false)}>
                     <CloseRoundedIcon />
                   </IconButton>
                 </Box>
-                <MenuItem>Projects</MenuItem>
-                <MenuItem>Principles</MenuItem>
-                <MenuItem>Download</MenuItem>
-                <MenuItem>Latest</MenuItem>
-                <MenuItem>Testimonials</MenuItem>
-                <MenuItem>FAQ</MenuItem>
+                <MenuItem>{t('appBar.projects')}</MenuItem>
+                <MenuItem>{t('appBar.principles')}</MenuItem>
+                <MenuItem>{t('appBar.download')}</MenuItem>
+                <MenuItem>{t('appBar.latest')}</MenuItem>
+                <MenuItem>{t('appBar.testimonials')}</MenuItem>
+                <MenuItem>{t('appBar.faq')}</MenuItem>
               </Box>
             </Drawer>
           </Box>
