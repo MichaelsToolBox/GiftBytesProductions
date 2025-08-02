@@ -1,4 +1,4 @@
-import { Language } from "../theme/LanguageSelectorDropdown";
+import { Language } from "../types/language-types";
 
 export const availableLanguages: Language[] = [
     { code: 'en', name: 'English', icon: '🇬🇧' },

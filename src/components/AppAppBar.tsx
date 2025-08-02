@@ -1,8 +1,9 @@
-import LanguageSelectorDropdown, { Language } from '../theme/LanguageSelectorDropdown';
+import { availableLanguages } from '../utils/strings/available-languages';
+import LanguageSelectorDropdown from '../theme/LanguageSelectorDropdown';
 import ColorModeIconDropdown from '../theme/ColorModeIconDropdown';
-import { availableLanguages } from '../utils/availableLanguages';
 import CloseRoundedIcon from '@mui/icons-material/CloseRounded';
-import { StyledToolbar } from '../utils/styledToolbar';
+import { StyledToolbar } from '../utils/styles/styled-toolbar';
+import { Language } from '../utils/types/language-types';
 import IconButton from '@mui/material/IconButton';
 import Container from '@mui/material/Container';
 import MenuIcon from '@mui/icons-material/Menu';
@@ -21,7 +22,7 @@ export default function AppAppBar() {
 
   // Language change
   const handleLanguageChange = (newLanguage: Language) => {
-    console.log('Language changed to:', newLanguage);
+    console.log('Language changed to (object):', newLanguage);
     setCurrentLanguage(newLanguage);
     // Here you would typically update your i18n instance, For example: i18n.changeLanguage(newLanguage.code);
   };

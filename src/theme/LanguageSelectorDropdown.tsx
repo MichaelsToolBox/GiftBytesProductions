@@ -1,24 +1,13 @@
-import IconButton, { IconButtonOwnProps } from '@mui/material/IconButton';
+import { Language, LanguageSelectorDropdownProps } from '../utils/types/language-types';
 import TranslateIcon from '@mui/icons-material/Translate';
 import ListItemText from '@mui/material/ListItemText';
 import ListItemIcon from '@mui/material/ListItemIcon';
+import IconButton from '@mui/material/IconButton';
 import MenuItem from '@mui/material/MenuItem';
 import Check from '@mui/icons-material/Check';
 import Menu from '@mui/material/Menu';
 import Box from '@mui/material/Box';
 import * as React from 'react';
-
-export interface Language {
-  code: string;
-  name: string;
-  icon: React.ReactNode;
-}
-
-interface LanguageSelectorDropdownProps extends Omit<IconButtonOwnProps, 'onChange'> {
-  selectedLanguage: Language;
-  availableLanguages: Language[];
-  onChange: (language: Language) => void;
-}
 
 /**
  * A dropdown menu component for selecting a language.
@@ -93,7 +82,7 @@ export default function LanguageSelectorDropdown(props: LanguageSelectorDropdown
             elevation: 0,
             sx: {
               my: '4px',
-              minWidth: 0.2,
+              minWidth: 0.15,
               maxHeight: 0.5,
               paddingRight: 1,
             },

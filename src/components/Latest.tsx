@@ -1,5 +1,6 @@
-import { articleInfo, StyledTypography, TitleTypography } from '../utils/latestTypes';
+import { StyledTypography, TitleTypography } from '../utils/styles/latest-styles';
 import NavigateNextRoundedIcon from '@mui/icons-material/NavigateNextRounded';
+import { articleInfo } from '../utils/strings/article-info';
 import AvatarGroup from '@mui/material/AvatarGroup';
 import Typography from '@mui/material/Typography';
 import Container from '@mui/material/Container';

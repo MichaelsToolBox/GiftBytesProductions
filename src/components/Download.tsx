@@ -1,5 +1,6 @@
 import CheckCircleRoundedIcon from '@mui/icons-material/CheckCircleRounded';
 import AutoAwesomeIcon from '@mui/icons-material/AutoAwesome';
+import { tiers } from '../utils/strings/download-tiers';
 import CardActions from '@mui/material/CardActions';
 import CardContent from '@mui/material/CardContent';
 import Typography from '@mui/material/Typography';
@@ -9,7 +10,6 @@ import Button from '@mui/material/Button';
 import Card from '@mui/material/Card';
 import Chip from '@mui/material/Chip';
 import Grid from '@mui/material/Grid';
-import { tiers } from '../utils/tiers';
 import Box from '@mui/material/Box';
 
 export default function Download() {

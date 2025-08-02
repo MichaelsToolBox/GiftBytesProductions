@@ -1,6 +1,6 @@
+import { StyledBox } from '../utils/styles/styled-box';
 import Typography from '@mui/material/Typography';
 import Container from '@mui/material/Container';
-import { StyledBox } from '../utils/styledBox';
 import Stack from '@mui/material/Stack';
 import Box from '@mui/material/Box';
 

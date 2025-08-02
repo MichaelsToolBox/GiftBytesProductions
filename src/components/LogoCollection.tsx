@@ -1,4 +1,4 @@
-import { darkModeLogos, lightModeLogos, logoStyle } from '../utils/logoLinks';
+import { lightModeLogos, darkModeLogos, logoStyle } from '../utils/strings/logo-links';
 import { useColorScheme } from '@mui/material/styles';
 import Typography from '@mui/material/Typography';
 import Grid from '@mui/material/Grid';
