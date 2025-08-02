@@ -1,12 +1,12 @@
 import { StyledEngineProvider } from '@mui/material/styles';
 import * as ReactDOM from 'react-dom/client';
+import HomePage from './home-page';
 import * as React from 'react';
-import App from './HomePage';
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
     <StyledEngineProvider injectFirst>
-      <App />
+      <HomePage />
     </StyledEngineProvider>
   </React.StrictMode>
 );

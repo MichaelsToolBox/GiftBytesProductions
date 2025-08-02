@@ -1,10 +1,10 @@
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
+import SitemarkIcon from '../utils/styles/app-bar-icon';
 import GitHubIcon from '@mui/icons-material/GitHub';
 import Typography from '@mui/material/Typography';
 import IconButton from '@mui/material/IconButton';
 import Container from '@mui/material/Container';
 import { YouTube } from '@mui/icons-material';
-import SitemarkIcon from './SitemarkIcon';
 import Button from '@mui/material/Button';
 import Stack from '@mui/material/Stack';
 import Link from '@mui/material/Link';

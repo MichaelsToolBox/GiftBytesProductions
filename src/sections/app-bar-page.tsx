@@ -1,9 +1,10 @@
 import { availableLanguages } from '../utils/strings/available-languages';
-import LanguageSelectorDropdown from '../theme/LanguageSelectorDropdown';
-import ColorModeIconDropdown from '../theme/ColorModeIconDropdown';
+import LanguageSelectorDropdown from '../theme/language-selector-dropdown';
+import ColorModeIconDropdown from '../theme/mode-icon-dropdown';
 import CloseRoundedIcon from '@mui/icons-material/CloseRounded';
 import { StyledToolbar } from '../utils/styles/styled-toolbar';
 import { Language } from '../utils/types/language-types';
+import SitemarkIcon from '../utils/styles/app-bar-icon';
 import IconButton from '@mui/material/IconButton';
 import Container from '@mui/material/Container';
 import MenuIcon from '@mui/icons-material/Menu';
@@ -11,7 +12,6 @@ import MenuItem from '@mui/material/MenuItem';
 import AppBar from '@mui/material/AppBar';
 import Button from '@mui/material/Button';
 import Drawer from '@mui/material/Drawer';
-import Sitemark from './SitemarkIcon';
 import Box from '@mui/material/Box';
 import * as React from 'react';
 
@@ -36,7 +36,7 @@ export default function AppAppBar() {
       <Container maxWidth="lg">
         <StyledToolbar variant="dense" disableGutters>
           <Box sx={{ flexGrow: 1, display: 'flex', alignItems: 'center', px: 0 }}>
-            <Sitemark />
+            <SitemarkIcon />
             <Box sx={{ display: { xs: 'none', md: 'flex' } }}>
               <Button variant="text" color="info" size="small">Projects</Button>
               <Button variant="text" color="info" size="small">Principles</Button>

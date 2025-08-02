@@ -1,5 +1,5 @@
 import { colorSchemes, typography, shadows, shape } from '../utils/themePrimitives';
-import { dataDisplayCustomizations } from './customizations/dataDisplay';
+import { dataDisplayCustomizations } from './customizations/data-display';
 import { navigationCustomizations } from './customizations/navigation';
 import { feedbackCustomizations } from './customizations/feedback';
 import { surfacesCustomizations } from './customizations/surfaces';

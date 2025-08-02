@@ -1,16 +1,16 @@
-import LogoCollection from './components/LogoCollection';
-import Testimonials from './components/Testimonials';
+import LogoCollection from './sections/logo-collection';
+import Testimonials from './sections/testimonials-page';
 import CssBaseline from '@mui/material/CssBaseline';
-import Principles from './components/Principles';
-import AppAppBar from './components/AppAppBar';
-import Download from './components/Download';
-import Features from './components/Features';
+import Principles from './sections/principles-page';
+import AppAppBar from './sections/app-bar-page';
+import Download from './sections/download-page';
+import Features from './sections/features-page';
 import Divider from '@mui/material/Divider';
-import Footer from './components/Footer';
-import Latest from './components/Latest';
-import AppTheme from './theme/AppTheme';
-import Hero from './components/Hero';
-import FAQ from './components/FAQ';
+import Footer from './sections/footer-page';
+import Latest from './sections/latest-page';
+import AppTheme from './theme/app-theme';
+import Hero from './sections/hero-page';
+import FAQ from './sections/faq-page';
 
 export default function HomePage(props: { disableCustomTheme?: boolean }) {
   return (
