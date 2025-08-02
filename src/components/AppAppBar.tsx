@@ -39,12 +39,7 @@ export default function AppAppBar() {
     <AppBar
       position="fixed"
       enableColorOnDark
-      sx={{
-        boxShadow: 0,
-        bgcolor: 'transparent',
-        backgroundImage: 'none',
-        mt: 'calc(var(--template-frame-height, 0px) + 28px)',
-      }}
+      sx={{boxShadow: 0, bgcolor: 'transparent', backgroundImage: 'none', mt: 'calc(var(--template-frame-height, 0px) + 28px)'}}
     >
       <Container maxWidth="lg">
         <StyledToolbar variant="dense" disableGutters>
@@ -71,13 +66,7 @@ export default function AppAppBar() {
               </Button>
             </Box>
           </Box>
-          <Box
-            sx={{
-              display: { xs: 'none', md: 'flex' },
-              gap: 1,
-              alignItems: 'center',
-            }}
-          >
+          <Box sx={{ display: { xs: 'none', md: 'flex' }, gap: 1, alignItems: 'center'}}>
             <Button color="primary" variant="contained" size="small">
               Language
             </Button>
@@ -88,18 +77,9 @@ export default function AppAppBar() {
             <IconButton aria-label="Menu button" onClick={toggleDrawer(true)}>
               <MenuIcon />
             </IconButton>
-            <Drawer
-              anchor="top"
-              open={open}
-              onClose={toggleDrawer(false)}
-            >
+            <Drawer anchor="top" open={open} onClose={toggleDrawer(false)}>
               <Box sx={{ p: 2, backgroundColor: 'background.default' }}>
-                <Box
-                  sx={{
-                    display: 'flex',
-                    justifyContent: 'flex-end',
-                  }}
-                >
+                <Box sx={{ display: 'flex', justifyContent: 'flex-end'}}>
                   <IconButton onClick={toggleDrawer(false)}>
                     <CloseRoundedIcon />
                   </IconButton>

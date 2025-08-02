@@ -19,20 +19,20 @@ export default function HomePage(props: { disableCustomTheme?: boolean }) {
 
       <AppAppBar />
       <Hero />
-        <LogoCollection />
-        <Features />
-        <Divider />
-        <Principles />
-        <Divider />
-        <Download />
-        <Divider />
-        <Latest />
-        <Divider />
-        <Testimonials />
-        <Divider />
-        <FAQ />
-        <Divider />
-        <Footer />
+      <LogoCollection />
+      <Features />
+      <Divider />
+      <Principles />
+      <Divider />
+      <Download />
+      <Divider />
+      <Latest />
+      <Divider/>
+      <Testimonials />
+      <Divider />
+      <FAQ />
+      <Divider />
+      <Footer />
     </AppTheme>
   );
 }
