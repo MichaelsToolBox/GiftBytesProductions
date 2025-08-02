@@ -1,16 +1,49 @@
 {
   "translation": {
-    "appBar": {
-      "projects": "Proyectos",
-      "principles": "Principios",
-      "download": "Descargar",
-      "latest": "Últimos",
-      "testimonials": "Testimonios",
-      "faq": "Preguntas Frecuentes"
+    "app-bar": {
+      "projects": "Projects",
+      "principles": "Principles",
+      "download": "Download",
+      "latest": "Latest",
+      "testimonials": "Testimonials",
+      "faq": "FAQ"
     },
     "hero": {
-      "title": "Bienvenido a Nuestra Aplicación",
-      "subtitle": "Descubre las increíbles características que ofrecemos."
+      "title": "Welcome to Our Application",
+      "subtitle": "Discover the amazing features we offer."
+    },
+    "download-page": {
+      "title": "Download",
+      "subtitle": "Here you can download and view our projects"
+    },
+    "tiers":{
+      "title1": "Dev Logs",
+      "price1":" Free",
+      "subheader1": "Available",
+      "description10": "Studio-quality video production",
+      "description11": "Deep dives into our code and design",
+      "description12": "Direct interaction with our developers",
+      "description13": "Accessible worldwide on YouTube",
+      "buttontext1": "Free Sub",
+      "title2": "TouchSlider",
+      "price2": "Free",
+      "subheader2": "Recommended",
+      "description20": "Available on IOS and Android'",
+      "description21": "Free to play with no hidden cost",
+      "description22": "Supports old mobile devices",
+      "description23": "Simple game for any time and day",
+      "description24": "Presented in dev logs",
+      "description25": "Support",
+      "buttontext21": "Download IOS",
+      "buttontext22": "Download Android",
+      "title3": "Upcoming project",
+      "price3": "Free",
+      "subheader3": "In progress",
+      "description30": "Available for Windows, Macos and Linux",
+      "description31": "Distribution through Steam and Apple Store",
+      "description32": "Accessible in various languages",
+      "description33": "Support",
+      "buttontext3": "To be announced"
     }
   }
 }

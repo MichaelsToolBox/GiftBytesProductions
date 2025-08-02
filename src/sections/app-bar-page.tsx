@@ -39,12 +39,12 @@ export default function AppAppBar() {
           <Box sx={{ flexGrow: 1, display: 'flex', alignItems: 'center', px: 0 }}>
             <SitemarkIcon />
             <Box sx={{ display: { xs: 'none', md: 'flex' } }}>
-              <Button variant="text" color="info" size="small">{t('appBar.projects')}</Button>
-              <Button variant="text" color="info" size="small">{t('appBar.principles')}</Button>
-              <Button variant="text" color="info" size="small">{t('appBar.download')}</Button>
-              <Button variant="text" color="info" size="small">{t('appBar.latest')}</Button>
-              <Button variant="text" color="info" size="small">{t('appBar.testimonials')}</Button>
-              <Button variant="text" color="info" size="small" sx={{ minWidth: 0 }}>{t('appBar.faq')}</Button>
+              <Button variant="text" color="info" size="small">{t('app-bar.projects')}</Button>
+              <Button variant="text" color="info" size="small">{t('app-bar.principles')}</Button>
+              <Button variant="text" color="info" size="small">{t('app-bar.download')}</Button>
+              <Button variant="text" color="info" size="small">{t('app-bar.latest')}</Button>
+              <Button variant="text" color="info" size="small">{t('app-bar.testimonials')}</Button>
+              <Button variant="text" color="info" size="small" sx={{ minWidth: 0 }}>{t('app-bar.faq')}</Button>
             </Box>
           </Box>
           <Box sx={{ display: { xs: 'none', md: 'flex' }, gap: 1, alignItems: 'center' }}>
@@ -70,12 +70,12 @@ export default function AppAppBar() {
                     <CloseRoundedIcon />
                   </IconButton>
                 </Box>
-                <MenuItem>{t('appBar.projects')}</MenuItem>
-                <MenuItem>{t('appBar.principles')}</MenuItem>
-                <MenuItem>{t('appBar.download')}</MenuItem>
-                <MenuItem>{t('appBar.latest')}</MenuItem>
-                <MenuItem>{t('appBar.testimonials')}</MenuItem>
-                <MenuItem>{t('appBar.faq')}</MenuItem>
+                <MenuItem>{t('app-bar.projects')}</MenuItem>
+                <MenuItem>{t('app-bar.principles')}</MenuItem>
+                <MenuItem>{t('app-bar.download')}</MenuItem>
+                <MenuItem>{t('app-bar.latest')}</MenuItem>
+                <MenuItem>{t('app-bar.testimonials')}</MenuItem>
+                <MenuItem>{t('app-bar.faq')}</MenuItem>
               </Box>
             </Drawer>
           </Box>
