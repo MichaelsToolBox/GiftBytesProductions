@@ -9,6 +9,7 @@ import Box from '@mui/material/Box';
 import * as React from 'react';
 
 export default function FAQ() {
+  // useState
   const [expanded, setExpanded] = React.useState<string[]>([]);
 
   const handleChange =
@@ -39,20 +40,24 @@ export default function FAQ() {
             </Typography>
           </AccordionDetails>
         </Accordion>
-        <Accordion expanded={expanded.includes('panel2')} onChange={handleChange('panel2')}>
-          <AccordionSummary expandIcon={<ExpandMoreIcon />} aria-controls="panel2d-content" id="panel2d-header">
-            <Typography component="span" variant="subtitle2">
-              Can I return the product if it doesn&apos;t meet my expectations?
-            </Typography>
-          </AccordionSummary>
-          <AccordionDetails>
-            <Typography variant="body2" gutterBottom sx={{ maxWidth: { sm: '100%', md: '70%' } }}>
-              Absolutely! We offer a hassle-free return policy. If you&apos;re not
-              completely satisfied, you can return the product within [number of
-              days] days for a full refund or exchange.
-            </Typography>
-          </AccordionDetails>
-        </Accordion>
+        {
+          /*
+          <Accordion expanded={expanded.includes('panel2')} onChange={handleChange('panel2')}>
+            <AccordionSummary expandIcon={<ExpandMoreIcon />} aria-controls="panel2d-content" id="panel2d-header">
+              <Typography component="span" variant="subtitle2">
+                Can I return the product if it doesn&apos;t meet my expectations?
+              </Typography>
+            </AccordionSummary>
+            <AccordionDetails>
+              <Typography variant="body2" gutterBottom sx={{ maxWidth: { sm: '100%', md: '70%' } }}>
+                Absolutely! We offer a hassle-free return policy. If you&apos;re not
+                completely satisfied, you can return the product within [number of
+                days] days for a full refund or exchange.
+              </Typography>
+            </AccordionDetails>
+          </Accordion>
+          */
+        }
         <Accordion expanded={expanded.includes('panel3')} onChange={handleChange('panel3')}>
           <AccordionSummary expandIcon={<ExpandMoreIcon />} aria-controls="panel3d-content" id="panel3d-header">
             <Typography component="span" variant="subtitle2">

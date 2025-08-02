@@ -1,4 +1,4 @@
-import { colorSchemes, typography, shadows, shape } from './themePrimitives';
+import { colorSchemes, typography, shadows, shape } from '../utils/themePrimitives';
 import { dataDisplayCustomizations } from './customizations/dataDisplay';
 import { navigationCustomizations } from './customizations/navigation';
 import { feedbackCustomizations } from './customizations/feedback';

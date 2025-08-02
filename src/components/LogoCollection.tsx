@@ -1,32 +1,8 @@
+import { darkModeLogos, lightModeLogos, logoStyle } from '../utils/logoLinks';
 import { useColorScheme } from '@mui/material/styles';
 import Typography from '@mui/material/Typography';
 import Grid from '@mui/material/Grid';
 import Box from '@mui/material/Box';
-
-const darkModeLogos = [
-  'https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg',
-  'https://upload.wikimedia.org/wikipedia/commons/d/da/Unreal_Engine_Logo.svg',
-  'https://upload.wikimedia.org/wikipedia/commons/3/3e/Android_logo_2023.svg',
-  'https://upload.wikimedia.org/wikipedia/commons/6/67/App_Store_%28iOS%29.svg',
-  'https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg',
-  'https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg',
-];
-
-const lightModeLogos = [
-  'https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg',
-  'https://upload.wikimedia.org/wikipedia/commons/d/da/Unreal_Engine_Logo.svg',
-  'https://upload.wikimedia.org/wikipedia/commons/3/3e/Android_logo_2023.svg',
-  'https://upload.wikimedia.org/wikipedia/commons/6/67/App_Store_%28iOS%29.svg',
-  'https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg',
-  'https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg',
-];
-
-const logoStyle = {
-  width: '150px',
-  height: '60px',
-  margin: '0 48px',
-  opacity: 0.7,
-};
 
 export default function LogoCollection() {
   const { mode, systemMode } = useColorScheme();

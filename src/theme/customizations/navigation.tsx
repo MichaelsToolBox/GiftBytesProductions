@@ -5,7 +5,7 @@ import { menuItemClasses } from '@mui/material/MenuItem';
 import { dividerClasses } from '@mui/material/Divider';
 import { selectClasses } from '@mui/material/Select';
 import { SvgIconProps } from '@mui/material/SvgIcon';
-import { gray, brand } from '../themePrimitives';
+import { gray, brand } from '../../utils/themePrimitives';
 import { tabClasses } from '@mui/material/Tab';
 import * as React from 'react';
 

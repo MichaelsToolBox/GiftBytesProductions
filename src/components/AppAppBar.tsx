@@ -1,12 +1,12 @@
-import ColorModeIconDropdown from '.././theme/ColorModeIconDropdown';
+import LanguageSelectorDropdown, { Language } from '../theme/LanguageSelectorDropdown';
+import ColorModeIconDropdown from '../theme/ColorModeIconDropdown';
+import { availableLanguages } from '../utils/availableLanguages';
 import CloseRoundedIcon from '@mui/icons-material/CloseRounded';
-import { styled, alpha } from '@mui/material/styles';
+import { StyledToolbar } from '../utils/styledToolbar';
 import IconButton from '@mui/material/IconButton';
 import Container from '@mui/material/Container';
 import MenuIcon from '@mui/icons-material/Menu';
 import MenuItem from '@mui/material/MenuItem';
-import Toolbar from '@mui/material/Toolbar';
-import Divider from '@mui/material/Divider';
 import AppBar from '@mui/material/AppBar';
 import Button from '@mui/material/Button';
 import Drawer from '@mui/material/Drawer';
@@ -14,85 +14,66 @@ import Sitemark from './SitemarkIcon';
 import Box from '@mui/material/Box';
 import * as React from 'react';
 
-const StyledToolbar = styled(Toolbar)(({ theme }) => ({
-  display: 'flex',
-  alignItems: 'center',
-  justifyContent: 'space-between',
-  flexShrink: 0,
-  borderRadius: `calc(${theme.shape.borderRadius}px + 8px)`,
-  backdropFilter: 'blur(24px)',
-  border: '1px solid',
-  borderColor: (theme.vars || theme).palette.divider,
-  backgroundColor: theme.vars ? `rgba(${theme.vars.palette.background.defaultChannel} / 0.4)` : alpha(theme.palette.background.default, 0.4),
-  boxShadow: (theme.vars || theme).shadows[1],
-  padding: '8px 12px',
-}));
-
 export default function AppAppBar() {
+  // useStates
   const [open, setOpen] = React.useState(false);
+  const [currentLanguage, setCurrentLanguage] = React.useState<Language>(availableLanguages[0]);
+
+  // Language change
+  const handleLanguageChange = (newLanguage: Language) => {
+    console.log('Language changed to:', newLanguage);
+    setCurrentLanguage(newLanguage);
+    // Here you would typically update your i18n instance, For example: i18n.changeLanguage(newLanguage.code);
+  };
 
   const toggleDrawer = (newOpen: boolean) => () => {
     setOpen(newOpen);
   };
 
   return (
-    <AppBar position="fixed" enableColorOnDark sx={{boxShadow: 0, bgcolor: 'transparent', backgroundImage: 'none', mt: 'calc(var(--template-frame-height, 0px) + 28px)'}}>
+    <AppBar position="fixed" enableColorOnDark sx={{ boxShadow: 0, bgcolor: 'transparent', backgroundImage: 'none', mt: 'calc(var(--template-frame-height, 0px) + 28px)' }}>
       <Container maxWidth="lg">
         <StyledToolbar variant="dense" disableGutters>
           <Box sx={{ flexGrow: 1, display: 'flex', alignItems: 'center', px: 0 }}>
             <Sitemark />
             <Box sx={{ display: { xs: 'none', md: 'flex' } }}>
-              <Button variant="text" color="info" size="small">
-                Projects
-              </Button>
-              <Button variant="text" color="info" size="small">
-                Philosophy
-              </Button>
-              <Button variant="text" color="info" size="small">
-                Download
-              </Button>
-              <Button variant="text" color="info" size="small">
-                Latest
-              </Button>
-                <Button variant="text" color="info" size="small">
-                Testimonials
-              </Button>
-              <Button variant="text" color="info" size="small" sx={{ minWidth: 0 }}>
-                FAQ
-              </Button>
+              <Button variant="text" color="info" size="small">Projects</Button>
+              <Button variant="text" color="info" size="small">Principles</Button>
+              <Button variant="text" color="info" size="small">Download</Button>
+              <Button variant="text" color="info" size="small">Latest</Button>
+              <Button variant="text" color="info" size="small">Testimonials</Button>
+              <Button variant="text" color="info" size="small" sx={{ minWidth: 0 }}>FAQ</Button>
             </Box>
           </Box>
-          <Box sx={{ display: { xs: 'none', md: 'flex' }, gap: 1, alignItems: 'center'}}>
-            <Button color="primary" variant="contained" size="small">
-              Language
-            </Button>
+          <Box sx={{ display: { xs: 'none', md: 'flex' }, gap: 1, alignItems: 'center' }}>
+            <LanguageSelectorDropdown selectedLanguage={currentLanguage} availableLanguages={availableLanguages} onChange={handleLanguageChange} />
             <ColorModeIconDropdown />
           </Box>
           <Box sx={{ display: { xs: 'flex', md: 'none' }, gap: 1 }}>
-            <ColorModeIconDropdown size="medium" />
             <IconButton aria-label="Menu button" onClick={toggleDrawer(true)}>
               <MenuIcon />
             </IconButton>
             <Drawer anchor="top" open={open} onClose={toggleDrawer(false)}>
               <Box sx={{ p: 2, backgroundColor: 'background.default' }}>
-                <Box sx={{ display: 'flex', justifyContent: 'flex-end'}}>
+                <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+                  <Box sx={{ display: 'flex', gap: 0.5 }}>
+                     <LanguageSelectorDropdown
+                        selectedLanguage={currentLanguage}
+                        availableLanguages={availableLanguages}
+                        onChange={handleLanguageChange}
+                      />
+                    <ColorModeIconDropdown />
+                  </Box>
                   <IconButton onClick={toggleDrawer(false)}>
                     <CloseRoundedIcon />
                   </IconButton>
                 </Box>
-
                 <MenuItem>Projects</MenuItem>
-                <MenuItem>Philosophy</MenuItem>
+                <MenuItem>Principles</MenuItem>
                 <MenuItem>Download</MenuItem>
                 <MenuItem>Latest</MenuItem>
                 <MenuItem>Testimonials</MenuItem>
                 <MenuItem>FAQ</MenuItem>
-                <Divider sx={{ my: 3 }} />
-                <MenuItem>
-                  <Button color="primary" variant="outlined" fullWidth>
-                    Language
-                  </Button>
-                </MenuItem>
               </Box>
             </Drawer>
           </Box>
