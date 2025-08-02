@@ -36,11 +36,7 @@ export default function AppAppBar() {
   };
 
   return (
-    <AppBar
-      position="fixed"
-      enableColorOnDark
-      sx={{boxShadow: 0, bgcolor: 'transparent', backgroundImage: 'none', mt: 'calc(var(--template-frame-height, 0px) + 28px)'}}
-    >
+    <AppBar position="fixed" enableColorOnDark sx={{boxShadow: 0, bgcolor: 'transparent', backgroundImage: 'none', mt: 'calc(var(--template-frame-height, 0px) + 28px)'}}>
       <Container maxWidth="lg">
         <StyledToolbar variant="dense" disableGutters>
           <Box sx={{ flexGrow: 1, display: 'flex', alignItems: 'center', px: 0 }}>

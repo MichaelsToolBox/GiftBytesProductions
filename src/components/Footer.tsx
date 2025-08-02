@@ -71,7 +71,7 @@ export default function Footer() {
         <Stack direction="row" spacing={1} useFlexGap sx={{ justifyContent: 'left', color: 'text.secondary' }}>
           <IconButton
             color="inherit"
-            size="small"
+            size="large"
             href="https://github.com/mui"
             aria-label="GitHub"
             sx={{ alignSelf: 'center' }}
@@ -80,7 +80,7 @@ export default function Footer() {
           </IconButton>
           <IconButton
             color="inherit"
-            size="small"
+            size="large"
             href="https://www.youtube.com/@GiftBytesProductions"
             aria-label="X"
             sx={{ alignSelf: 'center' }}
@@ -89,7 +89,7 @@ export default function Footer() {
           </IconButton>
           <IconButton
             color="inherit"
-            size="small"
+            size="large"
             href="https://www.linkedin.com/in/michael-schenk-a8209858/"
             aria-label="LinkedIn"
             sx={{ alignSelf: 'center' }}
