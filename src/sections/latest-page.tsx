@@ -1,6 +1,5 @@
 import { StyledTypography, TitleTypography } from '../utils/styles/latest-styles';
 import NavigateNextRoundedIcon from '@mui/icons-material/NavigateNextRounded';
-import { articleInfo } from '../utils/strings/article-info';
 import AvatarGroup from '@mui/material/AvatarGroup';
 import Typography from '@mui/material/Typography';
 import Container from '@mui/material/Container';
@@ -8,6 +7,7 @@ import Avatar from '@mui/material/Avatar';
 import Grid from '@mui/material/Grid';
 import Box from '@mui/material/Box';
 import * as React from 'react';
+import { useTranslation } from 'react-i18next';
 
 function Author({ authors }: { authors: { name: string; avatar: string }[] }) {
   return (
@@ -33,6 +33,8 @@ function Author({ authors }: { authors: { name: string; avatar: string }[] }) {
 }
 
 export default function Latest() {
+  const { t } = useTranslation()
+
   // useState
   const [focusedCardIndex, setFocusedCardIndex] = React.useState<number | null>(null);
 
@@ -46,10 +48,49 @@ export default function Latest() {
     setFocusedCardIndex(null);
   };
 
+  const articleInfo = [
+  {
+    tag: t(""),
+    title: t(""),
+    description: t(""),
+    authors: [{ name: t(""), avatar: '/static/images/avatar/1.jpg' }],
+  },
+  {
+    tag: t(""),
+    title: t(""),
+    description: t(""),
+    authors: [{ name: t(""), avatar: '/static/images/avatar/1.jpg' }],
+  },
+  {
+    tag: t(""),
+    title: t(""),
+    description: t(""),
+    authors: [{ name: t(""), avatar: '/static/images/avatar/1.jpg' }],
+  },
+    {
+    tag: t(""),
+    title: t(""),
+    description: t(""),
+    authors: [{ name: t(""), avatar: '/static/images/avatar/1.jpg' }],
+  },
+    {
+    tag: t(""),
+    title: t(""),
+    description: t(""),
+    authors: [{ name: t(""), avatar: '/static/images/avatar/1.jpg' }],
+  },
+    {
+    tag: t(""),
+    title: t(""),
+    description: t(""),
+    authors: [{ name: t(""), avatar: '/static/images/avatar/1.jpg' }],
+  }
+];
+
   return (
     <Container maxWidth="lg" component="main" sx={{ display: 'flex', flexDirection: 'column', my: 16, gap: 4 }}>
       <Typography variant="h2" gutterBottom>
-        Latest
+        {t("lates-page.title")}
       </Typography>
       <Grid container spacing={8} columns={12} sx={{ my: 4 }}>
         {articleInfo.map((article, index) => (
@@ -72,7 +113,6 @@ export default function Latest() {
               <StyledTypography variant="body2" color="text.secondary" gutterBottom>
                 {article.description}
               </StyledTypography>
-
               <Author authors={article.authors} />
             </Box>
           </Grid>

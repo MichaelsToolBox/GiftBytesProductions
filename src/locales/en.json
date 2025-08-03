@@ -8,9 +8,11 @@
       "testimonials": "Testimonials",
       "faq": "FAQ"
     },
-    "hero": {
-      "title": "Welcome to Our Application",
-      "subtitle": "Discover the amazing features we offer."
+    "hero-page": {
+      "subtitle": "We are a German-based creative development studio leveraging the latest technology to craft captivating and accessible video games, apps, and media experiences for everyone",
+      "gift": "Gift",
+      "bytes": "Bytes",
+      "productions": "Productions"
     },
     "download-page": {
       "title": "Download",
@@ -69,6 +71,55 @@
         {
           "title": "Cross-Device Compatibility",
           "description": "Enjoy a consistent and powerful experience whether you're on a desktop, tablet, or smartphone."
+        }
+      ]
+    },
+    "footer-page":{
+      "left-title": "Join our community",
+      "left-button": "Subscribe",
+      "policy": "Privacy Policy",
+      "terms": "Terms of service",
+      "copyright": "Copyright © ",
+      "giftbytes": "GiftBytesProductions"
+    },
+    "latest-page":{
+      "title": "Latest",
+      "article": [
+        {
+          "tag": "Projects",
+          "title": "New Project announcement",
+          "description": "We announce that our new project will be a free to play desktop video game that will be available on all operating systems and platforms",
+          "author": "Michael Schenk, Developer"
+        },
+        {
+          "tag": "Website",
+          "title": "New website",
+          "description": "We announce that our website is finally live and public",
+          "author": "Michael Schenk, Developer"
+        },
+        {
+          "tag": "Projects",
+          "title": "TouchSlider is live",
+          "description": "We announce that that our mobile video game TouchSlider is avaible for IOS And Android to download for free",
+          "author": "Michael Schenk, Developer"
+        },
+        {
+          "tag": "Company",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Developer"
+        },
+        {
+          "tag": "Engineering",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Developer"
+        },
+        {
+          "tag": "Product",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Developer"
         }
       ]
     }

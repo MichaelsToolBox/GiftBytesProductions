@@ -34,7 +34,7 @@ const Chip = styled(MuiChip)<ChipProps>(({ theme }) => ({
 interface MobileLayoutProps {
   selectedItemIndex: number;
   handleItemClick: (index: number) => void;
-  selectedFeature: any; // Use 'any' for simplicity with the translated object
+  selectedFeature: any;
 }
 
 export function MobileLayout({selectedItemIndex, handleItemClick, selectedFeature}: MobileLayoutProps) {
@@ -43,13 +43,7 @@ export function MobileLayout({selectedItemIndex, handleItemClick, selectedFeatur
   }
 
   return (
-    <Box
-      sx={{
-        display: { xs: 'flex', sm: 'none' },
-        flexDirection: 'column',
-        gap: 2,
-      }}
-    >
+    <Box sx={{display: { xs: 'flex', sm: 'none' }, flexDirection: 'column', gap: 2}}>
       <Box sx={{ display: 'flex', gap: 2, overflow: 'auto' }}>
         {selectedFeature.map(({ title }: {title: string}, index: number) => (
           <Chip
@@ -99,7 +93,7 @@ export function MobileLayout({selectedItemIndex, handleItemClick, selectedFeatur
 }
 
 export default function Features() {
-  const { t } = useTranslation(); // Call the hook INSIDE the component
+  const { t } = useTranslation();
   const [selectedItemIndex, setSelectedItemIndex] = React.useState(0);
 
   const items = [

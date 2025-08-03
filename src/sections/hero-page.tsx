@@ -3,8 +3,11 @@ import Typography from '@mui/material/Typography';
 import Container from '@mui/material/Container';
 import Stack from '@mui/material/Stack';
 import Box from '@mui/material/Box';
+import { useTranslation } from 'react-i18next';
 
 export default function Hero() {
+  const { t } = useTranslation()
+
   return (
     <Box
       id="hero"
@@ -19,15 +22,7 @@ export default function Hero() {
         }),
       })}
     >
-      <Container
-        sx={{
-          display: 'flex',
-          flexDirection: 'column',
-          alignItems: 'center',
-          pt: { xs: 14, sm: 20 },
-          pb: { xs: 8, sm: 12 },
-        }}
-      >
+      <Container sx={{display: 'flex', flexDirection: 'column', alignItems: 'center', pt: { xs: 14, sm: 20 }, pb: { xs: 8, sm: 12 }}}>
         <Stack
           spacing={2}
           useFlexGap
@@ -42,7 +37,7 @@ export default function Hero() {
               fontSize: 'clamp(3rem, 10vw, 3.5rem)',
             }}
           >
-            Gift&nbsp;Bytes&nbsp;
+            {t("hero-page.gift")}&nbsp;{t("hero-page.bytes")}&nbsp;
             <Typography
               component="span"
               variant="h1"
@@ -54,17 +49,11 @@ export default function Hero() {
                 }),
               })}
             >
-              Productions
+              {t("hero-page.productions")}
             </Typography>
           </Typography>
-          <Typography
-            sx={{
-              textAlign: 'center',
-              color: 'text.secondary',
-              width: { sm: '100%', md: '80%' },
-            }}
-          >
-            We are a German-based creative development studio leveraging the latest technology to craft captivating and accessible video games, apps, and media experiences for everyone
+          <Typography sx={{ textAlign: 'center', color: 'text.secondary', width: { sm: '100%', md: '80%' }}}>
+            {t("hero-page.subtitle")}
           </Typography>
         </Stack>
         <StyledBox id="image" />
