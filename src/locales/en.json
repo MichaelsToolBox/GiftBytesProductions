@@ -53,6 +53,24 @@
       "description2": "Our product distinguishes itself through its adaptability, durability, and innovative features. We prioritize user satisfaction and continually strive to exceed expectations in every aspect",
       "subtitle3": "How can I support GiftBytesProductions ?",
       "description3": "You are helping us already by just trying out our projects and recommending it. Otherwise you can subscribe to our youtube channel and engage with the community. For additional support you also donate us directly through PayPal"
+    },
+    "feature-page": {
+      "title": "Features",
+      "subheader": "Explore the powerful features that make our application stand out.",
+      "items": [
+        {
+          "title": "Mobile-First Design",
+          "description": "Our app is designed with a mobile-first approach, ensuring a seamless experience on any device."
+        },
+        {
+          "title": "Intuitive Dashboard",
+          "description": "A clean and organized dashboard that gives you a complete overview at a glance."
+        },
+        {
+          "title": "Cross-Device Compatibility",
+          "description": "Enjoy a consistent and powerful experience whether you're on a desktop, tablet, or smartphone."
+        }
+      ]
     }
   }
 }

@@ -1,49 +1,76 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "Projects",
-      "principles": "Principles",
-      "download": "Download",
-      "latest": "Latest",
-      "testimonials": "Testimonials",
-      "faq": "FAQ"
+      "projects": "Proyectos",
+      "principles": "Principios",
+      "download": "Descargar",
+      "latest": "Últimos",
+      "testimonials": "Testimonios",
+      "faq": "Preguntas Frecuentes"
     },
     "hero": {
-      "title": "Welcome to Our Application",
-      "subtitle": "Discover the amazing features we offer."
+      "title": "Bienvenido a Nuestra Aplicación",
+      "subtitle": "Descubre las increíbles características que ofrecemos."
     },
     "download-page": {
-      "title": "Download",
-      "subtitle": "Here you can download and view our projects"
+      "title": "Descargar",
+      "subtitle": "Aquí puedes descargar y ver nuestros proyectos"
     },
-    "tiers":{
-      "title1": "Dev Logs",
-      "price1":" Free",
-      "subheader1": "Available",
-      "description10": "Studio-quality video production",
-      "description11": "Deep dives into our code and design",
-      "description12": "Direct interaction with our developers",
-      "description13": "Accessible worldwide on YouTube",
-      "buttontext1": "Free Sub",
+    "tiers": {
+      "title1": "Registros de Desarrollo",
+      "price1": "Gratis",
+      "subheader1": "Disponible",
+      "description10": "Producción de video con calidad de estudio",
+      "description11": "Análisis profundos de nuestro código y diseño",
+      "description12": "Interacción directa con nuestros desarrolladores",
+      "description13": "Accesible en todo el mundo en YouTube",
+      "buttontext1": "Suscripción Gratuita",
       "title2": "TouchSlider",
-      "price2": "Free",
-      "subheader2": "Recommended",
-      "description20": "Available on IOS and Android'",
-      "description21": "Free to play with no hidden cost",
-      "description22": "Supports old mobile devices",
-      "description23": "Simple game for any time and day",
-      "description24": "Presented in dev logs",
-      "description25": "Support",
-      "buttontext21": "Download IOS",
-      "buttontext22": "Download Android",
-      "title3": "Upcoming project",
-      "price3": "Free",
-      "subheader3": "In progress",
-      "description30": "Available for Windows, Macos and Linux",
-      "description31": "Distribution through Steam and Apple Store",
-      "description32": "Accessible in various languages",
-      "description33": "Support",
-      "buttontext3": "To be announced"
+      "price2": "Gratis",
+      "subheader2": "Recomendado",
+      "description20": "Disponible en IOS y Android",
+      "description21": "Juego gratuito sin costos ocultos",
+      "description22": "Compatible con dispositivos móviles antiguos",
+      "description23": "Juego simple para cualquier momento y día",
+      "description24": "Presentado en los registros de desarrollo",
+      "description25": "Soporte",
+      "buttontext21": "Descargar IOS",
+      "buttontext22": "Descargar Android",
+      "title3": "Próximo proyecto",
+      "price3": "Gratis",
+      "subheader3": "En progreso",
+      "description30": "Disponible para Windows, MacOS y Linux",
+      "description31": "Distribución a través de Steam y Apple Store",
+      "description32": "Accesible en varios idiomas",
+      "description33": "Soporte",
+      "buttontext3": "Próximamente"
+    },
+    "faq": {
+      "title": "Preguntas frecuentes",
+      "subtitle1": "¿Cómo contacto al soporte al cliente si tengo una pregunta o problema?",
+      "description1": "Puedes contactar a nuestro equipo de soporte al cliente enviando un correo electrónico a: ",
+      "subtitle2": "¿Qué hace que su producto se destaque de otros en el mercado?",
+      "description2": "Nuestro producto se distingue por su adaptabilidad, durabilidad y características innovadoras. Priorizamos la satisfacción del usuario y nos esforzamos continuamente por superar las expectativas en todos los aspectos.",
+      "subtitle3": "¿Cómo puedo apoyar a GiftBytesProductions?",
+      "description3": "Ya nos estás ayudando simplemente probando nuestros proyectos y recomendándolos. Además, puedes suscribirte a nuestro canal de YouTube e interactuar con la comunidad. Para un apoyo adicional, también puedes donarnos directamente a través de PayPal."
+    },
+    "feature-page": {
+      "title": "Características",
+      "subheader": "Explora las potentes características que hacen que nuestra aplicación se destaque.",
+      "items": [
+        {
+          "title": "Diseño Móvil Primero",
+          "description": "Nuestra aplicación está diseñada con un enfoque móvil primero, asegurando una experiencia fluida en cualquier dispositivo."
+        },
+        {
+          "title": "Panel de Control Intuitivo",
+          "description": "Un panel de control limpio y organizado que te ofrece una visión completa de un vistazo."
+        },
+        {
+          "title": "Compatibilidad Multi-Dispositivo",
+          "description": "Disfruta de una experiencia consistente y potente ya sea en una computadora, tableta o smartphone."
+        }
+      ]
     }
   }
 }

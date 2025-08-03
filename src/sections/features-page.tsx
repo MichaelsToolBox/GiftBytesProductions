@@ -3,36 +3,13 @@ import ViewQuiltRoundedIcon from '@mui/icons-material/ViewQuiltRounded';
 import DevicesRoundedIcon from '@mui/icons-material/DevicesRounded';
 import Typography from '@mui/material/Typography';
 import Container from '@mui/material/Container';
+import { useTranslation } from 'react-i18next';
 import { styled } from '@mui/material/styles';
 import Button from '@mui/material/Button';
 import MuiChip from '@mui/material/Chip';
 import Card from '@mui/material/Card';
 import Box from '@mui/material/Box';
 import * as React from 'react';
-
-const items = [
-  {
-    icon: <EdgesensorHighRoundedIcon />,
-    title: 'TouchSlider',
-    description: 'Our first mobile video game available for Android and IOS',
-    imageLight: `url("${process.env.TEMPLATE_IMAGE_URL || 'https://mui.com'}/static/images/templates/templates-images/mobile-light.png")`,
-    imageDark: `url("${process.env.TEMPLATE_IMAGE_URL || 'https://mui.com'}/static/images/templates/templates-images/mobile-dark.png")`,
-  },
-  {
-    icon: <ViewQuiltRoundedIcon />,
-    title: 'Dev Log Series',
-    description: 'Our YouTube channel is your all-access pass to our development process, featuring in-depth dev logs, project showcases, and insights from the team',
-    imageLight: `url("${process.env.TEMPLATE_IMAGE_URL || 'https://mui.com'}/static/images/templates/templates-images/dash-light.png")`,
-    imageDark: `url("${process.env.TEMPLATE_IMAGE_URL || 'https://mui.com'}/static/images/templates/templates-images/dash-dark.png")`,
-  },
-  {
-    icon: <DevicesRoundedIcon />,
-    title: 'Current project',
-    description: 'A free desktop video game that will be available for Windows, MacOS and Linux and distributed through various services and platforms',
-    imageLight: `url("${process.env.TEMPLATE_IMAGE_URL || 'https://mui.com'}/static/images/templates/templates-images/devices-light.png")`,
-    imageDark: `url("${process.env.TEMPLATE_IMAGE_URL || 'https://mui.com'}/static/images/templates/templates-images/devices-dark.png")`,
-  },
-];
 
 interface ChipProps {
   selected?: boolean;
@@ -57,15 +34,11 @@ const Chip = styled(MuiChip)<ChipProps>(({ theme }) => ({
 interface MobileLayoutProps {
   selectedItemIndex: number;
   handleItemClick: (index: number) => void;
-  selectedFeature: (typeof items)[0];
+  selectedFeature: any; // Use 'any' for simplicity with the translated object
 }
 
-export function MobileLayout({
-  selectedItemIndex,
-  handleItemClick,
-  selectedFeature,
-}: MobileLayoutProps) {
-  if (!items[selectedItemIndex]) {
+export function MobileLayout({selectedItemIndex, handleItemClick, selectedFeature}: MobileLayoutProps) {
+  if (!selectedFeature) {
     return null;
   }
 
@@ -78,7 +51,7 @@ export function MobileLayout({
       }}
     >
       <Box sx={{ display: 'flex', gap: 2, overflow: 'auto' }}>
-        {items.map(({ title }, index) => (
+        {selectedFeature.map(({ title }: {title: string}, index: number) => (
           <Chip
             size="medium"
             key={index}
@@ -101,10 +74,10 @@ export function MobileLayout({
             }),
           })}
           style={
-            items[selectedItemIndex]
+            selectedFeature[selectedItemIndex]
               ? ({
-                  '--items-imageLight': items[selectedItemIndex].imageLight,
-                  '--items-imageDark': items[selectedItemIndex].imageDark,
+                  '--items-imageLight': selectedFeature[selectedItemIndex].imageLight,
+                  '--items-imageDark': selectedFeature[selectedItemIndex].imageDark,
                 } as any)
               : {}
           }
@@ -114,10 +87,10 @@ export function MobileLayout({
             gutterBottom
             sx={{ color: 'text.primary', fontWeight: 'medium' }}
           >
-            {selectedFeature.title}
+            {selectedFeature[selectedItemIndex].title}
           </Typography>
           <Typography variant="body2" sx={{ color: 'text.secondary', mb: 1.5 }}>
-            {selectedFeature.description}
+            {selectedFeature[selectedItemIndex].description}
           </Typography>
         </Box>
       </Card>
@@ -125,34 +98,55 @@ export function MobileLayout({
   );
 }
 
-export default function Projects() {
+export default function Features() {
+  const { t } = useTranslation(); // Call the hook INSIDE the component
   const [selectedItemIndex, setSelectedItemIndex] = React.useState(0);
+
+  const items = [
+    {
+      icon: <EdgesensorHighRoundedIcon />,
+      title: t("feature-page.items.0.title"),
+      description: t("feature-page.items.0.description"),
+      imageLight: `url("${process.env.TEMPLATE_IMAGE_URL || 'https://mui.com'}/static/images/templates/templates-images/mobile-light.png")`,
+      imageDark: `url("${process.env.TEMPLATE_IMAGE_URL || 'https://mui.com'}/static/images/templates/templates-images/mobile-dark.png")`,
+    },
+    {
+      icon: <ViewQuiltRoundedIcon />,
+      title: t("feature-page.items.1.title"),
+      description: t("feature-page.items.1.description"),
+      imageLight: `url("${process.env.TEMPLATE_IMAGE_URL || 'https://mui.com'}/static/images/templates/templates-images/dash-light.png")`,
+      imageDark: `url("${process.env.TEMPLATE_IMAGE_URL || 'https://mui.com'}/static/images/templates/templates-images/dash-dark.png")`,
+    },
+    {
+      icon: <DevicesRoundedIcon />,
+      title: t("feature-page.items.2.title"),
+      description: t("feature-page.items.2.description"),
+      imageLight: `url("${process.env.TEMPLATE_IMAGE_URL || 'https://mui.com'}/static/images/templates/templates-images/devices-light.png")`,
+      imageDark: `url("${process.env.TEMPLATE_IMAGE_URL || 'https://mui.com'}/static/images/templates/templates-images/devices-dark.png")`,
+    },
+  ];
 
   const handleItemClick = (index: number) => {
     setSelectedItemIndex(index);
   };
 
-  const selectedFeature = items[selectedItemIndex];
-
   return (
-    <Container id="projects" sx={{ py: { xs: 8, sm: 16 } }}>
+    <Container id="features" sx={{ py: { xs: 8, sm: 16 } }}>
       <Box sx={{ width: { sm: '100%', md: '60%' } }}>
-        <Box sx={{ width: { sm: '100%', md: '60%' } }}>
         <Typography
           component="h2"
           variant="h4"
           gutterBottom
           sx={{ color: 'text.primary' }}
         >
-          Our Work
+          {t("feature-page.title")}
         </Typography>
         <Typography
           variant="body1"
           sx={{ color: 'text.secondary', mb: { xs: 2, sm: 4 } }}
         >
-          Here you can explore our finished projects, follow our creative journey and get a sneak peek at upcoming projects.
+          {t("feature-page.subheader")}
         </Typography>
-      </Box>
       </Box>
       <Box
         sx={{
@@ -207,7 +201,6 @@ export default function Projects() {
                   ]}
                 >
                   {icon}
-
                   <Typography variant="h6">{title}</Typography>
                   <Typography variant="body2">{description}</Typography>
                 </Box>
@@ -217,7 +210,7 @@ export default function Projects() {
           <MobileLayout
             selectedItemIndex={selectedItemIndex}
             handleItemClick={handleItemClick}
-            selectedFeature={selectedFeature}
+            selectedFeature={items}
           />
         </div>
         <Box
