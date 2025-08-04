@@ -1,0 +1,198 @@
+{
+  "translation": {
+    "app-bar": {
+      "projects": "Projekty",
+      "principles": "Zasady",
+      "download": "Pobierz",
+      "latest": "Najnowsze",
+      "testimonials": "Opinie",
+      "faq": "FAQ"
+    },
+    "hero-page": {
+      "subtitle": "Jesteśmy kreatywnym studiem deweloperskim z siedzibą w Niemczech, które wykorzystuje najnowszą technologię do tworzenia wciągających i dostępnych gier wideo, aplikacji i doświadczeń medialnych dla wszystkich.",
+      "gift": "Gift",
+      "bytes": "Bytes",
+      "productions": "Productions"
+    },
+    "download-page": {
+      "title": "Pobierz",
+      "subtitle": "Tutaj możesz pobrać i zobaczyć nasze projekty"
+    },
+    "tiers": {
+      "title1": "Dzienniki deweloperskie",
+      "price1": "Bezpłatnie",
+      "subheader1": "Dostępne",
+      "description10": "Produkcja wideo w jakości studyjnej",
+      "description11": "Głębokie zanurzenie w nasz kod i projekt",
+      "description12": "Bezpośrednia interakcja z naszymi deweloperami",
+      "description13": "Dostępne na całym świecie na YouTube",
+      "buttontext1": "Darmowa subskrypcja",
+      "title2": "TouchSlider",
+      "price2": "Bezpłatnie",
+      "subheader2": "Polecane",
+      "description20": "Dostępne na IOS i Androida",
+      "description21": "Darmowa gra bez ukrytych kosztów",
+      "description22": "Obsługuje starsze urządzenia mobilne",
+      "description23": "Prosta gra na każdą porę i dzień",
+      "description24": "Prezentowane w dziennikach deweloperskich",
+      "description25": "Wsparcie",
+      "buttontext21": "Pobierz IOS",
+      "buttontext22": "Pobierz Androida",
+      "title3": "Nadchodzący projekt",
+      "price3": "Bezpłatnie",
+      "subheader3": "W toku",
+      "description30": "Dostępne dla systemów Windows, MacOS i Linux",
+      "description31": "Dystrybucja za pośrednictwem Steam i Apple Store",
+      "description32": "Dostępne w różnych językach",
+      "description33": "Wsparcie",
+      "buttontext3": "Zostanie ogłoszone"
+    },
+    "faq": {
+      "title": "Często zadawane pytania",
+      "subtitle1": "Jak skontaktować się z obsługą klienta, jeśli mam pytanie lub problem?",
+      "description1": "Możesz skontaktować się z naszym zespołem obsługi klienta, wysyłając wiadomość e-mail na adres: ",
+      "subtitle2": "Co wyróżnia wasz produkt na tle innych na rynku?",
+      "description2": "Nasz produkt wyróżnia się zdolnością adaptacji, trwałością i innowacyjnymi funkcjami. Priorytetem jest dla nas zadowolenie użytkowników i nieustannie dążymy do przekraczania oczekiwań w każdym aspekcie.",
+      "subtitle3": "Jak mogę wesprzeć GiftBytesProductions?",
+      "description3": "Już nam pomagasz, po prostu wypróbowując nasze projekty i polecając je. W przeciwnym razie możesz zasubskrybować nasz kanał na YouTube i zaangażować się w społeczność. Aby uzyskać dodatkowe wsparcie, możesz również przekazać nam darowiznę bezpośrednio przez PayPal."
+    },
+    "feature-page": {
+      "title": "Funkcje",
+      "subheader": "Odkryj potężne funkcje, które wyróżniają naszą aplikację.",
+      "items": [
+        {
+          "title": "Projektowanie z myślą o urządzeniach mobilnych",
+          "description": "Nasza aplikacja została zaprojektowana z myślą o urządzeniach mobilnych, zapewniając płynne działanie na każdym urządzeniu."
+        },
+        {
+          "title": "Intuicyjny pulpit nawigacyjny",
+          "description": "Przejrzysty i zorganizowany pulpit nawigacyjny, który daje pełny przegląd na pierwszy rzut oka."
+        },
+        {
+          "title": "Zgodność z wieloma urządzeniami",
+          "description": "Ciesz się spójnym i potężnym doświadczeniem, niezależnie od tego, czy korzystasz z komputera stacjonarnego, tabletu czy smartfona."
+        }
+      ]
+    },
+    "footer-page": {
+      "left-title": "Dołącz do naszej społeczności",
+      "left-button": "Subskrybuj",
+      "policy": "Polityka prywatności",
+      "terms": "Warunki korzystania z usługi",
+      "copyright": "Prawa autorskie © ",
+      "giftbytes": "GiftBytesProductions"
+    },
+    "latest-page": {
+      "title": "Najnowsze",
+      "article": [
+        {
+          "tag": "Projekty",
+          "title": "Ogłoszenie nowego projektu",
+          "description": "Ogłaszamy, że nasz nowy projekt będzie darmową grą wideo na komputery stacjonarne, która będzie dostępna na wszystkich systemach operacyjnych i platformach.",
+          "author": "Michael Schenk, Deweloper"
+        },
+        {
+          "tag": "Strona internetowa",
+          "title": "Nowa strona internetowa",
+          "description": "Ogłaszamy, że nasza strona internetowa jest wreszcie dostępna i publiczna.",
+          "author": "Michael Schenk, Deweloper"
+        },
+        {
+          "tag": "Projekty",
+          "title": "TouchSlider jest dostępny",
+          "description": "Ogłaszamy, że nasza mobilna gra wideo TouchSlider jest dostępna do bezpłatnego pobrania na IOS i Androida.",
+          "author": "Michael Schenk, Deweloper"
+        },
+        {
+          "tag": "Firma",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Deweloper"
+        },
+        {
+          "tag": "Inżynieria",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Deweloper"
+        },
+        {
+          "tag": "Produkt",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Deweloper"
+        }
+      ]
+    },
+    "principles-page": {
+      "title": "Nasze zasady",
+      "subheader": "Te wartości leżą u podstaw wszystkiego, co tworzymy, od pierwszej linijki kodu po ostateczne doświadczenie użytkownika.",
+      "items": [
+        {
+          "title": "Dostępne wszędzie",
+          "description": "Wierzymy, że świetne oprogramowanie powinno działać dla każdego, na każdym urządzeniu. Nasze projekty są starannie opracowane pod kątem zgodności z wieloma platformami i dostępności od samego początku."
+        },
+        {
+          "title": "Dopracowane i wydajne",
+          "description": "Dostarczamy kompletne i wysoce zoptymalizowane doświadczenia. Nasze skupienie na czystej architekturze i rygorystycznych testach zapewnia, że każdy produkt jest stabilny, wydajny i gotowy do użytku od pierwszego dnia."
+        },
+        {
+          "title": "Intuicyjny design",
+          "description": "Wierzymy, że potężne oprogramowanie nie musi być skomplikowane. Naszą pasją jest tworzenie przejrzystych, intuicyjnych interfejsów, które sprawiają, że każda interakcja jest prosta i przyjemna."
+        },
+        {
+          "title": "Napędzane innowacją",
+          "description": "Budujemy z myślą o przyszłości. Wykorzystując najnowsze technologie oprogramowania i sprzętu, tworzymy przyszłościowe produkty z potężną, najnowocześniejszą funkcjonalnością."
+        },
+        {
+          "title": "Dedykowane wsparcie",
+          "description": "Nasza relacja nie kończy się na pobraniu. Zapewniamy przyjazne, responsywne wsparcie bezpośrednio od naszego zespołu, aby zapewnić Ci zawsze wspaniałe doświadczenie z naszymi produktami."
+        },
+        {
+          "title": "Skrupulatne rzemiosło",
+          "description": "Wierzymy, że doskonałość tkwi w szczegółach. Od pierwszej koncepcji po ostatnią linijkę kodu, każdy element naszej pracy jest starannie zaplanowany i precyzyjnie wykonany, aby uzyskać bezbłędny produkt końcowy."
+        }
+      ]
+    },
+    "testimonials-page": {
+      "title": "Opinie",
+      "subheader": "Zobacz, co nasi klienci, deweloperzy i testerzy uwielbiają w naszych produktach.",
+      "testimonial": [
+        {
+          "name": "Michael Schenk",
+          "occupation": "Deweloper",
+          "testimonial": "Absolutnie uwielbiam, jak wszechstronny jest ten produkt! Niezależnie od tego, czy zajmuję się projektami zawodowymi, czy oddaję się ulubionym hobby, bezproblemowo dostosowuje się do moich zmieniających się potrzeb. Jego intuicyjny design naprawdę ulepszył moją codzienną rutynę, czyniąc zadania bardziej wydajnymi i przyjemnymi."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Deweloper",
+          "testimonial": "Jedną z wyróżniających się cech tego produktu jest wyjątkowa obsługa klienta. Z mojego doświadczenia wynika, że zespół stojący za tym produktem szybko reagował i był niezwykle pomocny. Uspokajające jest wiedzieć, że mocno stoją za swoim produktem."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Deweloper",
+          "testimonial": "Poziom prostoty i łatwości obsługi tego produktu znacznie uprościł moje życie. Doceniam twórców za dostarczenie rozwiązania, które nie tylko spełnia, ale i przekracza oczekiwania użytkowników."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Deweloper",
+          "testimonial": "Doceniam dbałość o szczegóły w projekcie tego produktu. Małe detale robią dużą różnicę i widać, że twórcy skupili się na dostarczeniu doświadczenia premium."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Deweloper",
+          "testimonial": "Próbowałem innych podobnych produktów, ale ten wyróżnia się innowacyjnymi funkcjami. Jasne jest, że twórcy włożyli wiele wysiłku w stworzenie rozwiązania, które naprawdę odpowiada potrzebom użytkowników."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Deweloper",
+          "testimonial": "Jakość tego produktu przerosła moje oczekiwania. Jest trwały, dobrze zaprojektowany i zbudowany, aby służyć przez długi czas. Zdecydowanie wart inwestycji."
+        }
+      ]
+    },
+    "mode": {
+      "system": "System",
+      "light": "Jasny",
+      "dark": "Ciemny"
+    }
+  }
+}
