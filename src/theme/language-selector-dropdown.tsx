@@ -100,7 +100,7 @@ export default function LanguageSelectorDropdown(props: LanguageSelectorDropdown
             sx: {
               my: '4px',
               minWidth: '300px',
-              maxHeight: 400,
+              maxHeight: 500,
               padding: 1,
             },
           },
