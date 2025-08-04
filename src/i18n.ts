@@ -75,7 +75,7 @@ import sr from './locales/sr.json'; // Missing Serbian
 // import sn from './locales/sn.json'; // Missing Shona
 // import sd from './locales/sd.json'; // Missing Sindhi
 // import si from './locales/si.json'; // Missing Sinhala
-// import sk from './locales/sk.json'; // Missing Slovak
+import sk from './locales/sk.json'; // Missing Slovak
 import sl from './locales/sl.json'; // Missing Slovenian
 // import so from './locales/so.json'; // Missing Somali
 import es from './locales/es.json';
@@ -86,7 +86,7 @@ import es from './locales/es.json';
 // import ta from './locales/ta.json'; // Missing Tamil
 // import tt from './locales/tt.json'; // Missing Tatar
 // import te from './locales/te.json'; // Missing Telugu
-// import th from './locales/th.json'; // Missing Thai
+import th from './locales/th.json'; // Missing Thai
 // import bo from './locales/bo.json'; // Missing Tibetan
 import tr from './locales/tr.json'; // Missing Turkish
 // import tk from './locales/tk.json'; // Missing Turkmen
@@ -116,13 +116,16 @@ i18n
       pl, pt,
       // pa, qu,
       ro, ru, sm, sr, 
-      // sn, sd, si, sk, 
+      // sn, sd, si, 
+      sk, 
       sl,
       // so, 
       es, 
       // su, sw, 
       sv, 
-      // tg, ta, tt, te, th, bo, 
+      // tg, ta, tt, te, 
+      th,
+      //  bo, 
       tr, 
       // tk, 
       uk, 
