@@ -1,0 +1,198 @@
+{
+  "translation": {
+    "app-bar": {
+      "projects": "Àwọn Iṣẹ́",
+      "principles": "Àwọn Ìlànà",
+      "download": "Gbigba lati ayelujara",
+      "latest": "Tuntun",
+      "testimonials": "Àwọn Ẹ̀rí",
+      "faq": "FAQ"
+    },
+    "hero-page": {
+      "subtitle": "A jẹ́ ilé-iṣẹ́ ìdàgbàsókè oníṣẹ́ ọnà tí ó wà ní Jámánì tí ó ń lo ìmọ̀-ẹ̀rọ tuntun láti ṣẹ̀dá àwọn eré fídíò, àwọn ìṣàfilọ́lẹ̀, àti àwọn ìrírí oníròyìn tí ó fani mọ́ra àti tí ó rọrùn fún gbogbo ènìyàn.",
+      "gift": "Gift",
+      "bytes": "Bytes",
+      "productions": "Productions"
+    },
+    "download-page": {
+      "title": "Gbigba lati ayelujara",
+      "subtitle": "Níhìn-ín ni o ti lè gba àwọn iṣẹ́ wa lati ayelujara àti wò wọ́n"
+    },
+    "tiers": {
+      "title1": "Àwọn Àkọsílẹ̀ Oníṣẹ́",
+      "price1": "Ọ̀fẹ́",
+      "subheader1": "Wà nílẹ̀",
+      "description10": "Ìṣelọ́pọ̀ fídíò tí ó ní ìpele ilé-iṣẹ́",
+      "description11": "Ìwádìí jíjinlẹ̀ sínú koodu àti àpẹẹrẹ wa",
+      "description12": "Ìbáraẹnisọ̀rọ̀ tààrà pẹ̀lú àwọn oníṣẹ́ wa",
+      "description13": "Wà nílẹ̀ káríayé lórí YouTube",
+      "buttontext1": "Ìforúkọsílẹ̀ Ọ̀fẹ́",
+      "title2": "TouchSlider",
+      "price2": "Ọ̀fẹ́",
+      "subheader2": "A dámọ̀ràn",
+      "description20": "Wà nílẹ̀ lórí IOS àti Android",
+      "description21": "Ọ̀fẹ́ láti ṣeré láìsí owó ìpamọ́",
+      "description22": "Ó ń ṣètìlẹ́yìn fún àwọn ẹ̀rọ alágbèéká àtijọ́",
+      "description23": "Eré tí ó rọrùn fún àkókò àti ọjọ́kọ́jọ́",
+      "description24": "A ṣe àfihàn nínú àwọn àkọsílẹ̀ oníṣẹ́",
+      "description25": "Ìtìlẹ́yìn",
+      "buttontext21": "Gba IOS lati ayelujara",
+      "buttontext22": "Gba Android lati ayelujara",
+      "title3": "Iṣẹ́ tí ó ń bọ̀",
+      "price3": "Ọ̀fẹ́",
+      "subheader3": "Ní ìlọsíwájú",
+      "description30": "Wà nílẹ̀ fún Windows, Macos àti Linux",
+      "description31": "Pínpín nípasẹ̀ Steam àti Apple Store",
+      "description32": "Wà nílẹ̀ ní àwọn èdè oríṣiríṣi",
+      "description33": "Ìtìlẹ́yìn",
+      "buttontext3": "A óò kéde"
+    },
+    "faq": {
+      "title": "Àwọn Ìbéèrè Tí A Ń Béèrè Nígbà Gbogbo",
+      "subtitle1": "Báwo ni mo ṣe lè kan sí ìtìlẹ́yìn oníbàárà bí mo bá ní ìbéèrè tàbí ìṣòro?",
+      "description1": "O lè kan sí ẹgbẹ́ ìtìlẹ́yìn oníbàárà wa nípa ríránṣẹ́ sí: ",
+      "subtitle2": "Kí ni ó jẹ́ kí ọjà yín yàtọ̀ sí àwọn mìíràn ní ọjà?",
+      "description2": "Ọjà wa yàtọ̀ nípasẹ̀ ìbámu, ìfaradà, àti àwọn àbùdá tuntun rẹ̀. A fi ààyè àkọ́kọ́ fún ìtẹ́lọ́rùn oníṣe àti pé a ń sapá nígbà gbogbo láti kọjá ohun tí a retí ní gbogbo ọ̀nà.",
+      "subtitle3": "Báwo ni mo ṣe lè ṣètìlẹ́yìn fún GiftBytesProductions?",
+      "description3": "O ti ń ràn wá lọ́wọ́ tẹ́lẹ̀ nípa gbígbìyànjú àwọn iṣẹ́ wa àti dídámọ̀ràn rẹ̀. Bíbẹ́ẹ̀kọ́, o lè forúkọsílẹ̀ sí ìkànnì YouTube wa àti bá àwùjọ sọ̀rọ̀. Fún ìtìlẹ́yìn àfikún, o tún lè ṣètọrẹ fún wa tààrà nípasẹ̀ PayPal."
+    },
+    "feature-page": {
+      "title": "Àwọn Àbùdá",
+      "subheader": "Ṣàwárí àwọn àbùdá alágbára tí ó jẹ́ kí ìṣàfilọ́lẹ̀ wa yàtọ̀.",
+      "items": [
+        {
+          "title": "Àpẹẹrẹ Alágbèéká-Ní-Àkọ́kọ́",
+          "description": "A ṣe àpẹẹrẹ ìṣàfilọ́lẹ̀ wa pẹ̀lú ọ̀nà alágbèéká-ní-àkọ́kọ́, ní dídámọ̀ pé ìrírí yóò rọrùn lórí ẹ̀rọ èyíkéyìí."
+        },
+        {
+          "title": "Ojú-iṣẹ́ Tí ó Rọrùn",
+          "description": "Ojú-iṣẹ́ tí ó mọ́ àti tí a ṣètò tí ó fún ọ ní àkópọ̀ pípé ní ìwò kan."
+        },
+        {
+          "title": "Ìbámu Kọjá Ẹ̀rọ",
+          "description": "Gbádùn ìrírí tí ó dúró ṣinṣin àti alágbára bóyá o wà lórí kọ̀ǹpútà, tábìlì, tàbí fóònù."
+        }
+      ]
+    },
+    "footer-page": {
+      "left-title": "Darapọ̀ mọ́ àwùjọ wa",
+      "left-button": "Forúkọsílẹ̀",
+      "policy": "Ìlànà Àṣírí",
+      "terms": "Àwọn Òfin Iṣẹ́",
+      "copyright": "Aṣẹ-ìwé © ",
+      "giftbytes": "GiftBytesProductions"
+    },
+    "latest-page": {
+      "title": "Tuntun",
+      "article": [
+        {
+          "tag": "Àwọn Iṣẹ́",
+          "title": "Ìkéde Iṣẹ́ Tuntun",
+          "description": "A kéde pé iṣẹ́ tuntun wa yóò jẹ́ eré fídíò orí kọ̀ǹpútà ọ̀fẹ́ tí yóò wà nílẹ̀ lórí gbogbo ètò ìṣiṣẹ́ àti pèpéle.",
+          "author": "Michael Schenk, Oníṣẹ́"
+        },
+        {
+          "tag": "Ojúlé-wẹ́ẹ̀bù",
+          "title": "Ojúlé-wẹ́ẹ̀bù Tuntun",
+          "description": "A kéde pé ojúlé-wẹ́ẹ̀bù wa ti wà lórí ayélujára àti fún gbogbo ènìyàn.",
+          "author": "Michael Schenk, Oníṣẹ́"
+        },
+        {
+          "tag": "Àwọn Iṣẹ́",
+          "title": "TouchSlider ti wà lórí ayélujára",
+          "description": "A kéde pé eré fídíò alágbèéká wa TouchSlider wà nílẹ̀ fún gbígbà lati ayelujara ọ̀fẹ́ lórí IOS àti Android.",
+          "author": "Michael Schenk, Oníṣẹ́"
+        },
+        {
+          "tag": "Ilé-iṣẹ́",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Oníṣẹ́"
+        },
+        {
+          "tag": "Imọ-ẹrọ",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Oníṣẹ́"
+        },
+        {
+          "tag": "Ọjà",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Oníṣẹ́"
+        }
+      ]
+    },
+    "principles-page": {
+      "title": "Àwọn Ìlànà Wa",
+      "subheader": "Àwọn iye wọ̀nyí wà ní ọkàn gbogbo ohun tí a kọ́, láti ìlà koodu àkọ́kọ́ dé ìrírí oníṣe ìkẹyìn.",
+      "items": [
+        {
+          "title": "Wà Nílẹ̀ Níbikíbi",
+          "description": "A gbàgbọ́ pé sọ́fítíwẹ̀à rere gbọ́dọ̀ ṣiṣẹ́ fún gbogbo ènìyàn, lórí ẹ̀rọ èyíkéyìí. A ṣe àwọn iṣẹ́ wa pẹ̀lú ìṣọ́ra fún ìbámu kọjá pèpéle àti wíwà nílẹ̀ láti ìbẹ̀rẹ̀."
+        },
+        {
+          "title": "Dídán & Ṣiṣẹ́ Daradara",
+          "description": "A pèsè àwọn ìrírí pípé àti tí a mú dáradára. Ìfojúsí wa lórí ìkọ́lé mímọ́ àti ìdánwò líle jẹ́ kí a mọ̀ pé gbogbo ọjà jẹ́ ìdúróṣinṣin, ṣiṣẹ́ dáradára, àti pé ó ṣeé gbádùn láti ọjọ́ àkọ́kọ́."
+        },
+        {
+          "title": "Àpẹẹrẹ Tí ó Rọrùn",
+          "description": "A gbàgbọ́ pé sọ́fítíwẹ̀à alágbára kò gbọ́dọ̀ díjú. Ifẹ́ wa wà nínú ṣíṣẹ̀dá àwọn ojú-iṣẹ́ mímọ́, tí ó rọrùn tí ó jẹ́ kí gbogbo ìbáraẹnisọ̀rọ̀ jẹ́ tààrà àti adùn."
+        },
+        {
+          "title": "Agbára Nípasẹ̀ Ìdàgbàsókè",
+          "description": "A kọ́ pẹ̀lú ọjọ́-ọ̀la ní ọkàn. Nípa lílo ìmọ̀-ẹ̀rọ sọ́fítíwẹ̀à àti ohun èlò tuntun, a ṣẹ̀dá àwọn ọjà tí ó ronú síwájú pẹ̀lú iṣẹ́ alágbára, tí ó ga jùlọ."
+        },
+        {
+          "title": "Ìtìlẹ́yìn Pàtàkì",
+          "description": "Ìbáṣepọ̀ wa kò parí níbi gbígbà lati ayelujara. A pèsè ìtìlẹ́yìn ọlọ́rẹ, tí ó yára tààrà láti ọ̀dọ̀ ẹgbẹ́ wa láti rí i dájú pé o ní ìrírí rere pẹ̀lú àwọn ọjà wa, nígbà gbogbo."
+        },
+        {
+          "title": "Iṣẹ́-ọnà Pẹ̀lú Ìṣọ́ra",
+          "description": "A gbàgbọ́ pé pípé wà nínú àwọn kúlẹ̀kúlẹ̀. Láti èrò àkọ́kọ́ dé ìlà koodu ìkẹyìn, gbogbo apá iṣẹ́ wa ni a gbèrò pẹ̀lú ìṣọ́ra àti ṣíṣe pẹ̀lú déédé fún ọjà ìkẹyìn tí kò ní àbààwọ́n."
+        }
+      ]
+    },
+    "testimonials-page": {
+      "title": "Àwọn Ẹ̀rí",
+      "subheader": "Wo ohun tí àwọn oníbàárà, oníṣẹ́, àti olùdánwò wa fẹ́ràn nípa àwọn ọjà wa.",
+      "testimonial": [
+        {
+          "name": "Michael Schenk",
+          "occupation": "Oníṣẹ́",
+          "testimonial": "Mo fẹ́ràn bí ọjà yìí ṣe pọ̀ tó! Bóyá mo ń ṣe àwọn iṣẹ́ iṣẹ́ tàbí mo ń gbádùn àwọn ohun ìgbádùn mi, ó bá àwọn àìní mi tí ó ń yí padà mu. Àpẹẹrẹ rẹ̀ tí ó rọrùn ti mú ìgbésí ayé mi ojoojúmọ́ dáradára sí i, ó jẹ́ kí àwọn iṣẹ́ rọrùn àti adùn."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Oníṣẹ́",
+          "testimonial": "Ọ̀kan nínú àwọn àbùdá pàtàkì ọjà yìí ni ìtìlẹ́yìn oníbàárà tí ó tayọ. Nínú ìrírí mi, ẹgbẹ́ tí ó wà lẹ́yìn ọjà yìí ti yára dáhùn àti pé wọ́n ti ṣe ìrànlọ́wọ́ púpọ̀. Ó tuni lára láti mọ̀ pé wọ́n dúró ṣinṣin lẹ́yìn ọjà wọn."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Oníṣẹ́",
+          "testimonial": "Ìpele ìrọ̀rùn àti ìrọ̀rùn lílò nínú ọjà yìí ti mú ìgbésí ayé mi rọrùn púpọ̀. Mo dúpẹ́ lọ́wọ́ àwọn aṣẹ̀dá fún pípèsè ojútùú tí kò kàn bá ohun tí oníṣe retí mu nìkan ṣùgbọ́n tí ó kọjá rẹ̀."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Oníṣẹ́",
+          "testimonial": "Mo mọrírì ìtọjú sí àwọn kúlẹ̀kúlẹ̀ nínú àpẹẹrẹ ọjà yìí. Àwọn ìfọwọ́kàn kékeré ṣe ìyàtọ̀ ńlá, àti pé ó hàn gbangba pé àwọn aṣẹ̀dá fojú sí pípèsè ìrírí gíga."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Oníṣẹ́",
+          "testimonial": "Mo ti gbìyànjú àwọn ọjà mìíràn tí ó jọra, ṣùgbọ́n èyí yàtọ̀ fún àwọn àbùdá tuntun rẹ̀. Ó ṣe kedere pé àwọn aṣeṣe fi ọ̀pọ̀lọpọ̀ èrò sínú ṣíṣẹ̀dá ojútùú tí ó bá àwọn àìní oníṣe mu."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Oníṣẹ́",
+          "testimonial": "Didara ọjà yìí kọjá ohun tí mo retí. Ó le, a ṣe àpẹẹrẹ rẹ̀ dáradára, àti pé a kọ́ ọ láti pẹ́. Ó yẹ fún ìdókòwò náà."
+        }
+      ]
+    },
+    "mode": {
+      "system": "Ètò",
+      "light": "Ìmọ́lẹ̀",
+      "dark": "Òkùnkùn"
+    }
+  }
+}

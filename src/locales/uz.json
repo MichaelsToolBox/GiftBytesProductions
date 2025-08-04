@@ -1,0 +1,198 @@
+{
+  "translation": {
+    "app-bar": {
+      "projects": "Loyihalar",
+      "principles": "Prinsiplar",
+      "download": "Yuklab olish",
+      "latest": "Eng so'nggi",
+      "testimonials": "Fikr-mulohazalar",
+      "faq": "Ko'p so'raladigan savollar"
+    },
+    "hero-page": {
+      "subtitle": "Biz Germaniyada joylashgan ijodiy rivojlanish studiyasimiz bo'lib, barcha uchun jozibali va qulay video o'yinlar, ilovalar va media tajribalarini yaratish uchun eng yangi texnologiyalardan foydalanamiz.",
+      "gift": "Gift",
+      "bytes": "Bytes",
+      "productions": "Productions"
+    },
+    "download-page": {
+      "title": "Yuklab olish",
+      "subtitle": "Bu yerda siz bizning loyihalarimizni yuklab olishingiz va ko'rishingiz mumkin"
+    },
+    "tiers": {
+      "title1": "Dasturchi qaydnomalari",
+      "price1": "Bepul",
+      "subheader1": "Mavjud",
+      "description10": "Studiya sifatidagi video ishlab chiqarish",
+      "description11": "Bizning kodimiz va dizaynimizga chuqur kirish",
+      "description12": "Dasturchilarimiz bilan to'g'ridan-to'g'ri muloqot",
+      "description13": "YouTube'da butun dunyo bo'ylab mavjud",
+      "buttontext1": "Bepul obuna",
+      "title2": "TouchSlider",
+      "price2": "Bepul",
+      "subheader2": "Tavsiya etiladi",
+      "description20": "IOS va Android'da mavjud",
+      "description21": "Yashirin xarajatlarsiz bepul o'ynash",
+      "description22": "Eski mobil qurilmalarni qo'llab-quvvatlaydi",
+      "description23": "Har qanday vaqt va kun uchun oddiy o'yin",
+      "description24": "Dasturchi qaydnomalarida taqdim etilgan",
+      "description25": "Qo'llab-quvvatlash",
+      "buttontext21": "IOS yuklab olish",
+      "buttontext22": "Android yuklab olish",
+      "title3": "Kelgusi loyiha",
+      "price3": "Bepul",
+      "subheader3": "Jarayonda",
+      "description30": "Windows, MacOS va Linux uchun mavjud",
+      "description31": "Steam va Apple Store orqali tarqatish",
+      "description32": "Turli tillarda mavjud",
+      "description33": "Qo'llab-quvvatlash",
+      "buttontext3": "E'lon qilinadi"
+    },
+    "faq": {
+      "title": "Ko'p so'raladigan savollar",
+      "subtitle1": "Agar menda savol yoki muammo bo'lsa, mijozlarni qo'llab-quvvatlash xizmatiga qanday murojaat qilishim mumkin?",
+      "description1": "Siz bizning mijozlarni qo'llab-quvvatlash guruhimizga elektron pochta orqali murojaat qilishingiz mumkin: ",
+      "subtitle2": "Sizning mahsulotingiz bozordagi boshqalardan nimasi bilan ajralib turadi?",
+      "description2": "Bizning mahsulotimiz moslashuvchanligi, chidamliligi va innovatsion xususiyatlari bilan ajralib turadi. Biz foydalanuvchilarning mamnuniyatini birinchi o'ringa qo'yamiz va har bir jihatdan kutganlaridan oshib ketishga doimo intilamiz.",
+      "subtitle3": "GiftBytesProductions'ni qanday qo'llab-quvvatlashim mumkin?",
+      "description3": "Siz bizning loyihalarimizni sinab ko'rish va ularni tavsiya qilish orqali allaqachon yordam beryapsiz. Aks holda, siz bizning YouTube kanalimizga obuna bo'lishingiz va hamjamiyat bilan muloqot qilishingiz mumkin. Qo'shimcha yordam uchun siz bizga to'g'ridan-to'g'ri PayPal orqali xayriya qilishingiz mumkin."
+    },
+    "feature-page": {
+      "title": "Xususiyatlari",
+      "subheader": "Bizning ilovamizni ajratib turadigan kuchli xususiyatlarni o'rganing.",
+      "items": [
+        {
+          "title": "Mobil-birinchi dizayn",
+          "description": "Bizning ilovamiz mobil-birinchi yondashuv bilan ishlab chiqilgan bo'lib, har qanday qurilmada uzluksiz tajribani ta'minlaydi."
+        },
+        {
+          "title": "Intuitiv boshqaruv paneli",
+          "description": "Bir qarashda sizga to'liq umumiy ko'rinishni beradigan toza va tartibli boshqaruv paneli."
+        },
+        {
+          "title": "Qurilmalararo muvofiqlik",
+          "description": "Siz ish stoli, planshet yoki smartfonda bo'lsangiz ham, izchil va kuchli tajribadan bahramand bo'ling."
+        }
+      ]
+    },
+    "footer-page": {
+      "left-title": "Bizning hamjamiyatimizga qo'shiling",
+      "left-button": "Obuna bo'lish",
+      "policy": "Maxfiylik siyosati",
+      "terms": "Xizmat ko'rsatish shartlari",
+      "copyright": "Mualliflik huquqi © ",
+      "giftbytes": "GiftBytesProductions"
+    },
+    "latest-page": {
+      "title": "Eng so'nggi",
+      "article": [
+        {
+          "tag": "Loyihalar",
+          "title": "Yangi loyiha e'loni",
+          "description": "Bizning yangi loyihamiz barcha operatsion tizimlar va platformalarda mavjud bo'ladigan bepul ish stoli video o'yini bo'lishini e'lon qilamiz.",
+          "author": "Maykl Shenk, Dasturchi"
+        },
+        {
+          "tag": "Veb-sayt",
+          "title": "Yangi veb-sayt",
+          "description": "Bizning veb-saytimiz nihoyat ishga tushganini va ommaga e'lon qilinganini e'lon qilamiz.",
+          "author": "Maykl Shenk, Dasturchi"
+        },
+        {
+          "tag": "Loyihalar",
+          "title": "TouchSlider ishga tushdi",
+          "description": "Bizning mobil video o'yinimiz TouchSlider IOS va Android'da bepul yuklab olish uchun mavjudligini e'lon qilamiz.",
+          "author": "Maykl Shenk, Dasturchi"
+        },
+        {
+          "tag": "Kompaniya",
+          "title": "",
+          "description": "",
+          "author": "Maykl Shenk, Dasturchi"
+        },
+        {
+          "tag": "Muhandislik",
+          "title": "",
+          "description": "",
+          "author": "Maykl Shenk, Dasturchi"
+        },
+        {
+          "tag": "Mahsulot",
+          "title": "",
+          "description": "",
+          "author": "Maykl Shenk, Dasturchi"
+        }
+      ]
+    },
+    "principles-page": {
+      "title": "Bizning prinsiplarimiz",
+      "subheader": "Bu qadriyatlar biz yaratadigan har bir narsaning markazida turadi, kodning birinchi qatoridan tortib oxirgi foydalanuvchi tajribasigacha.",
+      "items": [
+        {
+          "title": "Har joyda mavjud",
+          "description": "Bizning fikrimizcha, ajoyib dasturiy ta'minot hamma uchun, har qanday qurilmada ishlashi kerak. Bizning loyihalarimiz boshidanoq platformalararo muvofiqlik va qulaylik uchun sinchkovlik bilan ishlab chiqilgan."
+        },
+        {
+          "title": "Sayqallangan va samarali",
+          "description": "Biz to'liq va yuqori darajada optimallashtirilgan tajribalarni taqdim etamiz. Bizning toza arxitekturaga va qattiq sinovlarga e'tiborimiz har bir mahsulotning barqaror, samarali va birinchi kundan boshlab zavqlanishga tayyor ekanligini ta'minlaydi."
+        },
+        {
+          "title": "Intuitiv dizayn",
+          "description": "Bizning fikrimizcha, kuchli dasturiy ta'minot murakkab bo'lishi shart emas. Bizning ishtiyoqimiz har bir o'zaro ta'sirni sodda va yoqimli qiladigan toza, intuitiv interfeyslarni yaratishda yotadi."
+        },
+        {
+          "title": "Innovatsiyalar bilan quvvatlangan",
+          "description": "Biz kelajakni hisobga olgan holda qurmoqdamiz. Eng yangi dasturiy ta'minot va apparat texnologiyalaridan foydalangan holda, biz kuchli, zamonaviy funksionallikka ega ilg'or fikrlaydigan mahsulotlarni yaratamiz."
+        },
+        {
+          "title": "Maxsus qo'llab-quvvatlash",
+          "description": "Bizning munosabatlarimiz yuklab olish bilan tugamaydi. Bizning mahsulotlarimiz bilan har doim ajoyib tajribaga ega bo'lishingizni ta'minlash uchun bizning jamoamizdan to'g'ridan-to'g'ri do'stona, tezkor yordam ko'rsatamiz."
+        },
+        {
+          "title": "Puxta mahorat",
+          "description": "Bizning fikrimizcha, mukammallik tafsilotlarda yotadi. Birinchi kontseptsiyadan tortib kodning oxirgi qatorigacha, bizning ishimizning har bir elementi benuqson yakuniy mahsulot uchun puxta rejalashtirilgan va aniq bajarilgan."
+        }
+      ]
+    },
+    "testimonials-page": {
+      "title": "Fikr-mulohazalar",
+      "subheader": "Bizning mijozlarimiz, dasturchilarimiz va sinovchilarimiz bizning mahsulotlarimiz haqida nimalarni yoqtirishlarini ko'ring.",
+      "testimonial": [
+        {
+          "name": "Maykl Shenk",
+          "occupation": "Dasturchi",
+          "testimonial": "Men bu mahsulotning qanchalik ko'p qirrali ekanligini juda yaxshi ko'raman! Men ish loyihalari bilan shug'ullanyapmanmi yoki sevimli mashg'ulotlarim bilan shug'ullanyapmanmi, u mening o'zgaruvchan ehtiyojlarimga muammosiz moslashadi. Uning intuitiv dizayni mening kundalik tartibimni haqiqatan ham yaxshiladi, vazifalarni yanada samarali va yoqimli qildi."
+        },
+        {
+          "name": "Maykl Shenk",
+          "occupation": "Dasturchi",
+          "testimonial": "Ushbu mahsulotning ajralib turadigan xususiyatlaridan biri bu ajoyib mijozlarni qo'llab-quvvatlashdir. Mening tajribamga ko'ra, ushbu mahsulot ortidagi jamoa tez javob berdi va nihoyatda yordam berdi. Ularning o'z mahsulotlari ortida mustahkam turishlarini bilish ishonchli."
+        },
+        {
+          "name": "Maykl Shenk",
+          "occupation": "Dasturchi",
+          "testimonial": "Ushbu mahsulotdagi soddalik va foydalanuvchiga qulaylik darajasi mening hayotimni sezilarli darajada soddalashtirdi. Men ijodkorlarga nafaqat foydalanuvchilarning kutganlarini qondiradigan, balki undan oshib ketadigan yechimni taqdim etganliklari uchun minnatdorman."
+        },
+        {
+          "name": "Maykl Shenk",
+          "occupation": "Dasturchi",
+          "testimonial": "Men ushbu mahsulotning dizaynidagi tafsilotlarga e'tiborni qadrlayman. Kichik teginishlar katta farq qiladi va ijodkorlar premium tajribani taqdim etishga e'tibor qaratganliklari ayon."
+        },
+        {
+          "name": "Maykl Shenk",
+          "occupation": "Dasturchi",
+          "testimonial": "Men boshqa shunga o'xshash mahsulotlarni sinab ko'rdim, ammo bu o'zining innovatsion xususiyatlari bilan ajralib turadi. Ishlab chiqaruvchilar foydalanuvchilarning ehtiyojlarini haqiqatan ham qondiradigan yechimni yaratishga ko'p o'ylaganliklari aniq."
+        },
+        {
+          "name": "Maykl Shenk",
+          "occupation": "Dasturchi",
+          "testimonial": "Ushbu mahsulotning sifati mening kutganimdan oshib ketdi. U bardoshli, yaxshi ishlab chiqilgan va uzoq umr ko'rish uchun qurilgan. Albatta, sarmoyaga arziydi."
+        }
+      ]
+    },
+    "mode": {
+      "system": "Tizim",
+      "light": "Yorug'",
+      "dark": "Qorong'u"
+    }
+  }
+}

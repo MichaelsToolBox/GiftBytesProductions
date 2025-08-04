@@ -1,0 +1,198 @@
+{
+  "translation": {
+    "app-bar": {
+      "projects": "Iiprojekthi",
+      "principles": "Imigaqo",
+      "download": "Khuphela",
+      "latest": "Ezisandula",
+      "testimonials": "Ubungqina",
+      "faq": "Imibuzo Ebuzwa Rhoqo"
+    },
+    "hero-page": {
+      "subtitle": "Siyisitudiyo sophuhliso esinobuchule esizinze eJamani esisebenzisa iteknoloji yamva nje ukwenza imidlalo yevidiyo enomtsalane nefikelelekayo, ii-apps, kunye namava eendaba kuye wonke umntu.",
+      "gift": "Gift",
+      "bytes": "Bytes",
+      "productions": "Productions"
+    },
+    "download-page": {
+      "title": "Khuphela",
+      "subtitle": "Apha ungakhuphela kwaye ujonge iiprojekthi zethu"
+    },
+    "tiers": {
+      "title1": "Iilog zoPhuhliso",
+      "price1": "Mahala",
+      "subheader1": "Iyafumaneka",
+      "description10": "Imveliso yevidiyo ekumgangatho we-studio",
+      "description11": "Ukungena nzulu kwikhowudi yethu kunye noyilo",
+      "description12": "Intsebenziswano ngqo nabaphuhlisi bethu",
+      "description13": "Ifumaneka kwihlabathi liphela kuYouTube",
+      "buttontext1": "Bhalisa Mahala",
+      "title2": "TouchSlider",
+      "price2": "Mahala",
+      "subheader2": "Kuyacetyiswa",
+      "description20": "Iyafumaneka kwi-IOS nakwi-Android",
+      "description21": "Mahala ukudlala ngaphandle kweendleko ezifihliweyo",
+      "description22": "Ixhasa izixhobo ezindala zeselula",
+      "description23": "Umdlalo olula walo naliphi na ixesha nosuku",
+      "description24": "Inikezelwe kwiilog zophuhliso",
+      "description25": "Inkxaso",
+      "buttontext21": "Khuphela i-IOS",
+      "buttontext22": "Khuphela i-Android",
+      "title3": "Iprojekthi ezayo",
+      "price3": "Mahala",
+      "subheader3": "Iyaqhubeka",
+      "description30": "Iyafumaneka kwiWindows, MacOS neLinux",
+      "description31": "Ukusasazwa ngeSteam kunye neApple Store",
+      "description32": "Ifumaneka ngeelwimi ezahlukeneyo",
+      "description33": "Inkxaso",
+      "buttontext3": "Iza kubhengezwa"
+    },
+    "faq": {
+      "title": "Imibuzo Ebuzwa Rhoqo",
+      "subtitle1": "Ndiqhagamshelana njani nenkxaso yabathengi ukuba ndinombuzo okanye umba?",
+      "description1": "Ungafikelela kwiqela lethu lenkxaso yabathengi ngokuthumela i-imeyile ku: ",
+      "subtitle2": "Yintoni eyenza imveliso yakho yahluke kwezinye kwimarike?",
+      "description2": "Imveliso yethu iyazahlula ngokuguquguquka kwayo, ukuqina, kunye neempawu ezintsha. Sibeka phambili ukwaneliseka komsebenzisi kwaye sihlala sizama ukugqitha okulindelweyo kuyo yonke inkalo.",
+      "subtitle3": "Ndingayixhasa njani i-GiftBytesProductions?",
+      "description3": "Sele usinceda ngokuzama iiprojekthi zethu nokuzincoma. Kungenjalo ungabhalisa kwisitishi sethu seYouTube kwaye unxibelelane noluntu. Ukuze ufumane inkxaso eyongezelelweyo ungasinika umnikelo ngqo ngePayPal."
+    },
+    "feature-page": {
+      "title": "Iimpawu",
+      "subheader": "Hlola iimpawu ezinamandla ezenza isicelo sethu sigqame.",
+      "items": [
+        {
+          "title": "Uyilo lweMobile-First",
+          "description": "I-app yethu yenzelwe ngendlela ye-mobile-first, iqinisekisa amava angenamthungo kuso nasiphi na isixhobo."
+        },
+        {
+          "title": "Ideshibhodi enembile",
+          "description": "Ideshibhodi ecocekileyo necwangcisiweyo ekunika umbono opheleleyo ngokujonga nje."
+        },
+        {
+          "title": "Ukuhambelana kwezixhobo ezahlukeneyo",
+          "description": "Yonwabela amava angaguqukiyo nanamandla nokuba usebenzisa idesktop, ithebhulethi, okanye i-smartphone."
+        }
+      ]
+    },
+    "footer-page": {
+      "left-title": "Joyina uluntu lwethu",
+      "left-button": "Bhalisa",
+      "policy": "Umgaqo-nkqubo Wabucala",
+      "terms": "Imigaqo yeNkonzo",
+      "copyright": "Ilungelo lokushicilela © ",
+      "giftbytes": "GiftBytesProductions"
+    },
+    "latest-page": {
+      "title": "Ezisandula",
+      "article": [
+        {
+          "tag": "Iiprojekthi",
+          "title": "Isibhengezo seProjekthi eNtsha",
+          "description": "Sibhengeza ukuba iprojekthi yethu entsha iya kuba ngumdlalo wevidiyo wedesktop wasimahla oza kufumaneka kuzo zonke iinkqubo zokusebenza namaqonga.",
+          "author": "Michael Schenk, uMphuhlisi"
+        },
+        {
+          "tag": "Iwebhusayithi",
+          "title": "Iwebhusayithi entsha",
+          "description": "Sibhengeza ukuba iwebhusayithi yethu ekugqibeleni iphilile kwaye isesidlangalaleni.",
+          "author": "Michael Schenk, uMphuhlisi"
+        },
+        {
+          "tag": "Iiprojekthi",
+          "title": "I-TouchSlider iphilile",
+          "description": "Sibhengeza ukuba umdlalo wethu wevidiyo weselula i-TouchSlider uyafumaneka ukuze ukhutshelwe mahala kwi-IOS nakwi-Android.",
+          "author": "Michael Schenk, uMphuhlisi"
+        },
+        {
+          "tag": "Inkampani",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, uMphuhlisi"
+        },
+        {
+          "tag": "Ubunjineli",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, uMphuhlisi"
+        },
+        {
+          "tag": "Imveliso",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, uMphuhlisi"
+        }
+      ]
+    },
+    "principles-page": {
+      "title": "Imigaqo yethu",
+      "subheader": "Ezi xabiso zisentliziyweni yayo yonke into esiyakhayo, ukusuka kumgca wokuqala wekhowudi ukuya kumava omsebenzisi okugqibela.",
+      "items": [
+        {
+          "title": "Ifikeleleka Kuyo Yonke Indawo",
+          "description": "Sikholelwa ukuba isoftware enkulu kufuneka isebenzele wonke umntu, kuso nasiphi na isixhobo. Iiprojekthi zethu zenziwe ngobunono ukuze zihambelane namaqonga ahlukeneyo nokufikeleleka kwasekuqaleni."
+        },
+        {
+          "title": "Icoliweyo & Isebenza Kakuhle",
+          "description": "Sihambisa amava apheleleyo nenzelwe ukusebenza kakuhle kakhulu. Ukugxila kwethu kulwakhiwo olucocekileyo kunye novavanyo olungqongqo kuqinisekisa ukuba yonke imveliso izinzile, iyasebenza, kwaye ilungele ukonwatyelwa ukusukela kusuku lokuqala."
+        },
+        {
+          "title": "Uyilo olunembile",
+          "description": "Sikholelwa ukuba isoftware enamandla akufuneki ibe nzima. Uthando lwethu lulele ekudaleni ujongano olucocekileyo, olunembile olwenza lonke unxibelelwano lube lula kwaye lube mnandi."
+        },
+        {
+          "title": "Inikwe amandla yiNtsha",
+          "description": "Sakha sicinga ngekamva. Ngokusebenzisa isoftware yamva nje kunye neteknoloji yehardware, sidala iimveliso ezicinga phambili ezinokusebenza okunamandla, okukumgangatho ophezulu."
+        },
+        {
+          "title": "Inkxaso Ezinikeleyo",
+          "description": "Ulwalamano lwethu alupheli ekukhupheleni. Sinikezela ngenkxaso enobuhlobo, ephendulayo ngokuthe ngqo kwiqela lethu ukuqinisekisa ukuba uhlala unamava amahle ngeemveliso zethu, rhoqo."
+        },
+        {
+          "title": "Ubuchule obucokisekileyo",
+          "description": "Sikholelwa ukuba ukugqwesa kulele kwiinkcukacha. Ukusukela kumbono wokuqala ukuya kumgca wokugqibela wekhowudi, yonke into yomsebenzi wethu icwangciswe kakuhle kwaye yenziwe ngokuchanekileyo ukuze kufumaneke imveliso yokugqibela engenaziphoso."
+        }
+      ]
+    },
+    "testimonials-page": {
+      "title": "Ubungqina",
+      "subheader": "Bona ukuba abathengi bethu, abaphuhlisi kunye nabavavanyi bayithanda ntoni ngeemveliso zethu.",
+      "testimonial": [
+        {
+          "name": "Michael Schenk",
+          "occupation": "UMphuhlisi",
+          "testimonial": "Ndiyayithanda kakhulu indlela le mveliso eguquguquka ngayo! Nokuba ndijongene neeprojekthi zomsebenzi okanye ndizintywilisele kwizinto endizithandayo, iyahambelana ngokungenamthungo neemfuno zam ezitshintshayo. Uyilo lwayo olunembile luye lwaphucula ngokwenene inkqubo yam yemihla ngemihla, lwenza imisebenzi isebenze ngakumbi kwaye ibe mnandi."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "UMphuhlisi",
+          "testimonial": "Enye yeempawu ezigqamileyo zale mveliso yinkxaso yabathengi ekhethekileyo. Ngokwamava am, iqela elingasemva kwale mveliso liye laphendula ngokukhawuleza kwaye libe luncedo kakhulu. Kuyakhuthaza ukwazi ukuba bame ngokuqinileyo emva kwemveliso yabo."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "UMphuhlisi",
+          "testimonial": "Umgangatho wokulula kunye nokusebenziseka lula kule mveliso wenze ubomi bam baba lula kakhulu. Ndiyababulela abayili ngokuhambisa isisombululo esingahlangabezani nje kuphela kodwa esigqitha kulindelo lomsebenzisi."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "UMphuhlisi",
+          "testimonial": "Ndiyayixabisa ingqwalasela kwiinkcukacha kuyilo lwale mveliso. Ukuchukumisa okuncinci kwenza umahluko omkhulu, kwaye kuyacaca ukuba abayili bagxile ekuhambiseni amava akumgangatho ophezulu."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "UMphuhlisi",
+          "testimonial": "Ndizamile ezinye iimveliso ezifanayo, kodwa le igqamile ngeempawu zayo ezintsha. Kucacile ukuba abenzi bacinge kakhulu ekudaleni isisombululo esijongana ngokwenene neemfuno zomsebenzisi."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "UMphuhlisi",
+          "testimonial": "Umgangatho wale mveliso ugqithise kulindelo lwam. Yomelele, yenzelwe kakuhle, kwaye yakhelwe ukuba ihlale ixesha elide. Ngokuqinisekileyo kufanelekile utyalo-mali."
+        }
+      ]
+    },
+    "mode": {
+      "system": "Inkqubo",
+      "light": "Ukukhanya",
+      "dark": "Ubumnyama"
+    }
+  }
+}
