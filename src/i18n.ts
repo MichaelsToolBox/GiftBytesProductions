@@ -57,49 +57,39 @@ import ms from './locales/ms.json';
 import ml from './locales/ml.json';
 import mt from './locales/mt.json';
 import mi from './locales/mi.json';
-// import mr from './locales/mr.json'; // Missing Marathi
-// import mn from './locales/mn.json'; // Missing Mongolian
-// import my from './locales/my.json'; // Missing Myanmar (Burmese)
-// import ne from './locales/ne.json'; // Missing Nepali
-import no from './locales/no.json'; // Missing Norwegian
-// import or from './locales/or.json'; // Missing Odia
-// import fa from './locales/fa.json'; // Missing Persian
-import pl from './locales/pl.json'; // Missing Polish
-import pt from './locales/pt.json'; // Missing Portuguese
-// import pa from './locales/pa.json'; // Missing Punjabi
-// import qu from './locales/qu.json'; // Missing Quechua
-import ro from './locales/ro.json'; // Missing Romanian
-import ru from './locales/ru.json'; // Missing Russian
-import sm from './locales/sm.json'; // Missing Samoan
-import sr from './locales/sr.json'; // Missing Serbian
-// import sn from './locales/sn.json'; // Missing Shona
-// import sd from './locales/sd.json'; // Missing Sindhi
-// import si from './locales/si.json'; // Missing Sinhala
-import sk from './locales/sk.json'; // Missing Slovak
-import sl from './locales/sl.json'; // Missing Slovenian
-import so from './locales/so.json'; // Missing Somali
+import mr from './locales/mr.json';
+import mn from './locales/mn.json';
+import ne from './locales/ne.json';
+import no from './locales/no.json';
+import fa from './locales/fa.json';
+import pl from './locales/pl.json';
+import pt from './locales/pt.json';
+import pa from './locales/pa.json';
+import ro from './locales/ro.json';
+import ru from './locales/ru.json';
+import sm from './locales/sm.json';
+import sr from './locales/sr.json';
+import si from './locales/si.json';
+import sk from './locales/sk.json';
+import sl from './locales/sl.json';
+import so from './locales/so.json';
 import es from './locales/es.json';
-// import su from './locales/su.json'; // Missing Sundanese
-// import sw from './locales/sw.json'; // Missing Swahili
- import sv from './locales/sv.json'; // Missing Swedish
-// import tg from './locales/tg.json'; // Missing Tajik
-// import ta from './locales/ta.json'; // Missing Tamil
-// import tt from './locales/tt.json'; // Missing Tatar
-// import te from './locales/te.json'; // Missing Telugu
-import th from './locales/th.json'; // Missing Thai
-// import bo from './locales/bo.json'; // Missing Tibetan
-import tr from './locales/tr.json'; // Missing Turkish
-// import tk from './locales/tk.json'; // Missing Turkmen
+import su from './locales/su.json';
+import sw from './locales/sw.json';
+import sv from './locales/sv.json';
+import tg from './locales/tg.json';
+import ta from './locales/ta.json';
+import te from './locales/te.json';
+import th from './locales/th.json';
+import tr from './locales/tr.json';
 import uk from './locales/uk.json';
-// import ur from './locales/ur.json'; // Missing Urdu
-// import ug from './locales/ug.json'; // Missing Uyghur
+import ur from './locales/ur.json';
 import uz from './locales/uz.json';
 import vi from './locales/vi.json';
 import xh from './locales/xh.json';
 import yi from './locales/yi.json';
 import yo from './locales/yo.json';
 import zu from './locales/zu.json';
-
 
 i18n
   .use(initReactI18next)
@@ -109,28 +99,8 @@ i18n
       en, af, sq, am, ar, hy, az, eu, be, bn, bs, bg, ca, zh, hr, cs, da, nl,
       et, fi, fr, gl, ka, de, el, gu, ha, he, hi, hu, is, ig, id, ga, it, ja,
       jv, kn, kk, km, rw, ko, ku, ky, lo, la, lv, lt, lb, mk, mg, ms, ml, mt,
-      mi, 
-      // mr, mn, my, ne, 
-      no,
-      // or, fa, 
-      pl, pt,
-      // pa, qu,
-      ro, ru, sm, sr, 
-      // sn, sd, si, 
-      sk, 
-      sl,
-      so, 
-      es, 
-      // su, sw, 
-      sv, 
-      // tg, ta, tt, te, 
-      th,
-      //  bo, 
-      tr, 
-      // tk, 
-      uk, 
-      // ur, ug, 
-      uz, vi, xh, yi, yo, zu,
+      mi, no, pl, pt, ro, ru, sm, sr, sk, sl, so, es, su, sw, sv, tg, ta, te, 
+      th,tr, uk, ur, uz, vi, xh, yi, yo, zu, si,pa, fa, mr, mn, ne, 
     },
 
     // The default language

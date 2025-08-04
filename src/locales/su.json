@@ -1,0 +1,198 @@
+{
+ "translation": {
+  "app-bar": {
+   "projects": "Proyék",
+   "principles": "Prinsip",
+   "download": "Unduh",
+   "latest": "Panganyarna",
+   "testimonials": "Testimoni",
+   "faq": "FAQ"
+  },
+  "hero-page": {
+   "subtitle": "Kami mangrupikeun studio pangembangan kreatif anu berbasis di Jérman, ngamangpaatkeun téknologi panganyarna pikeun nyiptakeun kaulinan vidéo, aplikasi, sareng pangalaman média anu pikaresepeun sareng gampang diakses ku sadayana",
+   "gift": "Hadiah",
+   "bytes": "Bait",
+   "productions": "Produksi"
+  },
+  "download-page": {
+   "title": "Unduh",
+   "subtitle": "Di dieu anjeun tiasa ngunduh sareng ningali proyék-proyék kami"
+  },
+  "tiers": {
+   "title1": "Dev Log",
+   "price1": "Gratis",
+   "subheader1": "Sayogi",
+   "description10": "Produksi vidéo kualitas studio",
+   "description11": "Ngalenyepan kode sareng desain kami",
+   "description12": "Interaksi langsung sareng pamekar kami",
+   "description13": "Gampang diakses di sakuliah dunya di YouTube",
+   "buttontext1": "Langganan Gratis",
+   "title2": "TouchSlider",
+   "price2": "Gratis",
+   "subheader2": "Dianjurkeun",
+   "description20": "Sayogi dina IOS sareng Android",
+   "description21": "Gratis pikeun dicoo tanpa biaya disumputkeun",
+   "description22": "Ngarojong alat sélulér lami",
+   "description23": "Kaulinan saderhana pikeun iraha waé sareng iraha waé",
+   "description24": "Dipidangkeun dina dev logs",
+   "description25": "Dukungan",
+   "buttontext21": "Unduh IOS",
+   "buttontext22": "Unduh Android",
+   "title3": "Proyék Kahareup",
+   "price3": "Gratis",
+   "subheader3": "Dina prosés",
+   "description30": "Sayogi pikeun Windows, Macos, sareng Linux",
+   "description31": "Distribusi ngaliwatan Steam sareng Apple Store",
+   "description32": "Gampang diakses dina sababaraha basa",
+   "description33": "Dukungan",
+   "buttontext3": "Bakal diumumkeun"
+  },
+  "faq": {
+   "title": "Patarosan anu sering ditaroskeun",
+   "subtitle1": "Kumaha kuring tiasa ngahubungi dukungan palanggan upami kuring gaduh patarosan atanapi masalah?",
+   "description1": "Anjeun tiasa ngahubungi tim dukungan palanggan kami ku ngirim email ka:",
+   "subtitle2": "Naon anu ngajantenkeun produk anjeun menonjol ti anu sanés di pasar?",
+   "description2": "Produk kami dibédakeun ngaliwatan kamampuhan pikeun adaptasi, daya tahan, sareng fitur-fitur inovatif. Kami prioritas kapuasan pangguna sareng terus narékahan pikeun ngaleuwihan ekspektasi dina unggal aspék",
+   "subtitle3": "Kumaha kuring tiasa ngadukung GiftBytesProductions?",
+   "description3": "Anjeun parantos ngabantosan kami ku ngan ukur nyobian proyék-proyék kami sareng nyarankeunana. Anjeun ogé tiasa ngalanggan saluran YouTube kami sareng kalibet sareng komunitas. Kanggo dukungan tambahan anjeun ogé tiasa nyumbang ka kami langsung ngaliwatan PayPal"
+  },
+  "feature-page": {
+   "title": "Fitur",
+   "subheader": "Jelajahi fitur anu kuat anu ngajantenkeun aplikasi kami menonjol.",
+   "items": [
+    {
+     "title": "Desain Kahiji-Sélulér",
+     "description": "Aplikasi kami dirancang ku pendekatan mobile-first, mastikeun pangalaman anu lancar dina alat naon waé."
+    },
+    {
+     "title": "Dasbor Intuitive",
+     "description": "Dasbor anu bersih sareng teratur anu masihan anjeun tinjauan lengkep dina sakali tempo."
+    },
+    {
+     "title": "Kompatibilitas Lintas-Alat",
+     "description": "Nikmati pangalaman anu konsisten sareng kuat naha anjeun dina desktop, tablet, atanapi smartphone."
+    }
+   ]
+  },
+  "footer-page": {
+   "left-title": "Gabung ka komunitas kami",
+   "left-button": "Langganan",
+   "policy": "Kawijakan Privasi",
+   "terms": "Sarat sareng Katentuan Palayanan",
+   "copyright": "Hak Cipta ©",
+   "giftbytes": "GiftBytesProductions"
+  },
+  "latest-page": {
+   "title": "Panganyarna",
+   "article": [
+    {
+     "tag": "Proyék",
+     "title": "Pengumuman Proyék Anyar",
+     "description": "Kami ngumumkeun yén proyék anyar kami bakal janten kaulinan vidéo desktop gratis pikeun dicoo anu bakal sayogi dina sadaya sistem operasi sareng platform",
+     "author": "Michael Schenk, Pamekar"
+    },
+    {
+     "tag": "Situs Wéb",
+     "title": "Situs Wéb Anyar",
+     "description": "Kami ngumumkeun yén situs wéb kami parantos hirup sareng umum",
+     "author": "Michael Schenk, Pamekar"
+    },
+    {
+     "tag": "Proyék",
+     "title": "TouchSlider Hirup",
+     "description": "Kami ngumumkeun yén kaulinan vidéo sélulér kami TouchSlider sayogi pikeun diunduh gratis di IOS sareng Android",
+     "author": "Michael Schenk, Pamekar"
+    },
+    {
+     "tag": "Perusahaan",
+     "title": "",
+     "description": "",
+     "author": "Michael Schenk, Pamekar"
+    },
+    {
+     "tag": "Téknik",
+     "title": "",
+     "description": "",
+     "author": "Michael Schenk, Pamekar"
+    },
+    {
+     "tag": "Produk",
+     "title": "",
+     "description": "",
+     "author": "Michael Schenk, Pamekar"
+    }
+   ]
+  },
+  "principles-page": {
+   "title": "Prinsip Kami",
+   "subheader": "Nilai-nilai ieu mangrupikeun inti tina sadayana anu kamiwangun, ti baris kode anu munggaran dugi ka pangalaman pangguna akhir",
+   "items": [
+    {
+     "title": "Gampang diakses di mana waé",
+     "description": "Kami yakin parangkat lunak anu saé kedah tiasa dianggo ku sadayana, dina alat naon waé. Proyék kami dirancang sacara cermat pikeun kompatibilitas lintas-platform sareng gampang diakses ti mimiti pisan"
+    },
+    {
+     "title": "Rapi & Berprestasi",
+     "description": "Kami nganteurkeun pangalaman anu lengkep sareng dioptimalkeun pisan. Fokus kami kana arsitektur bersih sareng uji coba anu ketat mastikeun unggal produk stabil, berprestasi, sareng siap dinikmati ti dinten kahiji"
+    },
+    {
+     "title": "Desain Intuitive",
+     "description": "Kami yakin parangkat lunak anu kuat henteu kedah rumit. Semangat kami aya dina nyiptakeun antarmuka anu bersih, intuitif anu ngajantenkeun unggal interaksi langsung sareng pikaresepeun"
+    },
+    {
+     "title": "Didukung ku Inovasi",
+     "description": "Kami ngawangun kalayan mikirkeun masa depan. Ku ngamangpaatkeun téknologi parangkat lunak sareng parangkat keras panganyarna, kami nyiptakeun produk anu mikir ka hareup kalayan fungsionalitas canggih anu kuat"
+    },
+    {
+     "title": "Dukungan Husus",
+     "description": "Hubungan kami henteu réngsé saatos ngunduh. Kami nyayogikeun dukungan anu ramah, responsif langsung ti tim kami pikeun mastikeun anjeun gaduh pangalaman anu saé sareng produk kami, sok"
+    },
+    {
+     "title": "Urang Makarya Sacara Taliti",
+     "description": "Kami yakin kaunggulan aya dina detil. Ti konsép munggaran dugi ka baris kode anu terakhir, unggal unsur karya kami direncanakeun sacara saksama sareng dilaksanakeun kalayan tepat pikeun produk akhir anu sampurna"
+    }
+   ]
+  },
+  "testimonials-page": {
+   "title": "Testimoni",
+   "subheader": "Tingali naon anu dipikacinta ku palanggan, pamekar, sareng penguji kami ngeunaan produk kami",
+   "testimonial": [
+    {
+     "name": "Michael Schenk",
+     "occupation": "Pamekar",
+     "testimonial": "Kuring bener-bener resep kumaha serbaguna produk ieu! Naha kuring ngaréngsékeun proyék padamelan atanapi ngalakukeun hobi karesep, éta mulus nyaluyukeun kana kabutuhan kuring anu robih. Desainna anu intuitif parantos leres-leres ningkatkeun rutinitas sapopoé kuring, ngajantenkeun tugas-tugas langkung éfisién sareng pikaresepeun"
+    },
+    {
+     "name": "Michael Schenk",
+     "occupation": "Pamekar",
+     "testimonial": "Salah sahiji fitur anu menonjol tina produk ieu nyaéta dukungan palanggan anu luar biasa. Dina pangalaman kuring, tim di tukangeun produk ieu gancang ngabales sareng ngabantosan pisan. Éta matak ngahibur pikeun terang yén aranjeunna nangtung pageuh di tukangeun produkna"
+    },
+    {
+     "name": "Michael Schenk",
+     "occupation": "Pamekar",
+     "testimonial": "Tingkat kesederhanaan sareng kagunaan pangguna dina produk ieu sacara signifikan parantos nyederhanakeun kahirupan kuring. Kuring ngahargaan ka panyipta pikeun nganteurkeun solusi anu henteu ngan ukur nyumponan tapi ogé ngaleuwihan ekspektasi pangguna"
+    },
+    {
+     "name": "Michael Schenk",
+     "occupation": "Pamekar",
+     "testimonial": "Kuring ngahargaan perhatian kana detil dina desain produk ieu. Sentuhan leutik ngadamel bédana ageung, sareng écés yén panyipta fokus kana nyayogikeun pangalaman premium"
+    },
+    {
+     "name": "Michael Schenk",
+     "occupation": "Pamekar",
+     "testimonial": "Kuring geus nyoba produk sarupa séjénna, tapi ieu menonjol pikeun fitur inovatif na. Jelas yén panyipta mikir loba pikeun nyiptakeun solusi anu bener-bener nyumponan kabutuhan pangguna"
+    },
+    {
+     "name": "Michael Schenk",
+     "occupation": "Pamekar",
+     "testimonial": "Kualitas produk ieu ngaleuwihan ekspektasi kuring. Éta awét, dirancang kalayan saé, sareng diwangun pikeun awet. Pasti pantes investasi"
+    }
+   ]
+  },
+  "mode": {
+   "system": "Sistem",
+   "light": "Caang",
+   "dark": "Poék"
+  }
+ }
+}
