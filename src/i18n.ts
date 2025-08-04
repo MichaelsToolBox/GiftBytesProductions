@@ -68,15 +68,15 @@ import pl from './locales/pl.json'; // Missing Polish
 import pt from './locales/pt.json'; // Missing Portuguese
 // import pa from './locales/pa.json'; // Missing Punjabi
 // import qu from './locales/qu.json'; // Missing Quechua
-// import ro from './locales/ro.json'; // Missing Romanian
+import ro from './locales/ro.json'; // Missing Romanian
 import ru from './locales/ru.json'; // Missing Russian
 // import sm from './locales/sm.json'; // Missing Samoan
-// import sr from './locales/sr.json'; // Missing Serbian
+import sr from './locales/sr.json'; // Missing Serbian
 // import sn from './locales/sn.json'; // Missing Shona
 // import sd from './locales/sd.json'; // Missing Sindhi
 // import si from './locales/si.json'; // Missing Sinhala
 // import sk from './locales/sk.json'; // Missing Slovak
-// import sl from './locales/sl.json'; // Missing Slovenian
+import sl from './locales/sl.json'; // Missing Slovenian
 // import so from './locales/so.json'; // Missing Somali
 import es from './locales/es.json';
 // import su from './locales/su.json'; // Missing Sundanese
@@ -115,9 +115,13 @@ i18n
       no,
       // or, fa, 
       pl, pt,
-      // pa, qu, ro, 
-      ru, 
-      // sm, sr, sn, sd, si, sk, sl, so, 
+      // pa, qu,
+      ro, ru, 
+      // sm, 
+      sr, 
+      // sn, sd, si, sk, 
+      sl,
+      // so, 
       es, 
       // su, sw, 
       sv, 

@@ -1,0 +1,198 @@
+{
+  "translation": {
+    "app-bar": {
+      "projects": "Proiecte",
+      "principles": "Principii",
+      "download": "Descărcare",
+      "latest": "Ultimele",
+      "testimonials": "Mărturii",
+      "faq": "Întrebări frecvente"
+    },
+    "hero-page": {
+      "subtitle": "Suntem un studio de dezvoltare creativă cu sediul în Germania, care utilizează cea mai recentă tehnologie pentru a crea jocuri video, aplicații și experiențe media captivante și accesibile pentru toată lumea.",
+      "gift": "Gift",
+      "bytes": "Bytes",
+      "productions": "Productions"
+    },
+    "download-page": {
+      "title": "Descărcare",
+      "subtitle": "Aici puteți descărca și vizualiza proiectele noastre"
+    },
+    "tiers": {
+      "title1": "Jurnale de dezvoltare",
+      "price1": "Gratuit",
+      "subheader1": "Disponibil",
+      "description10": "Producție video de calitate de studio",
+      "description11": "Aprofundări în codul și designul nostru",
+      "description12": "Interacțiune directă cu dezvoltatorii noștri",
+      "description13": "Accesibil la nivel mondial pe YouTube",
+      "buttontext1": "Abonament gratuit",
+      "title2": "TouchSlider",
+      "price2": "Gratuit",
+      "subheader2": "Recomandat",
+      "description20": "Disponibil pe IOS și Android",
+      "description21": "Joc gratuit fără costuri ascunse",
+      "description22": "Suportă dispozitive mobile vechi",
+      "description23": "Joc simplu pentru orice moment și zi",
+      "description24": "Prezentat în jurnalele de dezvoltare",
+      "description25": "Suport",
+      "buttontext21": "Descărcare IOS",
+      "buttontext22": "Descărcare Android",
+      "title3": "Proiect viitor",
+      "price3": "Gratuit",
+      "subheader3": "În curs de desfășurare",
+      "description30": "Disponibil pentru Windows, MacOS și Linux",
+      "description31": "Distribuție prin Steam și Apple Store",
+      "description32": "Accesibil în diverse limbi",
+      "description33": "Suport",
+      "buttontext3": "De anunțat"
+    },
+    "faq": {
+      "title": "Întrebări frecvente",
+      "subtitle1": "Cum pot contacta asistența pentru clienți dacă am o întrebare sau o problemă?",
+      "description1": "Puteți contacta echipa noastră de asistență pentru clienți trimițând un e-mail la: ",
+      "subtitle2": "Ce face ca produsul dumneavoastră să se distingă de altele de pe piață?",
+      "description2": "Produsul nostru se distinge prin adaptabilitatea, durabilitatea și caracteristicile sale inovatoare. Prioritizăm satisfacția utilizatorilor și ne străduim continuu să depășim așteptările în fiecare aspect.",
+      "subtitle3": "Cum pot sprijini GiftBytesProductions?",
+      "description3": "Ne ajutați deja doar încercând proiectele noastre și recomandându-le. Altfel, vă puteți abona la canalul nostru de YouTube și puteți interacționa cu comunitatea. Pentru sprijin suplimentar, ne puteți dona și direct prin PayPal."
+    },
+    "feature-page": {
+      "title": "Caracteristici",
+      "subheader": "Explorați caracteristicile puternice care fac aplicația noastră să iasă în evidență.",
+      "items": [
+        {
+          "title": "Design Mobile-First",
+          "description": "Aplicația noastră este proiectată cu o abordare mobile-first, asigurând o experiență fluidă pe orice dispozitiv."
+        },
+        {
+          "title": "Panou de control intuitiv",
+          "description": "Un panou de control curat și organizat care vă oferă o imagine de ansamblu completă dintr-o privire."
+        },
+        {
+          "title": "Compatibilitate între dispozitive",
+          "description": "Bucurați-vă de o experiență consecventă și puternică, indiferent dacă sunteți pe un computer desktop, o tabletă sau un smartphone."
+        }
+      ]
+    },
+    "footer-page": {
+      "left-title": "Alăturați-vă comunității noastre",
+      "left-button": "Abonați-vă",
+      "policy": "Politică de confidențialitate",
+      "terms": "Termeni și condiții",
+      "copyright": "Drepturi de autor © ",
+      "giftbytes": "GiftBytesProductions"
+    },
+    "latest-page": {
+      "title": "Ultimele",
+      "article": [
+        {
+          "tag": "Proiecte",
+          "title": "Anunțarea unui nou proiect",
+          "description": "Anunțăm că noul nostru proiect va fi un joc video gratuit pentru desktop, care va fi disponibil pe toate sistemele de operare și platformele.",
+          "author": "Michael Schenk, Dezvoltator"
+        },
+        {
+          "tag": "Site web",
+          "title": "Site web nou",
+          "description": "Anunțăm că site-ul nostru este în sfârșit live și public.",
+          "author": "Michael Schenk, Dezvoltator"
+        },
+        {
+          "tag": "Proiecte",
+          "title": "TouchSlider este live",
+          "description": "Anunțăm că jocul nostru video mobil TouchSlider este disponibil pentru descărcare gratuită pe IOS și Android.",
+          "author": "Michael Schenk, Dezvoltator"
+        },
+        {
+          "tag": "Companie",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Dezvoltator"
+        },
+        {
+          "tag": "Inginerie",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Dezvoltator"
+        },
+        {
+          "tag": "Produs",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Dezvoltator"
+        }
+      ]
+    },
+    "principles-page": {
+      "title": "Principiile noastre",
+      "subheader": "Aceste valori se află în centrul a tot ceea ce construim, de la prima linie de cod până la experiența finală a utilizatorului.",
+      "items": [
+        {
+          "title": "Accesibil peste tot",
+          "description": "Credem că un software excelent ar trebui să funcționeze pentru toată lumea, pe orice dispozitiv. Proiectele noastre sunt proiectate meticulos pentru compatibilitate multi-platformă și accesibilitate de la zero."
+        },
+        {
+          "title": "Finisat și performant",
+          "description": "Oferim experiențe complete și foarte optimizate. Accentul nostru pe o arhitectură curată și testare riguroasă asigură că fiecare produs este stabil, performant și gata de a fi savurat din prima zi."
+        },
+        {
+          "title": "Design intuitiv",
+          "description": "Credem că un software puternic nu trebuie să fie complicat. Pasiunea noastră constă în crearea de interfețe curate și intuitive, care fac fiecare interacțiune directă și plăcută."
+        },
+        {
+          "title": "Alimentat de inovație",
+          "description": "Construim cu gândul la viitor. Prin valorificarea celor mai recente tehnologii software și hardware, creăm produse orientate spre viitor, cu funcționalități puternice și de ultimă generație."
+        },
+        {
+          "title": "Suport dedicat",
+          "description": "Relația noastră nu se încheie la descărcare. Oferim suport prietenos și receptiv direct de la echipa noastră pentru a ne asigura că aveți întotdeauna o experiență excelentă cu produsele noastre."
+        },
+        {
+          "title": "Măiestrie meticuloasă",
+          "description": "Credem că excelența stă în detalii. De la primul concept la ultima linie de cod, fiecare element al muncii noastre este planificat cu grijă și executat cu precizie pentru un produs final impecabil."
+        }
+      ]
+    },
+    "testimonials-page": {
+      "title": "Mărturii",
+      "subheader": "Vedeți ce le place clienților, dezvoltatorilor și testerilor noștri la produsele noastre.",
+      "testimonial": [
+        {
+          "name": "Michael Schenk",
+          "occupation": "Dezvoltator",
+          "testimonial": "Îmi place absolut cât de versatil este acest produs! Fie că mă ocup de proiecte de serviciu sau mă bucur de hobby-urile mele preferate, se adaptează perfect nevoilor mele în schimbare. Designul său intuitiv mi-a îmbunătățit cu adevărat rutina zilnică, făcând sarcinile mai eficiente și mai plăcute."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Dezvoltator",
+          "testimonial": "Una dintre caracteristicile remarcabile ale acestui produs este suportul excepțional pentru clienți. Din experiența mea, echipa din spatele acestui produs a răspuns rapid și a fost incredibil de utilă. Este liniștitor să știi că stau ferm în spatele produsului lor."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Dezvoltator",
+          "testimonial": "Nivelul de simplitate și ușurință în utilizare al acestui produs mi-a simplificat semnificativ viața. Apreciez creatorii pentru că au livrat o soluție care nu numai că îndeplinește, dar depășește așteptările utilizatorilor."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Dezvoltator",
+          "testimonial": "Apreciez atenția la detalii în designul acestui produs. Micile atingeri fac o mare diferență și este evident că creatorii s-au concentrat pe oferirea unei experiențe premium."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Dezvoltator",
+          "testimonial": "Am încercat și alte produse similare, dar acesta se remarcă prin caracteristicile sale inovatoare. Este clar că producătorii s-au gândit mult la crearea unei soluții care să răspundă cu adevărat nevoilor utilizatorilor."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Dezvoltator",
+          "testimonial": "Calitatea acestui produs a depășit așteptările mele. Este durabil, bine proiectat și construit pentru a dura. Cu siguranță merită investiția."
+        }
+      ]
+    },
+    "mode": {
+      "system": "Sistem",
+      "light": "Luminos",
+      "dark": "Întunecat"
+    }
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "translation": {
+    "app-bar": {
+      "projects": "Projekti",
+      "principles": "Načela",
+      "download": "Prenos",
+      "latest": "Najnovejše",
+      "testimonials": "Pričevanja",
+      "faq": "Pogosta vprašanja"
+    },
+    "hero-page": {
+      "subtitle": "Smo ustvarjalni razvojni studio s sedežem v Nemčiji, ki uporablja najnovejšo tehnologijo za ustvarjanje privlačnih in dostopnih video iger, aplikacij in medijskih izkušenj za vse.",
+      "gift": "Gift",
+      "bytes": "Bytes",
+      "productions": "Productions"
+    },
+    "download-page": {
+      "title": "Prenos",
+      "subtitle": "Tukaj lahko prenesete in si ogledate naše projekte"
+    },
+    "tiers": {
+      "title1": "Dnevniki razvijalcev",
+      "price1": "Brezplačno",
+      "subheader1": "Na voljo",
+      "description10": "Video produkcija studijske kakovosti",
+      "description11": "Poglobljeni vpogledi v našo kodo in oblikovanje",
+      "description12": "Neposredna interakcija z našimi razvijalci",
+      "description13": "Dostopno po vsem svetu na YouTubu",
+      "buttontext1": "Brezplačna naročnina",
+      "title2": "TouchSlider",
+      "price2": "Brezplačno",
+      "subheader2": "Priporočeno",
+      "description20": "Na voljo za IOS in Android",
+      "description21": "Brezplačno igranje brez skritih stroškov",
+      "description22": "Podpira starejše mobilne naprave",
+      "description23": "Preprosta igra za vsak čas in dan",
+      "description24": "Predstavljeno v dnevnikih razvijalcev",
+      "description25": "Podpora",
+      "buttontext21": "Prenesi IOS",
+      "buttontext22": "Prenesi Android",
+      "title3": "Prihajajoči projekt",
+      "price3": "Brezplačno",
+      "subheader3": "V teku",
+      "description30": "Na voljo za Windows, MacOS in Linux",
+      "description31": "Distribucija prek Steama in Apple Store",
+      "description32": "Dostopno v različnih jezikih",
+      "description33": "Podpora",
+      "buttontext3": "Bo objavljeno"
+    },
+    "faq": {
+      "title": "Pogosto zastavljena vprašanja",
+      "subtitle1": "Kako se obrnem na podporo za stranke, če imam vprašanje ali težavo?",
+      "description1": "Našo ekipo za podporo strankam lahko dosežete po e-pošti na: ",
+      "subtitle2": "Kaj loči vaš izdelek od drugih na trgu?",
+      "description2": "Naš izdelek se odlikuje po prilagodljivosti, trajnosti in inovativnih funkcijah. Prednost dajemo zadovoljstvu uporabnikov in si nenehno prizadevamo preseči pričakovanja v vseh pogledih.",
+      "subtitle3": "Kako lahko podprem GiftBytesProductions?",
+      "description3": "Že nam pomagate s preizkušanjem naših projektov in njihovim priporočanjem. V nasprotnem primeru se lahko naročite na naš YouTube kanal in sodelujete v skupnosti. Za dodatno podporo nam lahko tudi neposredno donirate prek PayPala."
+    },
+    "feature-page": {
+      "title": "Značilnosti",
+      "subheader": "Raziščite zmogljive funkcije, zaradi katerih naša aplikacija izstopa.",
+      "items": [
+        {
+          "title": "Oblikovanje, osredotočeno na mobilne naprave",
+          "description": "Naša aplikacija je zasnovana s pristopom, osredotočenim na mobilne naprave, kar zagotavlja brezhibno izkušnjo na kateri koli napravi."
+        },
+        {
+          "title": "Intuitivna nadzorna plošča",
+          "description": "Čista in organizirana nadzorna plošča, ki vam na prvi pogled omogoča popoln pregled."
+        },
+        {
+          "title": "Združljivost med napravami",
+          "description": "Uživajte v dosledni in zmogljivi izkušnji, ne glede na to, ali ste na namiznem računalniku, tablici ali pametnem telefonu."
+        }
+      ]
+    },
+    "footer-page": {
+      "left-title": "Pridružite se naši skupnosti",
+      "left-button": "Naročite se",
+      "policy": "Politika zasebnosti",
+      "terms": "Pogoji storitve",
+      "copyright": "Avtorske pravice © ",
+      "giftbytes": "GiftBytesProductions"
+    },
+    "latest-page": {
+      "title": "Najnovejše",
+      "article": [
+        {
+          "tag": "Projekti",
+          "title": "Objava novega projekta",
+          "description": "Objavljamo, da bo naš novi projekt brezplačna namizna video igra, ki bo na voljo na vseh operacijskih sistemih in platformah.",
+          "author": "Michael Schenk, Razvijalec"
+        },
+        {
+          "tag": "Spletna stran",
+          "title": "Nova spletna stran",
+          "description": "Objavljamo, da je naša spletna stran končno v živo in javna.",
+          "author": "Michael Schenk, Razvijalec"
+        },
+        {
+          "tag": "Projekti",
+          "title": "TouchSlider je v živo",
+          "description": "Objavljamo, da je naša mobilna video igra TouchSlider na voljo za brezplačen prenos na IOS in Android.",
+          "author": "Michael Schenk, Razvijalec"
+        },
+        {
+          "tag": "Podjetje",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Razvijalec"
+        },
+        {
+          "tag": "Inženiring",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Razvijalec"
+        },
+        {
+          "tag": "Izdelek",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Razvijalec"
+        }
+      ]
+    },
+    "principles-page": {
+      "title": "Naša načela",
+      "subheader": "Te vrednote so v središču vsega, kar gradimo, od prve vrstice kode do končne uporabniške izkušnje.",
+      "items": [
+        {
+          "title": "Dostopno povsod",
+          "description": "Verjamemo, da bi morala odlična programska oprema delovati za vse, na kateri koli napravi. Naši projekti so natančno zasnovani za združljivost med platformami in dostopnost od samega začetka."
+        },
+        {
+          "title": "Izpopolnjeno in zmogljivo",
+          "description": "Zagotavljamo popolne in visoko optimizirane izkušnje. Naš poudarek na čisti arhitekturi in strogem testiranju zagotavlja, da je vsak izdelek stabilen, zmogljiv in pripravljen za uživanje že od prvega dne."
+        },
+        {
+          "title": "Intuitivno oblikovanje",
+          "description": "Verjamemo, da zmogljiva programska oprema ne sme biti zapletena. Naša strast je v ustvarjanju čistih, intuitivnih vmesnikov, ki vsako interakcijo naredijo preprosto in prijetno."
+        },
+        {
+          "title": "Poganja ga inovacija",
+          "description": "Gradimo z mislijo na prihodnost. Z uporabo najnovejše programske in strojne tehnologije ustvarjamo napredne izdelke z zmogljivo, najsodobnejšo funkcionalnostjo."
+        },
+        {
+          "title": "Predana podpora",
+          "description": "Naš odnos se ne konča s prenosom. Zagotavljamo prijazno in odzivno podporo neposredno od naše ekipe, da zagotovimo, da imate vedno odlično izkušnjo z našimi izdelki."
+        },
+        {
+          "title": "Natančna izdelava",
+          "description": "Verjamemo, da se odličnost skriva v podrobnostih. Od prvega koncepta do zadnje vrstice kode je vsak element našega dela premišljeno načrtovan in natančno izveden za brezhiben končni izdelek."
+        }
+      ]
+    },
+    "testimonials-page": {
+      "title": "Pričevanja",
+      "subheader": "Poglejte, kaj imajo naše stranke, razvijalci in preizkuševalci radi pri naših izdelkih.",
+      "testimonial": [
+        {
+          "name": "Michael Schenk",
+          "occupation": "Razvijalec",
+          "testimonial": "Absolutno obožujem, kako vsestranski je ta izdelek! Ne glede na to, ali se ukvarjam z delovnimi projekti ali se prepuščam svojim najljubšim hobijem, se brezhibno prilagaja mojim spreminjajočim se potrebam. Njegova intuitivna zasnova je resnično izboljšala mojo dnevno rutino, saj so naloge postale učinkovitejše in prijetnejše."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Razvijalec",
+          "testimonial": "Ena od izstopajočih lastnosti tega izdelka je izjemna podpora strankam. Po mojih izkušnjah se je ekipa, ki stoji za tem izdelkom, hitro odzvala in bila neverjetno ustrežljiva. Pomirjujoče je vedeti, da trdno stojijo za svojim izdelkom."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Razvijalec",
+          "testimonial": "Stopnja preprostosti in prijaznosti do uporabnika v tem izdelku je bistveno poenostavila moje življenje. Cenim ustvarjalce, ker so ponudili rešitev, ki ne le izpolnjuje, ampak presega pričakovanja uporabnikov."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Razvijalec",
+          "testimonial": "Cenim pozornost do podrobnosti pri oblikovanju tega izdelka. Majhni dotiki naredijo veliko razliko in očitno je, da so se ustvarjalci osredotočili na zagotavljanje vrhunske izkušnje."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Razvijalec",
+          "testimonial": "Preizkusil sem druge podobne izdelke, vendar ta izstopa po svojih inovativnih funkcijah. Jasno je, da so ustvarjalci veliko razmišljali o ustvarjanju rešitve, ki resnično ustreza potrebam uporabnikov."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Razvijalec",
+          "testimonial": "Kakovost tega izdelka je presegla moja pričakovanja. Je trpežen, dobro oblikovan in narejen, da traja. Vsekakor vreden naložbe."
+        }
+      ]
+    },
+    "mode": {
+      "system": "Sistem",
+      "light": "Svetlo",
+      "dark": "Temno"
+    }
+  }
+}
