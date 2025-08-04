@@ -1,11 +1,12 @@
 import { StyledBox } from '../utils/styles/styled-box';
 import Typography from '@mui/material/Typography';
 import Container from '@mui/material/Container';
+import { useTranslation } from 'react-i18next';
 import Stack from '@mui/material/Stack';
 import Box from '@mui/material/Box';
-import { useTranslation } from 'react-i18next';
 
 export default function Hero() {
+  // i18n Translation
   const { t } = useTranslation()
 
   return (

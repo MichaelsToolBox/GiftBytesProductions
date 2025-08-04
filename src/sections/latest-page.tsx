@@ -3,11 +3,11 @@ import NavigateNextRoundedIcon from '@mui/icons-material/NavigateNextRounded';
 import AvatarGroup from '@mui/material/AvatarGroup';
 import Typography from '@mui/material/Typography';
 import Container from '@mui/material/Container';
+import { useTranslation } from 'react-i18next';
 import Avatar from '@mui/material/Avatar';
 import Grid from '@mui/material/Grid';
 import Box from '@mui/material/Box';
 import * as React from 'react';
-import { useTranslation } from 'react-i18next';
 
 function Author({ authors }: { authors: { name: string; avatar: string }[] }) {
   return (
@@ -50,41 +50,41 @@ export default function Latest() {
 
   const articleInfo = [
   {
-    tag: t(""),
-    title: t(""),
-    description: t(""),
-    authors: [{ name: t(""), avatar: '/static/images/avatar/1.jpg' }],
+    tag: t("latest-page.article.0.tag"),
+    title: t("latest-page.article.0.title"),
+    description: t("latest-page.article.0.description"),
+    authors: [{ name: t("latest-page.article.0.author"), avatar: '/static/images/avatar/1.jpg' }],
   },
   {
-    tag: t(""),
-    title: t(""),
-    description: t(""),
-    authors: [{ name: t(""), avatar: '/static/images/avatar/1.jpg' }],
-  },
-  {
-    tag: t(""),
-    title: t(""),
-    description: t(""),
-    authors: [{ name: t(""), avatar: '/static/images/avatar/1.jpg' }],
+    tag: t("latest-page.article.1.tag"),
+    title: t("latest-page.article.1.title"),
+    description: t("latest-page.article.1.description"),
+    authors: [{ name: t("latest-page.article.1.author"), avatar: '/static/images/avatar/1.jpg' }],
   },
     {
-    tag: t(""),
-    title: t(""),
-    description: t(""),
-    authors: [{ name: t(""), avatar: '/static/images/avatar/1.jpg' }],
+    tag: t("latest-page.article.2.tag"),
+    title: t("latest-page.article.2.title"),
+    description: t("latest-page.article.2.description"),
+    authors: [{ name: t("latest-page.article.2.author"), avatar: '/static/images/avatar/1.jpg' }],
   },
     {
-    tag: t(""),
-    title: t(""),
-    description: t(""),
-    authors: [{ name: t(""), avatar: '/static/images/avatar/1.jpg' }],
+    tag: t("latest-page.article.3.tag"),
+    title: t("latest-page.article.3.title"),
+    description: t("latest-page.article.3.description"),
+    authors: [{ name: t("latest-page.article.3.author"), avatar: '/static/images/avatar/1.jpg' }],
   },
     {
-    tag: t(""),
-    title: t(""),
-    description: t(""),
-    authors: [{ name: t(""), avatar: '/static/images/avatar/1.jpg' }],
-  }
+    tag: t("latest-page.article.4.tag"),
+    title: t("latest-page.article.4.title"),
+    description: t("latest-page.article.4.description"),
+    authors: [{ name: t("latest-page.article.4.author"), avatar: '/static/images/avatar/1.jpg' }],
+  },
+    {
+    tag: t("latest-page.article.5.tag"),
+    title: t("latest-page.article.5.title"),
+    description: t("latest-page.article.5.description"),
+    authors: [{ name: t("latest-page.article.5.author"), avatar: '/static/images/avatar/1.jpg' }],
+  },
 ];
 
   return (

@@ -12,6 +12,7 @@ import Link from '@mui/material/Link';
 import Box from '@mui/material/Box';
 
 export default function Footer() {
+  // i18n Translation
   const { t } = useTranslation()
 
   return (
@@ -38,12 +39,12 @@ export default function Footer() {
             &nbsp;•&nbsp;
           </Typography>
           <Link color="text.secondary" variant="body2" href="#">
-            {t("footer-page.term")}
+            {t("footer-page.terms")}
           </Link>
           <Typography variant="body2" sx={{ color: 'text.secondary', mt: 1 }}>
             {t("footer-page.copyright")}
             <Link color="text.secondary" href="https://www.youtube.com/@GiftBytesProductions">
-            {t("footer-page.giftbytess")}
+            {t("footer-page.giftbytes")}
             </Link>
             &nbsp;
             {new Date().getFullYear()}

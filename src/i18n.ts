@@ -1,5 +1,6 @@
-import i18n from 'i18next';
+
 import { initReactI18next } from 'react-i18next';
+import i18n from 'i18next';
 
 // Import your translation files
 import en from './locales/en.json';
@@ -15,12 +16,14 @@ i18n
       es: es,
       // Add other languages here
     },
+
     // The default language
     fallbackLng: 'en',
+
     // Debugging output in the console
     debug: true,
     interpolation: {
-      escapeValue: false, // React already does escaping
+      escapeValue: false,
     },
   });
 

@@ -4,13 +4,13 @@ import CardActions from '@mui/material/CardActions';
 import CardContent from '@mui/material/CardContent';
 import Typography from '@mui/material/Typography';
 import Container from '@mui/material/Container';
+import { useTranslation } from 'react-i18next';
 import Divider from '@mui/material/Divider';
 import Button from '@mui/material/Button';
 import Card from '@mui/material/Card';
 import Chip from '@mui/material/Chip';
 import Grid from '@mui/material/Grid';
 import Box from '@mui/material/Box';
-import { useTranslation } from 'react-i18next';
 
 export default function Download() {
   const { t } = useTranslation();

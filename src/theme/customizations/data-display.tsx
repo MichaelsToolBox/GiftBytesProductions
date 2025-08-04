@@ -1,9 +1,9 @@
 import { Theme, alpha, Components } from '@mui/material/styles';
+import { gray, red, green } from '../../utils/themePrimitives';
 import { typographyClasses } from '@mui/material/Typography';
 import { buttonBaseClasses } from '@mui/material/ButtonBase';
 import { iconButtonClasses } from '@mui/material/IconButton';
 import { svgIconClasses } from '@mui/material/SvgIcon';
-import { gray, red, green } from '../../utils/themePrimitives';
 import { chipClasses } from '@mui/material/Chip';
 
 /* eslint-disable import/prefer-default-export */

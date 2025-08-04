@@ -1,0 +1,198 @@
+{
+  "translation": {
+    "app-bar": {
+      "projects": "Projektet",
+      "principles": "Parimet",
+      "download": "Shkarko",
+      "latest": "Të fundit",
+      "testimonials": "Dëshmitë",
+      "faq": "Pyetje të shpeshta"
+    },
+    "hero-page": {
+      "subtitle": "Ne jemi një studio kreative zhvillimi me bazë në Gjermani që përdor teknologjinë më të fundit për të krijuar video lojëra, aplikacione dhe përvoja mediatike tërheqëse dhe të arritshme për të gjithë.",
+      "gift": "Gift",
+      "bytes": "Bytes",
+      "productions": "Productions"
+    },
+    "download-page": {
+      "title": "Shkarko",
+      "subtitle": "Këtu mund të shkarkoni dhe shikoni projektet tona"
+    },
+    "tiers": {
+      "title1": "Regjistrat e Zhvillimit",
+      "price1": "Falas",
+      "subheader1": "Në dispozicion",
+      "description10": "Prodhim video me cilësi studioje",
+      "description11": "Zhytje të thella në kodin dhe dizajnin tonë",
+      "description12": "Ndërveprim i drejtpërdrejtë me zhvilluesit tanë",
+      "description13": "E arritshme në mbarë botën në YouTube",
+      "buttontext1": "Abonim Falas",
+      "title2": "TouchSlider",
+      "price2": "Falas",
+      "subheader2": "Rekomanduar",
+      "description20": "Në dispozicion në IOS dhe Android",
+      "description21": "Falas për të luajtur pa kosto të fshehura",
+      "description22": "Mbështet pajisjet e vjetra celulare",
+      "description23": "Lojë e thjeshtë për çdo kohë dhe ditë",
+      "description24": "Prezantuar në regjistrat e zhvillimit",
+      "description25": "Mbështetje",
+      "buttontext21": "Shkarko IOS",
+      "buttontext22": "Shkarko Android",
+      "title3": "Projekti i ardhshëm",
+      "price3": "Falas",
+      "subheader3": "Në progres",
+      "description30": "Në dispozicion për Windows, MacOS dhe Linux",
+      "description31": "Shpërndarja përmes Steam dhe Apple Store",
+      "description32": "E arritshme në gjuhë të ndryshme",
+      "description33": "Mbështetje",
+      "buttontext3": "Për t'u njoftuar"
+    },
+    "faq": {
+      "title": "Pyetje të shpeshta",
+      "subtitle1": "Si mund të kontaktoj mbështetjen e klientit nëse kam një pyetje apo problem?",
+      "description1": "Ju mund të kontaktoni ekipin tonë të mbështetjes së klientit duke dërguar një email në: ",
+      "subtitle2": "Çfarë e bën produktin tuaj të dallohet nga të tjerët në treg?",
+      "description2": "Produkti ynë dallohet përmes përshtatshmërisë, qëndrueshmërisë dhe veçorive inovative. Ne i japim përparësi kënaqësisë së përdoruesit dhe vazhdimisht përpiqemi të tejkalojmë pritshmëritë në çdo aspekt.",
+      "subtitle3": "Si mund ta mbështes GiftBytesProductions?",
+      "description3": "Ju tashmë po na ndihmoni vetëm duke provuar projektet tona dhe duke i rekomanduar ato. Përndryshe, mund të abonoheni në kanalin tonë në YouTube dhe të angazhoheni me komunitetin. Për mbështetje shtesë, mund të na dhuroni edhe direkt përmes PayPal."
+    },
+    "feature-page": {
+      "title": "Veçoritë",
+      "subheader": "Eksploroni veçoritë e fuqishme që e bëjnë aplikacionin tonë të dallohet.",
+      "items": [
+        {
+          "title": "Dizajn i Orientuar drejt Celularit",
+          "description": "Aplikacioni ynë është projektuar me një qasje të orientuar drejt celularit, duke siguruar një përvojë të pandërprerë në çdo pajisje."
+        },
+        {
+          "title": "Paneli Intuitiv",
+          "description": "Një panel i pastër dhe i organizuar që ju jep një pasqyrë të plotë me një shikim."
+        },
+        {
+          "title": "Përputhshmëria Ndër-Pajisje",
+          "description": "Gëzoni një përvojë të qëndrueshme dhe të fuqishme qoftë në një desktop, tablet apo smartphone."
+        }
+      ]
+    },
+    "footer-page": {
+      "left-title": "Bashkohuni me komunitetin tonë",
+      "left-button": "Abonohu",
+      "policy": "Politika e Privatësisë",
+      "terms": "Kushtet e shërbimit",
+      "copyright": "Të drejtat e autorit © ",
+      "giftbytes": "GiftBytesProductions"
+    },
+    "latest-page": {
+      "title": "Të fundit",
+      "article": [
+        {
+          "tag": "Projektet",
+          "title": "Njoftim për projekt të ri",
+          "description": "Ne njoftojmë se projekti ynë i ri do të jetë një video lojë falas për desktop që do të jetë e disponueshme në të gjitha sistemet operative dhe platformat.",
+          "author": "Michael Schenk, Zhvillues"
+        },
+        {
+          "tag": "Uebsajt",
+          "title": "Uebsajt i ri",
+          "description": "Ne njoftojmë se uebsajti ynë më në fund është aktiv dhe publik.",
+          "author": "Michael Schenk, Zhvillues"
+        },
+        {
+          "tag": "Projektet",
+          "title": "TouchSlider është aktiv",
+          "description": "Ne njoftojmë se video loja jonë celulare TouchSlider është e disponueshme për IOS dhe Android për t'u shkarkuar falas.",
+          "author": "Michael Schenk, Zhvillues"
+        },
+        {
+          "tag": "Kompania",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Zhvillues"
+        },
+        {
+          "tag": "Inxhinieri",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Zhvillues"
+        },
+        {
+          "tag": "Produkt",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Zhvillues"
+        }
+      ]
+    },
+    "principles-page": {
+      "title": "Parimet tona",
+      "subheader": "Këto vlera janë në zemër të gjithçkaje që ndërtojmë, nga rreshti i parë i kodit deri te përvoja përfundimtare e përdoruesit.",
+      "items": [
+        {
+          "title": "E Arritshme Kudo",
+          "description": "Ne besojmë se softueri i shkëlqyer duhet të funksionojë për të gjithë, në çdo pajisje. Projektet tona janë të projektuara me përpikëri për përputhshmëri ndër-platformë dhe aksesueshmëri që nga fillimi."
+        },
+        {
+          "title": "I Përpunuar dhe Performant",
+          "description": "Ne ofrojmë përvoja të plota dhe shumë të optimizuara. Fokusi ynë në arkitekturën e pastër dhe testimin rigoroz siguron që çdo produkt të jetë i qëndrueshëm, performant dhe i gatshëm për t'u shijuar që nga dita e parë."
+        },
+        {
+          "title": "Dizajn Intuitiv",
+          "description": "Ne besojmë se softueri i fuqishëm nuk duhet të jetë i komplikuar. Pasioni ynë qëndron në krijimin e ndërfaqeve të pastra, intuitive që e bëjnë çdo ndërveprim të drejtpërdrejtë dhe të këndshëm."
+        },
+        {
+          "title": "Mundësuar nga Inovacioni",
+          "description": "Ne ndërtojmë me të ardhmen në mendje. Duke përdorur teknologjinë më të fundit të softuerit dhe harduerit, ne krijojmë produkte largpamëse me funksionalitet të fuqishëm dhe të avancuar."
+        },
+        {
+          "title": "Mbështetje e Dedikuar",
+          "description": "Marrëdhënia jonë nuk përfundon me shkarkimin. Ne ofrojmë mbështetje miqësore dhe të përgjegjshme direkt nga ekipi ynë për të siguruar që ju të keni gjithmonë një përvojë të shkëlqyer me produktet tona."
+        },
+        {
+          "title": "Mjeshtëri e Përpiktë",
+          "description": "Ne besojmë se përsosmëria qëndron në detaje. Nga koncepti i parë deri te rreshti i fundit i kodit, çdo element i punës sonë është i planifikuar me kujdes dhe i ekzekutuar me saktësi për një produkt final të përsosur."
+        }
+      ]
+    },
+    "testimonials-page": {
+      "title": "Dëshmitë",
+      "subheader": "Shikoni se çfarë pëlqejnë klientët, zhvilluesit dhe testuesit tanë në lidhje me produktet tona.",
+      "testimonial": [
+        {
+          "name": "Michael Schenk",
+          "occupation": "Zhvillues",
+          "testimonial": "Më pëlqen absolutisht sa i gjithanshëm është ky produkt! Pavarësisht nëse jam duke u marrë me projekte pune apo duke u kënaqur me hobitë e mia të preferuara, ai përshtatet pa probleme me nevojat e mia në ndryshim. Dizajni i tij intuitiv ka përmirësuar vërtet rutinën time të përditshme, duke i bërë detyrat më efikase dhe të këndshme."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Zhvillues",
+          "testimonial": "Një nga veçoritë më të spikatura të këtij produkti është mbështetja e jashtëzakonshme e klientit. Sipas përvojës sime, ekipi pas këtij produkti ka qenë i shpejtë për t'u përgjigjur dhe tepër i dobishëm. Është qetësuese të dish se ata qëndrojnë fort pas produktit të tyre."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Zhvillues",
+          "testimonial": "Niveli i thjeshtësisë dhe lehtësisë së përdorimit në këtë produkt ka thjeshtuar ndjeshëm jetën time. I vlerësoj krijuesit për ofrimin e një zgjidhjeje që jo vetëm plotëson, por tejkalon pritshmëritë e përdoruesit."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Zhvillues",
+          "testimonial": "Unë e vlerësoj vëmendjen ndaj detajeve në dizajnin e këtij produkti. Prekjet e vogla bëjnë një ndryshim të madh, dhe është e qartë se krijuesit u përqendruan në ofrimin e një përvoje premium."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Zhvillues",
+          "testimonial": "Kam provuar produkte të tjera të ngjashme, por ky dallohet për veçoritë e tij inovative. Është e qartë se prodhuesit kanë menduar shumë për të krijuar një zgjidhje që adreson vërtet nevojat e përdoruesit."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Zhvillues",
+          "testimonial": "Cilësia e këtij produkti i tejkaloi pritshmëritë e mia. Është i qëndrueshëm, i projektuar mirë dhe i ndërtuar për të zgjatur. Padyshim që ia vlen investimi."
+        }
+      ]
+    },
+    "mode": {
+      "system": "Sistem",
+      "light": "Dritë",
+      "dark": "Errët"
+    }
+  }
+}

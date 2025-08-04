@@ -1,0 +1,198 @@
+{
+  "translation": {
+    "app-bar": {
+      "projects": "Projekte",
+      "principles": "Beginsels",
+      "download": "Aflaai",
+      "latest": "Nuutste",
+      "testimonials": "Getuigskrifte",
+      "faq": "Vrae"
+    },
+    "hero-page": {
+      "subtitle": "Ons is 'n Duitse kreatiewe ontwikkelingsateljee wat die nuutste tegnologie benut om boeiende en toeganklike videospeletjies, toepassings en media-ervarings vir almal te skep.",
+      "gift": "Gift",
+      "bytes": "Bytes",
+      "productions": "Productions"
+    },
+    "download-page": {
+      "title": "Aflaai",
+      "subtitle": "Hier kan jy ons projekte aflaai en besigtig"
+    },
+    "tiers": {
+      "title1": "Ontwikkelingslogboeke",
+      "price1": "Gratis",
+      "subheader1": "Beskikbaar",
+      "description10": "Videoproduksie van ateljee-gehalte",
+      "description11": "Diep duikslae in ons kode en ontwerp",
+      "description12": "Direkte interaksie met ons ontwikkelaars",
+      "description13": "Wêreldwyd toeganklik op YouTube",
+      "buttontext1": "Gratis Inskrywing",
+      "title2": "TouchSlider",
+      "price2": "Gratis",
+      "subheader2": "Aanbeveel",
+      "description20": "Beskikbaar op IOS en Android",
+      "description21": "Gratis om te speel sonder verborge koste",
+      "description22": "Ondersteun ou mobiele toestelle",
+      "description23": "Eenvoudige speletjie vir enige tyd en dag",
+      "description24": "Aangebied in ontwikkelingslogboeke",
+      "description25": "Ondersteuning",
+      "buttontext21": "Laai IOS af",
+      "buttontext22": "Laai Android af",
+      "title3": "Opkomende projek",
+      "price3": "Gratis",
+      "subheader3": "Aan die gang",
+      "description30": "Beskikbaar vir Windows, MacOS en Linux",
+      "description31": "Verspreiding deur Steam en Apple Store",
+      "description32": "Toeganklik in verskeie tale",
+      "description33": "Ondersteuning",
+      "buttontext3": "Word nog aangekondig"
+    },
+    "faq": {
+      "title": "Gereelde vrae",
+      "subtitle1": "Hoe kontak ek kliëntediens as ek 'n vraag of probleem het?",
+      "description1": "Jy kan ons kliëntediensspan bereik deur 'n e-pos te stuur na: ",
+      "subtitle2": "Wat maak julle produk anders as ander in die mark?",
+      "description2": "Ons produk onderskei homself deur sy aanpasbaarheid, duursaamheid en innoverende kenmerke. Ons prioritiseer gebruikerstevredenheid en streef voortdurend daarna om verwagtinge in elke aspek te oortref.",
+      "subtitle3": "Hoe kan ek GiftBytesProductions ondersteun?",
+      "description3": "Jy help ons reeds net deur ons projekte uit te probeer en dit aan te beveel. Andersins kan jy op ons YouTube-kanaal inteken en met die gemeenskap betrokke raak. Vir bykomende ondersteuning kan jy ons ook direk deur PayPal skenk."
+    },
+    "feature-page": {
+      "title": "Kenmerke",
+      "subheader": "Verken die kragtige kenmerke wat ons toepassing laat uitstaan.",
+      "items": [
+        {
+          "title": "Mobiel-Eerste Ontwerp",
+          "description": "Ons toepassing is ontwerp met 'n mobiel-eerste benadering, wat 'n naatlose ervaring op enige toestel verseker."
+        },
+        {
+          "title": "Intuïtiewe Dashboard",
+          "description": "'n Skoon en georganiseerde dashboard wat jou 'n volledige oorsig in 'n oogopslag gee."
+        },
+        {
+          "title": "Kruis-Toestel Verenigbaarheid",
+          "description": "Geniet 'n konsekwente en kragtige ervaring of jy nou op 'n rekenaar, tablet of slimfoon is."
+        }
+      ]
+    },
+    "footer-page": {
+      "left-title": "Sluit aan by ons gemeenskap",
+      "left-button": "Teken in",
+      "policy": "Privaatheidsbeleid",
+      "terms": "Diensbepalings",
+      "copyright": "Kopiereg © ",
+      "giftbytes": "GiftBytesProductions"
+    },
+    "latest-page": {
+      "title": "Nuutste",
+      "article": [
+        {
+          "tag": "Projekte",
+          "title": "Aankondiging van nuwe projek",
+          "description": "Ons kondig aan dat ons nuwe projek 'n gratis-om-te-speel rekenaarspeletjie sal wees wat op alle bedryfstelsels en platforms beskikbaar sal wees.",
+          "author": "Michael Schenk, Ontwikkelaar"
+        },
+        {
+          "tag": "Webwerf",
+          "title": "Nuwe webwerf",
+          "description": "Ons kondig aan dat ons webwerf uiteindelik lewendig en publiek is.",
+          "author": "Michael Schenk, Ontwikkelaar"
+        },
+        {
+          "tag": "Projekte",
+          "title": "TouchSlider is lewendig",
+          "description": "Ons kondig aan dat ons mobiele videospeletjie TouchSlider gratis beskikbaar is vir aflaai op IOS en Android.",
+          "author": "Michael Schenk, Ontwikkelaar"
+        },
+        {
+          "tag": "Maatskappy",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Ontwikkelaar"
+        },
+        {
+          "tag": "Ingenieurswese",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Ontwikkelaar"
+        },
+        {
+          "tag": "Produk",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Ontwikkelaar"
+        }
+      ]
+    },
+    "principles-page": {
+      "title": "Ons beginsels",
+      "subheader": "Hierdie waardes is die kern van alles wat ons bou, van die eerste reël kode tot die finale gebruikerservaring.",
+      "items": [
+        {
+          "title": "Oral Toeganklik",
+          "description": "Ons glo goeie sagteware moet vir almal werk, op enige toestel. Ons projekte is noukeurig ontwerp vir kruis-platform verenigbaarheid en toeganklikheid van die grond af."
+        },
+        {
+          "title": "Gepoleer & Presterend",
+          "description": "Ons lewer volledige en hoogs geoptimaliseerde ervarings. Ons fokus op skoon argitektuur en streng toetsing verseker dat elke produk stabiel, presterend en gereed is om van dag een af te geniet."
+        },
+        {
+          "title": "Intuïtiewe Ontwerp",
+          "description": "Ons glo kragtige sagteware hoef nie ingewikkeld te wees nie. Ons passie lê daarin om skoon, intuïtiewe koppelvlakke te skep wat elke interaksie eenvoudig en aangenaam maak."
+        },
+        {
+          "title": "Aangedryf deur Innovasie",
+          "description": "Ons bou met die toekoms in gedagte. Deur die nuutste sagteware- en hardeware-tegnologie te benut, skep ons vooruitdenkende produkte met kragtige, voorpunt-funksionaliteit."
+        },
+        {
+          "title": "Toegewyde Ondersteuning",
+          "description": "Ons verhouding eindig nie by die aflaai nie. Ons bied vriendelike, responsiewe ondersteuning direk van ons span om te verseker dat jy altyd 'n wonderlike ervaring met ons produkte het."
+        },
+        {
+          "title": "Noukeurige Vakmanskap",
+          "description": "Ons glo uitnemendheid lê in die besonderhede. Van die eerste konsep tot die laaste reël kode, word elke element van ons werk deurdag beplan en presies uitgevoer vir 'n foutlose eindproduk."
+        }
+      ]
+    },
+    "testimonials-page": {
+      "title": "Getuigskrifte",
+      "subheader": "Sien waarvan ons kliënte, ontwikkelaars en toetsers van ons produkte hou.",
+      "testimonial": [
+        {
+          "name": "Michael Schenk",
+          "occupation": "Ontwikkelaar",
+          "testimonial": "Ek is absoluut mal oor hoe veelsydig hierdie produk is! Of ek nou werkprojekte aanpak of my gunsteling stokperdjies geniet, dit pas naatloos aan by my veranderende behoeftes. Sy intuïtiewe ontwerp het my daaglikse roetine werklik verbeter, wat take doeltreffender en aangenamer maak."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Ontwikkelaar",
+          "testimonial": "Een van die uitstaande kenmerke van hierdie produk is die uitsonderlike kliëntediens. In my ervaring was die span agter hierdie produk vinnig om te reageer en ongelooflik behulpsaam. Dit is gerusstellend om te weet dat hulle stewig agter hul produk staan."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Ontwikkelaar",
+          "testimonial": "Die vlak van eenvoud en gebruikersvriendelikheid in hierdie produk het my lewe aansienlik vereenvoudig. Ek waardeer die skeppers vir die lewering van 'n oplossing wat nie net aan gebruikersverwagtinge voldoen nie, maar dit oortref."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Ontwikkelaar",
+          "testimonial": "Ek waardeer die aandag aan detail in die ontwerp van hierdie produk. Die klein dingetjies maak 'n groot verskil, en dit is duidelik dat die skeppers gefokus het op die lewering van 'n premium ervaring."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Ontwikkelaar",
+          "testimonial": "Ek het ander soortgelyke produkte probeer, maar hierdie een staan uit vir sy innoverende kenmerke. Dit is duidelik dat die makers baie gedink het aan die skep van 'n oplossing wat werklik aan gebruikersbehoeftes voldoen."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Ontwikkelaar",
+          "testimonial": "Die kwaliteit van hierdie produk het my verwagtinge oortref. Dit is duursaam, goed ontwerp en gebou om te hou. Beslis die belegging werd."
+        }
+      ]
+    },
+    "mode": {
+      "system": "Stelsel",
+      "light": "Lig",
+      "dark": "Donker"
+    }
+  }
+}

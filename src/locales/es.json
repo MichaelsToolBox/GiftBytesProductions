@@ -8,9 +8,11 @@
       "testimonials": "Testimonios",
       "faq": "Preguntas Frecuentes"
     },
-    "hero": {
-      "title": "Bienvenido a Nuestra Aplicación",
-      "subtitle": "Descubre las increíbles características que ofrecemos."
+    "hero-page": {
+      "subtitle": "Somos un estudio de desarrollo creativo con sede en Alemania que aprovecha la última tecnología para crear videojuegos, aplicaciones y experiencias multimedia cautivadoras y accesibles para todos.",
+      "gift": "Gift",
+      "bytes": "Bytes",
+      "productions": "Productions"
     },
     "download-page": {
       "title": "Descargar",
@@ -71,6 +73,126 @@
           "description": "Disfruta de una experiencia consistente y potente ya sea en una computadora, tableta o smartphone."
         }
       ]
+    },
+    "footer-page": {
+      "left-title": "Únete a nuestra comunidad",
+      "left-button": "Suscribirse",
+      "policy": "Política de Privacidad",
+      "terms": "Términos de servicio",
+      "copyright": "Copyright © ",
+      "giftbytes": "GiftBytesProductions"
+    },
+    "latest-page": {
+      "title": "Últimos",
+      "article": [
+        {
+          "tag": "Proyectos",
+          "title": "Anuncio de nuevo proyecto",
+          "description": "Anunciamos que nuestro nuevo proyecto será un videojuego de escritorio gratuito que estará disponible en todos los sistemas operativos y plataformas.",
+          "author": "Michael Schenk, Desarrollador"
+        },
+        {
+          "tag": "Sitio Web",
+          "title": "Nuevo sitio web",
+          "description": "Anunciamos que nuestro sitio web finalmente está en vivo y público.",
+          "author": "Michael Schenk, Desarrollador"
+        },
+        {
+          "tag": "Proyectos",
+          "title": "TouchSlider está en vivo",
+          "description": "Anunciamos que nuestro videojuego móvil TouchSlider está disponible para descargar gratis en IOS y Android.",
+          "author": "Michael Schenk, Desarrollador"
+        },
+        {
+          "tag": "Compañía",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Desarrollador"
+        },
+        {
+          "tag": "Ingeniería",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Desarrollador"
+        },
+        {
+          "tag": "Producto",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Desarrollador"
+        }
+      ]
+    },
+    "principles-page": {
+      "title": "Nuestros principios",
+      "subheader": "Estos valores son el corazón de todo lo que construimos, desde la primera línea de código hasta la experiencia final del usuario.",
+      "items": [
+        {
+          "title": "Accesible en Todas Partes",
+          "description": "Creemos que un gran software debería funcionar para todos, en cualquier dispositivo. Nuestros proyectos están meticulosamente diseñados para la compatibilidad multiplataforma y la accesibilidad desde el principio."
+        },
+        {
+          "title": "Pulido y Eficiente",
+          "description": "Ofrecemos experiencias completas y altamente optimizadas. Nuestro enfoque en una arquitectura limpia y pruebas rigurosas garantiza que cada producto sea estable, eficiente y esté listo para disfrutar desde el primer día."
+        },
+        {
+          "title": "Diseño Intuitivo",
+          "description": "Creemos que un software potente no tiene por qué ser complicado. Nuestra pasión radica в la creación de interfaces limpias e intuitivas que hacen que cada interacción sea sencilla y agradable."
+        },
+        {
+          "title": "Impulsado por la Innovación",
+          "description": "Construimos con el futuro en mente. Al aprovechar lo último en tecnología de software y hardware, creamos productos con visión de futuro y una funcionalidad potente y de vanguardia."
+        },
+        {
+          "title": "Soporte Dedicado",
+          "description": "Nuestra relación no termina con la descarga. Ofrecemos un soporte amigable y receptivo directamente de nuestro equipo para garantizar que siempre tengas una gran experiencia con nuestros productos."
+        },
+        {
+          "title": "Artesanía Meticulosa",
+          "description": "Creemos que la excelencia reside en los detalles. Desde el primer concepto hasta la última línea de código, cada elemento de nuestro trabajo está cuidadosamente planificado y ejecutado con precisión para un producto final impecable."
+        }
+      ]
+    },
+    "testimonials-page": {
+      "title": "Testimonios",
+      "subheader": "Vea lo que a nuestros clientes, desarrolladores y probadores les encanta de nuestros productos.",
+      "testimonial": [
+        {
+          "name": "Michael Schenk",
+          "occupation": "Desarrollador",
+          "testimonial": "¡Me encanta lo versátil que es este producto! Ya sea que esté abordando proyectos de trabajo o disfrutando de mis pasatiempos favoritos, se adapta perfectamente a mis necesidades cambiantes. Su diseño intuitivo realmente ha mejorado mi rutina diaria, haciendo las tareas más eficientes y agradables."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Desarrollador",
+          "testimonial": "Una de las características más destacadas de este producto es el excepcional soporte al cliente. En mi experiencia, el equipo detrás de este producto ha respondido rápidamente y ha sido increíblemente útil. Es tranquilizador saber que respaldan firmemente su producto."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Desarrollador",
+          "testimonial": "El nivel de simplicidad y facilidad de uso de este producto ha simplificado significativamente mi vida. Agradezco a los creadores por ofrecer una solución que no solo cumple, sino que supera las expectativas del usuario."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Desarrollador",
+          "testimonial": "Aprecio la atención al detalle en el diseño de este producto. Los pequeños detalles marcan una gran diferencia, y es evidente que los creadores se centraron en ofrecer una experiencia premium."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Desarrollador",
+          "testimonial": "He probado otros productos similares, pero este se destaca por sus características innovadoras. Está claro que los creadores pensaron mucho en crear una solución que realmente aborde las necesidades del usuario."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Desarrollador",
+          "testimonial": "La calidad de este producto superó mis expectativas. Es duradero, está bien diseñado y construido para durar. Definitivamente vale la pena la inversión."
+        }
+      ]
+    },
+    "mode": {
+      "system": "Sistema",
+      "light": "Claro",
+      "dark": "Oscuro"
     }
   }
 }

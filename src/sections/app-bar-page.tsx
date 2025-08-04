@@ -1,4 +1,4 @@
-import { availableLanguages } from '../utils/strings/available-languages';
+import { availableLanguages } from '../utils/languages/available-languages';
 import LanguageSelectorDropdown from '../theme/language-selector-dropdown';
 import ColorModeIconDropdown from '../theme/mode-icon-dropdown';
 import CloseRoundedIcon from '@mui/icons-material/CloseRounded';

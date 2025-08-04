@@ -5,8 +5,8 @@ import RemoveRoundedIcon from '@mui/icons-material/RemoveRounded';
 import { toggleButtonClasses } from '@mui/material/ToggleButton';
 import { alpha, Theme, Components } from '@mui/material/styles';
 import CheckRoundedIcon from '@mui/icons-material/CheckRounded';
-import { svgIconClasses } from '@mui/material/SvgIcon';
 import { gray, brand } from '../../utils/themePrimitives';
+import { svgIconClasses } from '@mui/material/SvgIcon';
 
 /* eslint-disable import/prefer-default-export */
 export const inputsCustomizations: Components<Theme> = {

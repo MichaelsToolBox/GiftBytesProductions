@@ -10,6 +10,7 @@ import Box from '@mui/material/Box';
 import * as React from 'react';
 
 export default function FAQ() {
+  // i18n Translation
   const { t } = useTranslation();
 
   const [expanded, setExpanded] = React.useState<string[]>([]);
