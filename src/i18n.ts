@@ -77,7 +77,7 @@ import sr from './locales/sr.json'; // Missing Serbian
 // import si from './locales/si.json'; // Missing Sinhala
 import sk from './locales/sk.json'; // Missing Slovak
 import sl from './locales/sl.json'; // Missing Slovenian
-// import so from './locales/so.json'; // Missing Somali
+import so from './locales/so.json'; // Missing Somali
 import es from './locales/es.json';
 // import su from './locales/su.json'; // Missing Sundanese
 // import sw from './locales/sw.json'; // Missing Swahili
@@ -119,7 +119,7 @@ i18n
       // sn, sd, si, 
       sk, 
       sl,
-      // so, 
+      so, 
       es, 
       // su, sw, 
       sv, 

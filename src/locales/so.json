@@ -1,0 +1,198 @@
+{
+  "translation": {
+    "app-bar": {
+      "projects": "Mashruucyo",
+      "principles": "Mabaadi'da",
+      "download": "Soo dejiso",
+      "latest": "Ugu dambeeyay",
+      "testimonials": "Marqaatiyo",
+      "faq": "Su'aalaha Inta badan la Isweydiiyo"
+    },
+    "hero-page": {
+      "subtitle": "Waxaan nahay istuudiyo horumarineed oo hal abuur leh oo fadhigeedu yahay Jarmalka oo ka faa'iideysanaya tikniyoolajiyaddii ugu dambeysay si loo farsameeyo ciyaaraha fiidiyowga ee soo jiidashada leh oo la heli karo, barnaamijyada, iyo waayo-aragnimada warbaahinta ee qof walba.",
+      "gift": "Gift",
+      "bytes": "Bytes",
+      "productions": "Productions"
+    },
+    "download-page": {
+      "title": "Soo dejiso",
+      "subtitle": "Halkan waxaad ka soo dejisan kartaa oo ka eegi kartaa mashaariicdeena"
+    },
+    "tiers": {
+      "title1": "Diiwaanada Horumarinta",
+      "price1": "Bilaash",
+      "subheader1": "La heli karo",
+      "description10": "Soo saarista fiidiyowga tayada istuudiyaha",
+      "description11": "Si qoto dheer u dhex gal koodhkayaga iyo naqshadeena",
+      "description12": "Isdhexgalka tooska ah ee horumariyayaashayada",
+      "description13": "Laga heli karo adduunka oo dhan YouTube-ka",
+      "buttontext1": "Isdiiwaangeli Bilaash ah",
+      "title2": "TouchSlider",
+      "price2": "Bilaash",
+      "subheader2": "Lagu taliyay",
+      "description20": "Laga heli karo IOS iyo Android",
+      "description21": "Bilaash in lagu ciyaaro iyada oo aan lahayn kharash qarsoon",
+      "description22": "Wuxuu taageeraa aaladaha mobilada duugga ah",
+      "description23": "Ciyaar fudud wakhti kasta iyo maalin kasta",
+      "description24": "Lagu soo bandhigay diiwaanada horumarinta",
+      "description25": "Taageero",
+      "buttontext21": "Soo dejiso IOS",
+      "buttontext22": "Soo dejiso Android",
+      "title3": "Mashruuc soo socda",
+      "price3": "Bilaash",
+      "subheader3": "Soconaya",
+      "description30": "Laga heli karo Windows, Macos iyo Linux",
+      "description31": "Qaybinta iyada oo loo marayo Steam iyo Apple Store",
+      "description32": "Laga heli karo luqado kala duwan",
+      "description33": "Taageero",
+      "buttontext3": "Waa la shaacin doonaa"
+    },
+    "faq": {
+      "title": "Su'aalaha Inta badan la Isweydiiyo",
+      "subtitle1": "Sideen ula xiriiri karaa taageerada macaamiisha haddii aan qabo su'aal ama arrin",
+      "description1": "Waxaad la xiriiri kartaa kooxdayada taageerada macaamiisha adoo iimayl u diraya: ",
+      "subtitle2": "Maxaa ka dhigaya badeecadaada mid ka duwan kuwa kale ee suuqa?",
+      "description2": "Badeecadeenu waxay isku soocdaa la qabsigeeda, cimri dhererkeeda, iyo astaamaheeda cusub. Waxaan mudnaanta siinaa qanacsanaanta isticmaalaha waxaanan si joogto ah u dadaalnaa inaan ka sarrayno waxa laga filayo dhinac kasta.",
+      "subtitle3": "Sideen u taageeri karaa GiftBytesProductions?",
+      "description3": "Waxaad horeyba noo caawineysaa adoo isku dayaya mashaariicdeena oo aad ku talineysaa. Haddii kale waxaad iska diiwaan gelin kartaa kanaalkayaga YouTube-ka oo aad la falgeli kartaa bulshada. Taageero dheeri ah waxaad sidoo kale noogu deeqi kartaa si toos ah PayPal."
+    },
+    "feature-page": {
+      "title": "Astaamaha",
+      "subheader": "Sahami astaamaha awooda badan ee ka dhigaya barnaamijkeena mid ka dhex muuqda.",
+      "items": [
+        {
+          "title": "Naqshad Mobilka-koowaad ah",
+          "description": "Barnaamijkeena waxaa loo qaabeeyey qaab mobilka-koowaad ah, taasoo hubineysa khibrad aan kala go' lahayn qalab kasta."
+        },
+        {
+          "title": "Dashboard Dareen ah",
+          "description": "Dashboard nadiif ah oo habaysan oo ku siinaya aragti dhammaystiran hal mar."
+        },
+        {
+          "title": "Iswaafajinta Qalabka-dhexdiisa",
+          "description": "Ku raaxayso khibrad joogto ah oo awood badan haddii aad ku jirto kombiyuutar, kiniin, ama taleefan casri ah."
+        }
+      ]
+    },
+    "footer-page": {
+      "left-title": "Ku soo biir bulshadeena",
+      "left-button": "Isdiiwaangeli",
+      "policy": "Siyaasadda Asturnaanta",
+      "terms": "Shuruudaha Adeegga",
+      "copyright": "Xuquuqda daabacaadda © ",
+      "giftbytes": "GiftBytesProductions"
+    },
+    "latest-page": {
+      "title": "Ugu dambeeyay",
+      "article": [
+        {
+          "tag": "Mashruucyo",
+          "title": "Ogeysiis Mashruuc Cusub",
+          "description": "Waxaan ogeysiineynaa in mashruuceena cusub uu noqon doono ciyaar fiidiyow kombiyuutar oo bilaash ah oo laga heli doono dhammaan nidaamyada hawlgalka iyo baraha.",
+          "author": "Michael Schenk, Horumariye"
+        },
+        {
+          "tag": "Websaydh",
+          "title": "Websaydh cusub",
+          "description": "Waxaan ogeysiineynaa in websaydhkeena uu ugu dambeyntii hawada ku jiro oo uu yahay mid dadweyne.",
+          "author": "Michael Schenk, Horumariye"
+        },
+        {
+          "tag": "Mashruucyo",
+          "title": "TouchSlider waa hawada ku jiraa",
+          "description": "Waxaan ogeysiineynaa in ciyaarteena fiidiyowga mobilka ee TouchSlider laga heli karo IOS iyo Android si bilaash ah loo soo dejisto.",
+          "author": "Michael Schenk, Horumariye"
+        },
+        {
+          "tag": "Shirkad",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Horumariye"
+        },
+        {
+          "tag": "Injineernimo",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Horumariye"
+        },
+        {
+          "tag": "Badeecad",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Horumariye"
+        }
+      ]
+    },
+    "principles-page": {
+      "title": "Mabaadi'deena",
+      "subheader": "Qiimayaashani waxay udub dhexaad u yihiin wax kasta oo aan dhisno, laga soo bilaabo sadarka koowaad ee koodhka ilaa khibrada ugu dambeysa ee isticmaalaha.",
+      "items": [
+        {
+          "title": "Laga Heli karo Meel Kasta",
+          "description": "Waxaan aaminsanahay in software-ka weyn uu u shaqeeyo qof kasta, qalab kasta. Mashaariicdeena waxaa si taxadar leh loogu farsameeyey iswaafajinta baraha-dhexdiisa iyo helitaanka laga soo bilaabo salka."
+        },
+        {
+          "title": "Dhalaalsan & Waxqabad leh",
+          "description": "Waxaan bixinaa khibrado dhammaystiran oo si heer sare ah loo habeeyey. Diiraddeena saaran qaab-dhismeedka nadiifka ah iyo tijaabada adag waxay hubineysaa in badeecad kasta ay tahay mid deggan, waxqabad leh, oo diyaar u ah in lagu raaxaysto laga bilaabo maalinta koowaad."
+        },
+        {
+          "title": "Naqshad Dareen ah",
+          "description": "Waxaan aaminsanahay in software-ka awooda badan uusan u baahnayn inuu noqdo mid adag. Hamigeenu wuxuu ku jiraa farsamaynta isdhexgalyo nadiif ah, oo dareen ah oo ka dhigaya isdhexgal kasta mid toos ah oo lagu raaxaysto."
+        },
+        {
+          "title": "Awood ka helay Hal-abuur",
+          "description": "Waxaan dhisnaa anagoo maskaxda ku hayna mustaqbalka. Anagoo ka faa'iideysaneyna software-kii iyo hardware-kii ugu dambeeyey, waxaan abuurnaa badeecado mustaqbalka eegaya oo leh shaqeyn awood badan, oo casri ah."
+        },
+        {
+          "title": "Taageero Gaar ah",
+          "description": "Xiriirkeenu kuma eka soo dejinta. Waxaan bixinaa taageero saaxiibtinimo leh, oo degdeg ah si toos ah uga timid kooxdayada si aan u hubino inaad had iyo jeer khibrad weyn ka hesho badeecadaheena."
+        },
+        {
+          "title": "Farsamo Taxadar leh",
+          "description": "Waxaan aaminsanahay in heer sarraysa ay ku jirto faahfaahinta. Laga soo bilaabo fikradda koowaad ilaa sadarka ugu dambeeya ee koodhka, cunsur kasta oo shaqadeena ah waxaa si feker leh loo qorsheeyey oo si sax ah loo fuliyey si loo helo badeecad kama dambays ah oo aan cillad lahayn."
+        }
+      ]
+    },
+    "testimonials-page": {
+      "title": "Marqaatiyo",
+      "subheader": "Eeg waxa ay macaamiisheena, horumariyayaashayada iyo tijaabiyayaashayadu ka jecel yihiin badeecadaheena.",
+      "testimonial": [
+        {
+          "name": "Michael Schenk",
+          "occupation": "Horumariye",
+          "testimonial": "Runtii waan jeclahay sida badeecadani u tahay mid wax badan qaban karta! Haddii aan la tacaalayo mashaariic shaqo ama aan ku raaxaysanayo hiwaayadahayga aan jeclahay, waxay si aan kala go' lahayn ula qabsaneysaa baahiyahayga isbeddelaya. Naqshadeeda dareenka ah waxay si dhab ah u wanaajisay nolol maalmeedkayga, iyadoo ka dhigtay hawlaha kuwo waxtar badan oo lagu raaxaysto."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Horumariye",
+          "testimonial": "Mid ka mid ah astaamaha ugu muhiimsan ee badeecadani waa taageerada macaamiisha ee aan caadiga ahayn. Khibraddayda, kooxda ka dambeysa badeecadani waxay ahayd mid degdeg u jawaabta oo si cajiib ah u caawisa. Waa wax lagu kalsoonaan karo in la ogaado inay si adag uga dambeeyaan badeecadooda."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Horumariye",
+          "testimonial": "Heerka fudaydka iyo saaxiibtinimada isticmaalaha ee badeecadani waxay si weyn u fududeysay noloshayda. Waxaan u mahadcelinayaa abuurayaasha bixinta xal aan kaliya la kulmin, laakiin ka sarrayn waxa laga filayo isticmaalaha."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Horumariye",
+          "testimonial": "Waan ku mahadsanahay fiiro gaar ah oo la siiyey faahfaahinta naqshadda badeecadani. Taabashooyinka yaryar waxay sameeyaan farqi weyn, waana iska cadahay in abuurayaashu ay diiradda saareen bixinta khibrad heer sare ah."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Horumariye",
+          "testimonial": "Waxaan isku dayey badeecado kale oo la mid ah, laakiin tani waxay ku fican tahay astaamaheeda cusub. Waa iska cadahay in sameeyayaashu ay feker badan geliyeen abuurista xal si dhab ah ula tacaalaya baahiyaha isticmaalaha."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Horumariye",
+          "testimonial": "Tayada badeecadani waxay ka sarraysay waxa aan filayey. Waa mid adkeysi leh, si wanaagsan loo naqshadeeyey, oo loo dhisay inay raagto. Xaqiiqdii waa u qalantaa maalgashiga."
+        }
+      ]
+    },
+    "mode": {
+      "system": "Nidaam",
+      "light": "Iftiin",
+      "dark": "Madow"
+    }
+  }
+}
