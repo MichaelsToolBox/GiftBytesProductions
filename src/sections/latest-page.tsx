@@ -90,7 +90,7 @@ export default function Latest() {
   return (
     <Container maxWidth="lg" component="main" sx={{ display: 'flex', flexDirection: 'column', my: 16, gap: 4 }}>
       <Typography variant="h2" gutterBottom>
-        {t("lates-page.title")}
+        {t("latest-page.title")}
       </Typography>
       <Grid container spacing={8} columns={12} sx={{ my: 4 }}>
         {articleInfo.map((article, index) => (
