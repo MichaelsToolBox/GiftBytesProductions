@@ -1,0 +1,198 @@
+{
+  "translation": {
+    "app-bar": {
+      "projects": "Kaupapa",
+      "principles": "Ngā PORO",
+      "download": "Tango",
+      "latest": "Ina noa nei",
+      "testimonials": "Tuhinga",
+      "faq": "FQ"
+    },
+    "hero-page": {
+      "subtitle": "Ko matou te whanaketanga whanaketanga o te studive-a-Tiamana e whakamahi ana i nga hangarau hou ki te mahi i nga taakaro ataata me te waatea, nga taupānga me nga wheako pāpāho mo te katoa",
+      "gift": "Koha",
+      "bytes": "Kirita",
+      "productions": "Whakaputuku"
+    },
+    "download-page": {
+      "title": "Tango",
+      "subtitle": "I konei ka taea e koe te tango me te tiro i o maatau kaupapa"
+    },
+    "tiers": {
+      "title1": "Rangahau dev",
+      "price1": " Marere",
+      "subheader1": "Reri",
+      "description10": "Hangaia Ataata Ataata-kounga",
+      "description11": "Ko nga taarua hohonu ki roto i ta maatau waehere me te hoahoa",
+      "description12": "Te taunekeneke tika me o maatau kaihanga",
+      "description13": "Ka taea e te ao i te YouTube",
+      "buttontext1": "Iti",
+      "title2": "TouchLider",
+      "price2": "Marere",
+      "subheader2": "Taunakitia",
+      "description20": "Kei te waatea i runga i te iOS me te Android '",
+      "description21": "Kore utu ki te takaro me te kore utu huna",
+      "description22": "Ka tautokohia nga taputapu pūkoro tawhito",
+      "description23": "Kēmu ngawari mo tetahi wa me te ra",
+      "description24": "I whakaatuhia i roto i nga raarangi dev",
+      "description25": "Tautoko",
+      "buttontext21": "Tango iOS",
+      "buttontext22": "Tangohia te Android",
+      "title3": "Kaupapa Uption",
+      "price3": "Marere",
+      "subheader3": "I te ahunga whakamua",
+      "description30": "Kei te waatea mo te Matapihi, Macos me Linux",
+      "description31": "Te tohatoha i te Steam me te Toa Toa",
+      "description32": "Ka uru atu ki nga reo maha",
+      "description33": "Tautoko",
+      "buttontext3": "Kia whakaputahia"
+    },
+    "faq": {
+      "title": "Nga Pātai Auau",
+      "subtitle1": "Me pehea e whakapā atu ai ahau ki te Tautoko Kaihoko mehemea kei a au tetahi patai, he take ranei",
+      "description1": "Ka taea e koe te tae atu ki ta maatau roopu tautoko a te kaihoko ma te imeera: ",
+      "subtitle2": "He aha te mea ka puta to hua mai i etahi atu i te maakete?",
+      "description2": "Ko ta maatau hua e wehe ana i tana whakatikatika, te pupuri, me nga mahi auaha. ",
+      "subtitle3": "Me pehea e taea ai e au te tautoko i nga taonga takoha?",
+      "description3": "Kei te awhina koe i a maatau ma te tarai i a maatau kaupapa me te tūtohu. "
+    },
+    "feature-page": {
+      "title": "Ngakau",
+      "subheader": "Tirohia nga waahanga kaha e puta ai to maatau tono.",
+      "items": [
+        {
+          "title": "Hoahoa pūkoro-tuatahi",
+          "description": "Ko ta maatau taupānga i hangaia me te huarahi pūkoro-tuatahi, ko te whakarite i te wheako korekore ki tetahi taputapu."
+        },
+        {
+          "title": "Papatohu Intuitive",
+          "description": "He papa papatohu me te whakarite kia pai ai te tirohanga ki a koe."
+        },
+        {
+          "title": "Te hototahi-whakawhiti",
+          "description": "Kia pai ki te wheako me te kaha ki te kaha mehemea kei runga koe i te papamahi, papa, atamai ranei."
+        }
+      ]
+    },
+    "footer-page": {
+      "left-title": "Whakauru atu ki to tatou hapori",
+      "left-button": "Ohauru",
+      "policy": "Kaupapa here tūmataiti",
+      "terms": "Nga tikanga o te Ratonga",
+      "copyright": "Mana pupuri © ",
+      "giftbytes": "Te koha"
+    },
+    "latest-page": {
+      "title": "Ina noa nei",
+      "article": [
+        {
+          "tag": "Kaupapa",
+          "title": "Whakapuakanga Kaupapa Hou",
+          "description": "Ka panui matou ko ta maatau kaupapa hou he koreutu ki te takaro i te kēmu ataata papamahi e waatea ana i runga i nga punaha whakahaere me nga papaaho",
+          "author": "Michael Schenk, Kaiwhakawhanake"
+        },
+        {
+          "tag": "Paetukutuku",
+          "title": "Paetukutuku hou",
+          "description": "Ka panui matou ko ta maatau paetukutuku te ora me te iwi whanui",
+          "author": "Michael Schenk, Kaiwhakawhanake"
+        },
+        {
+          "tag": "Kaupapa",
+          "title": "Kei te ora te pa roa",
+          "description": "Ka panui matou kei te waatea noa to maatau paetukutuku paikete ataata ataata mo te iOS me te Android hei tango noa",
+          "author": "Michael Schenk, Kaiwhakawhanake"
+        },
+        {
+          "tag": "Matua",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Kaiwhakawhanake"
+        },
+        {
+          "tag": "Hi",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Kaiwhakawhanake"
+        },
+        {
+          "tag": "Hua",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Kaiwhakawhanake"
+        }
+      ]
+    },
+    "principles-page": {
+      "title": "To tatou mau parau tumu",
+      "subheader": "Ko enei uara kei te ngakau o nga mea katoa e hanga ana e matou, mai i te raina tuatahi o te waehere ki te wheako kaiwhakamahi whakamutunga",
+      "items": [
+        {
+          "title": "Uru ki nga waahi katoa",
+          "description": "Te ti'aturi nei matou me mahi te raupaparorohiko mo te katoa, i runga i tetahi taputapu. "
+        },
+        {
+          "title": "Whakakore & he mahi",
+          "description": "Ka tukuna e matou he wheako tino pai me te tino arotau. "
+        },
+        {
+          "title": "Te whakaaro nui",
+          "description": "Ki ta matou whakapono kaore e tino uaua te kaupapa rorohiko. "
+        },
+        {
+          "title": "Ka waihangahia e te whakahoutanga",
+          "description": "Ka hangaia e matou me te heke mai. "
+        },
+        {
+          "title": "Tautoko Tautoko",
+          "description": "Kaore e mutu to tatou whanaungatanga i te download. "
+        },
+        {
+          "title": "Mahi toi kore",
+          "description": "Te ti'aturi nei matou i te hirahira i roto i nga korero. "
+        }
+      ]
+    },
+    "testimonials-page": {
+      "title": "Tuhinga",
+      "subheader": "Tirohia nga mea e aroha ana a maatau kaihoko, nga kaiwhakawhanake me nga Kaihauturu mo o taatau hua",
+      "testimonial": [
+        {
+          "name": "Michael Schenk",
+          "occupation": "Tangata tūhurai",
+          "testimonial": "He tino aroha ahau ki te pehea o tenei hua! "
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Tangata tūhurai",
+          "testimonial": "Ko tetahi waahanga o nga ahuatanga o tenei hua ko te tautoko a nga kaihoko motuhake. "
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Tangata tūhurai",
+          "testimonial": "Ko te taumata o te ngawari me te hoa-a-kaiwhakamahi i roto i tenei hua kua tino pai ake taku oranga. "
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Tangata tūhurai",
+          "testimonial": "He maioha ahau ki te aro ki nga korero taipitopito i roto i te hoahoa o tenei hua. "
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Tangata tūhurai",
+          "testimonial": "Kua whakamatauria e au etahi atu hua rite, engari ko tenei tetahi e tu ana mo ana ahuatanga hou. "
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Tangata tūhurai",
+          "testimonial": "Ko te kounga o tenei hua i nui ake i aku tumanako. "
+        }
+      ]
+    },
+    "mode": {
+      "system": "Pūnaha",
+      "light": "Taimāmā",
+      "dark": "Wheuri"
+    }
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "translation": {
+    "app-bar": {
+      "projects": "Projek",
+      "principles": "Prinsip",
+      "download": "Muat Turun",
+      "latest": "Terkini",
+      "testimonials": "Testimoni",
+      "faq": "Soalan Lazim"
+    },
+    "hero-page": {
+      "subtitle": "Kami adalah studio pembangunan kreatif yang berpangkalan di Jerman yang memanfaatkan teknologi terkini untuk mencipta permainan video, aplikasi, dan pengalaman media yang menawan dan boleh diakses oleh semua orang.",
+      "gift": "Gift",
+      "bytes": "Bytes",
+      "productions": "Productions"
+    },
+    "download-page": {
+      "title": "Muat Turun",
+      "subtitle": "Di sini anda boleh memuat turun dan melihat projek kami"
+    },
+    "tiers": {
+      "title1": "Log Pembangun",
+      "price1": "Percuma",
+      "subheader1": "Tersedia",
+      "description10": "Pengeluaran video berkualiti studio",
+      "description11": "Penerokaan mendalam ke dalam kod dan reka bentuk kami",
+      "description12": "Interaksi langsung dengan pembangun kami",
+      "description13": "Boleh diakses di seluruh dunia di YouTube",
+      "buttontext1": "Langganan Percuma",
+      "title2": "TouchSlider",
+      "price2": "Percuma",
+      "subheader2": "Disyorkan",
+      "description20": "Tersedia di IOS dan Android",
+      "description21": "Percuma untuk bermain tanpa kos tersembunyi",
+      "description22": "Menyokong peranti mudah alih lama",
+      "description23": "Permainan mudah untuk bila-bila masa dan hari",
+      "description24": "Dipersembahkan dalam log pembangun",
+      "description25": "Sokongan",
+      "buttontext21": "Muat Turun IOS",
+      "buttontext22": "Muat Turun Android",
+      "title3": "Projek Akan Datang",
+      "price3": "Percuma",
+      "subheader3": "Sedang dijalankan",
+      "description30": "Tersedia untuk Windows, MacOS dan Linux",
+      "description31": "Pengedaran melalui Steam dan Apple Store",
+      "description32": "Boleh diakses dalam pelbagai bahasa",
+      "description33": "Sokongan",
+      "buttontext3": "Akan diumumkan"
+    },
+    "faq": {
+      "title": "Soalan Lazim",
+      "subtitle1": "Bagaimana cara saya menghubungi sokongan pelanggan jika saya mempunyai soalan atau masalah?",
+      "description1": "Anda boleh menghubungi pasukan sokongan pelanggan kami dengan menghantar e-mel ke: ",
+      "subtitle2": "Apakah yang membezakan produk anda daripada yang lain di pasaran?",
+      "description2": "Produk kami membezakan dirinya melalui kebolehsuaian, ketahanan, dan ciri-ciri inovatifnya. Kami mengutamakan kepuasan pengguna dan sentiasa berusaha untuk melebihi jangkaan dalam setiap aspek.",
+      "subtitle3": "Bagaimana saya boleh menyokong GiftBytesProductions?",
+      "description3": "Anda sudah pun membantu kami dengan hanya mencuba projek kami dan mengesyorkannya. Selain itu, anda boleh melanggan saluran YouTube kami dan berinteraksi dengan komuniti. Untuk sokongan tambahan, anda juga boleh menderma terus kepada kami melalui PayPal."
+    },
+    "feature-page": {
+      "title": "Ciri-ciri",
+      "subheader": "Terokai ciri-ciri hebat yang menjadikan aplikasi kami menonjol.",
+      "items": [
+        {
+          "title": "Reka Bentuk Mudah Alih-Dahulu",
+          "description": "Aplikasi kami direka bentuk dengan pendekatan mudah alih-dahulu, memastikan pengalaman yang lancar pada mana-mana peranti."
+        },
+        {
+          "title": "Papan Pemuka Intuitif",
+          "description": "Papan pemuka yang bersih dan teratur yang memberi anda gambaran keseluruhan yang lengkap sepintas lalu."
+        },
+        {
+          "title": "Keserasian Merentas Peranti",
+          "description": "Nikmati pengalaman yang konsisten dan hebat sama ada anda menggunakan desktop, tablet atau telefon pintar."
+        }
+      ]
+    },
+    "footer-page": {
+      "left-title": "Sertai komuniti kami",
+      "left-button": "Langgan",
+      "policy": "Dasar Privasi",
+      "terms": "Syarat Perkhidmatan",
+      "copyright": "Hak Cipta © ",
+      "giftbytes": "GiftBytesProductions"
+    },
+    "latest-page": {
+      "title": "Terkini",
+      "article": [
+        {
+          "tag": "Projek",
+          "title": "Pengumuman projek baru",
+          "description": "Kami mengumumkan bahawa projek baru kami akan menjadi permainan video desktop percuma yang akan tersedia pada semua sistem operasi dan platform.",
+          "author": "Michael Schenk, Pembangun"
+        },
+        {
+          "tag": "Laman Web",
+          "title": "Laman web baru",
+          "description": "Kami mengumumkan bahawa laman web kami akhirnya disiarkan secara langsung dan umum.",
+          "author": "Michael Schenk, Pembangun"
+        },
+        {
+          "tag": "Projek",
+          "title": "TouchSlider disiarkan secara langsung",
+          "description": "Kami mengumumkan bahawa permainan video mudah alih kami TouchSlider tersedia untuk dimuat turun secara percuma di IOS dan Android.",
+          "author": "Michael Schenk, Pembangun"
+        },
+        {
+          "tag": "Syarikat",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Pembangun"
+        },
+        {
+          "tag": "Kejuruteraan",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Pembangun"
+        },
+        {
+          "tag": "Produk",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Pembangun"
+        }
+      ]
+    },
+    "principles-page": {
+      "title": "Prinsip Kami",
+      "subheader": "Nilai-nilai ini adalah teras kepada semua yang kami bina, dari baris kod pertama hingga pengalaman pengguna akhir.",
+      "items": [
+        {
+          "title": "Boleh Diakses Di Mana-mana",
+          "description": "Kami percaya perisian yang hebat harus berfungsi untuk semua orang, pada mana-mana peranti. Projek kami direka bentuk dengan teliti untuk keserasian merentas platform dan kebolehcapaian dari awal."
+        },
+        {
+          "title": "Digilap & Berprestasi",
+          "description": "Kami menyampaikan pengalaman yang lengkap dan sangat dioptimumkan. Tumpuan kami pada seni bina yang bersih dan ujian yang ketat memastikan setiap produk adalah stabil, berprestasi, dan sedia untuk dinikmati dari hari pertama."
+        },
+        {
+          "title": "Reka Bentuk Intuitif",
+          "description": "Kami percaya perisian yang berkuasa tidak semestinya rumit. Keghairahan kami terletak pada mencipta antara muka yang bersih dan intuitif yang menjadikan setiap interaksi mudah dan menyeronokkan."
+        },
+        {
+          "title": "Dikuasakan oleh Inovasi",
+          "description": "Kami membina dengan memikirkan masa depan. Dengan memanfaatkan teknologi perisian dan perkakasan terkini, kami mencipta produk yang berfikiran ke hadapan dengan fungsi yang berkuasa dan canggih."
+        },
+        {
+          "title": "Sokongan Dedikasi",
+          "description": "Hubungan kami tidak berakhir dengan muat turun. Kami menyediakan sokongan yang mesra dan responsif terus daripada pasukan kami untuk memastikan anda sentiasa mempunyai pengalaman yang hebat dengan produk kami."
+        },
+        {
+          "title": "Ketukangan Teliti",
+          "description": "Kami percaya kecemerlangan terletak pada butiran. Dari konsep pertama hingga baris kod terakhir, setiap elemen kerja kami dirancang dengan teliti dan dilaksanakan dengan tepat untuk produk akhir yang sempurna."
+        }
+      ]
+    },
+    "testimonials-page": {
+      "title": "Testimoni",
+      "subheader": "Lihat apa yang disukai oleh pelanggan, pembangun dan penguji kami tentang produk kami.",
+      "testimonial": [
+        {
+          "name": "Michael Schenk",
+          "occupation": "Pembangun",
+          "testimonial": "Saya sangat suka betapa serba bolehnya produk ini! Sama ada saya menangani projek kerja atau menikmati hobi kegemaran saya, ia menyesuaikan diri dengan lancar dengan keperluan saya yang berubah-ubah. Reka bentuknya yang intuitif benar-benar telah meningkatkan rutin harian saya, menjadikan tugas lebih cekap dan menyeronokkan."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Pembangun",
+          "testimonial": "Salah satu ciri menonjol produk ini ialah sokongan pelanggan yang luar biasa. Dalam pengalaman saya, pasukan di sebalik produk ini cepat bertindak balas dan sangat membantu. Adalah meyakinkan untuk mengetahui bahawa mereka berdiri teguh di belakang produk mereka."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Pembangun",
+          "testimonial": "Tahap kesederhanaan dan kemesraan pengguna dalam produk ini telah mempermudahkan hidup saya dengan ketara. Saya menghargai pencipta kerana menyampaikan penyelesaian yang bukan sahaja memenuhi, tetapi melebihi jangkaan pengguna."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Pembangun",
+          "testimonial": "Saya menghargai perhatian terhadap perincian dalam reka bentuk produk ini. Sentuhan kecil membuat perbezaan besar, dan jelas bahawa pencipta memberi tumpuan untuk menyampaikan pengalaman premium."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Pembangun",
+          "testimonial": "Saya telah mencuba produk lain yang serupa, tetapi yang ini menonjol kerana ciri-ciri inovatifnya. Jelas sekali bahawa pembuatnya banyak berfikir untuk mencipta penyelesaian yang benar-benar menangani keperluan pengguna."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Pembangun",
+          "testimonial": "Kualiti produk ini melebihi jangkaan saya. Ia tahan lama, direka bentuk dengan baik, dan dibina untuk bertahan lama. Pasti berbaloi dengan pelaburan."
+        }
+      ]
+    },
+    "mode": {
+      "system": "Sistem",
+      "light": "Cerah",
+      "dark": "Gelap"
+    }
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "translation": {
+    "app-bar": {
+      "projects": "Projektai",
+      "principles": "Principai",
+      "download": "Atsisiųsti",
+      "latest": "Naujausi",
+      "testimonials": "Atsiliepimai",
+      "faq": "DUK"
+    },
+    "hero-page": {
+      "subtitle": "Mes esame Vokietijoje įsikūrusi kūrybinės plėtros studija, kuri naudoja naujausias technologijas kurdama patrauklius ir prieinamus vaizdo žaidimus, programas ir medijos patirtis visiems.",
+      "gift": "Gift",
+      "bytes": "Bytes",
+      "productions": "Productions"
+    },
+    "download-page": {
+      "title": "Atsisiųsti",
+      "subtitle": "Čia galite atsisiųsti ir peržiūrėti mūsų projektus"
+    },
+    "tiers": {
+      "title1": "Kūrimo žurnalai",
+      "price1": "Nemokamai",
+      "subheader1": "Prieinama",
+      "description10": "Studijos kokybės vaizdo įrašų gamyba",
+      "description11": "Gilios įžvalgos į mūsų kodą ir dizainą",
+      "description12": "Tiesioginis bendravimas su mūsų kūrėjais",
+      "description13": "Prieinama visame pasaulyje „YouTube“",
+      "buttontext1": "Nemokama prenumerata",
+      "title2": "TouchSlider",
+      "price2": "Nemokamai",
+      "subheader2": "Rekomenduojama",
+      "description20": "Prieinama IOS ir Android",
+      "description21": "Žaisti nemokamai be paslėptų mokesčių",
+      "description22": "Palaiko senus mobiliuosius įrenginius",
+      "description23": "Paprastas žaidimas bet kuriam laikui ir dienai",
+      "description24": "Pristatoma kūrimo žurnaluose",
+      "description25": "Pagalba",
+      "buttontext21": "Atsisiųsti IOS",
+      "buttontext22": "Atsisiųsti Android",
+      "title3": "Būsimas projektas",
+      "price3": "Nemokamai",
+      "subheader3": "Vykdoma",
+      "description30": "Prieinama „Windows“, „MacOS“ ir „Linux“",
+      "description31": "Platinimas per „Steam“ ir „Apple Store“",
+      "description32": "Prieinama įvairiomis kalbomis",
+      "description33": "Pagalba",
+      "buttontext3": "Bus paskelbta"
+    },
+    "faq": {
+      "title": "Dažnai užduodami klausimai",
+      "subtitle1": "Kaip susisiekti su klientų aptarnavimo tarnyba, jei turiu klausimų ar problemų?",
+      "description1": "Su mūsų klientų aptarnavimo komanda galite susisiekti el. paštu: ",
+      "subtitle2": "Kuo jūsų produktas išsiskiria iš kitų rinkoje?",
+      "description2": "Mūsų produktas išsiskiria savo pritaikomumu, ilgaamžiškumu ir naujoviškomis savybėmis. Mes teikiame pirmenybę vartotojų pasitenkinimui ir nuolat stengiamės viršyti lūkesčius visais aspektais.",
+      "subtitle3": "Kaip galiu palaikyti „GiftBytesProductions“?",
+      "description3": "Jūs jau mums padedate tiesiog išbandydami mūsų projektus ir juos rekomenduodami. Kitu atveju galite prenumeruoti mūsų „YouTube“ kanalą ir bendrauti su bendruomene. Norėdami gauti papildomos paramos, taip pat galite tiesiogiai paaukoti mums per „PayPal“."
+    },
+    "feature-page": {
+      "title": "Savybės",
+      "subheader": "Ištirkite galingas funkcijas, kurios išskiria mūsų programą.",
+      "items": [
+        {
+          "title": "Dizainas, orientuotas į mobiliuosius įrenginius",
+          "description": "Mūsų programa sukurta taikant „mobile-first“ požiūrį, užtikrinantį sklandžią patirtį bet kuriame įrenginyje."
+        },
+        {
+          "title": "Intuityvi prietaisų skydelis",
+          "description": "Švarus ir organizuotas prietaisų skydelis, suteikiantis išsamią apžvalgą vienu žvilgsniu."
+        },
+        {
+          "title": "Suderinamumas tarp įrenginių",
+          "description": "Mėgaukitės nuoseklia ir galinga patirtimi, nesvarbu, ar naudojatės staliniu kompiuteriu, planšete ar išmaniuoju telefonu."
+        }
+      ]
+    },
+    "footer-page": {
+      "left-title": "Prisijunkite prie mūsų bendruomenės",
+      "left-button": "Prenumeruoti",
+      "policy": "Privatumo politika",
+      "terms": "Paslaugų teikimo sąlygos",
+      "copyright": "Autorių teisės © ",
+      "giftbytes": "GiftBytesProductions"
+    },
+    "latest-page": {
+      "title": "Naujausi",
+      "article": [
+        {
+          "tag": "Projektai",
+          "title": "Naujo projekto paskelbimas",
+          "description": "Skelbiame, kad mūsų naujasis projektas bus nemokamas stalinio kompiuterio vaizdo žaidimas, kuris bus pasiekiamas visose operacinėse sistemose ir platformose.",
+          "author": "Michael Schenk, Kūrėjas"
+        },
+        {
+          "tag": "Svetainė",
+          "title": "Nauja svetainė",
+          "description": "Skelbiame, kad mūsų svetainė pagaliau veikia ir yra vieša.",
+          "author": "Michael Schenk, Kūrėjas"
+        },
+        {
+          "tag": "Projektai",
+          "title": "„TouchSlider“ veikia",
+          "description": "Skelbiame, kad mūsų mobilusis vaizdo žaidimas „TouchSlider“ yra nemokamai atsisiunčiamas IOS ir Android įrenginiams.",
+          "author": "Michael Schenk, Kūrėjas"
+        },
+        {
+          "tag": "Įmonė",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Kūrėjas"
+        },
+        {
+          "tag": "Inžinerija",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Kūrėjas"
+        },
+        {
+          "tag": "Produktas",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Kūrėjas"
+        }
+      ]
+    },
+    "principles-page": {
+      "title": "Mūsų principai",
+      "subheader": "Šios vertybės yra visko, ką kuriame, pagrindas – nuo pirmosios kodo eilutės iki galutinės vartotojo patirties.",
+      "items": [
+        {
+          "title": "Prieinama visur",
+          "description": "Manome, kad puiki programinė įranga turėtų veikti visiems ir bet kuriame įrenginyje. Mūsų projektai yra kruopščiai sukurti taip, kad būtų suderinami tarp platformų ir prieinami nuo pat pradžių."
+        },
+        {
+          "title": "Išbaigta ir našu",
+          "description": "Mes teikiame išbaigtas ir labai optimizuotas patirtis. Mūsų dėmesys švariai architektūrai ir griežtam testavimui užtikrina, kad kiekvienas produktas būtų stabilus, našus ir paruoštas mėgautis nuo pat pirmos dienos."
+        },
+        {
+          "title": "Intuityvus dizainas",
+          "description": "Manome, kad galinga programinė įranga neturi būti sudėtinga. Mūsų aistra slypi kuriant švarias, intuityvias sąsajas, kurios kiekvieną sąveiką padaro tiesioginę ir malonią."
+        },
+        {
+          "title": "Varoma naujovių",
+          "description": "Mes kuriame galvodami apie ateitį. Naudodami naujausias programinės ir techninės įrangos technologijas, kuriame į ateitį orientuotus produktus su galinga, pažangiausia funkcionalumu."
+        },
+        {
+          "title": "Atsidavusi pagalba",
+          "description": "Mūsų santykiai nesibaigia atsisiuntimu. Mes teikiame draugišką, greitai reaguojančią pagalbą tiesiogiai iš mūsų komandos, kad užtikrintume, jog visada turėtumėte puikią patirtį su mūsų produktais."
+        },
+        {
+          "title": "Kruopštus meistriškumas",
+          "description": "Manome, kad meistriškumas slypi detalėse. Nuo pirmosios koncepcijos iki paskutinės kodo eilutės, kiekvienas mūsų darbo elementas yra apgalvotai suplanuotas ir tiksliai įgyvendintas, kad būtų sukurtas nepriekaištingas galutinis produktas."
+        }
+      ]
+    },
+    "testimonials-page": {
+      "title": "Atsiliepimai",
+      "subheader": "Pažiūrėkite, ką mūsų klientai, kūrėjai ir testuotojai mėgsta apie mūsų produktus.",
+      "testimonial": [
+        {
+          "name": "Michael Schenk",
+          "occupation": "Kūrėjas",
+          "testimonial": "Man labai patinka, koks universalus yra šis produktas! Nesvarbu, ar užsiimu darbo projektais, ar mėgaujuosi savo mėgstamais pomėgiais, jis sklandžiai prisitaiko prie mano kintančių poreikių. Jo intuityvus dizainas tikrai pagerino mano kasdienę rutiną, padarydamas užduotis efektyvesnes ir malonesnes."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Kūrėjas",
+          "testimonial": "Viena iš išskirtinių šio produkto savybių yra išskirtinė klientų pagalba. Mano patirtis rodo, kad komanda, stovinti už šio produkto, greitai reagavo ir buvo neįtikėtinai naudinga. Ramina žinoti, kad jie tvirtai palaiko savo produktą."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Kūrėjas",
+          "testimonial": "Šio produkto paprastumo ir patogumo lygis gerokai supaprastino mano gyvenimą. Dėkoju kūrėjams už sprendimą, kuris ne tik atitinka, bet ir viršija vartotojų lūkesčius."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Kūrėjas",
+          "testimonial": "Vertinu dėmesį detalėms šio produkto dizaine. Mažos detalės daro didelį skirtumą, ir akivaizdu, kad kūrėjai sutelkė dėmesį į aukščiausios kokybės patirties teikimą."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Kūrėjas",
+          "testimonial": "Išbandžiau kitus panašius produktus, tačiau šis išsiskiria savo naujoviškomis savybėmis. Akivaizdu, kad kūrėjai daug galvojo kurdami sprendimą, kuris tikrai atitinka vartotojų poreikius."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Kūrėjas",
+          "testimonial": "Šio produkto kokybė viršijo mano lūkesčius. Jis yra patvarus, gerai suprojektuotas ir sukurtas ilgam tarnavimui. Tikrai verta investicijos."
+        }
+      ]
+    },
+    "mode": {
+      "system": "Sistema",
+      "light": "Šviesus",
+      "dark": "Tamsus"
+    }
+  }
+}

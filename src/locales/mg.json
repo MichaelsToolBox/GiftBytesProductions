@@ -1,0 +1,198 @@
+{
+  "translation": {
+    "app-bar": {
+      "projects": "Tetikasa",
+      "principles": "Fitsipika",
+      "download": "Hampidina",
+      "latest": "Farany",
+      "testimonials": "Fijoroana vavolombelona",
+      "faq": "Fanontaniana Matetika"
+    },
+    "hero-page": {
+      "subtitle": "Izahay dia studio fampandrosoana famoronana monina any Alemaina izay mampiasa ny teknolojia farany indrindra mba hamoronana lalao video, fampiharana, ary traikefa haino aman-jery manintona sy mora idirana ho an'ny rehetra.",
+      "gift": "Gift",
+      "bytes": "Bytes",
+      "productions": "Productions"
+    },
+    "download-page": {
+      "title": "Hampidina",
+      "subtitle": "Eto ianao dia afaka mampidina sy mijery ny tetikasanay"
+    },
+    "tiers": {
+      "title1": "Diaben'ny Fampandrosoana",
+      "price1": "Maimaim-poana",
+      "subheader1": "Misy",
+      "description10": "Famolavolana horonantsary kalitaon'ny studio",
+      "description11": "Fidirana lalina ao anatin'ny kaody sy ny endrikay",
+      "description12": "Fifandraisana mivantana amin'ireo mpamorona anay",
+      "description13": "Azo idirana maneran-tany amin'ny YouTube",
+      "buttontext1": "Fisoratana anarana maimaim-poana",
+      "title2": "TouchSlider",
+      "price2": "Maimaim-poana",
+      "subheader2": "Soso-kevitra",
+      "description20": "Misy amin'ny IOS sy Android",
+      "description21": "Milalao maimaim-poana tsy misy sarany miafina",
+      "description22": "Manohana fitaovana finday taloha",
+      "description23": "Lalao tsotra ho an'ny fotoana sy andro rehetra",
+      "description24": "Aseho ao amin'ny diaben'ny fampandrosoana",
+      "description25": "Fanohanana",
+      "buttontext21": "Hampidina IOS",
+      "buttontext22": "Hampidina Android",
+      "title3": "Tetikasa ho avy",
+      "price3": "Maimaim-poana",
+      "subheader3": "An-dalam-pamitana",
+      "description30": "Misy ho an'ny Windows, Macos ary Linux",
+      "description31": "Fizarana amin'ny alàlan'ny Steam sy Apple Store",
+      "description32": "Azo idirana amin'ny fiteny maro",
+      "description33": "Fanohanana",
+      "buttontext3": "Hambara"
+    },
+    "faq": {
+      "title": "Fanontaniana Matetika",
+      "subtitle1": "Ahoana no fomba hifandraisako amin'ny fanohanan'ny mpanjifa raha manana fanontaniana na olana aho?",
+      "description1": "Afaka mifandray amin'ny ekipan'ny fanohanan'ny mpanjifa ianao amin'ny alàlan'ny fandefasana mailaka amin'ny: ",
+      "subtitle2": "Inona no mampiavaka ny vokatray amin'ny hafa eny an-tsena?",
+      "description2": "Ny vokatray dia miavaka amin'ny fahaizany miovaova, ny faharetany, ary ny endri-javatra vaovao. Ataonay laharam-pahamehana ny fahafaham-pon'ny mpampiasa ary miezaka hatrany izahay hihoatra ny andrasana amin'ny lafiny rehetra.",
+      "subtitle3": "Ahoana no ahafahako manohana ny GiftBytesProductions?",
+      "description3": "Efa manampy anay ianao amin'ny fanandramana fotsiny ny tetikasanay sy ny fanolorana azy. Raha tsy izany dia afaka misoratra anarana amin'ny fantsona YouTube anay ianao ary mandray anjara amin'ny fiaraha-monina. Ho an'ny fanohanana fanampiny dia afaka manome vola mivantana aminay amin'ny alàlan'ny PayPal ihany koa ianao."
+    },
+    "feature-page": {
+      "title": "Endri-javatra",
+      "subheader": "Fantaro ireo endri-javatra matanjaka izay mampiavaka ny fampiharana anay.",
+      "items": [
+        {
+          "title": "Endrika Mifantoka amin'ny Finday",
+          "description": "Ny fampiharana anay dia natao tamin'ny fomba mifantoka amin'ny finday, miantoka traikefa tsy misy tomika amin'ny fitaovana rehetra."
+        },
+        {
+          "title": "Dashboard Mora Azo",
+          "description": "Dashboard madio sy voalamina izay manome anao topimaso feno indray mandeha."
+        },
+        {
+          "title": "Fifanarahana eo amin'ny Fitaovana",
+          "description": "Ankafizo ny traikefa tsy miovaova sy matanjaka na eo amin'ny birao, takelaka, na finday ianao."
+        }
+      ]
+    },
+    "footer-page": {
+      "left-title": "Midira ao amin'ny fiaraha-moninay",
+      "left-button": "Misoratra anarana",
+      "policy": "Politikan'ny Tsiambaratelo",
+      "terms": "Fepetran'ny serivisy",
+      "copyright": "Zon'ny mpamorona © ",
+      "giftbytes": "GiftBytesProductions"
+    },
+    "latest-page": {
+      "title": "Farany",
+      "article": [
+        {
+          "tag": "Tetikasa",
+          "title": "Filazana tetikasa vaovao",
+          "description": "Manambara izahay fa ny tetikasanay vaovao dia ho lalao video birao maimaim-poana izay ho hita amin'ny rafitra fandidiana sy sehatra rehetra.",
+          "author": "Michael Schenk, Mpamorona"
+        },
+        {
+          "tag": "Tranonkala",
+          "title": "Tranonkala vaovao",
+          "description": "Manambara izahay fa efa an-tserasera sy ho an'ny daholobe ny tranonkalanay.",
+          "author": "Michael Schenk, Mpamorona"
+        },
+        {
+          "tag": "Tetikasa",
+          "title": "Efa mandeha ny TouchSlider",
+          "description": "Manambara izahay fa ny lalao video finday anay TouchSlider dia azo alaina maimaim-poana amin'ny IOS sy Android.",
+          "author": "Michael Schenk, Mpamorona"
+        },
+        {
+          "tag": "Orinasa",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Mpamorona"
+        },
+        {
+          "tag": "Injeniera",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Mpamorona"
+        },
+        {
+          "tag": "Vokatra",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Mpamorona"
+        }
+      ]
+    },
+    "principles-page": {
+      "title": "Ny Fitsipikay",
+      "subheader": "Ireo soatoavina ireo no fototry ny zavatra rehetra aorinay, manomboka amin'ny andalana kaody voalohany ka hatramin'ny traikefan'ny mpampiasa farany.",
+      "items": [
+        {
+          "title": "Azo idirana na aiza na aiza",
+          "description": "Mino izahay fa ny rindrambaiko lehibe dia tokony hiasa ho an'ny rehetra, amin'ny fitaovana rehetra. Ny tetikasanay dia novolavolaina tamim-pitandremana ho an'ny fifanarahana eo amin'ny sehatra sy ny fidirana hatrany am-boalohany."
+        },
+        {
+          "title": "Voapolisa & Mahomby",
+          "description": "Manolotra traikefa feno sy tena voatsara izahay. Ny fifantohanay amin'ny maritrano madio sy ny fitsapana henjana dia miantoka fa ny vokatra rehetra dia marin-toerana, mahomby, ary vonona hankafizina hatramin'ny andro voalohany."
+        },
+        {
+          "title": "Endrika Mora Azo",
+          "description": "Mino izahay fa tsy voatery ho sarotra ny rindrambaiko matanjaka. Ny fitiavanay dia eo amin'ny famoronana interface madio sy mora azo izay mahatonga ny fifandraisana rehetra ho tsotra sy mahafinaritra."
+        },
+        {
+          "title": "Ampiasan'ny Fanavaozana",
+          "description": "Manangana izahay miaraka amin'ny ho avy ao an-tsaina. Amin'ny fampiasana ny teknolojia rindrambaiko sy fitaovana farany indrindra, dia mamorona vokatra mieritreritra mialoha izahay miaraka amin'ny fiasa matanjaka sy manara-penitra."
+        },
+        {
+          "title": "Fanohanana Manokana",
+          "description": "Tsy mifarana amin'ny fampidinana ny fifandraisanay. Manome fanohanana sariaka sy mamaly haingana mivantana avy amin'ny ekipanay izahay mba hahazoanao antoka fa manana traikefa lehibe amin'ny vokatray ianao, mandrakariva."
+        },
+        {
+          "title": "Asa Tanana Feno Fikarakarana",
+          "description": "Mino izahay fa ny fahaiza-manao dia ao anatin'ny antsipiriany. Manomboka amin'ny hevitra voalohany ka hatramin'ny andalana kaody farany, ny singa rehetra amin'ny asanay dia voalamina tsara sy tanterahina amin'ny fomba marina ho an'ny vokatra farany tsy misy kilema."
+        }
+      ]
+    },
+    "testimonials-page": {
+      "title": "Fijoroana vavolombelona",
+      "subheader": "Jereo izay tian'ny mpanjifanay, ny mpamorona, ary ny mpanandrana momba ny vokatray.",
+      "testimonial": [
+        {
+          "name": "Michael Schenk",
+          "occupation": "Mpamorona",
+          "testimonial": "Tena tiako ny fomba fiasan'ity vokatra ity amin'ny lafiny maro! Na miatrika tetikasa asa aho na mankafy ny fialam-boly tiako indrindra, dia mifanaraka tsara amin'ny filako miovaova izy. Ny endriny mora azo dia tena nanatsara ny fiainako andavanandro, nahatonga ny asa ho mahomby sy mahafinaritra kokoa."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Mpamorona",
+          "testimonial": "Ny iray amin'ireo endri-javatra miavaka amin'ity vokatra ity dia ny fanohanan'ny mpanjifa miavaka. Araka ny traikefako, ny ekipa ao ambadik'ity vokatra ity dia namaly haingana ary tena nanampy. Mampahery ny mahafantatra fa mijoro mafy ao ambadiky ny vokatr'izy ireo izy ireo."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Mpamorona",
+          "testimonial": "Ny haavon'ny fahatsorana sy ny fampiasana mora amin'ity vokatra ity dia nanamora be ny fiainako. Misaotra ny mpamorona aho tamin'ny fanomezana vahaolana izay tsy vitan'ny hoe mahafeno, fa mihoatra ny andrasan'ny mpampiasa."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Mpamorona",
+          "testimonial": "Mankasitraka ny fiheverana ny antsipiriany amin'ny famolavolana ity vokatra ity aho. Ny pitsopitsony kely dia mitondra fiovana lehibe, ary hita fa nifantoka tamin'ny fanomezana traikefa avo lenta ny mpamorona."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Mpamorona",
+          "testimonial": "Efa nanandrana vokatra hafa mitovy amin'izany aho, saingy ity iray ity dia miavaka amin'ny endri-javatra vaovao. Mazava fa nieritreritra be ny mpanao azy tamin'ny famoronana vahaolana izay tena mamaly ny filan'ny mpampiasa."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Mpamorona",
+          "testimonial": "Nihoatra ny nantenako ny kalitaon'ity vokatra ity. Maharitra izy, voavolavola tsara, ary natao haharitra. Tena mendrika ny fampiasam-bola."
+        }
+      ]
+    },
+    "mode": {
+      "system": "Rafitra",
+      "light": "Mazava",
+      "dark": "Maizina"
+    }
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "translation": {
+    "app-bar": {
+      "projects": "Proġetti",
+      "principles": "Prinċipji",
+      "download": "Niżżel",
+      "latest": "L-aħħar",
+      "testimonials": "Testimonjanzi",
+      "faq": "FAQ"
+    },
+    "hero-page": {
+      "subtitle": "Aħna studjo tal-iżvilupp kreattiv ibbażat fil-Ġermanja li jisfrutta l-aħħar teknoloġija biex joħloq logħob tal-vidjo, apps, u esperjenzi tal-midja li jiġbdu l-attenzjoni u aċċessibbli għal kulħadd.",
+      "gift": "Gift",
+      "bytes": "Bytes",
+      "productions": "Productions"
+    },
+    "download-page": {
+      "title": "Niżżel",
+      "subtitle": "Hawnhekk tista' tniżżel u tara l-proġetti tagħna"
+    },
+    "tiers": {
+      "title1": "Zkuk tal-Iżvilupp",
+      "price1": "B'xejn",
+      "subheader1": "Disponibbli",
+      "description10": "Produzzjoni tal-vidjo ta' kwalità ta' studjo",
+      "description11": "Għadds fil-fond fil-kodiċi u d-disinn tagħna",
+      "description12": "Interazzjoni diretta mal-iżviluppaturi tagħna",
+      "description13": "Aċċessibbli mad-dinja kollha fuq YouTube",
+      "buttontext1": "Abbona B'xejn",
+      "title2": "TouchSlider",
+      "price2": "B'xejn",
+      "subheader2": "Rakkomandat",
+      "description20": "Disponibbli fuq IOS u Android",
+      "description21": "Logħob b'xejn mingħajr spejjeż moħbija",
+      "description22": "Jappoġġja apparat mobbli antik",
+      "description23": "Logħba sempliċi għal kwalunkwe ħin u jum",
+      "description24": "Ippreżentat fi zkuk tal-iżvilupp",
+      "description25": "Appoġġ",
+      "buttontext21": "Niżżel IOS",
+      "buttontext22": "Niżżel Android",
+      "title3": "Proġett li jmiss",
+      "price3": "B'xejn",
+      "subheader3": "Għaddej",
+      "description30": "Disponibbli għal Windows, MacOS u Linux",
+      "description31": "Distribuzzjoni permezz ta' Steam u Apple Store",
+      "description32": "Aċċessibbli f'diversi lingwi",
+      "description33": "Appoġġ",
+      "buttontext3": "Għad irid jitħabbar"
+    },
+    "faq": {
+      "title": "Mistoqsijiet Frekwenti",
+      "subtitle1": "Kif nikkuntattja l-appoġġ għall-klijenti jekk għandi mistoqsija jew problema?",
+      "description1": "Tista' tikkuntattja lit-tim tagħna ta' appoġġ għall-klijenti billi tibgħat email lil: ",
+      "subtitle2": "X'jagħmel il-prodott tiegħek jispikka minn oħrajn fis-suq?",
+      "description2": "Il-prodott tagħna jiddistingwi ruħu permezz tal-adattabilità, id-durabilità, u l-karatteristiċi innovattivi tiegħu. Aħna nagħtu prijorità lis-sodisfazzjon tal-utent u nistinkaw kontinwament biex negħlbu l-aspettattivi f'kull aspett.",
+      "subtitle3": "Kif nista' nappoġġja lil GiftBytesProductions?",
+      "description3": "Diġà qed tgħinna billi sempliċement tipprova l-proġetti tagħna u tirrakkomandahom. Inkella tista' tabbona għall-kanal tagħna ta' YouTube u tinteraġixxi mal-komunità. Għal appoġġ addizzjonali tista' wkoll tagħtina donazzjoni direttament permezz ta' PayPal."
+    },
+    "feature-page": {
+      "title": "Karatteristiċi",
+      "subheader": "Esplora l-karatteristiċi qawwija li jagħmlu l-applikazzjoni tagħna tispikka.",
+      "items": [
+        {
+          "title": "Disinn Mobile-First",
+          "description": "L-app tagħna hija ddisinjata b'approċċ mobile-first, li jiżgura esperjenza bla xkiel fuq kwalunkwe apparat."
+        },
+        {
+          "title": "Dashboard Intuwittiv",
+          "description": "Dashboard nadif u organizzat li jagħtik ħarsa ġenerali kompleta f'daqqa t'għajn."
+        },
+        {
+          "title": "Kompatibilità Bejn l-Apparati",
+          "description": "Gawdi esperjenza konsistenti u qawwija kemm jekk tkun fuq desktop, tablet, jew smartphone."
+        }
+      ]
+    },
+    "footer-page": {
+      "left-title": "Ingħaqad fil-komunità tagħna",
+      "left-button": "Abbona",
+      "policy": "Politika ta' Privatezza",
+      "terms": "Termini tas-Servizz",
+      "copyright": "Copyright © ",
+      "giftbytes": "GiftBytesProductions"
+    },
+    "latest-page": {
+      "title": "L-aħħar",
+      "article": [
+        {
+          "tag": "Proġetti",
+          "title": "Tħabbira ta' proġett ġdid",
+          "description": "Aħna nħabbru li l-proġett il-ġdid tagħna se jkun logħba tal-vidjo tad-desktop b'xejn li se tkun disponibbli fuq is-sistemi operattivi u l-pjattaformi kollha.",
+          "author": "Michael Schenk, Żviluppatur"
+        },
+        {
+          "tag": "Sit Web",
+          "title": "Sit web ġdid",
+          "description": "Aħna nħabbru li s-sit web tagħna fl-aħħar huwa live u pubbliku.",
+          "author": "Michael Schenk, Żviluppatur"
+        },
+        {
+          "tag": "Proġetti",
+          "title": "TouchSlider huwa live",
+          "description": "Aħna nħabbru li l-logħba tal-vidjo mobbli tagħna TouchSlider hija disponibbli biex titniżżel b'xejn fuq IOS u Android.",
+          "author": "Michael Schenk, Żviluppatur"
+        },
+        {
+          "tag": "Kumpanija",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Żviluppatur"
+        },
+        {
+          "tag": "Inġinerija",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Żviluppatur"
+        },
+        {
+          "tag": "Prodott",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Żviluppatur"
+        }
+      ]
+    },
+    "principles-page": {
+      "title": "Il-Prinċipji Tagħna",
+      "subheader": "Dawn il-valuri huma fil-qalba ta' dak kollu li nibnu, mill-ewwel linja ta' kodiċi sal-esperjenza finali tal-utent.",
+      "items": [
+        {
+          "title": "Aċċessibbli Kullimkien",
+          "description": "Aħna nemmnu li softwer kbir għandu jaħdem għal kulħadd, fuq kwalunkwe apparat. Il-proġetti tagħna huma ddisinjati b'mod metikoluż għall-kompatibilità bejn il-pjattaformi u l-aċċessibilità mill-bidu nett."
+        },
+        {
+          "title": "Illustrat u Prestazzjoni",
+          "description": "Aħna nwasslu esperjenzi kompluti u ottimizzati ħafna. L-attenzjoni tagħna fuq arkitettura nadifa u ttestjar rigoruż tiżgura li kull prodott ikun stabbli, prestazzjoni, u lest biex jitgawda mill-ewwel jum."
+        },
+        {
+          "title": "Disinn Intuwittiv",
+          "description": "Aħna nemmnu li softwer qawwi m'għandux għalfejn ikun ikkumplikat. Il-passjoni tagħna tinsab fil-ħolqien ta' interfaces nodfa u intuwittivi li jagħmlu kull interazzjoni diretta u pjaċevoli."
+        },
+        {
+          "title": "Imħaddem mill-Innovazzjoni",
+          "description": "Aħna nibnu bil-futur f'moħħna. Billi nisfruttaw l-aħħar teknoloġija tas-softwer u l-ħardwer, noħolqu prodotti li jħarsu 'l quddiem b'funzjonalità qawwija u avvanzata."
+        },
+        {
+          "title": "Appoġġ Dedikat",
+          "description": "Ir-relazzjoni tagħna ma tispiċċax mat-tniżżil. Aħna nipprovdu appoġġ amikevoli u li jirrispondi direttament mit-tim tagħna biex niżguraw li dejjem ikollok esperjenza kbira bil-prodotti tagħna."
+        },
+        {
+          "title": "Sengħa Metikoluża",
+          "description": "Aħna nemmnu li l-eċċellenza tinsab fid-dettalji. Mill-ewwel kunċett sal-aħħar linja ta' kodiċi, kull element tax-xogħol tagħna huwa ppjanat bir-reqqa u esegwit b'mod preċiż għal prodott finali bla difetti."
+        }
+      ]
+    },
+    "testimonials-page": {
+      "title": "Testimonjanzi",
+      "subheader": "Ara dak li jħobbu l-klijenti, l-iżviluppaturi, u t-testers tagħna dwar il-prodotti tagħna.",
+      "testimonial": [
+        {
+          "name": "Michael Schenk",
+          "occupation": "Żviluppatur",
+          "testimonial": "Inħobb assolutament kemm hu versatili dan il-prodott! Kemm jekk qed nindirizza proġetti tax-xogħol jew ingawdi l-passatempi favoriti tiegħi, jadatta ruħu bla xkiel għall-bżonnijiet li jinbidlu tiegħi. Id-disinn intuwittiv tiegħu verament tejjeb ir-rutina ta' kuljum tiegħi, u għamel il-kompiti aktar effiċjenti u pjaċevoli."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Żviluppatur",
+          "testimonial": "Waħda mill-karatteristiċi li jispikkaw ta' dan il-prodott hija l-appoġġ eċċezzjonali għall-klijenti. Fl-esperjenza tiegħi, it-tim wara dan il-prodott wieġeb malajr u kien ta' għajnuna kbira. Huwa rassicuranti li tkun taf li huma jappoġġjaw bis-sħiħ il-prodott tagħhom."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Żviluppatur",
+          "testimonial": "Il-livell ta' sempliċità u faċilità ta' użu f'dan il-prodott issimplifika b'mod sinifikanti ħajti. Napprezza lill-kreaturi talli wasslu soluzzjoni li mhux biss tissodisfa, iżda taqbeż l-aspettattivi tal-utent."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Żviluppatur",
+          "testimonial": "Napprezza l-attenzjoni għad-dettall fid-disinn ta' dan il-prodott. Il-mess żgħar jagħmlu differenza kbira, u huwa evidenti li l-kreaturi ffukaw fuq li jwasslu esperjenza premium."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Żviluppatur",
+          "testimonial": "Ippruvajt prodotti oħra simili, iżda dan jispikka għall-karatteristiċi innovattivi tiegħu. Huwa ċar li dawk li għamluh ħasbu ħafna biex joħolqu soluzzjoni li verament tindirizza l-bżonnijiet tal-utent."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Żviluppatur",
+          "testimonial": "Il-kwalità ta' dan il-prodott qabżet l-aspettattivi tiegħi. Huwa durabbli, iddisinjat tajjeb, u mibni biex idum. Żgur li jiswa l-investiment."
+        }
+      ]
+    },
+    "mode": {
+      "system": "Sistema",
+      "light": "Dawl",
+      "dark": "Dlam"
+    }
+  }
+}

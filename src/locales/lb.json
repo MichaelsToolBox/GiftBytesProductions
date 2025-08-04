@@ -1,0 +1,198 @@
+{
+  "translation": {
+    "app-bar": {
+      "projects": "Projeten",
+      "principles": "Prinzipien",
+      "download": "Eroflueden",
+      "latest": "Neisten",
+      "testimonials": "Zeienissen",
+      "faq": "FAQ"
+    },
+    "hero-page": {
+      "subtitle": "Mir sinn e kreativen Entwécklungsstudio mat Sëtz an Däitschland, deen déi neisten Technologie notzt fir packend an zougänglech Videospiller, Appen a Medienerfarunge fir jiddereen ze schafen.",
+      "gift": "Gift",
+      "bytes": "Bytes",
+      "productions": "Productions"
+    },
+    "download-page": {
+      "title": "Eroflueden",
+      "subtitle": "Hei kënnt Dir eis Projeten eroflueden a kucken"
+    },
+    "tiers": {
+      "title1": "Entwéckler-Logbicher",
+      "price1": "Gratis",
+      "subheader1": "Verfügbar",
+      "description10": "Videoproduktioun a Studioqualitéit",
+      "description11": "Déif Abléck an eise Code an Design",
+      "description12": "Direkt Interaktioun mat eisen Entwéckler",
+      "description13": "Weltwäit op YouTube verfügbar",
+      "buttontext1": "Gratis Abonnement",
+      "title2": "TouchSlider",
+      "price2": "Gratis",
+      "subheader2": "Recommandéiert",
+      "description20": "Verfügbar op IOS an Android",
+      "description21": "Gratis ze spillen ouni verstoppte Käschten",
+      "description22": "Ënnerstëtzt al mobilen Apparater",
+      "description23": "Einfacht Spill fir all Zäit an Dag",
+      "description24": "Presentéiert an den Entwéckler-Logbicher",
+      "description25": "Support",
+      "buttontext21": "IOS eroflueden",
+      "buttontext22": "Android eroflueden",
+      "title3": "Upëff-Projet",
+      "price3": "Gratis",
+      "subheader3": "Am Gaang",
+      "description30": "Verfügbar fir Windows, MacOS a Linux",
+      "description31": "Verdeelung iwwer Steam an Apple Store",
+      "description32": "A verschiddene Sproochen zougänglech",
+      "description33": "Support",
+      "buttontext3": "Gëtt nach ugekënnegt"
+    },
+    "faq": {
+      "title": "Oft gestallte Froen",
+      "subtitle1": "Wéi kontaktéieren ech de Clientssupport wann ech eng Fro oder e Problem hunn?",
+      "description1": "Dir kënnt eise Clientssupport-Team per E-Mail erreechen op: ",
+      "subtitle2": "Wat ënnerscheet Äert Produkt vun aneren um Maart?",
+      "description2": "Eist Produkt ënnerscheet sech duerch seng Upassungsfäegkeet, Haltbarkeet an innovativ Funktiounen. Mir prioritäréieren d'Zefriddenheet vum Benotzer a striewen dauernd duerno, d'Erwaardungen an all Aspekt ze iwwerschreiden.",
+      "subtitle3": "Wéi kann ech GiftBytesProductions ënnerstëtzen?",
+      "description3": "Dir hëlleft eis schonn andeems Dir eis Projete probéiert an se recommandéiert. Soss kënnt Dir Iech op eisem YouTube-Kanal abonnéieren an mat der Gemeinschaft interagéieren. Fir zousätzlech Ënnerstëtzung kënnt Dir eis och direkt iwwer PayPal spenden."
+    },
+    "feature-page": {
+      "title": "Funktiounen",
+      "subheader": "Entdeckt déi mächteg Funktiounen, déi eis Applikatioun auszeechnen.",
+      "items": [
+        {
+          "title": "Mobile-First Design",
+          "description": "Eis App ass mat engem Mobile-First-Usaz entworf, deen eng nahtlos Erfarung op all Apparat garantéiert."
+        },
+        {
+          "title": "Intuitivt Dashboard",
+          "description": "En proppert an organiséiert Dashboard, dat Iech op ee Bléck e kompletten Iwwerbléck gëtt."
+        },
+        {
+          "title": "Kompatibilitéit tëscht Apparater",
+          "description": "Genéisst eng konsequent a mächteg Erfarung, egal ob Dir op engem Desktop, Tablet oder Smartphone sidd."
+        }
+      ]
+    },
+    "footer-page": {
+      "left-title": "Gitt an eis Gemeinschaft",
+      "left-button": "Abonnéieren",
+      "policy": "Dateschutzpolitik",
+      "terms": "Notzungsbedéngungen",
+      "copyright": "Copyright © ",
+      "giftbytes": "GiftBytesProductions"
+    },
+    "latest-page": {
+      "title": "Neisten",
+      "article": [
+        {
+          "tag": "Projeten",
+          "title": "Ukënnegung vun engem neie Projet",
+          "description": "Mir annoncéieren, datt eise neie Projet e gratis Desktop-Videospill wäert sinn, dat op all Betribssystemer a Plattformen verfügbar wäert sinn.",
+          "author": "Michael Schenk, Entwéckler"
+        },
+        {
+          "tag": "Websäit",
+          "title": "Nei Websäit",
+          "description": "Mir annoncéieren, datt eis Websäit endlech live an ëffentlech ass.",
+          "author": "Michael Schenk, Entwéckler"
+        },
+        {
+          "tag": "Projeten",
+          "title": "TouchSlider ass live",
+          "description": "Mir annoncéieren, datt eist mobilt Videospill TouchSlider gratis fir IOS an Android erofzelueden ass.",
+          "author": "Michael Schenk, Entwéckler"
+        },
+        {
+          "tag": "Firma",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Entwéckler"
+        },
+        {
+          "tag": "Ingenieurwiesen",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Entwéckler"
+        },
+        {
+          "tag": "Produkt",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Entwéckler"
+        }
+      ]
+    },
+    "principles-page": {
+      "title": "Eis Prinzipien",
+      "subheader": "Dës Wäerter stinn am Mëttelpunkt vun allem wat mir bauen, vun der éischter Zeil Code bis zur finaler Benotzererfarung.",
+      "items": [
+        {
+          "title": "Iwwerall zougänglech",
+          "description": "Mir gleewen, datt super Software fir jidderee soll funktionéieren, op all Apparat. Eis Projete si suergfälteg fir plattformiwwergräifend Kompatibilitéit an Zougang vun Ufank un entworf."
+        },
+        {
+          "title": "Poléiert & performant",
+          "description": "Mir liwweren komplett an héich optimiséiert Erfarungen. Eise Fokus op propper Architektur a rigoréis Tester garantéiert, datt all Produkt stabil a performant ass a vum éischten Dag un prett ass fir ze genéissen."
+        },
+        {
+          "title": "Intuitiven Design",
+          "description": "Mir gleewen, datt mächteg Software net komplizéiert muss sinn. Eis Passioun läit an der Schafung vu propperen, intuitiven Interfaces, déi all Interaktioun einfach an agreabel maachen."
+        },
+        {
+          "title": "Ugedriwwe vun Innovatioun",
+          "description": "Mir bauen mat der Zukunft am Kapp. Andeems mir déi neisten Software- an Hardwaretechnologie notzen, schafe mir zukunftsorientéiert Produkter mat mächteger, modernster Funktionalitéit."
+        },
+        {
+          "title": "Engagéierte Support",
+          "description": "Eis Relatioun hält net beim Eroflueden op. Mir bidden frëndlechen, reaktiounsfäege Support direkt vun eisem Team fir sécherzestellen, datt Dir ëmmer eng super Erfarung mat eise Produkter hutt."
+        },
+        {
+          "title": "Sorgfälteg Handwierk",
+          "description": "Mir gleewen, datt Exzellenz an den Detailer läit. Vum éischte Konzept bis zur leschter Zeil Code gëtt all Element vun eiser Aarbecht suergfälteg geplangt a präzis ausgefouert fir e fehlerfräit Schlussprodukt."
+        }
+      ]
+    },
+    "testimonials-page": {
+      "title": "Zeienissen",
+      "subheader": "Kuckt wat eis Clienten, Entwéckler an Tester un eise Produkter gär hunn.",
+      "testimonial": [
+        {
+          "name": "Michael Schenk",
+          "occupation": "Entwéckler",
+          "testimonial": "Ech hunn absolut gär wéi villsäiteg dëst Produkt ass! Egal ob ech Aarbechtsprojete packen oder meng Liiblingshobbyen genéissen, et passt sech nahtlos un meng verännerend Bedierfnesser un. Säin intuitiven Design huet mäin Alldag wierklech verbessert, an d'Aufgabe méi effizient an agreabel gemaach."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Entwéckler",
+          "testimonial": "Eng vun den aussergewéinleche Funktiounen vun dësem Produkt ass den aussergewéinleche Clientssupport. A menger Erfahrung huet d'Team hannert dësem Produkt séier reagéiert a war onheemlech hëllefsbereet. Et ass berouegend ze wëssen, datt si fest hannert hirem Produkt stinn."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Entwéckler",
+          "testimonial": "Den Niveau vun der Einfachheet an der Benotzerfrëndlechkeet an dësem Produkt huet mäi Liewen däitlech vereinfacht. Ech schätzen d'Creatoren fir eng Léisung ze liwweren, déi net nëmmen d'Erwaardunge vun de Benotzer entsprécht, mee se iwwerschreift."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Entwéckler",
+          "testimonial": "Ech schätzen d'Opmierksamkeet op Detailer am Design vun dësem Produkt. Déi kleng Touchë maachen e groussen Ënnerscheed, an et ass evident, datt d'Creatoren sech op d'Liwwerung vun enger Premium-Erfarung konzentréiert hunn."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Entwéckler",
+          "testimonial": "Ech hu aner ähnlech Produkter probéiert, awer dëst stécht duerch seng innovativ Funktiounen eraus. Et ass kloer, datt d'Hiersteller vill Gedanken an d'Schafung vun enger Léisung investéiert hunn, déi wierklech d'Bedierfnesser vun de Benotzer adresséiert."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Entwéckler",
+          "testimonial": "D'Qualitéit vun dësem Produkt huet meng Erwaardungen iwwerschratt. Et ass haltbar, gutt entworf a gebaut fir ze halen. Definitiv d'Investitioun wäert."
+        }
+      ]
+    },
+    "mode": {
+      "system": "System",
+      "light": "Hell",
+      "dark": "Däischter"
+    }
+  }
+}
