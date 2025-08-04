@@ -1,0 +1,198 @@
+{
+  "translation": {
+    "app-bar": {
+      "projects": "Layihələr",
+      "principles": "Prinsiplər",
+      "download": "Yüklə",
+      "latest": "Ən son",
+      "testimonials": "Rəylər",
+      "faq": "Tez-tez verilən suallar"
+    },
+    "hero-page": {
+      "subtitle": "Biz Almaniyada yerləşən yaradıcı inkişaf studiyasıyıq və hər kəs üçün cəlbedici və əlçatan video oyunlar, tətbiqlər və media təcrübələri yaratmaq üçün ən son texnologiyalardan istifadə edirik.",
+      "gift": "Gift",
+      "bytes": "Bytes",
+      "productions": "Productions"
+    },
+    "download-page": {
+      "title": "Yüklə",
+      "subtitle": "Burada layihələrimizi yükləyə və baxa bilərsiniz"
+    },
+    "tiers": {
+      "title1": "İnkişaf Qeydləri",
+      "price1": "Pulsuz",
+      "subheader1": "Mövcuddur",
+      "description10": "Studiya keyfiyyətində video istehsalı",
+      "description11": "Kodumuza və dizaynımıza dərin baxışlar",
+      "description12": "İnkişaf etdiricilərimizlə birbaşa əlaqə",
+      "description13": "YouTube-da dünya miqyasında əlçatandır",
+      "buttontext1": "Pulsuz Abunəlik",
+      "title2": "TouchSlider",
+      "price2": "Pulsuz",
+      "subheader2": "Tövsiyə olunur",
+      "description20": "IOS və Android-də mövcuddur",
+      "description21": "Gizli xərc olmadan pulsuz oynamaq",
+      "description22": "Köhnə mobil cihazları dəstəkləyir",
+      "description23": "Hər zaman və gün üçün sadə oyun",
+      "description24": "İnkişaf qeydlərində təqdim olunur",
+      "description25": "Dəstək",
+      "buttontext21": "IOS Yüklə",
+      "buttontext22": "Android Yüklə",
+      "title3": "Gələcək layihə",
+      "price3": "Pulsuz",
+      "subheader3": "İcra olunur",
+      "description30": "Windows, Macos və Linux üçün mövcuddur",
+      "description31": "Steam və Apple Store vasitəsilə paylanma",
+      "description32": "Müxtəlif dillərdə əlçatandır",
+      "description33": "Dəstək",
+      "buttontext3": "Elan olunacaq"
+    },
+    "faq": {
+      "title": "Tez-tez verilən suallar",
+      "subtitle1": "Sualım və ya problemim olarsa, müştəri dəstəyi ilə necə əlaqə saxlaya bilərəm?",
+      "description1": "Müştəri dəstək komandamızla e-poçt vasitəsilə əlaqə saxlaya bilərsiniz: ",
+      "subtitle2": "Məhsulunuzu bazardakı digərlərindən fərqləndirən nədir?",
+      "description2": "Məhsulumuz uyğunlaşma qabiliyyəti, davamlılığı və innovativ xüsusiyyətləri ilə fərqlənir. Biz istifadəçi məmnuniyyətinə üstünlük veririk və hər cəhətdən gözləntiləri aşmağa davamlı olaraq çalışırıq.",
+      "subtitle3": "GiftBytesProductions-a necə dəstək ola bilərəm?",
+      "description3": "Siz artıq layihələrimizi sınamaqla və tövsiyə etməklə bizə kömək edirsiniz. Əks halda, YouTube kanalımıza abunə ola və cəmiyyətlə əlaqə qura bilərsiniz. Əlavə dəstək üçün bizə birbaşa PayPal vasitəsilə ianə edə bilərsiniz."
+    },
+    "feature-page": {
+      "title": "Xüsusiyyətlər",
+      "subheader": "Tətbiqimizi fərqləndirən güclü xüsusiyyətləri kəşf edin.",
+      "items": [
+        {
+          "title": "Mobil-İlk Dizayn",
+          "description": "Tətbiqimiz mobil-ilk yanaşma ilə dizayn edilib və hər hansı bir cihazda problemsiz bir təcrübə təmin edir."
+        },
+        {
+          "title": "İntuitiv İdarə Paneli",
+          "description": "Bir baxışda sizə tam bir ümumi məlumat verən təmiz və mütəşəkkil bir idarə paneli."
+        },
+        {
+          "title": "Cihazlararası Uyğunluq",
+          "description": "Masaüstü, planşet və ya smartfonda olmağınızdan asılı olmayaraq ardıcıl və güclü bir təcrübədən zövq alın."
+        }
+      ]
+    },
+    "footer-page": {
+      "left-title": "Cəmiyyətimizə qoşulun",
+      "left-button": "Abunə ol",
+      "policy": "Məxfilik Siyasəti",
+      "terms": "Xidmət Şərtləri",
+      "copyright": "Müəllif hüquqları © ",
+      "giftbytes": "GiftBytesProductions"
+    },
+    "latest-page": {
+      "title": "Ən son",
+      "article": [
+        {
+          "tag": "Layihələr",
+          "title": "Yeni layihə elanı",
+          "description": "Yeni layihəmizin bütün əməliyyat sistemlərində və platformalarda mövcud olacaq pulsuz bir masaüstü video oyunu olacağını elan edirik.",
+          "author": "Michael Schenk, İnkişaf etdirici"
+        },
+        {
+          "tag": "Veb sayt",
+          "title": "Yeni veb sayt",
+          "description": "Veb saytımızın nəhayət canlı və ictimai olduğunu elan edirik.",
+          "author": "Michael Schenk, İnkişaf etdirici"
+        },
+        {
+          "tag": "Layihələr",
+          "title": "TouchSlider canlıdır",
+          "description": "Mobil video oyunumuz TouchSlider-in IOS və Android üçün pulsuz yüklənmək üçün mövcud olduğunu elan edirik.",
+          "author": "Michael Schenk, İnkişaf etdirici"
+        },
+        {
+          "tag": "Şirkət",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, İnkişaf etdirici"
+        },
+        {
+          "tag": "Mühəndislik",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, İnkişaf etdirici"
+        },
+        {
+          "tag": "Məhsul",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, İnkişaf etdirici"
+        }
+      ]
+    },
+    "principles-page": {
+      "title": "Prinsiplərimiz",
+      "subheader": "Bu dəyərlər qurduğumuz hər şeyin mərkəzindədir, ilk kod sətrindən son istifadəçi təcrübəsinə qədər.",
+      "items": [
+        {
+          "title": "Hər Yerdə Əlçatan",
+          "description": "Biz inanırıq ki, əla proqram təminatı hər kəs üçün, hər hansı bir cihazda işləməlidir. Layihələrimiz əvvəldən platformalararası uyğunluq və əlçatanlıq üçün diqqətlə hazırlanmışdır."
+        },
+        {
+          "title": "Cilalanmış və Performanslı",
+          "description": "Biz tam və yüksək dərəcədə optimallaşdırılmış təcrübələr təqdim edirik. Təmiz arxitekturaya və ciddi sınaqlara diqqətimiz hər bir məhsulun sabit, performanslı və ilk gündən zövq almağa hazır olmasını təmin edir."
+        },
+        {
+          "title": "İntuitiv Dizayn",
+          "description": "Biz inanırıq ki, güclü proqram təminatı mürəkkəb olmaq məcburiyyətində deyil. Bizim həvəsimiz hər bir qarşılıqlı əlaqəni sadə və zövqlü edən təmiz, intuitiv interfeyslərin yaradılmasındadır."
+        },
+        {
+          "title": "İnnovasiya ilə Gücləndirilmişdir",
+          "description": "Biz gələcəyi nəzərə alaraq qururuq. Ən son proqram və avadanlıq texnologiyasından istifadə edərək, güclü, qabaqcıl funksionallığa malik irəliyə dönük məhsullar yaradırıq."
+        },
+        {
+          "title": "Xüsusi Dəstək",
+          "description": "Münasibətimiz yükləmə ilə bitmir. Məhsullarımızla hər zaman əla bir təcrübəyə sahib olmanızı təmin etmək üçün komandamızdan birbaşa dostyana, həssas dəstək təqdim edirik."
+        },
+        {
+          "title": "Diqqətli Sənətkarlıq",
+          "description": "Biz inanırıq ki, mükəmməllik detallardadır. İlk konsepsiyadan son kod sətrinə qədər işimizin hər bir elementi qüsursuz bir son məhsul üçün diqqətlə planlaşdırılır və dəqiq icra olunur."
+        }
+      ]
+    },
+    "testimonials-page": {
+      "title": "Rəylər",
+      "subheader": "Müştərilərimizin, inkişaf etdiricilərimizin və testçilərimizin məhsullarımız haqqında nəyi sevdiyini görün.",
+      "testimonial": [
+        {
+          "name": "Michael Schenk",
+          "occupation": "İnkişaf etdirici",
+          "testimonial": "Bu məhsulun nə qədər çox yönlü olduğunu tamamilə sevirəm! İstər iş layihələri ilə məşğul olum, istərsə də sevimli hobbilərimlə məşğul olum, dəyişən ehtiyaclarıma problemsiz uyğunlaşır. Onun intuitiv dizaynı gündəlik rutinimi həqiqətən yaxşılaşdırıb, tapşırıqları daha səmərəli və zövqlü edib."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "İnkişaf etdirici",
+          "testimonial": "Bu məhsulun fərqləndirici xüsusiyyətlərindən biri müstəsna müştəri dəstəyidir. Təcrübəmdə, bu məhsulun arxasındakı komanda cavab verməkdə cəld və inanılmaz dərəcədə köməkçi olub. Onların məhsullarının arxasında möhkəm dayandıqlarını bilmək arxayınlıq verir."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "İnkişaf etdirici",
+          "testimonial": "Bu məhsuldakı sadəlik və istifadəçi dostu səviyyəsi həyatımı əhəmiyyətli dərəcədə sadələşdirib. Yaradıcılara təkcə istifadəçi gözləntilərini qarşılayan deyil, həm də aşan bir həll təqdim etdikləri üçün təşəkkür edirəm."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "İnkişaf etdirici",
+          "testimonial": "Bu məhsulun dizaynındakı detallara diqqəti yüksək qiymətləndirirəm. Kiçik toxunuşlar böyük fərq yaradır və yaradıcıların premium bir təcrübə təqdim etməyə diqqət yetirdikləri aydındır."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "İnkişaf etdirici",
+          "testimonial": "Digər oxşar məhsulları sınamışam, ancaq bu, innovativ xüsusiyyətləri ilə fərqlənir. Yaradıcıların istifadəçi ehtiyaclarını həqiqətən qarşılayan bir həll yaratmaq üçün çox düşündükləri aydındır."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "İnkişaf etdirici",
+          "testimonial": "Bu məhsulun keyfiyyəti gözləntilərimi aşdı. Davamlı, yaxşı dizayn edilmiş və uzun müddət davam etmək üçün qurulmuşdur. Mütləq investisiyaya dəyər."
+        }
+      ]
+    },
+    "mode": {
+      "system": "Sistem",
+      "light": "İşıqlı",
+      "dark": "Qaranlıq"
+    }
+  }
+}
