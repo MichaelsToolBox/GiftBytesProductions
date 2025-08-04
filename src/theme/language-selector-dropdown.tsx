@@ -3,6 +3,7 @@ import TranslateIcon from '@mui/icons-material/Translate';
 import ListItemText from '@mui/material/ListItemText';
 import ListItemIcon from '@mui/material/ListItemIcon';
 import IconButton from '@mui/material/IconButton';
+import Typography from '@mui/material/Typography';
 import MenuItem from '@mui/material/MenuItem';
 import Check from '@mui/icons-material/Check';
 import Menu from '@mui/material/Menu';
@@ -11,7 +12,8 @@ import * as React from 'react';
 
 /**
  * A dropdown menu component for selecting a language.
- * It displays a flag icon, places the selected language at the top and marks it with a check icon.
+ * It displays a flag icon, places the selected language at the top, marks it with a check icon,
+ * and shows the current language code next to the trigger icon.
  */
 export default function LanguageSelectorDropdown(props: LanguageSelectorDropdownProps) {
   const { selectedLanguage, availableLanguages, onChange, ...iconButtonProps } = props;
@@ -57,6 +59,7 @@ export default function LanguageSelectorDropdown(props: LanguageSelectorDropdown
 
   return (
     <React.Fragment>
+      {/* Updated IconButton to show the language code and adjust width */}
       <IconButton
         data-screenshot="language-selector"
         onClick={handleClick}
@@ -65,9 +68,20 @@ export default function LanguageSelectorDropdown(props: LanguageSelectorDropdown
         aria-controls={open ? 'language-menu' : undefined}
         aria-haspopup="true"
         aria-expanded={open ? 'true' : undefined}
+        sx={{
+            width: 'auto', // Allow the button to grow based on its content
+            px: 1,
+            border: '1px solid',
+            borderColor: 'divider',
+        }}
         {...iconButtonProps}
       >
-        <TranslateIcon />
+        <Box sx={{ display: 'flex', alignItems: 'center', gap: 1.5}}>
+            <Typography variant="subtitle2" fontSize="small" sx={{ textTransform: 'uppercase' }}>
+                {selectedLanguage.code}
+            </Typography>
+            <TranslateIcon fontSize="small" />
+        </Box>
       </IconButton>
       <Menu
         anchorEl={anchorEl}
@@ -82,9 +96,9 @@ export default function LanguageSelectorDropdown(props: LanguageSelectorDropdown
             elevation: 0,
             sx: {
               my: '4px',
-              minWidth: 0.15,
-              maxHeight: 0.5,
-              paddingRight: 1,
+              minWidth: '300px',
+              maxHeight: 400,
+              padding: 1,
             },
           },
         }}
@@ -95,7 +109,7 @@ export default function LanguageSelectorDropdown(props: LanguageSelectorDropdown
             selected={lang.code === selectedLanguage.code}
             onClick={handleLanguageSelect(lang)}
           >
-            <ListItemIcon sx={{ minWidth: '24px' }}>{lang.icon}</ListItemIcon>
+            <ListItemIcon sx={{ minWidth: '32px' }}>{lang.icon}</ListItemIcon>
             <ListItemText>{lang.name}</ListItemText>
             {lang.code === selectedLanguage.code && <Check sx={{ marginLeft: 'auto' }} />}
           </MenuItem>
