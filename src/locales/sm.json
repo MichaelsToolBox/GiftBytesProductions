@@ -1,0 +1,198 @@
+{
+  "translation": {
+    "app-bar": {
+      "projects": "Poloketi",
+      "principles": "Taiala",
+      "download": "Sii mai",
+      "latest": "Tala Fou",
+      "testimonials": "Molimau",
+      "faq": "Fesili e Fesiligia Soo"
+    },
+    "hero-page": {
+      "subtitle": "O i matou o se potu atina'e foafoa e fa'avae i Siamani o lo'o fa'aaogaina tekonolosi aupito lata mai e fau ai taaloga vitio, polokalame, ma aafiaga fa'asalalau e manaia ma faigofie ona maua e tagata uma.",
+      "gift": "Gift",
+      "bytes": "Bytes",
+      "productions": "Productions"
+    },
+    "download-page": {
+      "title": "Sii mai",
+      "subtitle": "O iinei e mafai ona e siiina mai ai ma matamata i a matou poloketi"
+    },
+    "tiers": {
+      "title1": "Tala o Atina'e",
+      "price1": "Leai se totogi",
+      "subheader1": "Avanoa",
+      "description10": "Le gaosiga o vitio e tulaga lelei fa'a-potu aoga",
+      "description11": "Su'esu'ega loloto i totonu o la matou tulafono ma le mamanu",
+      "description12": "Fegalegaleaiga tuusa'o ma a matou tagata atina'e",
+      "description13": "Avanoa i le lalolagi atoa i luga o le YouTube",
+      "buttontext1": "Saofaga Fua",
+      "title2": "TouchSlider",
+      "price2": "Leai se totogi",
+      "subheader2": "Fautuaina",
+      "description20": "Avanoa i luga o le IOS ma le Android",
+      "description21": "Ta'alo fua e aunoa ma se tau lilo",
+      "description22": "E lagolagoina masini feavea'i tuai",
+      "description23": "Taaloga faigofie mo so'o se taimi ma aso",
+      "description24": "O lo'o fa'aalia i tala o atina'e",
+      "description25": "Lagolago",
+      "buttontext21": "Sii mai le IOS",
+      "buttontext22": "Sii mai le Android",
+      "title3": "Poloketi o lo'o loma",
+      "price3": "Leai se totogi",
+      "subheader3": "O lo'o fa'agasolo",
+      "description30": "Avanoa mo Windows, Macos ma Linux",
+      "description31": "Tufatufaina e ala i le Steam ma le Apple Store",
+      "description32": "Avanoa i gagana eseese",
+      "description33": "Lagolago",
+      "buttontext3": "O le a fa'alauiloa"
+    },
+    "faq": {
+      "title": "Fesili e Fesiligia Soo",
+      "subtitle1": "E fa'afefea ona ou fa'afeso'ota'i le lagolago a tagata fa'atau pe a iai sa'u fesili po'o se fa'afitauli?",
+      "description1": "E mafai ona e fa'afeso'ota'i la matou 'au lagolago a tagata fa'atau e ala i le imeli i le: ",
+      "subtitle2": "O le a le mea e tu'u'ese'ese ai lau oloa mai isi i le maketi?",
+      "description2": "O la matou oloa e iloga i lona fetuutuuna'i, tumau, ma foliga fou. Matou te fa'amuamua le fa'amalieina o tagata fa'aoga ma taumafai pea e sili atu i fa'amoemoega i itu uma.",
+      "subtitle3": "E fa'afefea ona ou lagolagoina le GiftBytesProductions?",
+      "description3": "Ua e fesoasoani mai ia i matou i le na'o le fa'ata'ita'iina o a matou poloketi ma fautuaina. A leai e mafai ona e lesitala i la matou alaleo YouTube ma auai i le nu'u. Mo se lagolago fa'aopoopo e mafai fo'i ona e foa'i sa'o mai ia i matou e ala i le PayPal."
+    },
+    "feature-page": {
+      "title": "Vaega",
+      "subheader": "Su'esu'e vaega mamana e fa'ailoa ai la matou talosaga.",
+      "items": [
+        {
+          "title": "Mamanu Fa'amuamua Telefoni Feavea'i",
+          "description": "O la matou polokalame ua mamanuina ma se auala e fa'amuamua ai telefoni feavea'i, e mautinoa ai se aafiaga sologa lelei i so'o se masini."
+        },
+        {
+          "title": "Lisi Fa'atonu Faigofie",
+          "description": "O se lisi fa'atonu mama ma fa'atulagaina lelei e avatu ai ia te oe se va'aiga lautele i le tepa tasi."
+        },
+        {
+          "title": "Fegalegaleai i Masini Eseese",
+          "description": "Fiafia i se aafiaga tumau ma mamana pe o e i luga o se komepiuta, laupapa, po'o se telefoni poto."
+        }
+      ]
+    },
+    "footer-page": {
+      "left-title": "Auai i lo tatou nu'u",
+      "left-button": "Saofaga",
+      "policy": "Faiga Fa'alilolilo",
+      "terms": "Tuutuuga o le Auaunaga",
+      "copyright": "Pule Tau Fatuga © ",
+      "giftbytes": "GiftBytesProductions"
+    },
+    "latest-page": {
+      "title": "Tala Fou",
+      "article": [
+        {
+          "tag": "Poloketi",
+          "title": "Fa'alauiloaina o Poloketi Fou",
+          "description": "Matou te fa'ailoa atu o la matou poloketi fou o le a avea ma se taaloga vitio komepiuta e ta'alo fua o le a avanoa i luga o faiga fa'aoga uma ma tulaga.",
+          "author": "Michael Schenk, Tagata Atina'e"
+        },
+        {
+          "tag": "Upega Tafa'ilagi",
+          "title": "Upega Tafa'ilagi Fou",
+          "description": "Matou te fa'ailoa atu ua iu lava ina ola la matou upega tafa'ilagi ma fa'alaua'itele.",
+          "author": "Michael Schenk, Tagata Atina'e"
+        },
+        {
+          "tag": "Poloketi",
+          "title": "Ua ola le TouchSlider",
+          "description": "Matou te fa'ailoa atu o la matou taaloga vitio feavea'i o le TouchSlider ua avanoa e sii mai fua i luga o le IOS ma le Android.",
+          "author": "Michael Schenk, Tagata Atina'e"
+        },
+        {
+          "tag": "Kamupani",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Tagata Atina'e"
+        },
+        {
+          "tag": "Inisinia",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Tagata Atina'e"
+        },
+        {
+          "tag": "Oloa",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Tagata Atina'e"
+        }
+      ]
+    },
+    "principles-page": {
+      "title": "O a Tatou Taiala",
+      "subheader": "O nei tulaga fa'atauaina o lo'o i le fatu o mea uma tatou te fausiaina, mai le laina muamua o le tulafono i le aafiaga mulimuli a le tagata fa'aoga.",
+      "items": [
+        {
+          "title": "Avanoa i Soo se Mea",
+          "description": "Matou te talitonu o se polokalama lelei e tatau ona aoga mo tagata uma, i luga o so'o se masini. O a matou poloketi ua mamanuina ma le fa'aeteete mo le fegalegaleai i luga o tulaga eseese ma le avanoa mai le amataga."
+        },
+        {
+          "title": "Fa'alelei & Lelei le Fa'atinoga",
+          "description": "Matou te tu'uina atu aafiaga atoatoa ma sili ona lelei. O lo matou taula'i atu i le fausaga mama ma le su'ega malosi e mautinoa ai o oloa uma e mautu, lelei le fa'atinoga, ma sauni e fiafia i ai mai le aso muamua."
+        },
+        {
+          "title": "Mamanu Faigofie",
+          "description": "Matou te talitonu o se polokalama mamana e le tatau ona faigata. O lo matou naunau o lo'o ta'oto i le fauina o feso'ota'iga mama, faigofie e fa'afaigofie ma fiafia ai fegalegaleaiga uma."
+        },
+        {
+          "title": "Fa'aola e le Fa'afouga",
+          "description": "Matou te fausia ma le lumana'i i le mafaufau. E ala i le fa'aaogaina o tekonolosi fou o polokalama ma masini, matou te fatuina ai oloa e mafaufau i luma ma galuega mamana, fa'aonaponei."
+        },
+        {
+          "title": "Lagolago Tuuto",
+          "description": "O la matou sootaga e le muta i le siiina mai. Matou te tu'uina atu le lagolago fa'auo, vave tali mai sa'o mai la matou 'au e mautinoa ai e te maua i taimi uma se aafiaga lelei i a matou oloa."
+        },
+        {
+          "title": "Galuega Taulima Fa'aeteete",
+          "description": "Matou te talitonu o le tulaga sili ona lelei o lo'o i totonu o auiliiliga. Mai le manatu muamua i le laina mulimuli o le tulafono, o elemene uma o la matou galuega ua fuafuaina ma le fa'aeteete ma fa'atinoina ma le sa'o mo se oloa mulimuli e leai se pona."
+        }
+      ]
+    },
+    "testimonials-page": {
+      "title": "Molimau",
+      "subheader": "Va'ai po'o a mea e fiafia i ai a matou tagata fa'atau, tagata atina'e ma tagata su'esu'e e uiga i a matou oloa.",
+      "testimonial": [
+        {
+          "name": "Michael Schenk",
+          "occupation": "Tagata Atina'e",
+          "testimonial": "Ou te matua fiafia lava i le tele o mea e mafai e lenei oloa ona fai! Pe o ou feagai ma galuega fa'atino po'o le fiafia i a'u mea e fiafia i ai, e fetuutuunai ma le sologa lelei i o'u mana'oga fesuisuia'i. O lona mamanu faigofie ua matua fa'aleleia atili ai la'u masani i aso ta'itasi, ua atili ai ona lelei ma fiafia galuega."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Tagata Atina'e",
+          "testimonial": "O se tasi o vaega iloga o lenei oloa o le lagolago tulaga ese a tagata fa'atau. I lo'u aafiaga, o le 'au i tua atu o lenei oloa sa vave ona tali mai ma matua fesoasoani lava. O se fa'amautinoaga le iloa o lo'o latou lagolagoina ma le mausali a latou oloa."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Tagata Atina'e",
+          "testimonial": "O le tulaga o le faigofie ma le fa'auo i le tagata fa'aoga i lenei oloa ua matua fa'afaigofieina ai lo'u olaga. Ou te fa'afetai i le au na faia mo le tu'uina mai o se fofo e le gata ina fetaui, ae sili atu i fa'amoemoega o tagata fa'aoga."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Tagata Atina'e",
+          "testimonial": "Ou te talisapaia le gauai atu i auiliiliga i le mamanu o lenei oloa. O nai pa'i laiti e faia ai se eseesega tele, ma e manino lava na taula'i le au na faia i le tu'uina atu o se aafiaga sili ona lelei."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Tagata Atina'e",
+          "testimonial": "Sa ou fa'ata'ita'iina isi oloa fa'apena, ae o lenei oloa e tu'u'ese'ese ona o ona foliga fou. E manino lava na tu'uina atu e le au fai le tele o mafaufauga i le fatuina o se fofo e matua'i fo'ia ai mana'oga o tagata fa'aoga."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Tagata Atina'e",
+          "testimonial": "O le tulaga lelei o lenei oloa na sili atu i lo'u fa'amoemoe. E tumau, mamanuina lelei, ma fausia e tumau. E mautinoa lava e aoga le tupe teu fa'afaigaluega."
+        }
+      ]
+    },
+    "mode": {
+      "system": "Faiga",
+      "light": "Malamalama",
+      "dark": "Pogisa"
+    }
+  }
+}

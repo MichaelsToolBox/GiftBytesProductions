@@ -70,7 +70,7 @@ import pt from './locales/pt.json'; // Missing Portuguese
 // import qu from './locales/qu.json'; // Missing Quechua
 import ro from './locales/ro.json'; // Missing Romanian
 import ru from './locales/ru.json'; // Missing Russian
-// import sm from './locales/sm.json'; // Missing Samoan
+import sm from './locales/sm.json'; // Missing Samoan
 import sr from './locales/sr.json'; // Missing Serbian
 // import sn from './locales/sn.json'; // Missing Shona
 // import sd from './locales/sd.json'; // Missing Sindhi
@@ -116,9 +116,7 @@ i18n
       // or, fa, 
       pl, pt,
       // pa, qu,
-      ro, ru, 
-      // sm, 
-      sr, 
+      ro, ru, sm, sr, 
       // sn, sd, si, sk, 
       sl,
       // so, 
