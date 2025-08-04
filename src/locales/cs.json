@@ -1,0 +1,198 @@
+{
+  "translation": {
+    "app-bar": {
+      "projects": "Projekty",
+      "principles": "Principy",
+      "download": "Stáhnout",
+      "latest": "Nejnovější",
+      "testimonials": "Ohlasy",
+      "faq": "FAQ"
+    },
+    "hero-page": {
+      "subtitle": "Jsme kreativní vývojářské studio se sídlem v Německu, které využívá nejnovější technologie k tvorbě poutavých a dostupných videoher, aplikací a mediálních zážitků pro každého.",
+      "gift": "Gift",
+      "bytes": "Bytes",
+      "productions": "Productions"
+    },
+    "download-page": {
+      "title": "Stáhnout",
+      "subtitle": "Zde si můžete stáhnout a prohlédnout naše projekty"
+    },
+    "tiers": {
+      "title1": "Vývojářské deníky",
+      "price1": "Zdarma",
+      "subheader1": "Dostupné",
+      "description10": "Video produkce ve studiové kvalitě",
+      "description11": "Hluboké ponory do našeho kódu a designu",
+      "description12": "Přímá interakce s našimi vývojáři",
+      "description13": "Dostupné po celém světě na YouTube",
+      "buttontext1": "Bezplatné předplatné",
+      "title2": "TouchSlider",
+      "price2": "Zdarma",
+      "subheader2": "Doporučeno",
+      "description20": "Dostupné pro IOS a Android",
+      "description21": "Zdarma k hraní bez skrytých nákladů",
+      "description22": "Podporuje starší mobilní zařízení",
+      "description23": "Jednoduchá hra pro jakýkoli čas a den",
+      "description24": "Představeno ve vývojářských denících",
+      "description25": "Podpora",
+      "buttontext21": "Stáhnout pro IOS",
+      "buttontext22": "Stáhnout pro Android",
+      "title3": "Připravovaný projekt",
+      "price3": "Zdarma",
+      "subheader3": "V přípravě",
+      "description30": "Dostupné pro Windows, MacOS a Linux",
+      "description31": "Distribuce přes Steam a Apple Store",
+      "description32": "Dostupné v různých jazycích",
+      "description33": "Podpora",
+      "buttontext3": "Bude oznámeno"
+    },
+    "faq": {
+      "title": "Často kladené otázky",
+      "subtitle1": "Jak mohu kontaktovat zákaznickou podporu, pokud mám dotaz nebo problém?",
+      "description1": "Náš tým zákaznické podpory můžete kontaktovat e-mailem na adrese: ",
+      "subtitle2": "Čím se váš produkt odlišuje od ostatních na trhu?",
+      "description2": "Náš produkt se vyznačuje svou přizpůsobivostí, odolností a inovativními funkcemi. Upřednostňujeme spokojenost uživatelů a neustále se snažíme překonávat očekávání ve všech ohledech.",
+      "subtitle3": "Jak mohu podpořit GiftBytesProductions?",
+      "description3": "Už nám pomáháte tím, že zkoušíte naše projekty a doporučujete je. Jinak se můžete přihlásit k odběru našeho kanálu na YouTube a zapojit se do komunity. Pro další podporu nám můžete také přispět přímo přes PayPal."
+    },
+    "feature-page": {
+      "title": "Funkce",
+      "subheader": "Prozkoumejte výkonné funkce, díky kterým naše aplikace vyniká.",
+      "items": [
+        {
+          "title": "Design zaměřený na mobilní zařízení",
+          "description": "Naše aplikace je navržena s přístupem zaměřeným na mobilní zařízení, což zajišťuje bezproblémový zážitek na jakémkoli zařízení."
+        },
+        {
+          "title": "Intuitivní ovládací panel",
+          "description": "Čistý a organizovaný ovládací panel, který vám poskytne kompletní přehled na první pohled."
+        },
+        {
+          "title": "Kompatibilita napříč zařízeními",
+          "description": "Užijte si konzistentní a výkonný zážitek, ať už jste na počítači, tabletu nebo chytrém telefonu."
+        }
+      ]
+    },
+    "footer-page": {
+      "left-title": "Připojte se k naší komunitě",
+      "left-button": "Odebírat",
+      "policy": "Zásady ochrany osobních údajů",
+      "terms": "Podmínky služby",
+      "copyright": "Copyright © ",
+      "giftbytes": "GiftBytesProductions"
+    },
+    "latest-page": {
+      "title": "Nejnovější",
+      "article": [
+        {
+          "tag": "Projekty",
+          "title": "Oznámení nového projektu",
+          "description": "Oznamujeme, že náš nový projekt bude bezplatná videohra pro stolní počítače, která bude dostupná na všech operačních systémech a platformách.",
+          "author": "Michael Schenk, vývojář"
+        },
+        {
+          "tag": "Webová stránka",
+          "title": "Nová webová stránka",
+          "description": "Oznamujeme, že naše webová stránka je konečně spuštěna a veřejná.",
+          "author": "Michael Schenk, vývojář"
+        },
+        {
+          "tag": "Projekty",
+          "title": "TouchSlider je spuštěn",
+          "description": "Oznamujeme, že naše mobilní videohra TouchSlider je k dispozici ke stažení zdarma pro IOS a Android.",
+          "author": "Michael Schenk, vývojář"
+        },
+        {
+          "tag": "Společnost",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, vývojář"
+        },
+        {
+          "tag": "Inženýrství",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, vývojář"
+        },
+        {
+          "tag": "Produkt",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, vývojář"
+        }
+      ]
+    },
+    "principles-page": {
+      "title": "Naše principy",
+      "subheader": "Tyto hodnoty jsou jádrem všeho, co tvoříme, od prvního řádku kódu až po konečný uživatelský zážitek.",
+      "items": [
+        {
+          "title": "Dostupné všude",
+          "description": "Věříme, že skvělý software by měl fungovat pro každého a na jakémkoli zařízení. Naše projekty jsou pečlivě navrženy pro kompatibilitu napříč platformami a dostupnost od samého začátku."
+        },
+        {
+          "title": "Vyleštěné a výkonné",
+          "description": "Poskytujeme kompletní a vysoce optimalizované zážitky. Naše zaměření na čistou architekturu a přísné testování zajišťuje, že každý produkt je stabilní, výkonný a připravený k užívání od prvního dne."
+        },
+        {
+          "title": "Intuitivní design",
+          "description": "Věříme, že výkonný software nemusí být složitý. Naše vášeň spočívá ve vytváření čistých, intuitivních rozhraní, která činí každou interakci přímočarou a příjemnou."
+        },
+        {
+          "title": "Poháněno inovacemi",
+          "description": "Tvoříme s ohledem na budoucnost. Využitím nejnovějších softwarových a hardwarových technologií vytváříme progresivní produkty s výkonnou, špičkovou funkcionalitou."
+        },
+        {
+          "title": "Oddaná podpora",
+          "description": "Náš vztah nekončí stažením. Poskytujeme přátelskou a pohotovou podporu přímo od našeho týmu, abychom zajistili, že budete mít s našimi produkty vždy skvělý zážitek."
+        },
+        {
+          "title": "Pečlivé řemeslné zpracování",
+          "description": "Věříme, že dokonalost spočívá v detailech. Od prvního konceptu až po poslední řádek kódu je každý prvek naší práce promyšleně naplánován a precizně proveden pro bezchybný finální produkt."
+        }
+      ]
+    },
+    "testimonials-page": {
+      "title": "Ohlasy",
+      "subheader": "Podívejte se, co naši zákazníci, vývojáři a testeři milují na našich produktech.",
+      "testimonial": [
+        {
+          "name": "Michael Schenk",
+          "occupation": "Vývojář",
+          "testimonial": "Absolutně miluji, jak je tento produkt všestranný! Ať už se věnuji pracovním projektům nebo svým oblíbeným koníčkům, bez problémů se přizpůsobí mým měnícím se potřebám. Jeho intuitivní design skutečně vylepšil mou každodenní rutinu a učinil úkoly efektivnějšími a příjemnějšími."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Vývojář",
+          "testimonial": "Jednou z vynikajících vlastností tohoto produktu je výjimečná zákaznická podpora. Podle mých zkušeností tým za tímto produktem reagoval rychle a byl neuvěřitelně nápomocný. Je uklidňující vědět, že si pevně stojí za svým produktem."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Vývojář",
+          "testimonial": "Úroveň jednoduchosti a uživatelské přívětivosti tohoto produktu mi výrazně zjednodušila život. Oceňuji tvůrce za to, že dodali řešení, které nejen splňuje, ale i překonává očekávání uživatelů."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Vývojář",
+          "testimonial": "Oceňuji pozornost věnovanou detailům v designu tohoto produktu. Malé doteky dělají velký rozdíl a je zřejmé, že se tvůrci zaměřili na poskytování prémiového zážitku."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Vývojář",
+          "testimonial": "Zkoušel jsem jiné podobné produkty, ale tento vyniká svými inovativními funkcemi. Je jasné, že tvůrci hodně přemýšleli o vytvoření řešení, které skutečně řeší potřeby uživatelů."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Vývojář",
+          "testimonial": "Kvalita tohoto produktu předčila má očekávání. Je odolný, dobře navržený a vyrobený tak, aby vydržel. Rozhodně stojí za investici."
+        }
+      ]
+    },
+    "mode": {
+      "system": "Systém",
+      "light": "Světlý",
+      "dark": "Tmavý"
+    }
+  }
+}

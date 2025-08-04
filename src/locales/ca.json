@@ -1,0 +1,198 @@
+{
+  "translation": {
+    "app-bar": {
+      "projects": "Projectes",
+      "principles": "Principis",
+      "download": "Descàrrega",
+      "latest": "Últimes novetats",
+      "testimonials": "Testimonis",
+      "faq": "PMF"
+    },
+    "hero-page": {
+      "subtitle": "Som un estudi de desenvolupament creatiu amb seu a Alemanya que aprofita l'última tecnologia per crear videojocs, aplicacions i experiències multimèdia captivadores i accessibles per a tothom.",
+      "gift": "Gift",
+      "bytes": "Bytes",
+      "productions": "Productions"
+    },
+    "download-page": {
+      "title": "Descàrrega",
+      "subtitle": "Aquí podeu descarregar i veure els nostres projectes"
+    },
+    "tiers": {
+      "title1": "Diaris de desenvolupament",
+      "price1": "Gratuït",
+      "subheader1": "Disponible",
+      "description10": "Producció de vídeo de qualitat d'estudi",
+      "description11": "Immersions profundes en el nostre codi i disseny",
+      "description12": "Interacció directa amb els nostres desenvolupadors",
+      "description13": "Accessible a tot el món a YouTube",
+      "buttontext1": "Subscripció gratuïta",
+      "title2": "TouchSlider",
+      "price2": "Gratuït",
+      "subheader2": "Recomanat",
+      "description20": "Disponible a IOS i Android",
+      "description21": "Joc gratuït sense costos ocults",
+      "description22": "Admet dispositius mòbils antics",
+      "description23": "Joc senzill per a qualsevol moment i dia",
+      "description24": "Presentat als diaris de desenvolupament",
+      "description25": "Suport",
+      "buttontext21": "Descàrrega IOS",
+      "buttontext22": "Descàrrega Android",
+      "title3": "Pròxim projecte",
+      "price3": "Gratuït",
+      "subheader3": "En progrés",
+      "description30": "Disponible per a Windows, MacOS i Linux",
+      "description31": "Distribució a través de Steam i Apple Store",
+      "description32": "Accessible en diversos idiomes",
+      "description33": "Suport",
+      "buttontext3": "S'anunciarà"
+    },
+    "faq": {
+      "title": "Preguntes freqüents",
+      "subtitle1": "Com puc contactar amb el servei d'atenció al client si tinc una pregunta o un problema?",
+      "description1": "Podeu contactar amb el nostre equip d'atenció al client enviant un correu electrònic a: ",
+      "subtitle2": "Què fa que el vostre producte destaqui per sobre dels altres del mercat?",
+      "description2": "El nostre producte es distingeix per la seva adaptabilitat, durabilitat i característiques innovadores. Prioritzem la satisfacció de l'usuari i ens esforcem contínuament per superar les expectatives en tots els aspectes.",
+      "subtitle3": "Com puc donar suport a GiftBytesProductions?",
+      "description3": "Ja ens esteu ajudant només provant els nostres projectes i recomanant-los. A més, podeu subscriure-us al nostre canal de YouTube i participar en la comunitat. Per a un suport addicional, també podeu fer-nos una donació directament a través de PayPal."
+    },
+    "feature-page": {
+      "title": "Característiques",
+      "subheader": "Exploreu les potents característiques que fan destacar la nostra aplicació.",
+      "items": [
+        {
+          "title": "Disseny Mobile-First",
+          "description": "La nostra aplicació està dissenyada amb un enfocament mobile-first, garantint una experiència fluida en qualsevol dispositiu."
+        },
+        {
+          "title": "Tauler de control intuïtiu",
+          "description": "Un tauler de control net i organitzat que us ofereix una visió general completa d'un cop d'ull."
+        },
+        {
+          "title": "Compatibilitat entre dispositius",
+          "description": "Gaudiu d'una experiència coherent i potent tant si sou a l'escriptori, a la tauleta o al telèfon intel·ligent."
+        }
+      ]
+    },
+    "footer-page": {
+      "left-title": "Uniu-vos a la nostra comunitat",
+      "left-button": "Subscriu-te",
+      "policy": "Política de privacitat",
+      "terms": "Condicions del servei",
+      "copyright": "Copyright © ",
+      "giftbytes": "GiftBytesProductions"
+    },
+    "latest-page": {
+      "title": "Últimes novetats",
+      "article": [
+        {
+          "tag": "Projectes",
+          "title": "Anunci d'un nou projecte",
+          "description": "Anunciem que el nostre nou projecte serà un videojoc d'escriptori gratuït que estarà disponible a tots els sistemes operatius i plataformes.",
+          "author": "Michael Schenk, Desenvolupador"
+        },
+        {
+          "tag": "Lloc web",
+          "title": "Nou lloc web",
+          "description": "Anunciem que el nostre lloc web finalment està en línia i és públic.",
+          "author": "Michael Schenk, Desenvolupador"
+        },
+        {
+          "tag": "Projectes",
+          "title": "TouchSlider ja està disponible",
+          "description": "Anunciem que el nostre videojoc per a mòbils TouchSlider està disponible per a descàrrega gratuïta a IOS i Android.",
+          "author": "Michael Schenk, Desenvolupador"
+        },
+        {
+          "tag": "Empresa",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Desenvolupador"
+        },
+        {
+          "tag": "Enginyeria",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Desenvolupador"
+        },
+        {
+          "tag": "Producte",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Desenvolupador"
+        }
+      ]
+    },
+    "principles-page": {
+      "title": "Els nostres principis",
+      "subheader": "Aquests valors són al cor de tot el que construïm, des de la primera línia de codi fins a l'experiència final de l'usuari.",
+      "items": [
+        {
+          "title": "Accessible a tot arreu",
+          "description": "Creiem que un gran programari hauria de funcionar per a tothom, en qualsevol dispositiu. Els nostres projectes estan dissenyats meticulosament per a la compatibilitat multiplataforma i l'accessibilitat des del principi."
+        },
+        {
+          "title": "Polit i d'alt rendiment",
+          "description": "Oferim experiències completes i altament optimitzades. El nostre enfocament en una arquitectura neta i proves rigoroses garanteix que cada producte sigui estable, d'alt rendiment i llest per gaudir des del primer dia."
+        },
+        {
+          "title": "Disseny intuïtiu",
+          "description": "Creiem que un programari potent no ha de ser complicat. La nostra passió rau en la creació d'interfícies netes i intuïtives que fan que cada interacció sigui senzilla i agradable."
+        },
+        {
+          "title": "Impulsat per la innovació",
+          "description": "Construïm pensant en el futur. Aprofitant l'última tecnologia de programari i maquinari, creem productes amb visió de futur amb una funcionalitat potent i d'avantguarda."
+        },
+        {
+          "title": "Suport dedicat",
+          "description": "La nostra relació no acaba amb la descàrrega. Oferim un suport amable i ràpid directament del nostre equip per garantir que sempre tingueu una gran experiència amb els nostres productes."
+        },
+        {
+          "title": "Artesania meticulosa",
+          "description": "Creiem que l'excel·lència rau en els detalls. Des del primer concepte fins a l'última línia de codi, cada element del nostre treball està planificat amb cura i executat amb precisió per a un producte final impecable."
+        }
+      ]
+    },
+    "testimonials-page": {
+      "title": "Testimonis",
+      "subheader": "Vegeu què els agrada als nostres clients, desenvolupadors i provadors dels nostres productes.",
+      "testimonial": [
+        {
+          "name": "Michael Schenk",
+          "occupation": "Desenvolupador",
+          "testimonial": "M'encanta absolutament com de versàtil és aquest producte! Tant si estic abordant projectes de feina com si gaudeixo de les meves aficions preferides, s'adapta perfectament a les meves necessitats canviants. El seu disseny intuïtiu ha millorat realment la meva rutina diària, fent les tasques més eficients i agradables."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Desenvolupador",
+          "testimonial": "Una de les característiques més destacades d'aquest producte és l'excepcional atenció al client. Segons la meva experiència, l'equip darrere d'aquest producte ha respost ràpidament i ha estat increïblement útil. És tranquil·litzador saber que donen un suport ferm al seu producte."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Desenvolupador",
+          "testimonial": "El nivell de simplicitat i facilitat d'ús d'aquest producte ha simplificat significativament la meva vida. Agraeixo als creadors per oferir una solució que no només compleix, sinó que supera les expectatives dels usuaris."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Desenvolupador",
+          "testimonial": "Agraeixo l'atenció als detalls en el disseny d'aquest producte. Els petits detalls marquen una gran diferència, i és evident que els creadors es van centrar a oferir una experiència premium."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Desenvolupador",
+          "testimonial": "He provat altres productes similars, però aquest destaca per les seves característiques innovadores. És evident que els fabricants van pensar molt a crear una solució que realment respongui a les necessitats dels usuaris."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Desenvolupador",
+          "testimonial": "La qualitat d'aquest producte va superar les meves expectatives. És durador, ben dissenyat i construït per durar. Definitivament val la pena la inversió."
+        }
+      ]
+    },
+    "mode": {
+      "system": "Sistema",
+      "light": "Clar",
+      "dark": "Fosc"
+    }
+  }
+}

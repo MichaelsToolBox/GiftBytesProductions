@@ -1,0 +1,198 @@
+{
+  "translation": {
+    "app-bar": {
+      "projects": "Projektid",
+      "principles": "Põhimõtted",
+      "download": "Laadi alla",
+      "latest": "Uusimad",
+      "testimonials": "Iseloomustused",
+      "faq": "KKK"
+    },
+    "hero-page": {
+      "subtitle": "Oleme Saksamaal asuv loominguline arendusstuudio, mis kasutab uusimat tehnoloogiat, et luua köitvaid ja kättesaadavaid videomänge, rakendusi ja meediakogemusi kõigile.",
+      "gift": "Gift",
+      "bytes": "Bytes",
+      "productions": "Productions"
+    },
+    "download-page": {
+      "title": "Laadi alla",
+      "subtitle": "Siin saate alla laadida ja vaadata meie projekte"
+    },
+    "tiers": {
+      "title1": "Arenduspäevikud",
+      "price1": "Tasuta",
+      "subheader1": "Saadaval",
+      "description10": "Stuudiokvaliteediga videotootmine",
+      "description11": "Sügav sukeldumine meie koodi ja disaini",
+      "description12": "Otsene suhtlus meie arendajatega",
+      "description13": "Kättesaadav üle maailma YouTube'is",
+      "buttontext1": "Tasuta tellimus",
+      "title2": "TouchSlider",
+      "price2": "Tasuta",
+      "subheader2": "Soovitatav",
+      "description20": "Saadaval IOS-is ja Androidis",
+      "description21": "Tasuta mängimiseks ilma varjatud kuludeta",
+      "description22": "Toetab vanu mobiilseadmeid",
+      "description23": "Lihtne mäng igaks ajaks ja päevaks",
+      "description24": "Esitletud arenduspäevikutes",
+      "description25": "Tugi",
+      "buttontext21": "Laadi alla IOS",
+      "buttontext22": "Laadi alla Android",
+      "title3": "Tulevane projekt",
+      "price3": "Tasuta",
+      "subheader3": "Pooleli",
+      "description30": "Saadaval Windowsi, MacOsi ja Linuxi jaoks",
+      "description31": "Levitamine Steami ja Apple Store'i kaudu",
+      "description32": "Kättesaadav erinevates keeltes",
+      "description33": "Tugi",
+      "buttontext3": "Teatatakse hiljem"
+    },
+    "faq": {
+      "title": "Korduma kippuvad küsimused",
+      "subtitle1": "Kuidas ma saan klienditoega ühendust võtta, kui mul on küsimus või probleem?",
+      "description1": "Meie klienditoe meeskonnaga saate ühendust võtta, saates e-kirja aadressile: ",
+      "subtitle2": "Mis eristab teie toodet teistest turul olevatest?",
+      "description2": "Meie toode eristub oma kohanemisvõime, vastupidavuse ja uuenduslike omaduste poolest. Me seame esikohale kasutajate rahulolu ja püüame pidevalt ületada ootusi igas aspektis.",
+      "subtitle3": "Kuidas ma saan toetada GiftBytesProductionsit?",
+      "description3": "Te aitate meid juba ainuüksi meie projektide proovimise ja soovitamisega. Vastasel juhul saate tellida meie YouTube'i kanali ja suhelda kogukonnaga. Lisatoetuseks saate meile annetada ka otse PayPali kaudu."
+    },
+    "feature-page": {
+      "title": "Omadused",
+      "subheader": "Avastage võimsad funktsioonid, mis muudavad meie rakenduse silmapaistvaks.",
+      "items": [
+        {
+          "title": "Mobiilile suunatud disain",
+          "description": "Meie rakendus on loodud mobiilile suunatud lähenemisviisiga, tagades sujuva kogemuse mis tahes seadmes."
+        },
+        {
+          "title": "Intuitiivne armatuurlaud",
+          "description": "Puhas ja organiseeritud armatuurlaud, mis annab teile ühe pilguga täieliku ülevaate."
+        },
+        {
+          "title": "Seadmetevaheline ühilduvus",
+          "description": "Nautige ühtlast ja võimsat kogemust, olenemata sellest, kas kasutate lauaarvutit, tahvelarvutit või nutitelefoni."
+        }
+      ]
+    },
+    "footer-page": {
+      "left-title": "Liituge meie kogukonnaga",
+      "left-button": "Telli",
+      "policy": "Privaatsuspoliitika",
+      "terms": "Teenusetingimused",
+      "copyright": "Autoriõigus © ",
+      "giftbytes": "GiftBytesProductions"
+    },
+    "latest-page": {
+      "title": "Uusimad",
+      "article": [
+        {
+          "tag": "Projektid",
+          "title": "Uue projekti väljakuulutamine",
+          "description": "Anname teada, et meie uus projekt on tasuta mängitav lauaarvuti videomäng, mis on saadaval kõikides operatsioonisüsteemides ja platvormidel.",
+          "author": "Michael Schenk, Arendaja"
+        },
+        {
+          "tag": "Veebisait",
+          "title": "Uus veebisait",
+          "description": "Anname teada, et meie veebisait on lõpuks otse-eetris ja avalik.",
+          "author": "Michael Schenk, Arendaja"
+        },
+        {
+          "tag": "Projektid",
+          "title": "TouchSlider on otse-eetris",
+          "description": "Anname teada, et meie mobiilne videomäng TouchSlider on tasuta allalaadimiseks saadaval IOS-is ja Androidis.",
+          "author": "Michael Schenk, Arendaja"
+        },
+        {
+          "tag": "Ettevõte",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Arendaja"
+        },
+        {
+          "tag": "Inseneriteadus",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Arendaja"
+        },
+        {
+          "tag": "Toode",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Arendaja"
+        }
+      ]
+    },
+    "principles-page": {
+      "title": "Meie põhimõtted",
+      "subheader": "Need väärtused on kõige selle keskmes, mida me ehitame, alates esimesest koodireast kuni lõpliku kasutajakogemuseni.",
+      "items": [
+        {
+          "title": "Kättesaadav kõikjal",
+          "description": "Usume, et suurepärane tarkvara peaks töötama kõigi jaoks ja igas seadmes. Meie projektid on hoolikalt kavandatud platvormidevahelise ühilduvuse ja kättesaadavuse tagamiseks algusest peale."
+        },
+        {
+          "title": "Lihvitud ja jõudlusvõimeline",
+          "description": "Pakume terviklikke ja kõrgelt optimeeritud kogemusi. Meie keskendumine puhtale arhitektuurile ja rangele testimisele tagab, et iga toode on stabiilne, jõudlusvõimeline ja valmis nautimiseks esimesest päevast alates."
+        },
+        {
+          "title": "Intuitiivne disain",
+          "description": "Usume, et võimas tarkvara ei pea olema keeruline. Meie kirg seisneb puhaste ja intuitiivsete liideste loomises, mis muudavad iga suhtluse otsekoheseks ja nauditavaks."
+        },
+        {
+          "title": "Jõustatud innovatsioonist",
+          "description": "Me ehitame tulevikku silmas pidades. Kasutades uusimat tarkvara- ja riistvaratehnoloogiat, loome tulevikku suunatud tooteid võimsa ja tipptasemel funktsionaalsusega."
+        },
+        {
+          "title": "Pühendunud tugi",
+          "description": "Meie suhe ei lõpe allalaadimisega. Pakume sõbralikku ja reageerivat tuge otse meie meeskonnalt, et tagada teile alati suurepärane kogemus meie toodetega."
+        },
+        {
+          "title": "Hoolikas käsitöö",
+          "description": "Usume, et tipptase peitub detailides. Alates esimesest kontseptsioonist kuni viimase koodireani on iga meie töö element hoolikalt planeeritud ja täpselt teostatud, et saavutada veatu lõpptoode."
+        }
+      ]
+    },
+    "testimonials-page": {
+      "title": "Iseloomustused",
+      "subheader": "Vaadake, mida meie kliendid, arendajad ja testijad meie toodete juures armastavad.",
+      "testimonial": [
+        {
+          "name": "Michael Schenk",
+          "occupation": "Arendaja",
+          "testimonial": "Ma absoluutselt armastan, kui mitmekülgne see toode on! Ükskõik, kas tegelen tööprojektidega või naudin oma lemmikhobisid, kohandub see sujuvalt minu muutuvate vajadustega. Selle intuitiivne disain on tõesti parandanud minu igapäevast rutiini, muutes ülesanded tõhusamaks ja nauditavamaks."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Arendaja",
+          "testimonial": "Selle toote üks silmapaistvamaid omadusi on erakordne klienditugi. Minu kogemuse kohaselt on selle toote taga olev meeskond reageerinud kiiresti ja olnud uskumatult abivalmis. On julgustav teada, et nad seisavad kindlalt oma toote taga."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Arendaja",
+          "testimonial": "Selle toote lihtsuse ja kasutajasõbralikkuse tase on minu elu oluliselt lihtsustanud. Ma hindan loojaid lahenduse eest, mis mitte ainult ei vasta, vaid ületab kasutajate ootusi."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Arendaja",
+          "testimonial": "Ma hindan tähelepanu detailidele selle toote disainis. Väikesed puudutused teevad suure erinevuse ja on ilmne, et loojad keskendusid esmaklassilise kogemuse pakkumisele."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Arendaja",
+          "testimonial": "Olen proovinud teisi sarnaseid tooteid, kuid see paistab silma oma uuenduslike omaduste poolest. On selge, et tootjad on palju mõelnud lahenduse loomisele, mis tõesti vastab kasutajate vajadustele."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Arendaja",
+          "testimonial": "Selle toote kvaliteet ületas minu ootusi. See on vastupidav, hästi disainitud ja ehitatud kestma. Kindlasti investeeringut väärt."
+        }
+      ]
+    },
+    "mode": {
+      "system": "Süsteem",
+      "light": "Hele",
+      "dark": "Tume"
+    }
+  }
+}

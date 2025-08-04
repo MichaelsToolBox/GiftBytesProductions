@@ -1,0 +1,198 @@
+{
+  "translation": {
+    "app-bar": {
+      "projects": "Projektit",
+      "principles": "Periaatteet",
+      "download": "Lataa",
+      "latest": "Uusimmat",
+      "testimonials": "Suositukset",
+      "faq": "UKK"
+    },
+    "hero-page": {
+      "subtitle": "Olemme saksalainen luova kehitysstudio, joka hyödyntää uusinta teknologiaa luodakseen kiehtovia ja saavutettavia videopelejä, sovelluksia ja mediakokemuksia kaikille.",
+      "gift": "Gift",
+      "bytes": "Bytes",
+      "productions": "Productions"
+    },
+    "download-page": {
+      "title": "Lataa",
+      "subtitle": "Täällä voit ladata ja tarkastella projektejamme"
+    },
+    "tiers": {
+      "title1": "Kehityslokit",
+      "price1": "Ilmainen",
+      "subheader1": "Saatavilla",
+      "description10": "Studiolaatuista videotuotantoa",
+      "description11": "Syväsukelluksia koodiimme ja suunnitteluumme",
+      "description12": "Suora vuorovaikutus kehittäjiemme kanssa",
+      "description13": "Saatavilla maailmanlaajuisesti YouTubessa",
+      "buttontext1": "Ilmainen tilaus",
+      "title2": "TouchSlider",
+      "price2": "Ilmainen",
+      "subheader2": "Suositeltu",
+      "description20": "Saatavilla IOS:lle ja Androidille",
+      "description21": "Ilmainen pelata ilman piilokuluja",
+      "description22": "Tukee vanhoja mobiililaitteita",
+      "description23": "Yksinkertainen peli mihin tahansa aikaan ja päivään",
+      "description24": "Esitelty kehityslokeissa",
+      "description25": "Tuki",
+      "buttontext21": "Lataa IOS",
+      "buttontext22": "Lataa Android",
+      "title3": "Tuleva projekti",
+      "price3": "Ilmainen",
+      "subheader3": "Keskeneräinen",
+      "description30": "Saatavilla Windowsille, MacOS:lle ja Linuxille",
+      "description31": "Jakelu Steamin ja Apple Storen kautta",
+      "description32": "Saatavilla eri kielillä",
+      "description33": "Tuki",
+      "buttontext3": "Ilmoitetaan myöhemmin"
+    },
+    "faq": {
+      "title": "Usein kysytyt kysymykset",
+      "subtitle1": "Miten otan yhteyttä asiakaspalveluun, jos minulla on kysyttävää tai ongelma?",
+      "description1": "Voit ottaa yhteyttä asiakaspalveluumme lähettämällä sähköpostia osoitteeseen: ",
+      "subtitle2": "Mikä erottaa tuotteenne muista markkinoilla olevista?",
+      "description2": "Tuotteemme erottuu sopeutumiskykynsä, kestävyytensä ja innovatiivisten ominaisuuksiensa ansiosta. Asetamme käyttäjätyytyväisyyden etusijalle ja pyrimme jatkuvasti ylittämään odotukset kaikilla osa-alueilla.",
+      "subtitle3": "Miten voin tukea GiftBytesProductionsia?",
+      "description3": "Autat meitä jo kokeilemalla projektejamme ja suosittelemalla niitä. Muussa tapauksessa voit tilata YouTube-kanavamme ja osallistua yhteisöön. Lisätukea varten voit myös lahjoittaa meille suoraan PayPalin kautta."
+    },
+    "feature-page": {
+      "title": "Ominaisuudet",
+      "subheader": "Tutustu tehokkaisiin ominaisuuksiin, jotka tekevät sovelluksestamme erottuvan.",
+      "items": [
+        {
+          "title": "Mobiili ensin -suunnittelu",
+          "description": "Sovelluksemme on suunniteltu mobiili ensin -lähestymistavalla, mikä takaa saumattoman kokemuksen millä tahansa laitteella."
+        },
+        {
+          "title": "Intuitiivinen kojelauta",
+          "description": "Puhdas ja järjestetty kojelauta, joka antaa sinulle täydellisen yleiskuvan yhdellä silmäyksellä."
+        },
+        {
+          "title": "Laitteiden välinen yhteensopivuus",
+          "description": "Nauti yhtenäisestä ja tehokkaasta kokemuksesta riippumatta siitä, käytätkö tietokonetta, tablettia vai älypuhelinta."
+        }
+      ]
+    },
+    "footer-page": {
+      "left-title": "Liity yhteisöömme",
+      "left-button": "Tilaa",
+      "policy": "Tietosuojakäytäntö",
+      "terms": "Käyttöehdot",
+      "copyright": "Tekijänoikeus © ",
+      "giftbytes": "GiftBytesProductions"
+    },
+    "latest-page": {
+      "title": "Uusimmat",
+      "article": [
+        {
+          "tag": "Projektit",
+          "title": "Uuden projektin julkistus",
+          "description": "Ilmoitamme, että uusi projektimme on ilmainen työpöytävideopeli, joka on saatavilla kaikille käyttöjärjestelmille ja alustoille.",
+          "author": "Michael Schenk, Kehittäjä"
+        },
+        {
+          "tag": "Verkkosivusto",
+          "title": "Uusi verkkosivusto",
+          "description": "Ilmoitamme, että verkkosivustomme on vihdoin julkaistu ja julkinen.",
+          "author": "Michael Schenk, Kehittäjä"
+        },
+        {
+          "tag": "Projektit",
+          "title": "TouchSlider on julkaistu",
+          "description": "Ilmoitamme, että mobiilivideopelimme TouchSlider on saatavilla ilmaiseksi ladattavaksi IOS:lle ja Androidille.",
+          "author": "Michael Schenk, Kehittäjä"
+        },
+        {
+          "tag": "Yritys",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Kehittäjä"
+        },
+        {
+          "tag": "Suunnittelu",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Kehittäjä"
+        },
+        {
+          "tag": "Tuote",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Kehittäjä"
+        }
+      ]
+    },
+    "principles-page": {
+      "title": "Periaatteemme",
+      "subheader": "Nämä arvot ovat kaiken rakentamamme ytimessä, ensimmäisestä koodirivistä lopulliseen käyttäjäkokemukseen.",
+      "items": [
+        {
+          "title": "Saatavilla kaikkialla",
+          "description": "Uskomme, että loistavan ohjelmiston tulisi toimia kaikille, millä tahansa laitteella. Projektimme on suunniteltu huolellisesti alustojen välisen yhteensopivuuden ja saavutettavuuden varmistamiseksi alusta alkaen."
+        },
+        {
+          "title": "Hiottu ja suorituskykyinen",
+          "description": "Tarjoamme täydellisiä ja erittäin optimoituja kokemuksia. Keskittymisemme puhtaaseen arkkitehtuuriin ja tiukkaan testaukseen varmistaa, että jokainen tuote on vakaa, suorituskykyinen ja valmis nautittavaksi ensimmäisestä päivästä lähtien."
+        },
+        {
+          "title": "Intuitiivinen suunnittelu",
+          "description": "Uskomme, että tehokkaan ohjelmiston ei tarvitse olla monimutkainen. Intohimomme on luoda puhtaita, intuitiivisia käyttöliittymiä, jotka tekevät jokaisesta vuorovaikutuksesta suoraviivaista ja nautinnollista."
+        },
+        {
+          "title": "Innovaation voimalla",
+          "description": "Rakennamme tulevaisuutta ajatellen. Hyödyntämällä uusinta ohjelmisto- ja laitteistoteknologiaa luomme tulevaisuuteen suuntautuvia tuotteita, joissa on tehokas ja huippuluokan toiminnallisuus."
+        },
+        {
+          "title": "Omistautunut tuki",
+          "description": "Suhteemme ei pääty lataukseen. Tarjoamme ystävällistä ja nopeaa tukea suoraan tiimiltämme varmistaaksemme, että sinulla on aina loistava kokemus tuotteistamme."
+        },
+        {
+          "title": "Huolellinen käsityötaito",
+          "description": "Uskomme, että erinomaisuus piilee yksityiskohdissa. Ensimmäisestä konseptista viimeiseen koodiriviin, jokainen työmme elementti on huolellisesti suunniteltu ja tarkasti toteutettu virheettömän lopputuotteen saavuttamiseksi."
+        }
+      ]
+    },
+    "testimonials-page": {
+      "title": "Suositukset",
+      "subheader": "Katso, mitä asiakkaamme, kehittäjämme ja testaajamme rakastavat tuotteissamme.",
+      "testimonial": [
+        {
+          "name": "Michael Schenk",
+          "occupation": "Kehittäjä",
+          "testimonial": "Rakastan ehdottomasti sitä, kuinka monipuolinen tämä tuote on! Olipa kyseessä työprojektien hoitaminen tai suosikkiharrastuksiini uppoutuminen, se mukautuu saumattomasti muuttuviin tarpeisiini. Sen intuitiivinen muotoilu on todella parantanut päivittäistä rutiiniani, tehden tehtävistä tehokkaampia ja nautinnollisempia."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Kehittäjä",
+          "testimonial": "Yksi tämän tuotteen erottuvista ominaisuuksista on poikkeuksellinen asiakastuki. Kokemukseni mukaan tämän tuotteen takana oleva tiimi on vastannut nopeasti ja ollut uskomattoman avulias. On rauhoittavaa tietää, että he seisovat vankasti tuotteensa takana."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Kehittäjä",
+          "testimonial": "Tämän tuotteen yksinkertaisuus ja käyttäjäystävällisyys ovat merkittävästi yksinkertaistaneet elämääni. Arvostan luojia ratkaisun toimittamisesta, joka ei ainoastaan täytä, vaan ylittää käyttäjien odotukset."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Kehittäjä",
+          "testimonial": "Arvostan huomiota yksityiskohtiin tämän tuotteen suunnittelussa. Pienet yksityiskohdat tekevät suuren eron, ja on selvää, että luojat keskittyivät ensiluokkaisen kokemuksen tarjoamiseen."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Kehittäjä",
+          "testimonial": "Olen kokeillut muita vastaavia tuotteita, mutta tämä erottuu innovatiivisten ominaisuuksiensa ansiosta. On selvää, että valmistajat ovat panostaneet paljon ajatusta ratkaisun luomiseen, joka todella vastaa käyttäjien tarpeisiin."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Kehittäjä",
+          "testimonial": "Tämän tuotteen laatu ylitti odotukseni. Se on kestävä, hyvin suunniteltu ja rakennettu kestämään. Ehdottomasti investoinnin arvoinen."
+        }
+      ]
+    },
+    "mode": {
+      "system": "Järjestelmä",
+      "light": "Vaalea",
+      "dark": "Tumma"
+    }
+  }
+}

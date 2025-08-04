@@ -1,0 +1,198 @@
+{
+  "translation": {
+    "app-bar": {
+      "projects": "项目",
+      "principles": "原则",
+      "download": "下载",
+      "latest": "最新",
+      "testimonials": "推荐",
+      "faq": "常见问题"
+    },
+    "hero-page": {
+      "subtitle": "我们是一家位于德国的创意开发工作室，利用最新技术为每个人打造引人入胜且易于访问的视频游戏、应用程序和媒体体验。",
+      "gift": "Gift",
+      "bytes": "Bytes",
+      "productions": "Productions"
+    },
+    "download-page": {
+      "title": "下载",
+      "subtitle": "您可以在这里下载和查看我们的项目"
+    },
+    "tiers": {
+      "title1": "开发日志",
+      "price1": "免费",
+      "subheader1": "可用",
+      "description10": "工作室品质的视频制作",
+      "description11": "深入了解我们的代码和设计",
+      "description12": "与我们的开发人员直接互动",
+      "description13": "可在全球 YouTube 上观看",
+      "buttontext1": "免费订阅",
+      "title2": "TouchSlider",
+      "price2": "免费",
+      "subheader2": "推荐",
+      "description20": "适用于 IOS 和 Android",
+      "description21": "免费游戏，无隐藏费用",
+      "description22": "支持旧款移动设备",
+      "description23": "适合任何时间和日期的简单游戏",
+      "description24": "在开发日志中介绍",
+      "description25": "支持",
+      "buttontext21": "下载 IOS",
+      "buttontext22": "下载 Android",
+      "title3": "即将推出的项目",
+      "price3": "免费",
+      "subheader3": "进行中",
+      "description30": "适用于 Windows、MacOS 和 Linux",
+      "description31": "通过 Steam 和 Apple Store 发行",
+      "description32": "支持多种语言",
+      "description33": "支持",
+      "buttontext3": "待公布"
+    },
+    "faq": {
+      "title": "常见问题",
+      "subtitle1": "如果我有问题或疑问，如何联系客户支持？",
+      "description1": "您可以通过发送电子邮件至以下地址联系我们的客户支持团队：",
+      "subtitle2": "是什么让您的产品在市场上脱颖而出？",
+      "description2": "我们的产品以其适应性、耐用性和创新功能而著称。我们优先考虑用户满意度，并不断努力在各个方面超越期望。",
+      "subtitle3": "我如何支持 GiftBytesProductions？",
+      "description3": "您只需试用我们的项目并推荐它们，就已经在帮助我们了。此外，您可以订阅我们的 YouTube 频道并与社区互动。如需额外支持，您也可以通过 PayPal 直接向我们捐款。"
+    },
+    "feature-page": {
+      "title": "功能",
+      "subheader": "探索使我们的应用程序脱颖而出的强大功能。",
+      "items": [
+        {
+          "title": "移动优先设计",
+          "description": "我们的应用程序采用移动优先的方法设计，确保在任何设备上都能获得无缝体验。"
+        },
+        {
+          "title": "直观的仪表板",
+          "description": "一个干净整洁的仪表板，让您一目了然地获得全面的概览。"
+        },
+        {
+          "title": "跨设备兼容性",
+          "description": "无论您是在台式机、平板电脑还是智能手机上，都能享受到一致而强大的体验。"
+        }
+      ]
+    },
+    "footer-page": {
+      "left-title": "加入我们的社区",
+      "left-button": "订阅",
+      "policy": "隐私政策",
+      "terms": "服务条款",
+      "copyright": "版权所有 © ",
+      "giftbytes": "GiftBytesProductions"
+    },
+    "latest-page": {
+      "title": "最新",
+      "article": [
+        {
+          "tag": "项目",
+          "title": "新项目公告",
+          "description": "我们宣布我们的新项目将是一款免费的桌面视频游戏，可在所有操作系统和平台上使用。",
+          "author": "Michael Schenk，开发人员"
+        },
+        {
+          "tag": "网站",
+          "title": "新网站",
+          "description": "我们宣布我们的网站终于上线并公开。",
+          "author": "Michael Schenk，开发人员"
+        },
+        {
+          "tag": "项目",
+          "title": "TouchSlider 已上线",
+          "description": "我们宣布我们的移动视频游戏 TouchSlider 可在 IOS 和 Android 上免费下载。",
+          "author": "Michael Schenk，开发人员"
+        },
+        {
+          "tag": "公司",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk，开发人员"
+        },
+        {
+          "tag": "工程",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk，开发人员"
+        },
+        {
+          "tag": "产品",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk，开发人员"
+        }
+      ]
+    },
+    "principles-page": {
+      "title": "我们的原则",
+      "subheader": "这些价值观是我们构建一切的核心，从第一行代码到最终用户体验。",
+      "items": [
+        {
+          "title": "随处可用",
+          "description": "我们相信优秀的软件应该适用于每个人，在任何设备上。我们的项目从一开始就为跨平台兼容性和可访问性精心设计。"
+        },
+        {
+          "title": "精益求精，性能卓越",
+          "description": "我们提供完整且高度优化的体验。我们对清晰架构和严格测试的关注确保了每个产品都稳定、高性能，并从第一天起就准备好供您享用。"
+        },
+        {
+          "title": "直观设计",
+          "description": "我们相信强大的软件不必复杂。我们的热情在于打造干净、直观的界面，使每次互动都简单而愉快。"
+        },
+        {
+          "title": "创新驱动",
+          "description": "我们着眼于未来进行构建。通过利用最新的软件和硬件技术，我们创造出具有强大、尖端功能的前瞻性产品。"
+        },
+        {
+          "title": "专注支持",
+          "description": "我们的关系不会在下载时结束。我们直接从我们的团队提供友好、快速响应的支持，以确保您始终对我们的产品有出色的体验。"
+        },
+        {
+          "title": "精湛工艺",
+          "description": "我们相信卓越在于细节。从第一个概念到最后一行代码，我们工作的每个元素都经过深思熟虑的规划和精确的执行，以打造完美无瑕的最终产品。"
+        }
+      ]
+    },
+    "testimonials-page": {
+      "title": "推荐",
+      "subheader": "看看我们的客户、开发人员和测试人员对我们产品的喜爱之处。",
+      "testimonial": [
+        {
+          "name": "Michael Schenk",
+          "occupation": "开发人员",
+          "testimonial": "我非常喜欢这款产品的多功能性！无论我是在处理工作项目还是沉浸在我最喜欢的爱好中，它都能无缝适应我不断变化的需求。其直观的设计确实改善了我的日常生活，使任务更高效、更愉快。"
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "开发人员",
+          "testimonial": "这款产品的突出特点之一是卓越的客户支持。根据我的经验，这款产品背后的团队反应迅速，而且非常有帮助。知道他们坚定地支持自己的产品，这让人很放心。"
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "开发人员",
+          "testimonial": "这款产品的简洁性和用户友好性极大地简化了我的生活。我感谢创作者提供了一个不仅满足而且超越用户期望的解决方案。"
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "开发人员",
+          "testimonial": "我欣赏这款产品设计中对细节的关注。微小的触动带来了巨大的不同，很明显，创作者专注于提供优质的体验。"
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "开发人员",
+          "testimonial": "我试过其他类似的产品，但这款产品以其创新功能脱颖而出。很明显，制造商花了很多心思来创造一个真正满足用户需求的解决方案。"
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "开发人员",
+          "testimonial": "这款产品的质量超出了我的预期。它耐用、设计精良，经久耐用。绝对值得投资。"
+        }
+      ]
+    },
+    "mode": {
+      "system": "系统",
+      "light": "浅色",
+      "dark": "深色"
+    }
+  }
+}
