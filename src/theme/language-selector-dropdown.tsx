@@ -9,7 +9,6 @@ import Check from '@mui/icons-material/Check';
 import Menu from '@mui/material/Menu';
 import Box from '@mui/material/Box';
 import * as React from 'react';
-import { Divider } from '@mui/material';
 
 /**
  * A dropdown menu component for selecting a language.
