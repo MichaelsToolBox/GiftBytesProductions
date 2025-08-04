@@ -1,0 +1,198 @@
+{
+  "translation": {
+    "app-bar": {
+      "projects": "Proyèk",
+      "principles": "Prinsip",
+      "download": "Unduh",
+      "latest": "Paling Anyar",
+      "testimonials": "Testimoni",
+      "faq": "Pitakonan sing Sering Ditakokake"
+    },
+    "hero-page": {
+      "subtitle": "Kita minangka studio pangembangan kreatif adhedhasar Jerman sing nggunakake teknologi paling anyar kanggo nggawe game video, aplikasi, lan pengalaman media sing narik kawigaten lan bisa diakses kanggo kabeh wong.",
+      "gift": "Gift",
+      "bytes": "Bytes",
+      "productions": "Productions"
+    },
+    "download-page": {
+      "title": "Unduh",
+      "subtitle": "Ing kene sampeyan bisa ngundhuh lan ndeleng proyèk kita"
+    },
+    "tiers": {
+      "title1": "Log Pangembang",
+      "price1": "Gratis",
+      "subheader1": "Kasedhiya",
+      "description10": "Produksi video kualitas studio",
+      "description11": "Nyilem jero menyang kode lan desain kita",
+      "description12": "Interaksi langsung karo pangembang kita",
+      "description13": "Bisa diakses ing saindenging donya ing YouTube",
+      "buttontext1": "Langganan Gratis",
+      "title2": "TouchSlider",
+      "price2": "Gratis",
+      "subheader2": "Disaranake",
+      "description20": "Kasedhiya ing IOS lan Android",
+      "description21": "Gratis kanggo muter tanpa biaya sing didhelikake",
+      "description22": "Ndhukung piranti seluler lawas",
+      "description23": "Game prasaja kanggo kapan wae lan dina",
+      "description24": "Ditampilake ing log pangembang",
+      "description25": "Dhukungan",
+      "buttontext21": "Unduh IOS",
+      "buttontext22": "Unduh Android",
+      "title3": "Proyèk sing bakal teka",
+      "price3": "Gratis",
+      "subheader3": "Lagi proses",
+      "description30": "Kasedhiya kanggo Windows, Macos lan Linux",
+      "description31": "Distribusi liwat Steam lan Apple Store",
+      "description32": "Bisa diakses ing macem-macem basa",
+      "description33": "Dhukungan",
+      "buttontext3": "Bakal diumumake"
+    },
+    "faq": {
+      "title": "Pitakonan sing Sering Ditakokake",
+      "subtitle1": "Kepiye carane ngubungi dhukungan pelanggan yen aku duwe pitakonan utawa masalah?",
+      "description1": "Sampeyan bisa ngubungi tim dhukungan pelanggan kanthi ngirim email menyang: ",
+      "subtitle2": "Apa sing nggawe produk sampeyan beda karo liyane ing pasar?",
+      "description2": "Produk kita mbedakake dhewe liwat adaptasi, daya tahan, lan fitur inovatif. Kita prioritasake kepuasan pangguna lan terus-terusan ngupayakake ngluwihi pangarep-arep ing saben aspek.",
+      "subtitle3": "Kepiye carane aku bisa ndhukung GiftBytesProductions?",
+      "description3": "Sampeyan wis nulungi kita kanthi mung nyoba proyèk kita lan menehi saran. Yen ora, sampeyan bisa langganan saluran YouTube kita lan melu komunitas. Kanggo dhukungan tambahan, sampeyan uga bisa menehi sumbangan langsung liwat PayPal."
+    },
+    "feature-page": {
+      "title": "Fitur",
+      "subheader": "Jelajahi fitur-fitur kuat sing nggawe aplikasi kita katon.",
+      "items": [
+        {
+          "title": "Desain Mobile-First",
+          "description": "Aplikasi kita dirancang kanthi pendekatan mobile-first, njamin pengalaman sing lancar ing piranti apa wae."
+        },
+        {
+          "title": "Dashboard Intuitif",
+          "description": "Dashboard sing resik lan teratur sing menehi ringkesan lengkap kanthi sekilas."
+        },
+        {
+          "title": "Kompatibilitas Lintas-Piranti",
+          "description": "Nikmati pengalaman sing konsisten lan kuat apa sampeyan ana ing desktop, tablet, utawa smartphone."
+        }
+      ]
+    },
+    "footer-page": {
+      "left-title": "Gabung komunitas kita",
+      "left-button": "Langganan",
+      "policy": "Kebijakan Privasi",
+      "terms": "Syarat-syarat Layanan",
+      "copyright": "Hak Cipta © ",
+      "giftbytes": "GiftBytesProductions"
+    },
+    "latest-page": {
+      "title": "Paling Anyar",
+      "article": [
+        {
+          "tag": "Proyèk",
+          "title": "Pengumuman Proyèk Anyar",
+          "description": "Kita ngumumake yen proyèk anyar kita bakal dadi game video desktop gratis sing bakal kasedhiya ing kabeh sistem operasi lan platform.",
+          "author": "Michael Schenk, Pangembang"
+        },
+        {
+          "tag": "Situs Web",
+          "title": "Situs Web Anyar",
+          "description": "Kita ngumumake yen situs web kita pungkasane wis urip lan umum.",
+          "author": "Michael Schenk, Pangembang"
+        },
+        {
+          "tag": "Proyèk",
+          "title": "TouchSlider wis urip",
+          "description": "Kita ngumumake yen game video seluler kita TouchSlider kasedhiya kanggo diundhuh gratis ing IOS lan Android.",
+          "author": "Michael Schenk, Pangembang"
+        },
+        {
+          "tag": "Perusahaan",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Pangembang"
+        },
+        {
+          "tag": "Teknik",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Pangembang"
+        },
+        {
+          "tag": "Produk",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Pangembang"
+        }
+      ]
+    },
+    "principles-page": {
+      "title": "Prinsip kita",
+      "subheader": "Nilai-nilai iki ana ing jantung kabeh sing kita bangun, saka baris kode pisanan nganti pengalaman pangguna pungkasan.",
+      "items": [
+        {
+          "title": "Bisa Diakses di Endi Wae",
+          "description": "Kita percaya yen piranti lunak sing apik kudu bisa digunakake kanggo kabeh wong, ing piranti apa wae. Proyèk kita dirancang kanthi tliti kanggo kompatibilitas lintas-platform lan aksesibilitas wiwit wiwitan."
+        },
+        {
+          "title": "Dipoles & Kinerja Apik",
+          "description": "Kita menehi pengalaman sing lengkap lan dioptimalake kanthi dhuwur. Fokus kita ing arsitektur sing resik lan pengujian sing ketat njamin saben produk stabil, kinerja apik, lan siap dinikmati wiwit dina pisanan."
+        },
+        {
+          "title": "Desain Intuitif",
+          "description": "Kita percaya yen piranti lunak sing kuat ora kudu rumit. Semangat kita ana ing nggawe antarmuka sing resik lan intuitif sing nggawe saben interaksi dadi langsung lan nyenengake."
+        },
+        {
+          "title": "Didhukung dening Inovasi",
+          "description": "Kita mbangun kanthi mikirake masa depan. Kanthi nggunakake teknologi piranti lunak lan keras paling anyar, kita nggawe produk sing mikir maju kanthi fungsionalitas sing kuat lan canggih."
+        },
+        {
+          "title": "Dhukungan Khusus",
+          "description": "Hubungan kita ora rampung nalika ngundhuh. Kita menehi dhukungan sing ramah lan responsif langsung saka tim kita kanggo mesthekake yen sampeyan tansah duwe pengalaman sing apik karo produk kita."
+        },
+        {
+          "title": "Keahlian sing Tliti",
+          "description": "Kita percaya yen keunggulan ana ing rincian. Saka konsep pisanan nganti baris kode pungkasan, saben unsur karya kita direncanakake kanthi tliti lan dieksekusi kanthi presisi kanggo produk pungkasan sing tanpa cacat."
+        }
+      ]
+    },
+    "testimonials-page": {
+      "title": "Testimoni",
+      "subheader": "Delengen apa sing disenengi pelanggan, pangembang, lan penguji babagan produk kita.",
+      "testimonial": [
+        {
+          "name": "Michael Schenk",
+          "occupation": "Pangembang",
+          "testimonial": "Aku seneng banget karo produk iki sing serbaguna! Apa aku lagi nggarap proyèk kerja utawa seneng-seneng karo hobi, produk iki bisa adaptasi kanthi lancar karo kebutuhanku sing ganti-ganti. Desaine sing intuitif wis bener-bener nambah rutinitasku saben dina, nggawe tugas dadi luwih efisien lan nyenengake."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Pangembang",
+          "testimonial": "Salah sawijining fitur sing paling apik saka produk iki yaiku dhukungan pelanggan sing luar biasa. Ing pengalamanku, tim ing mburi produk iki wis cepet nanggapi lan mbiyantu banget. Nggawe ati tentrem ngerti yen dheweke tenanan ndhukung produke."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Pangembang",
+          "testimonial": "Tingkat kesederhanaan lan keramahan pangguna ing produk iki wis nyederhanakake uripku kanthi signifikan. Aku ngapresiasi para pangripta amarga menehi solusi sing ora mung nyukupi, nanging ngluwihi pangarep-arep pangguna."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Pangembang",
+          "testimonial": "Aku ngapresiasi perhatian marang detail ing desain produk iki. Sentuhan cilik nggawe bedane gedhe, lan jelas yen para pangripta fokus menehi pengalaman premium."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Pangembang",
+          "testimonial": "Aku wis nyoba produk liyane sing padha, nanging iki beda amarga fitur-fitur inovatif. Jelas yen para produsen wis mikirake kanthi tenanan kanggo nggawe solusi sing bener-bener ngrampungake kabutuhan pangguna."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Pangembang",
+          "testimonial": "Kualitas produk iki ngluwihi pangarep-arepku. Produk iki awet, dirancang kanthi apik, lan digawe kanggo tahan suwe. Pancen pantes kanggo investasi."
+        }
+      ]
+    },
+    "mode": {
+      "system": "Sistem",
+      "light": "Padhang",
+      "dark": "Peteng"
+    }
+  }
+}

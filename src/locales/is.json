@@ -1,0 +1,198 @@
+{
+  "translation": {
+    "app-bar": {
+      "projects": "Verkefni",
+      "principles": "Meginreglur",
+      "download": "Niðurhal",
+      "latest": "Nýjast",
+      "testimonials": "Umsagnir",
+      "faq": "Algengar spurningar"
+    },
+    "hero-page": {
+      "subtitle": "Við erum skapandi þróunarstúdíó með aðsetur í Þýskalandi sem nýtir nýjustu tækni til að búa til grípandi og aðgengilega tölvuleiki, forrit og fjölmiðlaupplifanir fyrir alla.",
+      "gift": "Gift",
+      "bytes": "Bytes",
+      "productions": "Productions"
+    },
+    "download-page": {
+      "title": "Niðurhal",
+      "subtitle": "Hér getur þú hlaðið niður og skoðað verkefnin okkar"
+    },
+    "tiers": {
+      "title1": "Þróunardagbækur",
+      "price1": "Ókeypis",
+      "subheader1": "Í boði",
+      "description10": "Vídeóframleiðsla í stúdíógæðum",
+      "description11": "Ítarlegar greiningar á kóðanum okkar og hönnun",
+      "description12": "Bein samskipti við þróunaraðila okkar",
+      "description13": "Aðgengilegt um allan heim á YouTube",
+      "buttontext1": "Ókeypis áskrift",
+      "title2": "TouchSlider",
+      "price2": "Ókeypis",
+      "subheader2": "Mælt með",
+      "description20": "Í boði fyrir IOS og Android",
+      "description21": "Frítt að spila án falinna kostnaðar",
+      "description22": "Styður eldri farsíma",
+      "description23": "Einfaldur leikur fyrir hvaða tíma og dag sem er",
+      "description24": "Kynnt í þróunardagbókum",
+      "description25": "Stuðningur",
+      "buttontext21": "Sækja IOS",
+      "buttontext22": "Sækja Android",
+      "title3": "Næsta verkefni",
+      "price3": "Ókeypis",
+      "subheader3": "Í vinnslu",
+      "description30": "Í boði fyrir Windows, MacOS og Linux",
+      "description31": "Dreifing í gegnum Steam og Apple Store",
+      "description32": "Aðgengilegt á ýmsum tungumálum",
+      "description33": "Stuðningur",
+      "buttontext3": "Verður tilkynnt"
+    },
+    "faq": {
+      "title": "Algengar spurningar",
+      "subtitle1": "Hvernig hef ég samband við þjónustuver ef ég hef spurningu eða vandamál?",
+      "description1": "Þú getur haft samband við þjónustuverið okkar með því að senda tölvupóst á: ",
+      "subtitle2": "Hvað gerir vöruna ykkar frábrugðna öðrum á markaðnum?",
+      "description2": "Varan okkar sker sig úr með aðlögunarhæfni sinni, endingu og nýstárlegum eiginleikum. Við setjum ánægju notenda í forgang og kappkostum stöðugt að fara fram úr væntingum á öllum sviðum.",
+      "subtitle3": "Hvernig get ég stutt GiftBytesProductions?",
+      "description3": "Þú hjálpar okkur nú þegar með því að prófa verkefnin okkar og mæla með þeim. Annars geturðu gerst áskrifandi að YouTube rásinni okkar og tekið þátt í samfélaginu. Til viðbótarstuðnings geturðu einnig gefið okkur beint í gegnum PayPal."
+    },
+    "feature-page": {
+      "title": "Eiginleikar",
+      "subheader": "Kannaðu öfluga eiginleika sem gera forritið okkar einstakt.",
+      "items": [
+        {
+          "title": "Farsíma-fyrst hönnun",
+          "description": "Forritið okkar er hannað með farsíma-fyrst nálgun, sem tryggir hnökralausa upplifun á hvaða tæki sem er."
+        },
+        {
+          "title": "Auðskilið mælaborð",
+          "description": "Hreint og skipulagt mælaborð sem gefur þér fullkomna yfirsýn í fljótu bragði."
+        },
+        {
+          "title": "Samhæfni milli tækja",
+          "description": "Njóttu samræmdrar og öflugrar upplifunar hvort sem þú ert á borðtölvu, spjaldtölvu eða snjallsíma."
+        }
+      ]
+    },
+    "footer-page": {
+      "left-title": "Vertu með í samfélaginu okkar",
+      "left-button": "Gerast áskrifandi",
+      "policy": "Persónuverndarstefna",
+      "terms": "Þjónustuskilmálar",
+      "copyright": "Höfundarréttur © ",
+      "giftbytes": "GiftBytesProductions"
+    },
+    "latest-page": {
+      "title": "Nýjast",
+      "article": [
+        {
+          "tag": "Verkefni",
+          "title": "Tilkynning um nýtt verkefni",
+          "description": "Við tilkynnum að nýja verkefnið okkar verður ókeypis tölvuleikur sem verður fáanlegur á öllum stýrikerfum og kerfum.",
+          "author": "Michael Schenk, Þróunaraðili"
+        },
+        {
+          "tag": "Vefsíða",
+          "title": "Ný vefsíða",
+          "description": "Við tilkynnum að vefsíðan okkar er loksins komin í loftið og opinber.",
+          "author": "Michael Schenk, Þróunaraðili"
+        },
+        {
+          "tag": "Verkefni",
+          "title": "TouchSlider er kominn í loftið",
+          "description": "Við tilkynnum að farsímaleikurinn okkar TouchSlider er fáanlegur til ókeypis niðurhals á IOS og Android.",
+          "author": "Michael Schenk, Þróunaraðili"
+        },
+        {
+          "tag": "Fyrirtæki",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Þróunaraðili"
+        },
+        {
+          "tag": "Verkfræði",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Þróunaraðili"
+        },
+        {
+          "tag": "Vara",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Þróunaraðili"
+        }
+      ]
+    },
+    "principles-page": {
+      "title": "Meginreglur okkar",
+      "subheader": "Þessi gildi eru kjarninn í öllu sem við byggjum, frá fyrstu kóðalínunni til endanlegrar notendaupplifunar.",
+      "items": [
+        {
+          "title": "Aðgengilegt alls staðar",
+          "description": "Við teljum að frábær hugbúnaður eigi að virka fyrir alla, á hvaða tæki sem er. Verkefnin okkar eru vandlega hönnuð fyrir samhæfni milli kerfa og aðgengi frá grunni."
+        },
+        {
+          "title": "Fágað og afkastamikið",
+          "description": "Við bjóðum upp á fullkomnar og mjög fínstilltar upplifanir. Áhersla okkar á hreinan arkitektúr og strangt prófun tryggir að hver vara er stöðug, afkastamikil og tilbúin til notkunar frá fyrsta degi."
+        },
+        {
+          "title": "Auðskilin hönnun",
+          "description": "Við teljum að öflugur hugbúnaður þurfi ekki að vera flókinn. Ástríða okkar liggur í því að búa til hrein, auðskilin viðmót sem gera hverja samskipti einföld og ánægjuleg."
+        },
+        {
+          "title": "Knúið áfram af nýsköpun",
+          "description": "Við byggjum með framtíðina í huga. Með því að nýta nýjustu hugbúnaðar- og vélbúnaðartækni sköpum við framsæknar vörur með öflugri, nýjustu virkni."
+        },
+        {
+          "title": "Sérstakur stuðningur",
+          "description": "Samband okkar endar ekki við niðurhal. Við veitum vinalegan, skjótan stuðning beint frá teyminu okkar til að tryggja að þú hafir alltaf frábæra upplifun af vörum okkar."
+        },
+        {
+          "title": "Nákvæmt handverk",
+          "description": "Við teljum að afburður liggi í smáatriðunum. Frá fyrstu hugmynd til síðustu kóðalínu er hver þáttur í vinnu okkar vandlega skipulagður og nákvæmlega útfærður fyrir gallalausa lokaafurð."
+        }
+      ]
+    },
+    "testimonials-page": {
+      "title": "Umsagnir",
+      "subheader": "Sjáðu hvað viðskiptavinir okkar, þróunaraðilar og prófunaraðilar elska við vörurnar okkar.",
+      "testimonial": [
+        {
+          "name": "Michael Schenk",
+          "occupation": "Þróunaraðili",
+          "testimonial": "Ég elska alveg hversu fjölhæf þessi vara er! Hvort sem ég er að takast á við vinnuverkefni eða stunda uppáhalds áhugamálin mín, þá aðlagast hún óaðfinnanlega að breyttum þörfum mínum. Innsæi hönnun hennar hefur sannarlega bætt daglega rútínu mína, gert verkefni skilvirkari og ánægjulegri."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Þróunaraðili",
+          "testimonial": "Einn af framúrskarandi eiginleikum þessarar vöru er einstakur þjónustuver. Samkvæmt minni reynslu hefur teymið á bak við þessa vöru brugðist hratt við og verið ótrúlega hjálplegt. Það er traustvekjandi að vita að þeir standa staðfastlega á bak við vöruna sína."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Þróunaraðili",
+          "testimonial": "Einfaldleiki og notendavænleiki þessarar vöru hefur einfaldað líf mitt verulega. Ég þakka skapendum fyrir að skila lausn sem ekki aðeins uppfyllir, heldur fer fram úr væntingum notenda."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Þróunaraðili",
+          "testimonial": "Ég kann að meta athygli á smáatriðum í hönnun þessarar vöru. Litlu smáatriðin skipta miklu máli og það er augljóst að skapendurnir lögðu áherslu á að skila úrvals upplifun."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Þróunaraðili",
+          "testimonial": "Ég hef prófað aðrar svipaðar vörur, en þessi sker sig úr fyrir nýstárlega eiginleika sína. Það er ljóst að framleiðendurnir lögðu mikla hugsun í að búa til lausn sem raunverulega tekur á þörfum notenda."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Þróunaraðili",
+          "testimonial": "Gæði þessarar vöru fóru fram úr væntingum mínum. Hún er endingargóð, vel hönnuð og byggð til að endast. Klárlega þess virði að fjárfesta í."
+        }
+      ]
+    },
+    "mode": {
+      "system": "Kerfi",
+      "light": "Bjart",
+      "dark": "Dökkt"
+    }
+  }
+}

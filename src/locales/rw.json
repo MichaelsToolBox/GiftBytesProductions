@@ -1,0 +1,198 @@
+{
+  "translation": {
+    "app-bar": {
+      "projects": "Imishinga",
+      "principles": "Amahame",
+      "download": "Manura",
+      "latest": "Ibiherutse",
+      "testimonials": "Ubuhamya",
+      "faq": "Ibibazo Bikunze Kubazwa"
+    },
+    "hero-page": {
+      "subtitle": "Turi sitidiyo yo mu Budage ishinzwe iterambere ry'ubuhanga ikoresha ikoranabuhanga rigezweho mu gukora imikino ya videwo, porogaramu, n'ibindi bitangazamakuru bishimishije kandi bigezweho kuri buri wese.",
+      "gift": "Gift",
+      "bytes": "Bytes",
+      "productions": "Productions"
+    },
+    "download-page": {
+      "title": "Manura",
+      "subtitle": "Hano ushobora kumanura no kureba imishinga yacu"
+    },
+    "tiers": {
+      "title1": "Inyandiko z'Iterambere",
+      "price1": "Ku buntu",
+      "subheader1": "Biraboneka",
+      "description10": "Gutanga amashusho meza nk'ay'abanyamwuga",
+      "description11": "Kwinjira mu buryo bwimbitse muri kode n'igishushanyo cyacu",
+      "description12": "Guhura imbona nkubone n'abateza imbere bacu",
+      "description13": "Biboneka ku isi yose kuri YouTube",
+      "buttontext1": "Iyandikishe ku buntu",
+      "title2": "TouchSlider",
+      "price2": "Ku buntu",
+      "subheader2": "Byaratoranijwe",
+      "description20": "Biboneka kuri IOS na Android",
+      "description21": "Gukina ku buntu nta kiguzi gihishe",
+      "description22": "Bikora ku matelefoni ashaje",
+      "description23": "Umukino woroshye w'igihe cyose n'umunsi wose",
+      "description24": "Byerekanwe mu nyandiko z'iterambere",
+      "description25": "Ubufasha",
+      "buttontext21": "Manura kuri IOS",
+      "buttontext22": "Manura kuri Android",
+      "title3": "Umushinga utaha",
+      "price3": "Ku buntu",
+      "subheader3": "Uri gukorwa",
+      "description30": "Biboneka kuri Windows, Macos na Linux",
+      "description31": "Bigurishirizwa kuri Steam na Apple Store",
+      "description32": "Biboneka mu ndimi zitandukanye",
+      "description33": "Ubufasha",
+      "buttontext3": "Bizaratangazwa"
+    },
+    "faq": {
+      "title": "Ibibazo Bikunze Kubazwa",
+      "subtitle1": "Nagera gute ku bafasha abakiriya niba mfite ikibazo cyangwa ingorane?",
+      "description1": "Ushobora kugera ku itsinda ryacu rishinzwe gufasha abakiriya wohereje imeri kuri: ",
+      "subtitle2": "Ni iki gituma igicuruzwa cyanyu gitandukana n'ibindi ku isoko?",
+      "description2": "Igicuruzwa cyacu gitandukanywa n'ubushobozi bwacyo bwo guhinduka, kuramba, n'ibintu bishya biranga. Dushyira imbere kunyurwa k'umukoresha kandi duhora duharanira kurenga ibyateganijwe mu nzego zose.",
+      "subtitle3": "Nashyigikira gute GiftBytesProductions?",
+      "description3": "Uradufasha iyo ugerageje imishinga yacu ukayisangiza abandi. Ushobora no kwiyandikisha ku muyoboro wacu wa YouTube ugasabana n'umuryango mugari. Ku nkunga yisumbuye, ushobora no kuduha impano unyuze kuri PayPal."
+    },
+    "feature-page": {
+      "title": "Ibiranga",
+      "subheader": "Menya ibiranga porogaramu yacu bituma iba yihariye.",
+      "items": [
+        {
+          "title": "Igishushanyo Mbonera cya Terefone",
+          "description": "Porogaramu yacu yateguwe hibandwa kuri terefone, bigatuma ikora neza ku bikoresho byose."
+        },
+        {
+          "title": "Imbonerahamwe Yumvikana",
+          "description": "Imbonerahamwe isobanutse kandi itunganije neza iguha ishusho rusange mu kanya gato."
+        },
+        {
+          "title": "Gukorana n'Ibikoresho Bitandukanye",
+          "description": "Ishimire uburyo ikora neza kandi ikomeye haba kuri mudasobwa, tableti, cyangwa telefone."
+        }
+      ]
+    },
+    "footer-page": {
+      "left-title": "Sanga umuryango wacu",
+      "left-button": "Iyandikishe",
+      "policy": "Amabwiriza y'ubuzima bwite",
+      "terms": "Amategeko n'amabwiriza",
+      "copyright": "Uburenganzira bw'umwanditsi © ",
+      "giftbytes": "GiftBytesProductions"
+    },
+    "latest-page": {
+      "title": "Ibiherutse",
+      "article": [
+        {
+          "tag": "Imishinga",
+          "title": "Itangazo ry'umushinga mushya",
+          "description": "Turatangaza ko umushinga wacu mushya uzaba umukino wa videwo wa mudasobwa w'ubuntu uzakora kuri sisitemu zose n'imbuga zose.",
+          "author": "Michael Schenk, Umutezimbere"
+        },
+        {
+          "tag": "Urubuga",
+          "title": "Urubuga rushya",
+          "description": "Turatangaza ko urubuga rwacu rwamaze kujya ahagaragara kandi rukaba rusange.",
+          "author": "Michael Schenk, Umutezimbere"
+        },
+        {
+          "tag": "Imishinga",
+          "title": "TouchSlider yageze ku isoko",
+          "description": "Turatangaza ko umukino wacu wa videwo wa telefone TouchSlider uboneka ku buntu kuri IOS na Android.",
+          "author": "Michael Schenk, Umutezimbere"
+        },
+        {
+          "tag": "Isosiyete",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Umutezimbere"
+        },
+        {
+          "tag": "Ubunjeniye",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Umutezimbere"
+        },
+        {
+          "tag": "Igicuruzwa",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Umutezimbere"
+        }
+      ]
+    },
+    "principles-page": {
+      "title": "Amahame yacu",
+      "subheader": "Izi ndangagaciro nizo nkingi ya mwamba y'ibyo dukora byose, uhereye ku murongo wa mbere wa kode kugeza ku buryo umukoresha wa nyuma abibona.",
+      "items": [
+        {
+          "title": "Kugera Hose",
+          "description": "Twemera ko porogaramu nziza igomba gukorera buri wese, ku gikoresho cyose. Imishinga yacu yateguwe neza kugira ngo ikorane n'imbuga zitandukanye kandi igere kuri bose kuva mu ntangiriro."
+        },
+        {
+          "title": "Kunoze kandi Gukora Neza",
+          "description": "Dutanga uburyo bwuzuye kandi bwanoze cyane. Kwibanda kwacu ku miterere isobanutse n'igeragezwa rikomeye bituma buri gicuruzwa gihamye, gikora neza, kandi giteguye gukoreshwa kuva ku munsi wa mbere."
+        },
+        {
+          "title": "Igishushanyo Cyumvikana",
+          "description": "Twemera ko porogaramu ikomeye idakwiye kuba igoye. Ishyaka ryacu riri mu gukora imbonerahamwe zisobanutse, zumvikana zituma buri gikorwa cyoroha kandi gishimisha."
+        },
+        {
+          "title": "Gushingira ku Bumenyi Bushya",
+          "description": "Twubaka dutekereza ku hazaza. Dukoresheje ikoranabuhanga rishya mu bya porogaramu n'ibikoresho, dukora ibicuruzwa bitekereza ku hazaza bifite imikorere ikomeye, igezweho."
+        },
+        {
+          "title": "Ubufasha Bwihariye",
+          "description": "Umubano wacu ntugarukira ku kumanura. Dutanga ubufasha bwiza, bwihuse buturutse mu itsinda ryacu kugira ngo tumenye neza ko uhora unyurwa n'ibicuruzwa byacu."
+        },
+        {
+          "title": "Ubuhanga Bw'intyoza",
+          "description": "Twemera ko ubuhanga buri mu tuntu duto. Uhereye ku gitekerezo cya mbere kugeza ku murongo wa nyuma wa kode, buri gice cy'akazi kacu gitegurwa neza kandi gikorwa neza kugira ngo igicuruzwa cya nyuma kibe cyiza."
+        }
+      ]
+    },
+    "testimonials-page": {
+      "title": "Ubuhamya",
+      "subheader": "Reba icyo abakiriya bacu, abatezimbere, n'abagerageza bakunda ku bicuruzwa byacu.",
+      "testimonial": [
+        {
+          "name": "Michael Schenk",
+          "occupation": "Umutezimbere",
+          "testimonial": "Nkunda cyane uburyo iki gicuruzwa gikora ibintu byinshi! Byaba mu mishinga y'akazi cyangwa mu byo nkunda gukora, gihinduka bitagoranye kijyanye n'ibyo nkeneye. Igishushanyo cyacyo cyumvikana cyatumye imirimo yanjye ya buri munsi iba myiza kurushaho, ikorwa neza kandi ishimishije."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Umutezimbere",
+          "testimonial": "Kimwe mu bintu by'ingenzi biranga iki gicuruzwa ni ubufasha bwiza cyane ku bakiriya. Nk'uko nabibonye, itsinda riri inyuma y'iki gicuruzwa ryasubije vuba kandi rirafasha cyane. Birahumuriza kumenya ko bashyigikiye igicuruzwa cyabo."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Umutezimbere",
+          "testimonial": "Uburyo iki gicuruzwa cyoroshye kandi cyoroshye gukoresha byoroheje cyane ubuzima bwanjye. Nshimira abagikoze kuba baratanze igisubizo kidahura gusa n'ibyo abakoresha bakeneye, ahubwo kirenzeho."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Umutezimbere",
+          "testimonial": "Nshima uburyo bitaye ku tuntu duto mu gishushanyo cy'iki gicuruzwa. Utuntu duto tugira itandukaniro rinini, kandi biragaragara ko abagikoze bibanze ku gutanga uburyo bwiza cyane."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Umutezimbere",
+          "testimonial": "Nagerageje ibindi bicuruzwa bisa, ariko iki gitandukanywa n'ibintu bishya biranga. Biragaragara ko abagikoze batekereje cyane ku gukora igisubizo gihura neza n'ibyo abakoresha bakeneye."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Umutezimbere",
+          "testimonial": "Ubwiza bw'iki gicuruzwa burenze ibyo natekerezaga. Kiraramba, giteguwe neza, kandi cyubatswe kugira ngo kimare igihe. Rwose gikwiye ishoramari."
+        }
+      ]
+    },
+    "mode": {
+      "system": "Sisitemu",
+      "light": "Urumuri",
+      "dark": "Umwijima"
+    }
+  }
+}

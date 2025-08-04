@@ -1,0 +1,198 @@
+{
+  "translation": {
+    "app-bar": {
+      "projects": "Projekti",
+      "principles": "Principi",
+      "download": "Lejupielādēt",
+      "latest": "Jaunākais",
+      "testimonials": "Atsauksmes",
+      "faq": "BUJ"
+    },
+    "hero-page": {
+      "subtitle": "Mēs esam Vācijā bāzēta radošās izstrādes studija, kas izmanto jaunākās tehnoloģijas, lai radītu aizraujošas un pieejamas videospēles, lietotnes un mediju pieredzi ikvienam.",
+      "gift": "Gift",
+      "bytes": "Bytes",
+      "productions": "Productions"
+    },
+    "download-page": {
+      "title": "Lejupielādēt",
+      "subtitle": "Šeit jūs varat lejupielādēt un apskatīt mūsu projektus"
+    },
+    "tiers": {
+      "title1": "Izstrādes žurnāli",
+      "price1": "Bezmaksas",
+      "subheader1": "Pieejams",
+      "description10": "Studijas kvalitātes video producēšana",
+      "description11": "Dziļa iedziļināšanās mūsu kodā un dizainā",
+      "description12": "Tieša saziņa ar mūsu izstrādātājiem",
+      "description13": "Pieejams visā pasaulē YouTube",
+      "buttontext1": "Bezmaksas abonements",
+      "title2": "TouchSlider",
+      "price2": "Bezmaksas",
+      "subheader2": "Ieteicams",
+      "description20": "Pieejams IOS un Android ierīcēs",
+      "description21": "Spēlēt bez maksas bez slēptām izmaksām",
+      "description22": "Atbalsta vecas mobilās ierīces",
+      "description23": "Vienkārša spēle jebkuram laikam un dienai",
+      "description24": "Prezentēts izstrādes žurnālos",
+      "description25": "Atbalsts",
+      "buttontext21": "Lejupielādēt IOS",
+      "buttontext22": "Lejupielādēt Android",
+      "title3": "Nākamais projekts",
+      "price3": "Bezmaksas",
+      "subheader3": "Procesā",
+      "description30": "Pieejams Windows, MacOS un Linux",
+      "description31": "Izplatīšana caur Steam un Apple Store",
+      "description32": "Pieejams dažādās valodās",
+      "description33": "Atbalsts",
+      "buttontext3": "Tiks paziņots"
+    },
+    "faq": {
+      "title": "Bieži uzdotie jautājumi",
+      "subtitle1": "Kā sazināties ar klientu atbalstu, ja man ir jautājums vai problēma?",
+      "description1": "Jūs varat sazināties ar mūsu klientu atbalsta komandu, nosūtot e-pastu uz: ",
+      "subtitle2": "Ar ko jūsu produkts atšķiras no citiem tirgū?",
+      "description2": "Mūsu produkts izceļas ar savu pielāgojamību, izturību un inovatīvām funkcijām. Mēs par prioritāti izvirzām lietotāju apmierinātību un pastāvīgi cenšamies pārsniegt cerības visos aspektos.",
+      "subtitle3": "Kā es varu atbalstīt GiftBytesProductions?",
+      "description3": "Jūs jau mums palīdzat, vienkārši izmēģinot mūsu projektus un iesakot tos. Pretējā gadījumā jūs varat abonēt mūsu YouTube kanālu un iesaistīties kopienā. Papildu atbalstam jūs varat arī ziedot mums tieši caur PayPal."
+    },
+    "feature-page": {
+      "title": "Funkcijas",
+      "subheader": "Izpētiet jaudīgās funkcijas, kas padara mūsu lietojumprogrammu izcilu.",
+      "items": [
+        {
+          "title": "Mobilajām ierīcēm paredzēts dizains",
+          "description": "Mūsu lietotne ir izstrādāta, domājot par mobilajām ierīcēm, nodrošinot nevainojamu pieredzi jebkurā ierīcē."
+        },
+        {
+          "title": "Intuitīvs informācijas panelis",
+          "description": "Tīrs un organizēts informācijas panelis, kas sniedz pilnīgu pārskatu vienā mirklī."
+        },
+        {
+          "title": "Saderība starp ierīcēm",
+          "description": "Izbaudiet konsekventu un jaudīgu pieredzi neatkarīgi no tā, vai izmantojat galddatoru, planšetdatoru vai viedtālruni."
+        }
+      ]
+    },
+    "footer-page": {
+      "left-title": "Pievienojieties mūsu kopienai",
+      "left-button": "Abonēt",
+      "policy": "Privātuma politika",
+      "terms": "Pakalpojumu sniegšanas noteikumi",
+      "copyright": "Autortiesības © ",
+      "giftbytes": "GiftBytesProductions"
+    },
+    "latest-page": {
+      "title": "Jaunākais",
+      "article": [
+        {
+          "tag": "Projekti",
+          "title": "Jauna projekta paziņojums",
+          "description": "Mēs paziņojam, ka mūsu jaunais projekts būs bezmaksas galddatora videospēle, kas būs pieejama visās operētājsistēmās un platformās.",
+          "author": "Maikls Šenks, Izstrādātājs"
+        },
+        {
+          "tag": "Tīmekļa vietne",
+          "title": "Jauna tīmekļa vietne",
+          "description": "Mēs paziņojam, ka mūsu tīmekļa vietne beidzot ir tiešsaistē un publiska.",
+          "author": "Maikls Šenks, Izstrādātājs"
+        },
+        {
+          "tag": "Projekti",
+          "title": "TouchSlider ir tiešsaistē",
+          "description": "Mēs paziņojam, ka mūsu mobilā videospēle TouchSlider ir pieejama bezmaksas lejupielādei IOS un Android ierīcēs.",
+          "author": "Maikls Šenks, Izstrādātājs"
+        },
+        {
+          "tag": "Uzņēmums",
+          "title": "",
+          "description": "",
+          "author": "Maikls Šenks, Izstrādātājs"
+        },
+        {
+          "tag": "Inženierzinātnes",
+          "title": "",
+          "description": "",
+          "author": "Maikls Šenks, Izstrādātājs"
+        },
+        {
+          "tag": "Produkts",
+          "title": "",
+          "description": "",
+          "author": "Maikls Šenks, Izstrādātājs"
+        }
+      ]
+    },
+    "principles-page": {
+      "title": "Mūsu principi",
+      "subheader": "Šīs vērtības ir visa mūsu veidotā pamatā, sākot no pirmās koda rindas līdz pat galīgajai lietotāja pieredzei.",
+      "items": [
+        {
+          "title": "Pieejams visur",
+          "description": "Mēs uzskatām, ka lieliskai programmatūrai ir jādarbojas visiem un jebkurā ierīcē. Mūsu projekti ir rūpīgi izstrādāti, lai nodrošinātu starpplatformu saderību un pieejamību jau no paša sākuma."
+        },
+        {
+          "title": "Noslīpēts un veiktspējīgs",
+          "description": "Mēs piedāvājam pilnīgas un augsti optimizētas pieredzes. Mūsu koncentrēšanās uz tīru arhitektūru un stingru testēšanu nodrošina, ka katrs produkts ir stabils, veiktspējīgs un gatavs baudīšanai jau no pirmās dienas."
+        },
+        {
+          "title": "Intuitīvs dizains",
+          "description": "Mēs uzskatām, ka jaudīgai programmatūrai nav jābūt sarežģītai. Mūsu aizraušanās ir tīru, intuitīvu saskarņu veidošana, kas padara katru mijiedarbību vienkāršu un patīkamu."
+        },
+        {
+          "title": "Inovāciju virzīts",
+          "description": "Mēs būvējam, domājot par nākotni. Izmantojot jaunākās programmatūras un aparatūras tehnoloģijas, mēs radām uz nākotni vērstus produktus ar jaudīgu, progresīvu funkcionalitāti."
+        },
+        {
+          "title": "Īpašs atbalsts",
+          "description": "Mūsu attiecības nebeidzas ar lejupielādi. Mēs nodrošinām draudzīgu, atsaucīgu atbalstu tieši no mūsu komandas, lai nodrošinātu, ka jums vienmēr ir lieliska pieredze ar mūsu produktiem."
+        },
+        {
+          "title": "Rūpīga meistarība",
+          "description": "Mēs uzskatām, ka izcilība slēpjas detaļās. No pirmā koncepta līdz pēdējai koda rindai katrs mūsu darba elements ir rūpīgi izplānots un precīzi izpildīts, lai iegūtu nevainojamu gala produktu."
+        }
+      ]
+    },
+    "testimonials-page": {
+      "title": "Atsauksmes",
+      "subheader": "Skatiet, kas mūsu klientiem, izstrādātājiem un testētājiem patīk mūsu produktos.",
+      "testimonial": [
+        {
+          "name": "Maikls Šenks",
+          "occupation": "Izstrādātājs",
+          "testimonial": "Man ļoti patīk, cik daudzpusīgs ir šis produkts! Neatkarīgi no tā, vai es strādāju pie darba projektiem vai nododos saviem iecienītākajiem hobijiem, tas nevainojami pielāgojas manām mainīgajām vajadzībām. Tā intuitīvais dizains ir patiesi uzlabojis manu ikdienas rutīnu, padarot uzdevumus efektīvākus un patīkamākus."
+        },
+        {
+          "name": "Maikls Šenks",
+          "occupation": "Izstrādātājs",
+          "testimonial": "Viena no šī produkta izcilajām iezīmēm ir izcilais klientu atbalsts. Manā pieredzē komanda, kas stāv aiz šī produkta, ir ātri reaģējusi un bijusi neticami izpalīdzīga. Ir pārliecinoši zināt, ka viņi stingri stāv aiz sava produkta."
+        },
+        {
+          "name": "Maikls Šenks",
+          "occupation": "Izstrādātājs",
+          "testimonial": "Šī produkta vienkāršības un lietotājdraudzīguma līmenis ir ievērojami vienkāršojis manu dzīvi. Es novērtēju radītājus par risinājuma nodrošināšanu, kas ne tikai atbilst, bet arī pārsniedz lietotāju cerības."
+        },
+        {
+          "name": "Maikls Šenks",
+          "occupation": "Izstrādātājs",
+          "testimonial": "Es novērtēju uzmanību detaļām šī produkta dizainā. Mazie pieskārieni rada lielu atšķirību, un ir acīmredzams, ka radītāji koncentrējās uz augstākās klases pieredzes nodrošināšanu."
+        },
+        {
+          "name": "Maikls Šenks",
+          "occupation": "Izstrādātājs",
+          "testimonial": "Esmu izmēģinājis citus līdzīgus produktus, bet šis izceļas ar savām inovatīvajām funkcijām. Ir skaidrs, ka veidotāji ir daudz domājuši par risinājuma radīšanu, kas patiesi risina lietotāju vajadzības."
+        },
+        {
+          "name": "Maikls Šenks",
+          "occupation": "Izstrādātājs",
+          "testimonial": "Šī produkta kvalitāte pārsniedza manas cerības. Tas ir izturīgs, labi izstrādāts un radīts, lai kalpotu ilgi. Noteikti ir vērts investēt."
+        }
+      ]
+    },
+    "mode": {
+      "system": "Sistēma",
+      "light": "Gaišs",
+      "dark": "Tumšs"
+    }
+  }
+}

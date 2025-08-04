@@ -1,0 +1,198 @@
+{
+  "translation": {
+    "app-bar": {
+      "projects": "Proposita",
+      "principles": "Principia",
+      "download": "Depromere",
+      "latest": "Novissima",
+      "testimonials": "Testimonia",
+      "faq": "QF"
+    },
+    "hero-page": {
+      "subtitle": "Nos sumus officina creativa evolutionis in Germania sita, quae recentissima technologia utitur ad ludos visificos, applicationes, et experientias medias captantes et omnibus pervias creandas.",
+      "gift": "Gift",
+      "bytes": "Bytes",
+      "productions": "Productions"
+    },
+    "download-page": {
+      "title": "Depromere",
+      "subtitle": "Hic potes proposita nostra depromere et videre"
+    },
+    "tiers": {
+      "title1": "Commentarii Evolutionis",
+      "price1": "Gratis",
+      "subheader1": "Praesto",
+      "description10": "Productio visifica qualitatis studii",
+      "description11": "Inmersiones profundae in codicem et consilium nostrum",
+      "description12": "Commercium directum cum creatoribus nostris",
+      "description13": "Per orbem terrarum in YouTube pervium",
+      "buttontext1": "Subscriptio Gratuita",
+      "title2": "TouchSlider",
+      "price2": "Gratis",
+      "subheader2": "Commendatum",
+      "description20": "Praesto in IOS et Android",
+      "description21": "Gratis ludere sine impensa occulta",
+      "description22": "Sustinet antiqua instrumenta mobilia",
+      "description23": "Ludus simplex pro quovis tempore et die",
+      "description24": "Praesentatum in commentariis evolutionis",
+      "description25": "Auxilium",
+      "buttontext21": "Depromere IOS",
+      "buttontext22": "Depromere Android",
+      "title3": "Propositum futurum",
+      "price3": "Gratis",
+      "subheader3": "In progressu",
+      "description30": "Praesto pro Windows, MacOS et Linux",
+      "description31": "Distributio per Steam et Apple Store",
+      "description32": "Pervium in variis linguis",
+      "description33": "Auxilium",
+      "buttontext3": "Nuntiandum"
+    },
+    "faq": {
+      "title": "Quaestiones Frequentes",
+      "subtitle1": "Quomodo auxilium clientium contactum si quaestionem vel problema habeo?",
+      "description1": "Potes attingere turmam auxilio clientium nostram per epistulam electronicam ad: ",
+      "subtitle2": "Quid facit productum vestrum eminere ab aliis in foro?",
+      "description2": "Productum nostrum se distinguit per suam adaptabilitatem, durabilitatem, et notas innovativas. Prioritatem damus satisfactioni utentis et continenter contendimus ut exspectationes in omni aspectu superemus.",
+      "subtitle3": "Quomodo possum GiftBytesProductions sustinere?",
+      "description3": "Iam nos adiuvatis solum per proposita nostra temptando et ea commendando. Aliter potes subscribere canali nostro YouTube et cum communitate participare. Pro auxilio addito, potes etiam nobis directe per PayPal donare."
+    },
+    "feature-page": {
+      "title": "Notae",
+      "subheader": "Explorate notas potentes quae applicationem nostram eminentem faciunt.",
+      "items": [
+        {
+          "title": "Consilium Mobile-Primum",
+          "description": "Applicatio nostra designata est cum accessu mobile-primo, experientiam fluidam in quovis instrumento praestans."
+        },
+        {
+          "title": "Tabula Intuitiva",
+          "description": "Tabula munda et ordinata quae tibi conspectum completum uno intuitu dat."
+        },
+        {
+          "title": "Compatibilitas Inter Instrumenta",
+          "description": "Fruere experientia constanti et potente sive in computatro, tabula, sive telephono es."
+        }
+      ]
+    },
+    "footer-page": {
+      "left-title": "Coniunge communitati nostrae",
+      "left-button": "Subscribere",
+      "policy": "Ratio Privata",
+      "terms": "Conditiones Servitii",
+      "copyright": "Ius Auctoris © ",
+      "giftbytes": "GiftBytesProductions"
+    },
+    "latest-page": {
+      "title": "Novissima",
+      "article": [
+        {
+          "tag": "Proposita",
+          "title": "Nuntius Novi Propositi",
+          "description": "Nuntiamus novum propositum nostrum fore ludum visificum computatralem gratuitum qui in omnibus systematibus operativis et suggestis praesto erit.",
+          "author": "Michael Schenk, Creator"
+        },
+        {
+          "tag": "Situs Interretialis",
+          "title": "Novus situs interretialis",
+          "description": "Nuntiamus situm interretialem nostrum tandem vivum et publicum esse.",
+          "author": "Michael Schenk, Creator"
+        },
+        {
+          "tag": "Proposita",
+          "title": "TouchSlider vivus est",
+          "description": "Nuntiamus ludum visificum mobilem nostrum TouchSlider praesto esse ad depromendum gratis in IOS et Android.",
+          "author": "Michael Schenk, Creator"
+        },
+        {
+          "tag": "Societas",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Creator"
+        },
+        {
+          "tag": "Ars Ingeniaria",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Creator"
+        },
+        {
+          "tag": "Productum",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Creator"
+        }
+      ]
+    },
+    "principles-page": {
+      "title": "Principia Nostra",
+      "subheader": "Hi valores in corde sunt omnium quae aedificamus, a prima linea codicis usque ad experientiam finalem utentis.",
+      "items": [
+        {
+          "title": "Ubique Pervium",
+          "description": "Credimus magnum programma omnibus, in quovis instrumento, operari debere. Proposita nostra adamussim machinata sunt pro compatibilitate inter suggesta et perviabilitate ab initio."
+        },
+        {
+          "title": "Politum & Performans",
+          "description": "Experientias completas et valde optimizatas tradimus. Focus noster in architectura munda et probatione rigorosa efficit ut omne productum stabile, performans, et paratum sit ad fruendum a primo die."
+        },
+        {
+          "title": "Consilium Intuitivum",
+          "description": "Credimus programma potens non debere esse complicatum. Passio nostra iacet in interfaciebus mundis, intuitivis creandis quae omnem interactionem directam et iucundam faciunt."
+        },
+        {
+          "title": "Potestatum ab Innovatione",
+          "description": "Aedificamus cum futuro in mente. Utendo recentissima technologia programmatis et ferramentorum, creamus producta futura spectantia cum functionalitate potente et acuta."
+        },
+        {
+          "title": "Auxilium Dedicatum",
+          "description": "Relatio nostra non desinit in depromptione. Auxilium amicum, responsivum directe a turma nostra praebemus ut experientiam magnam cum productis nostris semper habeas."
+        },
+        {
+          "title": "Artificium Meticulosum",
+          "description": "Credimus excellentiam in particulis iacere. A primo conceptu usque ad ultimam lineam codicis, omne elementum operis nostri cogitate dispositum est et praecise executum pro producto finali sine menda."
+        }
+      ]
+    },
+    "testimonials-page": {
+      "title": "Testimonia",
+      "subheader": "Vide quid clientes, creatores et probatores nostri de productis nostris ament.",
+      "testimonial": [
+        {
+          "name": "Michael Schenk",
+          "occupation": "Creator",
+          "testimonial": "Absolute amo quam versatile hoc productum sit! Sive negotia opera aggredior sive oblectamentis meis indulgeo, sine sutura se adaptat ad necessitates meas mutantes. Consilium eius intuitivum vere auxit meam consuetudinem quotidianam, opera efficientiora et iucundiora faciens."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Creator",
+          "testimonial": "Una ex notis eminentibus huius producti est eximium auxilium clientium. In experientia mea, turma post hoc productum celeriter respondit et incredibiliter utilis fuit. Confirmans est scire eos firmiter post productum suum stare."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Creator",
+          "testimonial": "Gradus simplicitatis et facilitatis usoris in hoc producto vitam meam significanter simplificavit. Gratias ago creatoribus pro solutione tradenda quae non solum exspectationes utentis implet, sed etiam superat."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Creator",
+          "testimonial": "Appretio attentionem ad singula in consilio huius producti. Parvi tactus magnam differentiam faciunt, et evidens est creatores in experientia premium tradenda se intendisse."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Creator",
+          "testimonial": "Expertus sum alia producta similia, sed hoc eminet notis suis innovativis. Manifestum est factores multum cogitasse in solutione creanda quae vere necessitates utentis alloquitur."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Creator",
+          "testimonial": "Qualitas huius producti exspectationes meas superavit. Durabile est, bene designatum, et ad diuturnitatem aedificatum. Certe pretium est collocationis."
+        }
+      ]
+    },
+    "mode": {
+      "system": "Systema",
+      "light": "Lux",
+      "dark": "Tenebrae"
+    }
+  }
+}

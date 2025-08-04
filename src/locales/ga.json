@@ -1,0 +1,198 @@
+{
+  "translation": {
+    "app-bar": {
+      "projects": "Tionscadail",
+      "principles": "Prionsabail",
+      "download": "Íoslódáil",
+      "latest": "Is déanaí",
+      "testimonials": "Teistiméireachtaí",
+      "faq": "Ceisteanna Coitianta"
+    },
+    "hero-page": {
+      "subtitle": "Is stiúideo forbartha cruthaitheach Gearmánach muid a úsáideann an teicneolaíocht is déanaí chun físchluichí, aipeanna, agus eispéiris mheán cumarsáide atá tarraingteach agus inrochtana a chruthú do chách.",
+      "gift": "Gift",
+      "bytes": "Bytes",
+      "productions": "Productions"
+    },
+    "download-page": {
+      "title": "Íoslódáil",
+      "subtitle": "Anseo is féidir leat ár dtionscadail a íoslódáil agus a fheiceáil"
+    },
+    "tiers": {
+      "title1": "Logaí Forbartha",
+      "price1": "Saor in aisce",
+      "subheader1": "Ar fáil",
+      "description10": "Táirgeadh físeáin de cháilíocht stiúideo",
+      "description11": "Tumadh domhain inár gcód agus inár ndearadh",
+      "description12": "Idirghníomhaíocht dhíreach lenár bhforbróirí",
+      "description13": "Inrochtana ar fud an domhain ar YouTube",
+      "buttontext1": "Síntiús Saor in Aisce",
+      "title2": "TouchSlider",
+      "price2": "Saor in aisce",
+      "subheader2": "Molta",
+      "description20": "Ar fáil ar IOS agus Android",
+      "description21": "Saor in aisce le himirt gan aon chostas i bhfolach",
+      "description22": "Tacaíonn sé le seanghléasanna soghluaiste",
+      "description23": "Cluiche simplí d'aon am agus lá",
+      "description24": "Curtha i láthair i logaí forbartha",
+      "description25": "Tacaíocht",
+      "buttontext21": "Íoslódáil IOS",
+      "buttontext22": "Íoslódáil Android",
+      "title3": "Tionscadal atá le teacht",
+      "price3": "Saor in aisce",
+      "subheader3": "Ar siúl",
+      "description30": "Ar fáil do Windows, MacOS agus Linux",
+      "description31": "Dáileadh trí Steam agus Apple Store",
+      "description32": "Inrochtana i dteangacha éagsúla",
+      "description33": "Tacaíocht",
+      "buttontext3": "Le fógairt"
+    },
+    "faq": {
+      "title": "Ceisteanna Coitianta",
+      "subtitle1": "Conas is féidir liom teagmháil a dhéanamh le tacaíocht do chustaiméirí má tá ceist nó fadhb agam?",
+      "description1": "Is féidir leat teagmháil a dhéanamh lenár bhfoireann tacaíochta do chustaiméirí trí ríomhphost a sheoladh chuig: ",
+      "subtitle2": "Cad a dhéanann do tháirge seasamh amach ó dhaoine eile sa mhargadh?",
+      "description2": "Déanann ár dtáirge idirdhealú idir é féin trína inoiriúnaitheacht, a marthanacht, agus a ghnéithe nuálacha. Tugaimid tús áite do shástacht úsáideoirí agus déanaimid ár ndícheall i gcónaí ionchais a shárú i ngach gné.",
+      "subtitle3": "Conas is féidir liom tacú le GiftBytesProductions?",
+      "description3": "Tá tú ag cabhrú linn cheana féin ach ár dtionscadail a thriail agus iad a mholadh. Seachas sin is féidir leat síntiús a íoc lenár gcainéal YouTube agus páirt a ghlacadh sa phobal. Le haghaidh tacaíochta breise is féidir leat síntiús a thabhairt dúinn go díreach trí PayPal freisin."
+    },
+    "feature-page": {
+      "title": "Gnéithe",
+      "subheader": "Déan iniúchadh ar na gnéithe cumhachtacha a fhágann go seasann ár n-aipeanna amach.",
+      "items": [
+        {
+          "title": "Dearadh Soghluaiste-Ar dtús",
+          "description": "Tá ár n-aipeanna deartha le cur chuige soghluaiste-ar dtús, ag cinntiú eispéireas gan uaim ar aon ghaireas."
+        },
+        {
+          "title": "Painéal Iomasach",
+          "description": "Painéal glan agus eagraithe a thugann forbhreathnú iomlán duit ar an toirt."
+        },
+        {
+          "title": "Comhoiriúnacht Tras-Ghléas",
+          "description": "Bain sult as eispéireas comhsheasmhach agus cumhachtach cibé an bhfuil tú ar ríomhaire deisce, táibléad, nó fón cliste."
+        }
+      ]
+    },
+    "footer-page": {
+      "left-title": "Bí inár bpobal",
+      "left-button": "Liostáil",
+      "policy": "Polasaí Príobháideachta",
+      "terms": "Téarmaí Seirbhíse",
+      "copyright": "Cóipcheart © ",
+      "giftbytes": "GiftBytesProductions"
+    },
+    "latest-page": {
+      "title": "Is déanaí",
+      "article": [
+        {
+          "tag": "Tionscadail",
+          "title": "Fógra Tionscadail Nua",
+          "description": "Fógraímid go mbeidh ár dtionscadal nua ina fhíschluiche deisce saor in aisce a bheidh ar fáil ar gach córas oibriúcháin agus ardán.",
+          "author": "Michael Schenk, Forbróir"
+        },
+        {
+          "tag": "Suíomh Gréasáin",
+          "title": "Suíomh Gréasáin Nua",
+          "description": "Fógraímid go bhfuil ár suíomh gréasáin beo agus poiblí faoi dheireadh.",
+          "author": "Michael Schenk, Forbróir"
+        },
+        {
+          "tag": "Tionscadail",
+          "title": "Tá TouchSlider beo",
+          "description": "Fógraímid go bhfuil ár bhfíschluiche soghluaiste TouchSlider ar fáil le híoslódáil saor in aisce ar IOS agus Android.",
+          "author": "Michael Schenk, Forbróir"
+        },
+        {
+          "tag": "Cuideachta",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Forbróir"
+        },
+        {
+          "tag": "Innealtóireacht",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Forbróir"
+        },
+        {
+          "tag": "Táirge",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Forbróir"
+        }
+      ]
+    },
+    "principles-page": {
+      "title": "Ár bPrionsabail",
+      "subheader": "Tá na luachanna seo i gcroílár gach rud a thógaimid, ón gcéad líne cód go dtí an t-eispéireas úsáideora deiridh.",
+      "items": [
+        {
+          "title": "Inrochtana i Ngach Áit",
+          "description": "Creidimid gur chóir go n-oibreodh bogearraí iontacha do chách, ar aon ghaireas. Tá ár dtionscadail innealtóireachta go cúramach le haghaidh comhoiriúnacht tras-ardán agus inrochtaineacht ón tús."
+        },
+        {
+          "title": "Snasta & Feidhmiúil",
+          "description": "Seachadaimid eispéiris iomlána agus optamaithe go mór. Cinntíonn ár bhfócas ar ailtireacht ghlan agus tástáil dhian go bhfuil gach táirge cobhsaí, feidhmiúil, agus réidh le taitneamh a bhaint as ón gcéad lá."
+        },
+        {
+          "title": "Dearadh Iomasach",
+          "description": "Creidimid nach gá go mbeadh bogearraí cumhachtacha casta. Tá ár bpaisean i gceird chomhéadain ghlan, iomasach a dhéanann gach idirghníomhaíocht simplí agus taitneamhach."
+        },
+        {
+          "title": "Cumhachtaithe ag Nuálaíocht",
+          "description": "Tógaimid agus an todhchaí san áireamh againn. Trí leas a bhaint as an teicneolaíocht bogearraí agus crua-earraí is déanaí, cruthaímid táirgí a bhfuil fís acu don todhchaí le feidhmiúlacht chumhachtach, cheannródaíoch."
+        },
+        {
+          "title": "Tacaíocht Tiomnaithe",
+          "description": "Ní chríochnaíonn ár gcaidreamh leis an íoslódáil. Soláthraímid tacaíocht chairdiúil, sofhreagrach go díreach ónár bhfoireann chun a chinntiú go mbíonn eispéireas iontach agat lenár dtáirgí, i gcónaí."
+        },
+        {
+          "title": "Ceardaíocht Mhionchúiseach",
+          "description": "Creidimid go bhfuil an sármhaitheas sna sonraí. Ón gcéad choincheap go dtí an líne cód deiridh, déantar gach gné dár gcuid oibre a phleanáil go cúramach agus a fhorghníomhú go beacht le haghaidh táirge deiridh gan smál."
+        }
+      ]
+    },
+    "testimonials-page": {
+      "title": "Teistiméireachtaí",
+      "subheader": "Féach cad is breá lenár gcustaiméirí, forbróirí agus tástálaithe faoinár dtáirgí.",
+      "testimonial": [
+        {
+          "name": "Michael Schenk",
+          "occupation": "Forbróir",
+          "testimonial": "Is breá liom go hiomlán cé chomh ilúsáideach is atá an táirge seo! Cibé an bhfuil mé ag tabhairt faoi thionscadail oibre nó ag baint taitnimh as na caitheamh aimsire is fearr liom, déanann sé oiriúnú gan uaim do mo chuid riachtanas atá ag athrú. Tá a dhearadh iomasach tar éis feabhas mór a chur ar mo ghnáthamh laethúil, ag déanamh tascanna níos éifeachtaí agus níos taitneamhaí."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Forbróir",
+          "testimonial": "Ceann de na gnéithe is suntasaí den táirge seo ná an tacaíocht eisceachtúil do chustaiméirí. I mo thaithí féin, d'fhreagair an fhoireann taobh thiar den táirge seo go tapa agus bhí siad thar a bheith cabhrach. Is mór an sólás é a fhios go seasann siad go daingean taobh thiar dá dtáirge."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Forbróir",
+          "testimonial": "Tá leibhéal na simplíochta agus na cairdiúlachta don úsáideoir sa táirge seo tar éis mo shaol a shimpliú go mór. Gabhaim buíochas leis na cruthaitheoirí as réiteach a sheachadadh a chomhlíonann ní amháin ionchais úsáideoirí ach a sháraíonn iad."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Forbróir",
+          "testimonial": "Is mór agam an aird ar mhionsonraí i ndearadh an táirge seo. Déanann na teagmhálacha beaga difríocht mhór, agus is léir gur dhírigh na cruthaitheoirí ar eispéireas préimhe a sheachadadh."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Forbróir",
+          "testimonial": "Tá táirgí eile dá samhail triailte agam, ach seasann an ceann seo amach as a ghnéithe nuálacha. Is léir gur chuir na déantóirí an-mhachnamh ar réiteach a chruthú a fhreastalaíonn go fírinneach ar riachtanais úsáideoirí."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Forbróir",
+          "testimonial": "Sháraigh cáilíocht an táirge seo mo chuid ionchas. Tá sé marthanach, dea-dheartha, agus tógtha le maireachtáil. Is cinnte gur fiú an infheistíocht é."
+        }
+      ]
+    },
+    "mode": {
+      "system": "Córas",
+      "light": "Solas",
+      "dark": "Dorcha"
+    }
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "translation": {
+    "app-bar": {
+      "projects": "Ọrụ",
+      "principles": "Ụkpụrụ",
+      "download": "Nbudata",
+      "latest": "Nke kachasị ọhụrụ",
+      "testimonials": "Akwụkwọ akaebe",
+      "faq": "Ajụjụ ndị a na-ajụkarị"
+    },
+    "hero-page": {
+      "subtitle": "Anyị bụ ụlọ ọrụ mmepe okike nke dị na Germany nke na-eji teknụzụ kachasị ọhụrụ emepụta egwuregwu vidio, ngwa, na ahụmịhe mgbasa ozi na-adọrọ mmasị ma dị mfe maka onye ọ bụla.",
+      "gift": "Gift",
+      "bytes": "Bytes",
+      "productions": "Productions"
+    },
+    "download-page": {
+      "title": "Nbudata",
+      "subtitle": "N'ebe a, ị nwere ike ibudata ma lelee ọrụ anyị"
+    },
+    "tiers": {
+      "title1": "Ndekọ Mmepe",
+      "price1": "N'efu",
+      "subheader1": "Dị",
+      "description10": "Mmepụta vidio dị mma nke ụlọ ọrụ",
+      "description11": "Ịbanye n'ime koodu na imewe anyị",
+      "description12": "Mmekọrịta kpọmkwem na ndị mmepe anyị",
+      "description13": "Dị n'ụwa niile na YouTube",
+      "buttontext1": "Ndebanye aha n'efu",
+      "title2": "TouchSlider",
+      "price2": "N'efu",
+      "subheader2": "Akwadoro",
+      "description20": "Dị na IOS na gam akporo",
+      "description21": "N'efu igwu egwu na-enweghị ụgwọ zoro ezo",
+      "description22": "Na-akwado ngwaọrụ mkpanaka ochie",
+      "description23": "Egwuregwu dị mfe maka oge na ụbọchị ọ bụla",
+      "description24": "E gosipụtara na ndekọ mmepe",
+      "description25": "Nkwado",
+      "buttontext21": "Budata IOS",
+      "buttontext22": "Budata gam akporo",
+      "title3": "Ọrụ na-abịanụ",
+      "price3": "N'efu",
+      "subheader3": "Na-aga n'ihu",
+      "description30": "Dị maka Windows, Macos na Linux",
+      "description31": "Nkesa site na Steam na Apple Store",
+      "description32": "Dị n'asụsụ dị iche iche",
+      "description33": "Nkwado",
+      "buttontext3": "A ga-ekwupụta"
+    },
+    "faq": {
+      "title": "Ajụjụ ndị a na-ajụkarị",
+      "subtitle1": "Kedu ka m ga-esi kpọtụrụ nkwado ndị ahịa ma ọ bụrụ na m nwere ajụjụ ma ọ bụ nsogbu?",
+      "description1": "Ị nwere ike ịkpọtụrụ ndị otu nkwado ndị ahịa anyị site na izipu ozi email na: ",
+      "subtitle2": "Gịnị na-eme ka ngwaahịa gị dị iche na ndị ọzọ n'ahịa?",
+      "description2": "Ngwaahịa anyị na-amata onwe ya site na mgbanwe ya, ịdịte aka ya, na atụmatụ ọhụrụ ya. Anyị na-ebute afọ ojuju onye ọrụ ụzọ ma na-agbalịsi ike mgbe niile ịgafe atụmanya n'akụkụ niile.",
+      "subtitle3": "Kedu ka m ga-esi kwado GiftBytesProductions?",
+      "description3": "Ị na-enyere anyị aka site na ịnwale ọrụ anyị na ịkwado ya. Ma ọ bụghị ya, ị nwere ike ịdenye aha na ọwa YouTube anyị ma soro obodo na-emekọrịta ihe. Maka nkwado ọzọ, ị nwekwara ike inye anyị onyinye ozugbo site na PayPal."
+    },
+    "feature-page": {
+      "title": "Atụmatụ",
+      "subheader": "Chọpụta atụmatụ ndị dị ike nke na-eme ka ngwa anyị pụta ìhè.",
+      "items": [
+        {
+          "title": "Nhazi nke Mbụ Maka Ekwentị",
+          "description": "E mepụtara ngwa anyị site n'iji usoro nke mbụ maka ekwentị, na-ahụ na ahụmịhe na-enweghị nsogbu na ngwaọrụ ọ bụla."
+        },
+        {
+          "title": "Dashboard nwere nghọta",
+          "description": "Dashboard dị ọcha ma dị n'usoro nke na-enye gị nkọwa zuru ezu n'otu ntabi anya."
+        },
+        {
+          "title": "Ndakọrịta n'etiti Ngwaọrụ",
+          "description": "Nwee ahụmịhe na-agbanwe agbanwe ma dị ike ma ị nọ na desktọpụ, mbadamba, ma ọ bụ ama."
+        }
+      ]
+    },
+    "footer-page": {
+      "left-title": "Soro obodo anyị",
+      "left-button": "Debanye aha",
+      "policy": "Usoro Nzuzo",
+      "terms": "Usoro ọrụ",
+      "copyright": "Nwebiisinka © ",
+      "giftbytes": "GiftBytesProductions"
+    },
+    "latest-page": {
+      "title": "Nke kachasị ọhụrụ",
+      "article": [
+        {
+          "tag": "Ọrụ",
+          "title": "Nkwupụta ọrụ ọhụrụ",
+          "description": "Anyị na-ekwupụta na ọrụ ọhụrụ anyị ga-abụ egwuregwu vidio desktọpụ n'efu nke ga-adị na sistemụ arụmọrụ na nyiwe niile.",
+          "author": "Michael Schenk, Onye Mmepe"
+        },
+        {
+          "tag": "Weebụsaịtị",
+          "title": "Weebụsaịtị ọhụrụ",
+          "description": "Anyị na-ekwupụta na weebụsaịtị anyị mechara dị ndụ ma bụrụ ọha.",
+          "author": "Michael Schenk, Onye Mmepe"
+        },
+        {
+          "tag": "Ọrụ",
+          "title": "TouchSlider dị ndụ",
+          "description": "Anyị na-ekwupụta na egwuregwu vidio mkpanaka anyị TouchSlider dị maka nbudata n'efu na IOS na gam akporo.",
+          "author": "Michael Schenk, Onye Mmepe"
+        },
+        {
+          "tag": "Ụlọ ọrụ",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Onye Mmepe"
+        },
+        {
+          "tag": "Injinia",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Onye Mmepe"
+        },
+        {
+          "tag": "Ngwaahịa",
+          "title": "",
+          "description": "",
+          "author": "Michael Schenk, Onye Mmepe"
+        }
+      ]
+    },
+    "principles-page": {
+      "title": "Ụkpụrụ anyị",
+      "subheader": "Ụkpụrụ ndị a dị n'obi ihe niile anyị na-ewu, site na ahịrị koodu mbụ ruo na ahụmịhe onye ọrụ ikpeazụ.",
+      "items": [
+        {
+          "title": "Dị ebe niile",
+          "description": "Anyị kwenyere na sọftụwia dị mma kwesịrị ịrụ ọrụ maka onye ọ bụla, na ngwaọrụ ọ bụla. A na-eji nlezianya rụọ ọrụ anyị maka ndakọrịta n'ofe nyiwe na nnweta site na mmalite."
+        },
+        {
+          "title": "A nụchara anụcha ma na-arụ ọrụ nke ọma",
+          "description": "Anyị na-enye ahụmịhe zuru oke ma dị elu. Nlebara anya anyị na ihe owuwu dị ọcha na nnwale siri ike na-ahụ na ngwaahịa ọ bụla kwụsiri ike, na-arụ ọrụ nke ọma, ma dị njikere ịnụ ụtọ site n'ụbọchị mbụ."
+        },
+        {
+          "title": "Nhazi nwere nghọta",
+          "description": "Anyị kwenyere na sọftụwia dị ike ekwesịghị ịdị mgbagwoju anya. Mmasị anyị dị n'ịmepụta ihe dị ọcha, nke nwere nghọta nke na-eme ka mmekọrịta ọ bụla bụrụ ihe ziri ezi ma na-atọ ụtọ."
+        },
+        {
+          "title": "Nke ihe ọhụrụ kwadoro",
+          "description": "Anyị na-ewu ihe n'uche ọdịnihu. Site n'iji sọftụwia na teknụzụ ngwaike kachasị ọhụrụ, anyị na-emepụta ngwaahịa na-eche echiche n'ihu nke nwere ike, ọrụ dị elu."
+        },
+        {
+          "title": "Nkwado raara onwe ya nye",
+          "description": "Mmekọrịta anyị anaghị akwụsị na nbudata. Anyị na-enye nkwado enyi na enyi, nke na-anabata ozugbo site n'aka ndị otu anyị iji hụ na ị na-enwe ahụmịhe dị mma na ngwaahịa anyị mgbe niile."
+        },
+        {
+          "title": "Ọrụ aka nlezianya",
+          "description": "Anyị kwenyere na ịdị mma dị na nkọwa. Site na echiche mbụ ruo na ahịrị koodu ikpeazụ, a na-eji nlezianya hazie ma mezuo ihe ọ bụla n'ime ọrụ anyị maka ngwaahịa ikpeazụ na-enweghị ntụpọ."
+        }
+      ]
+    },
+    "testimonials-page": {
+      "title": "Akwụkwọ akaebe",
+      "subheader": "Hụ ihe ndị ahịa anyị, ndị mmepe, na ndị nyocha hụrụ n'anya gbasara ngwaahịa anyị.",
+      "testimonial": [
+        {
+          "name": "Michael Schenk",
+          "occupation": "Onye Mmepe",
+          "testimonial": "Ọ na-amasị m nke ukwuu ka ngwaahịa a si arụ ọrụ dị iche iche! Ma m na-arụ ọrụ ọrụ ma ọ bụ na-etinye aka na ihe omume ntụrụndụ kachasị amasị m, ọ na-adaba n'enweghị nsogbu na mkpa m na-agbanwe agbanwe. Nhazi ya nwere nghọta emelitela usoro m kwa ụbọchị, na-eme ka ọrụ dịkwuo mma ma na-atọ ụtọ."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Onye Mmepe",
+          "testimonial": "Otu n'ime atụmatụ pụtara ìhè nke ngwaahịa a bụ nkwado ndị ahịa pụrụ iche. Na ahụmịhe m, ndị otu nọ n'azụ ngwaahịa a na-aza ngwa ngwa ma na-enyere aka nke ukwuu. Ọ bụ ihe na-emesi obi ike ịmara na ha na-akwado ngwaahịa ha nke ọma."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Onye Mmepe",
+          "testimonial": "Ọkwa dị mfe na enyi na enyi nke ngwaahịa a emewo ka ndụ m dịkwuo mfe. Ana m ekele ndị okike maka inye ihe ngwọta nke na-abụghị naanị na-emezu, kamakwa na-agafe atụmanya onye ọrụ."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Onye Mmepe",
+          "testimonial": "Ana m ekele nlebara anya na nkọwa na imewe nke ngwaahịa a. Mmetụ aka nta na-eme nnukwu mgbanwe, o doro anya na ndị okike lekwasịrị anya n'inye ahụmịhe dị elu."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Onye Mmepe",
+          "testimonial": "Anwalewo m ngwaahịa ndị ọzọ yiri ya, mana nke a pụtara ìhè maka atụmatụ ọhụrụ ya. O doro anya na ndị na-emepụta ihe tinyere ọtụtụ echiche n'ịmepụta ihe ngwọta nke na-egbo mkpa onye ọrụ n'ezie."
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Onye Mmepe",
+          "testimonial": "Ogo ngwaahịa a karịrị atụmanya m. Ọ na-adịgide adịgide, a haziri ya nke ọma, ma wuo ya ka ọ dịgide. O doro anya na ọ bara uru itinye ego na ya."
+        }
+      ]
+    },
+    "mode": {
+      "system": "Usoro",
+      "light": "Ìhè",
+      "dark": "Ọchịchịrị"
+    }
+  }
+}
