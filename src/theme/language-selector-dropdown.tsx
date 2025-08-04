@@ -59,7 +59,7 @@ export default function LanguageSelectorDropdown(props: LanguageSelectorDropdown
 
   return (
     <React.Fragment>
-      {/* Updated IconButton to show the language code and adjust width */}
+      {/* Updated IconButton to show the flag, language code, and adjust width */}
       <IconButton
         data-screenshot="language-selector"
         onClick={handleClick}
@@ -76,7 +76,10 @@ export default function LanguageSelectorDropdown(props: LanguageSelectorDropdown
         }}
         {...iconButtonProps}
       >
-        <Box sx={{ display: 'flex', alignItems: 'center', gap: 1.5}}>
+        <Box sx={{ display: 'flex', alignItems: 'center', gap: 1.25 }}>
+            <Box sx={{ display: 'flex', alignItems: 'center' }}>
+                {selectedLanguage.icon}
+            </Box>
             <Typography variant="subtitle2" fontSize="small" sx={{ textTransform: 'uppercase' }}>
                 {selectedLanguage.code}
             </Typography>

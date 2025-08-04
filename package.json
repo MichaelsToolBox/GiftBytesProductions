@@ -13,10 +13,12 @@
     "@mui/icons-material": "latest",
     "@mui/material": "latest",
     "@mui/utils": "latest",
+    "@types/react-world-flags": "^1.6.0",
     "i18next": "^25.3.2",
     "react": "latest",
     "react-dom": "latest",
     "react-i18next": "^15.6.1",
+    "react-world-flags": "^1.6.0",
     "typescript": "latest"
   },
   "devDependencies": {

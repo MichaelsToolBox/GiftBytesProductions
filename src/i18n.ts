@@ -95,7 +95,6 @@ import uk from './locales/uk.json';
 // import ug from './locales/ug.json'; // Missing Uyghur
 import uz from './locales/uz.json';
 import vi from './locales/vi.json';
-import cy from './locales/cy.json';
 import xh from './locales/xh.json';
 import yi from './locales/yi.json';
 import yo from './locales/yo.json';
@@ -128,7 +127,7 @@ i18n
       // tk, 
       uk, 
       // ur, ug, 
-      uz, vi, cy, xh, yi, yo, zu,
+      uz, vi, xh, yi, yo, zu,
     },
 
     // The default language
