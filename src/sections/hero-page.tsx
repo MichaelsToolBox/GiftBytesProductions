@@ -3,14 +3,16 @@ import Typography from '@mui/material/Typography';
 import Container from '@mui/material/Container';
 import { useTranslation } from 'react-i18next';
 import Stack from '@mui/material/Stack';
+import ReactPlayer from 'react-player';
 import Box from '@mui/material/Box';
+
 
 export default function Hero() {
   // i18n Translation hook
   const { t } = useTranslation();
 
   // Will need replacing with new video
-  const videoId = 'b4Xdktz6EJQ';
+  const videoUrl = 'https://www.youtube.com/watch?v=b4Xdktz6EJQ';
 
   return (
     <Box id="hero" sx={(theme) => ({width: '100%', backgroundRepeat: 'no-repeat', backgroundImage: 'radial-gradient(ellipse 80% 50% at 50% -20%, hsl(210, 100%, 90%), transparent)', ...theme.applyStyles('dark', {backgroundImage:'radial-gradient(ellipse 80% 50% at 50% -20%, hsl(210, 100%, 16%), transparent)'})})}>
@@ -26,17 +28,16 @@ export default function Hero() {
             {t("hero-page.subtitle")}
           </Typography>
         </Stack>
-        {/* Video */}
         <StyledVideoBox id="video-container">
-          <iframe
+          <ReactPlayer
+            src={videoUrl}
             width="100%"
             height="100%"
-            src={`https://www.youtube.com/embed/${videoId}?autoplay=1&mute=0&controls=0&loop=1&playlist=${videoId}`}
-            title="Gift Bytes Productions - YouTube Video"
-            frameBorder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-            allowFullScreen
-            style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%' }}
+            playing={true}
+            muted={false}
+            controls={true}
+            loop={true}
+            style={{ position: 'absolute', top: 0, left: 0 }}
           />
         </StyledVideoBox>
       </Container>
