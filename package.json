@@ -10,7 +10,6 @@
   "dependencies": {
     "@emotion/react": "latest",
     "@emotion/styled": "latest",
-    "@icons-pack/react-simple-icons": "^13.7.0",
     "@mui/icons-material": "latest",
     "@mui/material": "latest",
     "@mui/utils": "latest",
@@ -20,7 +19,6 @@
     "react-dom": "latest",
     "react-i18next": "^15.6.1",
     "react-world-flags": "^1.6.0",
-    "simple-icons": "^15.9.0",
     "typescript": "latest"
   },
   "devDependencies": {
