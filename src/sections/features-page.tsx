@@ -1,28 +1,37 @@
-import EdgesensorHighRoundedIcon from '@mui/icons-material/EdgesensorHighRounded';
-import ViewQuiltRoundedIcon from '@mui/icons-material/ViewQuiltRounded';
-import DevicesRoundedIcon from '@mui/icons-material/DevicesRounded';
-import Typography from '@mui/material/Typography';
-import Container from '@mui/material/Container';
-import { useTranslation } from 'react-i18next';
-import { styled } from '@mui/material/styles';
-import Button from '@mui/material/Button';
-import MuiChip from '@mui/material/Chip';
-import Card from '@mui/material/Card';
-import Box from '@mui/material/Box';
 import * as React from 'react';
+import Box from '@mui/material/Box';
+import Button from '@mui/material/Button';
+import Card from '@mui/material/Card';
+import MuiChip from '@mui/material/Chip';
+import Container from '@mui/material/Container';
+import Typography from '@mui/material/Typography';
+import Fade from '@mui/material/Fade';
+import { useTranslation } from 'react-i18next';
+import { keyframes, styled } from '@mui/material/styles';
 
+// --- ICONS ---
+import PriceCheckRoundedIcon from '@mui/icons-material/PriceCheckRounded';
+import DevicesRoundedIcon from '@mui/icons-material/DevicesRounded';
+import SupportAgentRoundedIcon from '@mui/icons-material/SupportAgentRounded';
+import AutoAwesomeRoundedIcon from '@mui/icons-material/AutoAwesomeRounded';
+import PhoneIphoneRoundedIcon from '@mui/icons-material/PhoneIphoneRounded';
+import TabletMacRoundedIcon from '@mui/icons-material/TabletMacRounded';
+import DesktopWindowsRoundedIcon from '@mui/icons-material/DesktopWindowsRounded';
+import ForumRoundedIcon from '@mui/icons-material/ForumRounded';
+
+// Styled Chip for mobile view
 interface ChipProps {
   selected?: boolean;
 }
-
 const Chip = styled(MuiChip)<ChipProps>(({ theme }) => ({
   variants: [
     {
       props: ({ selected }) => !!selected,
       style: {
-        background:'linear-gradient(to bottom right, hsl(210, 98%, 48%), hsl(210, 98%, 35%))',
+        background: 'linear-gradient(to bottom right, hsl(210, 98%, 48%), hsl(210, 98%, 35%))',
         color: 'hsl(0, 0%, 100%)',
-        borderColor: (theme.vars || theme).palette.primary.light, '& .MuiChip-label': { color: 'hsl(0, 0%, 100%)'},
+        borderColor: (theme.vars || theme).palette.primary.light,
+        '& .MuiChip-label': { color: 'hsl(0, 0%, 100%)' },
         ...theme.applyStyles('dark', {
           borderColor: (theme.vars || theme).palette.primary.dark,
         }),
@@ -31,21 +40,106 @@ const Chip = styled(MuiChip)<ChipProps>(({ theme }) => ({
   ],
 }));
 
+// --- DYNAMIC ANIMATION KEYFRAMES ---
+
+// --- DYNAMIC & INTENSE ANIMATION KEYFRAMES ---
+
+const shake = keyframes`
+  0%, 100% { transform: rotate(0deg); }
+  25% { transform: rotate(5deg); }
+  50% { transform: rotate(-5deg); }
+  75% { transform: rotate(5deg); }
+`;
+
+const intenseGlow = keyframes`
+  0% { box-shadow: 0 0 10px 0px hsla(210, 100%, 50%, 0.5); }
+  50% { box-shadow: 0 0 40px 15px hsla(210, 100%, 50%, 0.8); }
+  100% { box-shadow: 0 0 10px 0px hsla(210, 100%, 50%, 0.5); }
+`;
+
+const orbit = keyframes`
+  0% { transform: translate(0, 0) scale(1); }
+  25% { transform: translate(-200px, -25px) scale(1.1); }
+  50% { transform: translate(0, 160px) scale(0.9); }
+  75% { transform: translate(200px, -100px) scale(1.1); }
+  100% { transform: translate(0, 0) scale(1); }
+`;
+
+const shockwave = keyframes`
+  0% { transform: scale(0.5); opacity: 0.7; }
+  100% { transform: scale(4); opacity: 0; }
+`;
+
+// --- CUSTOM VISUAL COMPONENTS ---
+
+// --- UPDATED & INTENSE VISUAL COMPONENTS ---
+
+const CostVisual = () => (
+  <Box sx={{ display: 'flex', alignItems: 'center', justifyContent: 'center', height: '100%', flexDirection: 'column', p: 3, position: 'relative' }}>
+    <Box
+      sx={{
+        borderRadius: '100%',
+        p: 2,
+        bgcolor: (theme) => `hsla(${theme.palette.primary} / 0.1)`,
+        animation: `${intenseGlow} 2s ease-in-out infinite`,
+      }}
+    >
+      <PriceCheckRoundedIcon color="primary" sx={{ fontSize: '5rem', animation: `${shake} 0.75s linear infinite` }}/>
+    </Box>
+  </Box>
+);
+
+const DevicesVisual = () => (
+  <Box sx={{ position: 'relative', height: '100%', width: '100%', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+    <Box
+      sx={{
+        width: '80px',
+        height: '80px',
+        borderRadius: '50%',
+        display: 'flex',
+        alignItems: 'center',
+        justifyContent: 'center',
+        animation: `${intenseGlow} 2s ease-in-out infinite`,
+      }}
+    >
+      <AutoAwesomeRoundedIcon color="primary" sx={{ fontSize: '3rem', zIndex: 1 }}/>
+    </Box>
+    <DesktopWindowsRoundedIcon sx={{ position: 'absolute', fontSize: '5rem', color: 'text.secondary', opacity: 0.7, animation: `${orbit} 10s linear infinite`, animationDelay: '0s' }} />
+    <TabletMacRoundedIcon sx={{ position: 'absolute', fontSize: '4rem', color: 'text.secondary', opacity: 0.7, animation: `${orbit} 8s linear infinite reverse`, animationDelay: '1s' }} />
+    <PhoneIphoneRoundedIcon sx={{ position: 'absolute', fontSize: '3rem', color: 'text.secondary', opacity: 0.7, animation: `${orbit} 9s linear infinite`, animationDelay: '2s' }} />
+  </Box>
+);
+
+const CommunityVisual = () => (
+  <Box sx={{ position: 'relative', height: '100%', width: '100%', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+    <Box sx={{
+      position: 'absolute',
+      width: '80px',
+      height: '80px',
+      borderRadius: '100%',
+      border: '3px solid',
+      borderColor: 'primary.main',
+      animation: `${shockwave} 2s ease-out infinite`,
+    }} />
+    <SupportAgentRoundedIcon color="primary" sx={{ fontSize: '4rem', zIndex: 1 }} />
+  </Box>
+);
+
+// --- MOBILE LAYOUT ---
 interface MobileLayoutProps {
   selectedItemIndex: number;
   handleItemClick: (index: number) => void;
-  selectedFeature: any;
+  items: Array<{ title: string; description: string; visual: React.ReactNode }>;
 }
 
-export function MobileLayout({selectedItemIndex, handleItemClick, selectedFeature}: MobileLayoutProps) {
-  if (!selectedFeature) {
+export function MobileLayout({ selectedItemIndex, handleItemClick, items }: MobileLayoutProps) {
+  if (!items || items.length === 0) {
     return null;
   }
-
   return (
-    <Box sx={{display: { xs: 'flex', sm: 'none' }, flexDirection: 'column', gap: 2}}>
-      <Box sx={{ display: 'flex', gap: 2, overflow: 'auto' }}>
-        {selectedFeature.map(({ title }: {title: string}, index: number) => (
+    <Box sx={{ display: { xs: 'flex', sm: 'none' }, flexDirection: 'column', gap: 2 }}>
+      <Box sx={{ display: 'flex', gap: 2, overflow: 'auto', pb: 1.5 }}>
+        {items.map(({ title }, index) => (
           <Chip
             size="medium"
             key={index}
@@ -56,35 +150,17 @@ export function MobileLayout({selectedItemIndex, handleItemClick, selectedFeatur
         ))}
       </Box>
       <Card variant="outlined">
-        <Box
-          sx={(theme) => ({
-            mb: 2,
-            backgroundSize: 'cover',
-            backgroundPosition: 'center',
-            minHeight: 280,
-            backgroundImage: 'var(--items-imageLight)',
-            ...theme.applyStyles('dark', {
-              backgroundImage: 'var(--items-imageDark)',
-            }),
-          })}
-          style={
-            selectedFeature[selectedItemIndex]
-              ? ({
-                  '--items-imageLight': selectedFeature[selectedItemIndex].imageLight,
-                  '--items-imageDark': selectedFeature[selectedItemIndex].imageDark,
-                } as any)
-              : {}
-          }
-        />
+        <Box sx={{ minHeight: 280, display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+          <Fade in key={selectedItemIndex}>
+            <Box sx={{ height: 200, width: '100%' }}>{items[selectedItemIndex].visual}</Box>
+          </Fade>
+        </Box>
         <Box sx={{ px: 2, pb: 2 }}>
-          <Typography
-            gutterBottom
-            sx={{ color: 'text.primary', fontWeight: 'medium' }}
-          >
-            {selectedFeature[selectedItemIndex].title}
+          <Typography gutterBottom sx={{ color: 'text.primary', fontWeight: 'medium' }}>
+            {items[selectedItemIndex].title}
           </Typography>
           <Typography variant="body2" sx={{ color: 'text.secondary', mb: 1.5 }}>
-            {selectedFeature[selectedItemIndex].description}
+            {items[selectedItemIndex].description}
           </Typography>
         </Box>
       </Card>
@@ -92,31 +168,29 @@ export function MobileLayout({selectedItemIndex, handleItemClick, selectedFeatur
   );
 }
 
+// --- MAIN FEATURES COMPONENT ---
 export default function Features() {
   const { t } = useTranslation();
   const [selectedItemIndex, setSelectedItemIndex] = React.useState(0);
 
   const items = [
     {
-      icon: <EdgesensorHighRoundedIcon />,
+      icon: <DevicesRoundedIcon />,
       title: t("feature-page.items.0.title"),
       description: t("feature-page.items.0.description"),
-      imageLight: `url("${process.env.TEMPLATE_IMAGE_URL || 'https://mui.com'}/static/images/templates/templates-images/mobile-light.png")`,
-      imageDark: `url("${process.env.TEMPLATE_IMAGE_URL || 'https://mui.com'}/static/images/templates/templates-images/mobile-dark.png")`,
+      visual: <DevicesVisual />,
     },
     {
-      icon: <ViewQuiltRoundedIcon />,
+      icon: <PriceCheckRoundedIcon />,
       title: t("feature-page.items.1.title"),
       description: t("feature-page.items.1.description"),
-      imageLight: `url("${process.env.TEMPLATE_IMAGE_URL || 'https://mui.com'}/static/images/templates/templates-images/dash-light.png")`,
-      imageDark: `url("${process.env.TEMPLATE_IMAGE_URL || 'https://mui.com'}/static/images/templates/templates-images/dash-dark.png")`,
+      visual: <CostVisual />,
     },
     {
-      icon: <DevicesRoundedIcon />,
+      icon: <SupportAgentRoundedIcon />,
       title: t("feature-page.items.2.title"),
       description: t("feature-page.items.2.description"),
-      imageLight: `url("${process.env.TEMPLATE_IMAGE_URL || 'https://mui.com'}/static/images/templates/templates-images/devices-light.png")`,
-      imageDark: `url("${process.env.TEMPLATE_IMAGE_URL || 'https://mui.com'}/static/images/templates/templates-images/devices-dark.png")`,
+      visual: <CommunityVisual />,
     },
   ];
 
@@ -142,22 +216,19 @@ export default function Features() {
           {t("feature-page.subheader")}
         </Typography>
       </Box>
-      <Box
-        sx={{
-          display: 'flex',
-          flexDirection: { xs: 'column', md: 'row-reverse' },
-          gap: 2,
-        }}
-      >
-        <div>
-          <Box
-            sx={{
-              display: { xs: 'none', sm: 'flex' },
-              flexDirection: 'column',
-              gap: 2,
-              height: '100%',
-            }}
-          >
+      <Box sx={{ display: 'flex', flexDirection: { xs: 'column', md: 'row' }, gap: 4 }}>
+        <Card
+          variant="outlined"
+          sx={{
+            display: { xs: 'none', sm: 'flex' }, width: { xs: '100%', md: '70%' }, height: { sm: 420, md: 'auto' }, p: 2}}>
+          <Fade in key={selectedItemIndex} timeout={500}>
+            <Box sx={{ width: '100%', height: '100%' }}>
+              {items[selectedItemIndex].visual}
+            </Box>
+          </Fade>
+        </Card>
+        <Box sx={{ display: 'flex', flexDirection: 'column', gap: 2, flexShrink: 0, width: { xs: '100%', md: '40%'} }}>
+          <Box sx={{ display: { xs: 'none', sm: 'flex' }, flexDirection: 'column', gap: 2, height: '100%' }}>
             {items.map(({ icon, title, description }, index) => (
               <Box
                 key={index}
@@ -165,15 +236,22 @@ export default function Features() {
                 onClick={() => handleItemClick(index)}
                 sx={[
                   (theme) => ({
-                    p: 2,
+                    p: 2.5,
                     height: '100%',
                     width: '100%',
+                    border: '1px solid',
+                    borderColor: 'grey.200',
+                    borderRadius: '12px',
                     '&:hover': {
-                      backgroundColor: (theme.vars || theme).palette.action.hover,
+                      backgroundColor: 'action.hover',
                     },
+                    ...theme.applyStyles('dark', {
+                      borderColor: 'grey.800',
+                    }),
                   }),
                   selectedItemIndex === index && {
                     backgroundColor: 'action.selected',
+                    borderColor: 'primary.main',
                   },
                 ]}
               >
@@ -194,7 +272,7 @@ export default function Features() {
                     },
                   ]}
                 >
-                  {icon}
+                  {React.cloneElement(icon, { sx: { mb: 1 } })}
                   <Typography variant="h6">{title}</Typography>
                   <Typography variant="body2">{description}</Typography>
                 </Box>
@@ -204,46 +282,8 @@ export default function Features() {
           <MobileLayout
             selectedItemIndex={selectedItemIndex}
             handleItemClick={handleItemClick}
-            selectedFeature={items}
+            items={items}
           />
-        </div>
-        <Box
-          sx={{
-            display: { xs: 'none', sm: 'flex' },
-            width: { xs: '100%', md: '70%' },
-            height: 'var(--items-image-height)',
-          }}
-        >
-          <Card
-            variant="outlined"
-            sx={{
-              height: '100%',
-              width: '100%',
-              display: { xs: 'none', sm: 'flex' },
-              pointerEvents: 'none',
-            }}
-          >
-            <Box
-              sx={(theme) => ({
-                m: 'auto',
-                width: 420,
-                height: 500,
-                backgroundSize: 'contain',
-                backgroundImage: 'var(--items-imageLight)',
-                ...theme.applyStyles('dark', {
-                  backgroundImage: 'var(--items-imageDark)',
-                }),
-              })}
-              style={
-                items[selectedItemIndex]
-                  ? ({
-                      '--items-imageLight': items[selectedItemIndex].imageLight,
-                      '--items-imageDark': items[selectedItemIndex].imageDark,
-                    } as any)
-                  : {}
-              }
-            />
-          </Card>
         </Box>
       </Box>
     </Container>

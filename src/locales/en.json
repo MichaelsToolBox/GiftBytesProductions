@@ -57,22 +57,22 @@
       "description3": "You are helping us already by just trying out our projects and recommending it. Otherwise you can subscribe to our youtube channel and engage with the community. For additional support you also donate us directly through PayPal"
     },
     "feature-page": {
-      "title": "Features",
-      "subheader": "Explore the powerful features that make our application stand out.",
-      "items": [
-        {
-          "title": "Mobile-First Design",
-          "description": "Our app is designed with a mobile-first approach, ensuring a seamless experience on any device."
-        },
-        {
-          "title": "Intuitive Dashboard",
-          "description": "A clean and organized dashboard that gives you a complete overview at a glance."
-        },
-        {
-          "title": "Cross-Device Compatibility",
-          "description": "Enjoy a consistent and powerful experience whether you're on a desktop, tablet, or smartphone."
-        }
-      ]
+    "title": "Our Core Principles",
+    "subheader": "We are dedicated to creating high-quality digital experiences that are accessible, versatile, and shaped by our community. Here's what we stand for.",
+    "items": [
+      {
+        "title": "Seamless Across Devices",
+        "description": "Your experience shouldn't be tied to one screen. Our projects are meticulously optimized to run smoothly on any device—from desktops and laptops to tablets and mobile phones, both old and new."
+      },
+      {
+        "title": "Creativity Without Cost",
+        "description": "We believe great software and entertainment should be available to everyone. Most of our projects are completely free, with premium software offered at a minimal, fair price."
+      },
+      {
+        "title": "Community-Powered Support",
+        "description": "We're not just developers; we're part of the community. We thrive on your feedback and provide direct, responsive support to ensure our projects evolve with your needs."
+      }
+    ]
     },
     "footer-page":{
       "left-title": "Join our community",
