@@ -1,39 +1,46 @@
-import { lightModeLogos, darkModeLogos, logoStyle } from '../utils/styles/logo-links';
 import { useColorScheme } from '@mui/material/styles';
-import Typography from '@mui/material/Typography';
-import Grid from '@mui/material/Grid';
 import Box from '@mui/material/Box';
+import { lightModeLogos, darkModeLogos } from '../utils/styles/logo-links';
 
 export default function LogoCollection() {
-  const { mode, systemMode } = useColorScheme();
-  let logos;
-  if (mode === 'system') {
-    if (systemMode === 'light') {
-      logos = lightModeLogos;
-    } else {
-      logos = darkModeLogos;
-    }
-  } else if (mode === 'light') {
-    logos = lightModeLogos;
-  } else {
-    logos = darkModeLogos;
-  }
+  const { mode } = useColorScheme();
+  const logos = mode === 'light' ? lightModeLogos : darkModeLogos;
 
   return (
-    <Box id="logoCollection" sx={{ py: 4 }}>
-      <Typography component="p" variant="subtitle2" align="center" sx={{ color: 'text.secondary' }}>
-      </Typography>
-      <Grid container sx={{ justifyContent: 'center', mt: 0.5, opacity: 0.6 }}>
+    <Box id="logoCollection" sx={{ py: 8 }}>
+      <Box
+        sx={{
+          display: 'flex',
+          flexDirection: { xs: 'column', md: 'row' },
+          alignItems: 'center',
+          justifyContent: 'center',
+          gap: { xs: 4, md: 6 },
+          opacity: 0.6,
+        }}
+      >
         {logos.map((logo, index) => (
-          <Grid key={index}>
+          <Box
+            key={index}
+            sx={{
+              width: '150px',
+              height: '80px',
+              display: 'flex',
+              alignItems: 'center',
+              justifyContent: 'center',
+            }}
+          >
             <img
               src={logo}
-              alt={`Index ${index + 1}`}
-              style={logoStyle}
+              alt={`Logo ${index + 1}`}
+              style={{
+                width: '100%',
+                height: '100%',
+                objectFit: 'contain',
+              }}
             />
-          </Grid>
+          </Box>
         ))}
-      </Grid>
+      </Box>
     </Box>
   );
 }

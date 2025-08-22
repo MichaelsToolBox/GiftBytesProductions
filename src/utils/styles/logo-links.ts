@@ -15,10 +15,3 @@ export const lightModeLogos = [
   'https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg',
   'https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg',
 ];
-
-export const logoStyle = {
-  width: '150px',
-  height: '60px',
-  margin: '0 48px',
-  opacity: 0.7,
-};
