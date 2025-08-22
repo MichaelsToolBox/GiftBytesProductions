@@ -11,6 +11,7 @@ import Latest from './sections/latest-page';
 import AppTheme from './theme/app-theme';
 import Hero from './sections/hero-page';
 import FAQ from './sections/faq-page';
+import Box from '@mui/material/Box';
 
 export default function HomePage(props: { disableCustomTheme?: boolean }) {
   return (
@@ -20,17 +21,17 @@ export default function HomePage(props: { disableCustomTheme?: boolean }) {
       <AppAppBar />
       <Hero />
       <LogoCollection />
-      <Features />
+      <Box id="features"><Features/></Box>
       <Divider />
-      <Principles />
+      <Box id="principles"><Principles/></Box>
       <Divider />
       <Download />
       <Divider />
-      <Latest />
+      <Box id="latest"><Latest/></Box>
       <Divider/>
-      <Testimonials />
+      <Box id="testimonials"><Testimonials/></Box>
       <Divider />
-      <FAQ />
+      <Box id="faq"><FAQ/></Box>
       <Divider />
       <Footer />
     </AppTheme>
