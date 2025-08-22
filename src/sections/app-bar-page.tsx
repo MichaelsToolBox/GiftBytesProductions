@@ -33,11 +33,8 @@ export default function AppAppBar() {
 
   const scrollToSection = (sectionId: string) => {
     const sectionElement = document.getElementById(sectionId);
-    const offset = 128;
     if (sectionElement) {
-      const targetScroll = sectionElement.offsetTop - offset;
       sectionElement.scrollIntoView({ behavior: 'smooth' });
-      window.scrollTo({ top: targetScroll, behavior: 'smooth' });
     }
   };
 
@@ -60,17 +57,16 @@ export default function AppAppBar() {
             <LanguageSelectorDropdown selectedLanguage={currentLanguage} availableLanguages={availableLanguages} onChange={handleLanguageChange} />
             <ColorModeIconDropdown />
           </Box>
-          <Box sx={{ display: { xs: 'flex', md: 'none' }, gap: 1 }}>
-            <IconButton aria-label="Menu button" onClick={toggleDrawer(true)}>
+
+          <Box sx={{ display: { xs: 'flex', md: 'none' }, gap: 1, alignItems: 'center'}}>
+            <LanguageSelectorDropdown selectedLanguage={currentLanguage} availableLanguages={availableLanguages} onChange={handleLanguageChange} />
+            <ColorModeIconDropdown />
+            <IconButton aria-label="Menu button" onClick={toggleDrawer(true)} sx={{ minWidth: 0, p: '4px' }}>
               <MenuIcon />
             </IconButton>
             <Drawer anchor="top" open={open} onClose={toggleDrawer(false)}>
               <Box sx={{ p: 2, backgroundColor: 'background.default' }}>
-                <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-                  <Box sx={{ display: { xs: 'none', md: 'flex' }, gap: 1, alignItems: 'center' }}>
-                      <LanguageSelectorDropdown selectedLanguage={currentLanguage} availableLanguages={availableLanguages} onChange={handleLanguageChange}/>
-                      <ColorModeIconDropdown />
-                   </Box>
+                <Box sx={{ display: 'flex', justifyContent: 'flex-end', alignItems: 'center' }}>
                   <IconButton onClick={toggleDrawer(false)}>
                     <CloseRoundedIcon />
                   </IconButton>
@@ -84,6 +80,7 @@ export default function AppAppBar() {
               </Box>
             </Drawer>
           </Box>
+
         </StyledToolbar>
       </Container>
     </AppBar>
