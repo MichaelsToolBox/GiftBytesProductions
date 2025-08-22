@@ -33,8 +33,16 @@ export default function AppAppBar() {
 
   const scrollToSection = (sectionId: string) => {
     const sectionElement = document.getElementById(sectionId);
+    const offset = 80; // Adjust this value to perfectly match your app bar's height
+
     if (sectionElement) {
-      sectionElement.scrollIntoView({ behavior: 'smooth' });
+      const elementPosition = sectionElement.getBoundingClientRect().top;
+      const offsetPosition = elementPosition + window.scrollY - offset;
+
+      window.scrollTo({
+        top: offsetPosition,
+        behavior: 'smooth'
+      });
     }
   };
 
