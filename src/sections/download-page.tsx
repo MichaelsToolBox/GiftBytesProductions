@@ -29,6 +29,7 @@ export default function Download() {
         buttonText: t("tiers.buttontext1"),
         buttonVariant: 'outlined',
         buttonColor: 'primary',
+        buttonLink: 'https://www.youtube.com/@GiftBytesProductions?sub_confirmation=1',
     },
     {
       title: t("tiers.title2"),
@@ -46,6 +47,8 @@ export default function Download() {
       buttonText2: t("tiers.buttontext22"),
       buttonVariant: 'contained',
       buttonColor: 'secondary',
+      buttonLink: 'https://apps.apple.com/de/app/touchslider/id6745836687',
+      buttonLink2: 'https://play.google.com/store/apps/details?id=com.giftbytesproductions.touchslider&pcampaignid=web_share',
     },
     {
       title: t("tiers.title3"),
@@ -60,6 +63,7 @@ export default function Download() {
       buttonText: t("tiers.buttontext3"),
       buttonVariant: 'outlined',
       buttonColor: 'primary',
+      buttonLink: '#',
     },
   ];
 
@@ -113,11 +117,21 @@ export default function Download() {
               </CardContent>
               {tier.buttonColor && 
                 <CardActions>
-                  <Button fullWidth  variant={tier.buttonVariant as 'outlined' | 'contained'} color={tier.buttonColor as 'primary' | 'secondary'}>
+                  <Button
+                    fullWidth
+                    variant={tier.buttonVariant as 'outlined' | 'contained'}
+                    color={tier.buttonColor as 'primary' | 'secondary'}
+                    onClick={() => { if (tier.buttonLink) window.open(tier.buttonLink, '_blank', 'noopener,noreferrer'); }}
+                  >
                     {tier.buttonText}
                   </Button>
                   {tier.title === t("tiers.title2") &&
-                    <Button fullWidth variant={tier.buttonVariant as 'outlined' | 'contained'} color={tier.buttonColor as 'primary' | 'secondary'}>
+                    <Button
+                      fullWidth
+                      variant={tier.buttonVariant as 'outlined' | 'contained'}
+                      color={tier.buttonColor as 'primary' | 'secondary'}
+                      onClick={() => { if (tier.buttonLink2) window.open(tier.buttonLink2, '_blank', 'noopener,noreferrer'); }}
+                    >
                       {tier.buttonText2}
                     </Button>
                   }

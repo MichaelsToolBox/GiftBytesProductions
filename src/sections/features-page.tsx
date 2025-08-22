@@ -72,20 +72,18 @@ const shockwave = keyframes`
 
 // --- CUSTOM VISUAL COMPONENTS ---
 
-// --- UPDATED & INTENSE VISUAL COMPONENTS ---
-
 const CostVisual = () => (
-  <Box sx={{ display: 'flex', alignItems: 'center', justifyContent: 'center', height: '100%', flexDirection: 'column', p: 3, position: 'relative' }}>
-    <Box
-      sx={{
-        borderRadius: '100%',
-        p: 2,
-        bgcolor: (theme) => `hsla(${theme.palette.primary} / 0.1)`,
-        animation: `${intenseGlow} 2s ease-in-out infinite`,
-      }}
-    >
-      <PriceCheckRoundedIcon color="primary" sx={{ fontSize: '5rem', animation: `${shake} 0.75s linear infinite` }}/>
-    </Box>
+  <Box sx={{ position: 'relative', height: '100%', width: '100%', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+    <Box sx={{
+      position: 'absolute',
+      width: '80px',
+      height: '80px',
+      borderRadius: '100%',
+      border: '3px solid',
+      borderColor: 'primary.main',
+      animation: `${shockwave} 2s ease-out infinite`,
+    }} />
+      <PriceCheckRoundedIcon color="primary" sx={{ fontSize: '5rem', animation: `${shake} 1s linear infinite` }}/>
   </Box>
 );
 
