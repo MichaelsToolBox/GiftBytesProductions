@@ -15,6 +15,8 @@ export default function Footer() {
   // i18n Translation
   const { t } = useTranslation()
 
+  const youtubeLink = 'https://www.youtube.com/@GiftBytesProductions?sub_confirmation=1'
+
   return (
     <Container sx={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: { xs: 4, sm: 8 }, py: { xs: 8, sm: 10 }, textAlign: { sm: 'center', md: 'left' }}}>
       <Box sx={{display: 'flex', flexDirection: { xs: 'column', sm: 'row' }, width: '100%', justifyContent: 'space-between'}}>
@@ -24,7 +26,7 @@ export default function Footer() {
             <Typography variant="body2" gutterBottom sx={{ fontWeight: 600, mt: 2, mb: 4 }}>
               {t("footer-page.left-title")}
             </Typography>
-              <Button variant="contained" color="primary" size="medium">
+              <Button variant="contained" color="primary" size="medium" onClick={() => { window.open( youtubeLink , '_blank', 'noopener,noreferrer'); }}>
                 {t("footer-page.left-button")}
               </Button>
           </Box>
