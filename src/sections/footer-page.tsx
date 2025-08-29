@@ -34,15 +34,6 @@ export default function Footer() {
       </Box>
       <Box sx={{display: 'flex', justifyContent: 'space-between', pt: { xs: 4, sm: 8 }, width: '100%', borderTop: '1px solid', borderColor: 'divider'}}>
         <div>
-          <Link color="text.secondary" variant="body2" href="#">
-            {t("footer-page.policy")}
-          </Link>
-          <Typography sx={{ display: 'inline', mx: 0.5, opacity: 0.5 }}>
-            &nbsp;•&nbsp;
-          </Typography>
-          <Link color="text.secondary" variant="body2" href="#">
-            {t("footer-page.terms")}
-          </Link>
           <Typography variant="body2" sx={{ color: 'text.secondary', mt: 1 }}>
             {t("footer-page.copyright")}
             <Link color="text.secondary" href="https://www.youtube.com/@GiftBytesProductions">

@@ -72,19 +72,7 @@ export default function Latest() {
     title: t("latest-page.article.3.title"),
     description: t("latest-page.article.3.description"),
     authors: [{ name: t("latest-page.article.3.author"), avatar: '/static/images/avatar/1.jpg' }],
-  },
-    {
-    tag: t("latest-page.article.4.tag"),
-    title: t("latest-page.article.4.title"),
-    description: t("latest-page.article.4.description"),
-    authors: [{ name: t("latest-page.article.4.author"), avatar: '/static/images/avatar/1.jpg' }],
-  },
-    {
-    tag: t("latest-page.article.5.tag"),
-    title: t("latest-page.article.5.title"),
-    description: t("latest-page.article.5.description"),
-    authors: [{ name: t("latest-page.article.5.author"), avatar: '/static/images/avatar/1.jpg' }],
-  },
+  }
 ];
 
   return (
