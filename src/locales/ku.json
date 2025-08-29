@@ -1,198 +1,186 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "Proje",
-      "principles": "Prensîp",
+      "projects": "Taybetmendî",
+      "principles": "Prensîb",
       "download": "Daxistin",
-      "latest": "Nûtirîn",
-      "testimonials": "Şahidî",
-      "faq": "Pirsên Pir caran Tên Pirsîn"
+      "latest": "Herî nû",
+      "testimonials": "Şahidîname",
+      "faq": "Pirsên pir caran tên pirsîn"
     },
     "hero-page": {
-      "subtitle": "Em studyoyeke pêşkeftinê ya afirîner a li Almanyayê ne ku teknolojiya herî dawî bi kar tîne da ku lîstikên vîdyoyê, sepan û ezmûnên medyayê yên balkêş û gihîştî ji bo her kesî biafirîne.",
-      "gift": "Gift",
-      "bytes": "Bytes",
-      "productions": "Productions"
+      "subtitle": "Em stûdyoyek pêşkeftina afirîner a Alman in, ku teknolojiya herî dawî bikar tînin da ku lîstikên vîdyoyê, sepanan û ezmûnên medyayê yên balkêş û gihîştî ji bo her kesî biafirînin",
+      "gift": "Diyarî",
+      "bytes": "Bayt",
+      "productions": "Hilberîn"
     },
     "download-page": {
       "title": "Daxistin",
-      "subtitle": "Li vir hûn dikarin projeyên me dakêşin û bibînin"
+      "subtitle": "Li vir hûn dikarin projeyên me daxin û bibînin"
     },
     "tiers": {
-      "title1": "Rojnameyên Pêşkeftinê",
+      "title1": "Dev Logs",
       "price1": "Belaş",
-      "subheader1": "Berdest e",
-      "description10": "Hilberîna vîdyoyê ya bi kalîteya studyoyê",
-      "description11": "Nêrînên kûr li ser kod û sêwirana me",
-      "description12": "Têkiliya rasterast bi pêşdebirên me re",
-      "description13": "Li seranserê cîhanê li ser YouTube-ê berdest e",
-      "buttontext1": "Abonetiya Belaş",
+      "subheader1": "Peyda ye",
+      "description10": "Berhemên vîdyoyê yên bi kalîteya stûdyoyê",
+      "description11": "Lêkolînên kûr li ser kod û sêwirana me",
+      "description12": "Têkiliya rasterast bi pêşdebiran me re",
+      "description13": "Li seranserê cîhanê li ser YouTube-ê gihîştî ye",
+      "buttontext1": "Abonetîya Belaş",
       "title2": "TouchSlider",
       "price2": "Belaş",
       "subheader2": "Pêşniyarkirî",
-      "description20": "Li ser IOS û Android-ê berdest e",
-      "description21": "Lîstina belaş bêyî lêçûnên veşartî",
+      "description20": "Li ser IOS û Android-ê peyda ye'",
+      "description21": "Lîstika belaş bêyî lêçûnên veşartî",
       "description22": "Piştgiriya cîhazên mobîl ên kevn dike",
-      "description23": "Lîstikek hêsan ji bo her dem û rojê",
-      "description24": "Di rojnameyên pêşkeftinê de tê pêşkêş kirin",
+      "description23": "Lîstikek hêsan ji bo her dem û rojek",
+      "description24": "Di dev logs de hate pêşkêş kirin",
       "description25": "Piştgirî",
       "buttontext21": "IOS Daxistin",
       "buttontext22": "Android Daxistin",
-      "title3": "Projeya Pêşerojê",
+      "title3": "Projeya bê",
       "price3": "Belaş",
-      "subheader3": "Di pêşveçûnê de ye",
-      "description30": "Ji bo Windows, MacOS û Linux-ê berdest e",
+      "subheader3": "Di pêşketinê de",
+      "description30": "Ji bo Windows, Macos û Linux-ê peyda ye",
       "description31": "Belavkirin bi rêya Steam û Apple Store",
-      "description32": "Bi zimanên cihêreng berdest e",
+      "description32": "Bi zimanên cihêreng gihîştî ye",
       "description33": "Piştgirî",
-      "buttontext3": "Dê were ragihandin"
+      "buttontext3": "Dê di demek nêzîk de were ragihandin"
     },
     "faq": {
-      "title": "Pirsên Pir caran Tên Pirsîn",
-      "subtitle1": "Ger pirsek an pirsgirêkek min hebe ez çawa dikarim bi piştevaniya xerîdar re têkilî daynim?",
-      "description1": "Hûn dikarin bi e-nameyê bi tîma meya piştevaniya xerîdar re têkilî daynin: ",
-      "subtitle2": "Çi hilbera we ji yên din ên li sûkê cuda dike?",
-      "description2": "Hilbera me bi adaptasyona xwe, domdarî û taybetmendiyên xwe yên nûjen cuda dibe. Em pêşî li razîbûna bikarhêner digirin û bi domdarî hewl didin ku di her warî de ji hêviyan derbas bibin.",
-      "subtitle3": "Ez çawa dikarim piştgiriyê bidim GiftBytesProductions?",
-      "description3": "Hûn jixwe bi tenê ceribandina projeyên me û pêşniyarkirina wan alîkariya me dikin. Wekî din hûn dikarin bibin aboneya kanala meya YouTube-ê û bi civakê re têkilî daynin. Ji bo piştgiriyek zêde hûn dikarin rasterast bi rêya PayPal bexşînê jî bikin."
+      "title": "Pirsên pir caran tên pirsîn",
+      "subtitle1": "Ger pirsek an pirsgirêkek min hebe, ez çawa dikarim bi piştgiriya xerîdar re têkilî daynim?",
+      "description1": "Hûn dikarin bi şandina e-nameyê bi tîmê meya piştgiriya xerîdar re têkilî daynin: ",
+      "subtitle2": "Çi tişt berhema we ji yên din ên li sûkê cuda dike?",
+      "description2": "Berhema me bi guhêrbariya xwe, domdarî û taybetmendiyên nûjen ve xwe cuda dike. Em pêşî li razîbûna bikarhêner digirin û bi domdarî hewl didin ku di her warî de ji hêviyan derbas bikin",
+      "subtitle3": "Ez çawa dikarim piştgiriya GiftBytesProductions bikim?",
+      "description3": "Hûn jixwe bi tenê ceribandina projeyên me û pêşniyarkirina wan alîkariya me dikin. Wekî din, hûn dikarin bibin aboneya kanala me ya YouTube-ê û bi civakê re têkilî daynin. Ji bo piştgirîya zêde, hûn dikarin bi rêya PayPal-ê jî rasterast alîkariya me bikin"
     },
     "feature-page": {
       "title": "Taybetmendî",
-      "subheader": "Taybetmendiyên hêzdar ên ku sepana me cuda dikin vekolînin.",
+      "subheader": "Em ji bo afirandina ezmûnên dîjîtal ên bi kalîteya bilind ku gihîştî, pirreng û ji hêla civata me ve hatine çêkirin ve girêdayî ne. Li vir e ku em çawa nêzîkî projeyên xwe dibin.",
       "items": [
         {
-          "title": "Sêwirana Mobîl-Pêşîn",
-          "description": "Sepana me bi nêzîkatiyek mobîl-pêşîn hatîye sêwirandin, ku li ser her cîhazek ezmûnek bêkêmasî peyda dike."
+          "title": "Bêkêmasî li seranserê cîhazan",
+          "description": "Ezmûna we divê bi yek ekranê ve neyê girêdan. Projeyên me bi baldarî hatine xweşbîn kirin da ku li ser her amûrekê bi rengek bêkêmasî bixebitin - ji sermasê û laptopan bigire heya tablet û têlefonên desta, hem yên kevn û hem jî yên nû."
         },
         {
-          "title": "Dashboarda Intuitîv",
-          "description": "Dashboardek paqij û birêxistinkirî ku bi yek nêrînê vekolînek bêkêmasî dide we."
+          "title": "Afirînerî bêyî lêçûn",
+          "description": "Em bawer dikin ku nermalava û şahînetiya mezin divê ji bo her kesî peyda bibe. Piraniya projeyên me bi tevahî belaş in, digel nermalava premium bi bihayek hindiktirîn û adil tê pêşkêş kirin."
         },
         {
-          "title": "Lihevhatina Nav-Cîhazan",
-          "description": "Li ser sermaseyê, tabletê an jî smartphone-ê bin, ezmûnek domdar û hêzdar bistînin."
+          "title": "Piştgiriya Civakî-Ajotî",
+          "description": "Em ne tenê pêşdebir in; em beşek ji civakê ne. Em bi berteka we geş dibin û piştgirîyek rasterast, bersivdar peyda dikin da ku pê ewle bin ku projeyên me bi hewcedariyên we re pêşve diçin."
         }
       ]
     },
     "footer-page": {
-      "left-title": "Tevlî civata me bibin",
-      "left-button": "Abone bibin",
-      "policy": "Polîtîkaya Nepenîtiyê",
-      "terms": "Mercên Xizmetê",
-      "copyright": "Copyright © ",
+      "left-title": "Tevlî civaka me bibin",
+      "left-button": "Belaş bibin abone",
+      "policy": "Siyaseta nepenîtiyê",
+      "terms": "Mercên xizmetê",
+      "copyright": "Mafê çapkirinê © ",
       "giftbytes": "GiftBytesProductions"
     },
     "latest-page": {
-      "title": "Nûtirîn",
+      "title": "Herî nû",
       "article": [
         {
-          "tag": "Proje",
-          "title": "Ragihandina projeyek nû",
-          "description": "Em radigihînin ku projeya meya nû dê bibe lîstikek vîdyoyê ya sermaseyê ya belaş ku dê li ser hemî pergalên xebitandinê û platforman berdest be.",
+          "tag": "Projeyên",
+          "title": "Daxuyaniya projeya nû",
+          "description": "Em radigihînin ku projeya meya nû dê bibe lîstikek vîdyoyê ya sermasê ya belaş ku dê li ser hemî pergalên xebitandinê û platforman peyda bibe",
+          "author": "Michael Schenk, Pêşdebir"
+        },
+        {
+          "tag": "Projeyên",
+          "title": "TouchSlider zindî ye",
+          "description": "Em radigihînin ku lîstika vîdyoyê ya meya mobîl TouchSlider ji bo IOS û Android-ê ji bo daxistinê belaş peyda dibe",
           "author": "Michael Schenk, Pêşdebir"
         },
         {
           "tag": "Malper",
           "title": "Malpera nû",
-          "description": "Em radigihînin ku malpera me di dawiyê de zindî û giştî ye.",
+          "description": "Em radigihînin ku malpera me di dawiyê de zindî û gelemperî ye",
           "author": "Michael Schenk, Pêşdebir"
         },
         {
-          "tag": "Proje",
-          "title": "TouchSlider zindî ye",
-          "description": "Em radigihînin ku lîstika meya vîdyoyê ya mobîl TouchSlider ji bo daxistina belaş li ser IOS û Android-ê berdest e.",
-          "author": "Michael Schenk, Pêşdebir"
-        },
-        {
-          "tag": "Pargîdanî",
-          "title": "",
-          "description": "",
-          "author": "Michael Schenk, Pêşdebir"
-        },
-        {
-          "tag": "Endezyarî",
-          "title": "",
-          "description": "",
-          "author": "Michael Schenk, Pêşdebir"
-        },
-        {
-          "tag": "Hilber",
-          "title": "",
-          "description": "",
+          "tag": "Malper",
+          "title": "Domen nû",
+          "description": "Em radigihînin ku domena me qeydkirî ye",
           "author": "Michael Schenk, Pêşdebir"
         }
       ]
     },
     "principles-page": {
-      "title": "Prensîpên me",
-      "subheader": "Ev nirx di dilê her tiştê ku em ava dikin de ne, ji rêza yekem a kodê heya ezmûna bikarhêner a dawî.",
+      "title": "Prensîbên me",
+      "subheader": "Van nirxan di dilê her tiştê ku em ava dikin de ne, ji rêza yekem a kodê bigire heya ezmûna bikarhêner a dawîn",
       "items": [
         {
-          "title": "Li Her Derê Gihîştî",
-          "description": "Em bawer dikin ku nermalava mezin divê ji bo her kesî, li ser her cîhazek bixebite. Projeyên me bi hûrgulî ji bo lihevhatina nav-platformê û gihîştinê ji serî ve hatine sêwirandin."
+          "title": "Her derê gihîştî ye",
+          "description": "Em bawer dikin ku nermalava mezin divê ji bo her kesî, li ser her amûrekê bixebite. Projeyên me ji destpêkê ve bi baldarî ji bo lihevhatina di navbera platforman û gihîştinê de hatine sêwirandin"
         },
         {
-          "title": "Paqij & Performans",
-          "description": "Em ezmûnên bêkêmasî û pir xweşbînkirî pêşkêş dikin. Bala meya li ser mîmariya paqij û ceribandina hişk piştrast dike ku her hilber stabîl, performans û amade ye ku ji roja yekem ve were kêf kirin."
+          "title": "Paqijkirî & Performansdar",
+          "description": "Em ezmûnên bêkêmasî û pir xweşbînkirî peyda dikin. Bala me ya li ser mîmariya paqij û ceribandina hişk piştrast dike ku her hilberek domdar, performansdar, û amade ye ku ji roja yekem de jê kêfê were girtin"
         },
         {
-          "title": "Sêwirana Intuitîv",
-          "description": "Em bawer dikin ku nermalava hêzdar ne hewce ye ku tevlihev be. Hevîna me di çêkirina navrûyên paqij, intuitîv de ye ku her têkiliyek rasterast û xweş dike."
+          "title": "Sêwirana Bînbar",
+          "description": "Em bawer dikin ku nermalava bi hêz ne hewce ye ku tevlihev be. Hesreta me di çêkirina navrûyên paqij, bînbar de ye ku her danûstendinê rasterast û xweş dike"
         },
         {
-          "title": "Bi Nûjeniyê Hêzdar kirin",
-          "description": "Em bi hişê pêşerojê ava dikin. Bi karanîna teknolojiya nermalav û hardware ya herî dawî, em hilberên pêşerojê yên bi fonksiyonalîteya hêzdar û pêşkeftî diafirînin."
+          "title": "Ji hêla Nûjeniyê ve hatî ajotin",
+          "description": "Em bi ronîkirina pêşerojê ava dikin. Bi karanîna teknolojiya nermalava û hardware ya herî dawî, em hilberên pêşerojê bi fonksiyoneliya bihêz û pêşkeftî diafirînin"
         },
         {
-          "title": "Piştgiriya Taybet",
-          "description": "Têkiliya me bi daxistinê bi dawî nabe. Em rasterast ji tîma xwe piştgiriyek dostane û bersivdar peyda dikin da ku hûn her dem bi hilberên me re ezmûnek mezin hebe."
+          "title": "Piştgiriya Taybetî",
+          "description": "Peywendiya me bi daxistinê re naqede. Em piştgirîyek dostane, bersivdar rasterast ji tîmê me pêşkêş dikin da ku hûn bi hilberên me re her gav ezmûnek mezin hebin"
         },
-        {
-          "title": "Karsaziya Hûrgulî",
-          "description": "Em bawer dikin ku serfirazî di hûrguliyan de ye. Ji konsepta yekem heya rêza kodê ya dawî, her hêmanek xebata me bi baldarî tê plansaz kirin û bi hûrgulî tê darve kirin ji bo hilberek dawî ya bêkêmasî."
+          {
+          "title": "Hostatîya Mîtolojîkî",
+          "description": "Em bawer dikin ku hêjahî di hûrguliyan de ye. Ji konsepta yekem heya rêza dawî ya kodê, her hêmanek ji karê me bi baldarî hatî plansaz kirin û bi rengek rast ji bo hilberek dawîn a bêkêmasî hatî çêkirin"
         }
       ]
     },
     "testimonials-page": {
-      "title": "Şahidî",
-      "subheader": "Bibînin ka xerîdar, pêşdebir û ceribandinên me ji hilberên me çi hez dikin.",
+      "title": "Şahidîname",
+      "subheader": "Binihêrin ku xerîdar, pêşdebiran û ceribandvanên me di derheqê hilberên me de çi hez dikin",
       "testimonial": [
         {
-          "name": "Michael Schenk",
-          "occupation": "Pêşdebir",
-          "testimonial": "Ez bi tevahî hez dikim ku ev hilber çiqas pirreng e! Çi ez bi projeyên kar re mijûl bibim an jî bi hobiyên xwe yên bijare re mijûl bibim, ew bi rengekî bêkêmasî li gorî hewcedariyên min ên guherbar diguncîne. Sêwirana wê ya intuitîv bi rastî rûtîna min a rojane baştir kiriye, karan bikêrtir û xweştir kiriye."
+          "name": "Nil Akash",
+          "occupation": "Xerîdar",
+          "testimonial": "Lîstikek xweş, her kes dikare jê kêfê bike û bilîze!"
+        },
+        {
+          "name": "Joy Roy",
+          "occupation": "Testvan (nenas)",
+          "testimonial": "Ev lîstik dema rêwîtiyê an di dema vala de ji bo lîstikê bêkêmasî ye"
+        },
+        {
+          "name": "Anita Roy",
+          "occupation": "Xerîdar (ceribandina navxweyî)",
+          "testimonial": "Kêfxweş û bi lez! Mekanîzma 'tap-to-turn' zîrek e. Ez hez dikim ku hewl bidim ku pûana xwe ya herî bilind a berê bişkînim"
         },
         {
           "name": "Michael Schenk",
           "occupation": "Pêşdebir",
-          "testimonial": "Yek ji taybetmendiyên berbiçav ên vê hilberê piştevaniya xerîdar a awarte ye. Di ezmûna min de, tîma li pişt vê hilberê zû bersiv da û pir alîkar bû. Dilxweş e ku meriv bizanibe ku ew bi xurtî li pişt hilbera xwe disekinin."
+          "testimonial": "Ez bi tevahî hez dikim ku ev hilber çiqasî pirreng e! Çi ez bi projeyên kar re mijûl dibim an jî hobiyên xwe yên bijare dikim, ew bêkêmasî li gorî hewcedariyên min ên guhêrbar diguhezîne. Sêwirana wê ya bînbar bi rastî rûtîna min a rojane baştir kiriye, karên bi bandortir û xweştir kirine"
         },
         {
           "name": "Michael Schenk",
           "occupation": "Pêşdebir",
-          "testimonial": "Asta sadebûn û bikarhêner-hevaltiya di vê hilberê de jiyana min bi awayekî berbiçav hêsan kiriye. Ez ji afirîneran re spas dikim ku çareseriyek peyda kirine ku ne tenê hêviyên bikarhêneran pêk tîne, lê ji wan derbas dibe."
+          "testimonial": "Yek ji taybetmendiyên berbiçav ên vê hilberê piştgiriya xerîdar a awarte ye. Di ezmûna min de, tîmê li pişt vê hilberê zû bersiv da û bi awayekî bêbawer alîkar bû. Rehet e ku meriv zanibe ku ew bi hişkî li pişt hilberê xwe disekinin"
         },
         {
           "name": "Michael Schenk",
           "occupation": "Pêşdebir",
-          "testimonial": "Ez bala li ser hûrguliyên di sêwirana vê hilberê de teqdîr dikim. Destdanên piçûk cûdahiyek mezin çêdikin, û diyar e ku afirîneran li ser pêşkêşkirina ezmûnek premium sekinîne."
-        },
-        {
-          "name": "Michael Schenk",
-          "occupation": "Pêşdebir",
-          "testimonial": "Min hilberên din ên wekhev ceribandiye, lê ev yek bi taybetmendiyên xwe yên nûjen cuda dibe. Diyar e ku çêkeran gelek fikirîn ku çareseriyek biafirînin ku bi rastî hewcedariyên bikarhêneran çareser dike."
-        },
-        {
-          "name": "Michael Schenk",
-          "occupation": "Pêşdebir",
-          "testimonial": "Qalîteya vê hilberê ji hêviyên min derbas bû. Ew domdar e, baş hatîye sêwirandin û ji bo domandinê hatîye çêkirin. Bê guman hêjayî veberhênanê ye."
+          "testimonial": "Asta hêsanî û bikarhêner-hevaltiya di vê hilberê de bi girîngî jiyana min hêsan kiriye. Ez ji afirîneran re spasdar im ku çareseriyek peyda kirine ku ne tenê li bendewariyên bikarhêneran dixe, lê ji wan derbas dibe"
         }
       ]
     },
     "mode": {
-      "system": "Sîstem",
+      "system": "Pergal",
       "light": "Ronahî",
-      "dark": "Tari"
+      "dark": "Tarî"
     }
   }
 }

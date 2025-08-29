@@ -1,198 +1,186 @@
 {
- "translation": {
-  "app-bar": {
-   "projects": "Miradi",
-   "principles": "Kanuni",
-   "download": "Pakua",
-   "latest": "Mpya",
-   "testimonials": "Shuhuda",
-   "faq": "Maswali Yanayoulizwa Mara kwa Mara"
-  },
-  "hero-page": {
-   "subtitle": "Sisi ni studio ya uundaji wa ubunifu yenye makao yake nchini Ujerumani inayotumia teknolojia ya kisasa kutengeneza michezo ya video, programu, na matumizi ya media ya kuvutia na yanayopatikana kwa urahisi kwa kila mtu",
-   "gift": "Zawadi",
-   "bytes": "Baiti",
-   "productions": "Matayarisho"
-  },
-  "download-page": {
-   "title": "Pakua",
-   "subtitle": "Hapa unaweza kupakua na kutazama miradi yetu"
-  },
-  "tiers": {
-   "title1": "Dev Logs",
-   "price1": "Bure",
-   "subheader1": "Inapatikana",
-   "description10": "Uzalishaji wa video wenye ubora wa studio",
-   "description11": "Mihimili mikubwa katika msimbo na muundo wetu",
-   "description12": "Mawasiliano ya moja kwa moja na waandaaji wetu",
-   "description13": "Inapatikana duniani kote kwenye YouTube",
-   "buttontext1": "Jisajili Bure",
-   "title2": "TouchSlider",
-   "price2": "Bure",
-   "subheader2": "Inapendekezwa",
-   "description20": "Inapatikana kwenye IOS na Android",
-   "description21": "Bure kucheza bila gharama zilizofichwa",
-   "description22": "Inasaidia vifaa vya zamani vya simu",
-   "description23": "Mchezo rahisi kwa wakati na siku yoyote",
-   "description24": "Iliyotolewa kwenye dev logs",
-   "description25": "Msaada",
-   "buttontext21": "Pakua IOS",
-   "buttontext22": "Pakua Android",
-   "title3": "Mradi Ujao",
-   "price3": "Bure",
-   "subheader3": "Inaendelea",
-   "description30": "Inapatikana kwa Windows, Macos na Linux",
-   "description31": "Usambazaji kupitia Steam na Apple Store",
-   "description32": "Inapatikana katika lugha mbalimbali",
-   "description33": "Msaada",
-   "buttontext3": "Itatangazwa"
-  },
-  "faq": {
-   "title": "Maswali yanayoulizwa mara kwa mara",
-   "subtitle1": "Ninawezaje kuwasiliana na timu ya msaada kwa wateja ikiwa nina swali au tatizo?",
-   "description1": "Unaweza kufikia timu yetu ya msaada kwa wateja kwa kutuma barua pepe kwa:",
-   "subtitle2": "Ni nini kinachofanya bidhaa yenu kuwa bora kuliko zingine sokoni?",
-   "description2": "Bidhaa yetu inatofautishwa na uwezo wake wa kubadilika, uimara, na sifa za kiubunifu. Tunaweka kipaumbele kuridhika kwa mtumiaji na tunaendelea kujitahidi kuzidi matarajio katika kila nyanja",
-   "subtitle3": "Ninawezaje kuunga mkono GiftBytesProductions?",
-   "description3": "Tayari unatusaidia kwa kujaribu tu miradi yetu na kuipendekeza. Vinginevyo, unaweza kujiunga na kituo chetu cha YouTube na kushiriki na jumuiya. Kwa msaada wa ziada, unaweza pia kutuchangia moja kwa moja kupitia PayPal"
-  },
-  "feature-page": {
-   "title": "Sifa",
-   "subheader": "Gundua sifa zenye nguvu zinazofanya programu yetu kuwa bora.",
-   "items": [
-    {
-     "title": "Muundo wa Kwanza kwa Simu",
-     "description": "Programu yetu imeundwa kwa mtazamo wa kwanza kwa simu, ikihakikisha uzoefu usio na mshono kwenye kifaa chochote."
+  "translation": {
+    "app-bar": {
+      "projects": "Miradi",
+      "principles": "Misingi",
+      "download": "Pakua",
+      "latest": "Mpya Zaidi",
+      "testimonials": "Shuhuda",
+      "faq": "Maswali Yanayoulizwa Mara kwa Mara"
     },
-    {
-     "title": "Dashibodi ya Intuitive",
-     "description": "Dashibodi safi na iliyopangwa inayokupa muhtasari kamili kwa haraka."
+    "hero-page": {
+      "subtitle": "Sisi ni studio ya ubunifu ya uundaji yenye makao yake nchini Ujerumani, inayotumia teknolojia ya kisasa kuunda michezo ya video, programu, na uzoefu wa media unaovutia na unaopatikana kwa urahisi kwa kila mtu",
+      "gift": "Gift",
+      "bytes": "Bytes",
+      "productions": "Productions"
     },
-    {
-     "title": "Utangamano wa Vifaa Mbalimbali",
-     "description": "Furahia uzoefu thabiti na wenye nguvu iwe uko kwenye kompyuta ya mezani, kompyuta kibao, au simu janja."
+    "download-page": {
+      "title": "Pakua",
+      "subtitle": "Hapa unaweza kupakua na kutazama miradi yetu"
+    },
+    "tiers": {
+      "title1": "Dev Logs",
+      "price1": "Bure",
+      "subheader1": "Inapatikana",
+      "description10": "Uzalishaji wa video wa ubora wa studio",
+      "description11": "Uchambuzi wa kina wa msimbo na muundo wetu",
+      "description12": "Mawasiliano ya moja kwa moja na waandaaji wetu",
+      "description13": "Inapatikana kote ulimwenguni kwenye YouTube",
+      "buttontext1": "Jisajili Bure",
+      "title2": "TouchSlider",
+      "price2": "Bure",
+      "subheader2": "Inapendekezwa",
+      "description20": "Inapatikana kwenye IOS na Android",
+      "description21": "Huru kucheza bila gharama zilizofichwa",
+      "description22": "Inaunga mkono vifaa vya zamani vya rununu",
+      "description23": "Mchezo rahisi kwa wakati wowote na siku yoyote",
+      "description24": "Imewasilishwa kwenye dev logs",
+      "description25": "Msaada",
+      "buttontext21": "Pakua IOS",
+      "buttontext22": "Pakua Android",
+      "title3": "Mradi unaokuja",
+      "price3": "Bure",
+      "subheader3": "Inaendelea",
+      "description30": "Inapatikana kwa Windows, MacOS na Linux",
+      "description31": "Usambazaji kupitia Steam na Apple Store",
+      "description32": "Inapatikana katika lugha mbalimbali",
+      "description33": "Msaada",
+      "buttontext3": "Itatangazwa"
+    },
+    "faq": {
+      "title": "Maswali Yanayoulizwa Mara kwa Mara",
+      "subtitle1": "Ninawezaje kuwasiliana na huduma kwa wateja ikiwa nina swali au tatizo?",
+      "description1": "Unaweza kufikia timu yetu ya huduma kwa wateja kwa kutuma barua pepe kwa: ",
+      "subtitle2": "Ni nini kinachofanya bidhaa yenu iwe tofauti na zingine kwenye soko?",
+      "description2": "Bidhaa yetu inajulikana kwa uwezo wake wa kubadilika, uimara, na vipengele vyake vya ubunifu. Tunatanguliza kuridhika kwa mtumiaji na daima tunajitahidi kuzidi matarajio katika kila nyanja",
+      "subtitle3": "Ninawezaje kuunga mkono GiftBytesProductions?",
+      "description3": "Tayari unatusaidia kwa kujaribu tu miradi yetu na kuipendekeza. Vinginevyo unaweza kujiandikisha kwenye chaneli yetu ya YouTube na kushirikiana na jamii. Kwa msaada wa ziada unaweza pia kutuchangia moja kwa moja kupitia PayPal"
+    },
+    "feature-page": {
+      "title": "Vipengele",
+      "subheader": "Tumejitolea kuunda uzoefu wa kidijitali wa hali ya juu ambao unapatikana kwa urahisi, ni hodari, na umeundwa na jamii yetu. Hivi ndivyo tunavyofikia miradi yetu.",
+      "items": [
+        {
+          "title": "Hufanya Kazi kwa Urahisi kwenye Vifaa Zote",
+          "description": "Uzoefu wako haupaswi kufungwa kwenye skrini moja. Miradi yetu imeundwa kwa uangalifu ili iweze kufanya kazi vizuri kwenye kifaa chochote—kutoka kwa kompyuta za mezani na za mkononi hadi kwenye kompyuta za mkononi na simu za mkononi, za zamani na mpya."
+        },
+        {
+          "title": "Ubunifu Bila Gharama",
+          "description": "Tunaamini kwamba programu na burudani nzuri zinapaswa kupatikana kwa kila mtu. Miradi yetu mingi ni bure kabisa, huku programu ya kulipia inatolewa kwa bei ya chini, na ya haki."
+        },
+        {
+          "title": "Msaada Unaotokana na Jamii",
+          "description": "Sisi sio tu waandaaji; sisi ni sehemu ya jamii. Tunastawi kutokana na maoni yako na tunatoa msaada wa moja kwa moja, unaojibu haraka ili kuhakikisha kwamba miradi yetu inakua kulingana na mahitaji yako."
+        }
+      ]
+    },
+    "footer-page": {
+      "left-title": "Jiunge na jamii yetu",
+      "left-button": "Jisajili bure",
+      "policy": "Sera ya Faragha",
+      "terms": "Sheria na Masharti ya Huduma",
+      "copyright": "Haki miliki ©",
+      "giftbytes": "GiftBytesProductions"
+    },
+    "latest-page": {
+      "title": "Mpya Zaidi",
+      "article": [
+        {
+          "tag": "Miradi",
+          "title": "Tangazo la Mradi Mpya",
+          "description": "Tunatangaza kwamba mradi wetu mpya utakuwa mchezo wa video wa kompyuta ya mezani huru kucheza ambao utapatikana kwenye mifumo yote ya uendeshaji na majukwaa",
+          "author": "Michael Schenk, Muundaji"
+        },
+        {
+          "tag": "Miradi",
+          "title": "TouchSlider imetangazwa",
+          "description": "Tunatangaza kwamba mchezo wetu wa video wa rununu TouchSlider unapatikana kwa kupakuliwa bure kwa iOS na Android",
+          "author": "Michael Schenk, Muundaji"
+        },
+        {
+          "tag": "Tovuti",
+          "title": "Tovuti Mpya",
+          "description": "Tunatangaza kwamba tovuti yetu hatimaye imetangazwa na ni ya umma",
+          "author": "Michael Schenk, Muundaji"
+        },
+        {
+          "tag": "Tovuti",
+          "title": "Kikoa Kipya",
+          "description": "Tunatangaza kwamba kikoa chetu kimesajiliwa",
+          "author": "Michael Schenk, Muundaji"
+        }
+      ]
+    },
+    "principles-page": {
+      "title": "Misingi Yetu",
+      "subheader": "Thamani hizi ziko moyoni mwa kila kitu tunachojenga, kutoka mstari wa kwanza wa msimbo hadi uzoefu wa mwisho wa mtumiaji",
+      "items": [
+        {
+          "title": "Inapatikana Kila Mahali",
+          "description": "Tunaamini kwamba programu nzuri inapaswa kufanya kazi kwa kila mtu, kwenye kifaa chochote. Miradi yetu imeundwa kwa uangalifu kwa ajili ya utangamano wa jukwaa-tofauti na upatikanaji tangu mwanzo"
+        },
+        {
+          "title": "Imeboreshwa & Hutekeleza Vizuri",
+          "description": "Tunatoa uzoefu kamili na ulioboreshwa sana. Kuzingatia kwetu usanifu safi na upimaji wa kina kunahakikisha kuwa kila bidhaa ni thabiti, inatekeleza vizuri, na iko tayari kufurahiwa tangu siku ya kwanza"
+        },
+        {
+          "title": "Muundo wa Intuitive",
+          "description": "Tunaamini kwamba programu yenye nguvu haina haja ya kuwa ngumu. Shauku yetu iko katika kuunda miingiliano safi, ya intuition ambayo hufanya kila mwingiliano kuwa rahisi na ya kufurahisha"
+        },
+        {
+          "title": "Inaendeshwa na Ubunifu",
+          "description": "Tunajenga tukifikiria siku zijazo. Kwa kutumia teknolojia ya kisasa ya programu na vifaa, tunaunda bidhaa zenye mwelekeo wa mbele na utendaji wenye nguvu, wa kisasa"
+        },
+        {
+          "title": "Msaada Maalum",
+          "description": "Uhusiano wetu hauishii kwenye upakuaji. Tunatoa msaada wa kirafiki, unaojibu haraka moja kwa moja kutoka kwa timu yetu ili kuhakikisha kuwa daima una uzoefu mzuri na bidhaa zetu"
+        },
+        {
+          "title": "Ufundi wa Kina",
+          "description": "Tunaamini kwamba ubora uko kwenye maelezo. Kutoka wazo la kwanza hadi mstari wa mwisho wa msimbo, kila kipengele cha kazi yetu kimepangwa kwa uangalifu na kutekelezwa kwa usahihi kwa bidhaa ya mwisho isiyo na kasoro"
+        }
+      ]
+    },
+    "testimonials-page": {
+      "title": "Shuhuda",
+      "subheader": "Tazama kile wateja wetu, waandaaji, na wapimaji wanachokipenda kuhusu bidhaa zetu",
+      "testimonial": [
+        {
+          "name": "Nil Akash",
+          "occupation": "Mteja",
+          "testimonial": "Mchezo mzuri, kila mtu anaweza kuufurahia na kuucheza!"
+        },
+        {
+          "name": "Joy Roy",
+          "occupation": "Mtekelezaji (asiyejulikana)",
+          "testimonial": "Mchezo huu ni mzuri kabisa kucheza wakati wa kusafiri au wakati wa burudani"
+        },
+        {
+          "name": "Anita Roy",
+          "occupation": "Mteja (upimaji wa ndani)",
+          "testimonial": "Inafurahisha na ya haraka! Utaratibu wa kugonga ili kugeuka ni kipaji. Napenda kujaribu kushinda alama yangu ya juu ya awali"
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Muundaji",
+          "testimonial": "Nampenda kabisa bidhaa hii jinsi ilivyo hodari! Iwe ninashughulika na miradi ya kazi au ninajishughulisha na burudani zangu, inabadilika kwa urahisi kulingana na mahitaji yangu yanayobadilika. Muundo wake wa Intuitive umeboresha kweli utaratibu wangu wa kila siku, na kufanya kazi ziwe na ufanisi zaidi na za kufurahisha"
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Muundaji",
+          "testimonial": "Mojawapo ya vipengele vya kipekee vya bidhaa hii ni msaada wake wa kipekee kwa wateja. Kwa uzoefu wangu, timu iliyo nyuma ya bidhaa hii imekuwa ya haraka kujibu na kusaidia sana. Ni jambo la kutia moyo kujua kwamba wanasimama imara nyuma ya bidhaa yao"
+        },
+        {
+          "name": "Michael Schenk",
+          "occupation": "Muundaji",
+          "testimonial": "Kiwango cha urahisi na urahisi wa matumizi katika bidhaa hii kumerahisisha maisha yangu kwa kiasi kikubwa. Ninawapongeza waumbaji kwa kutoa suluhisho ambalo si tu linakidhi bali linazidi matarajio ya mtumiaji"
+        }
+      ]
+    },
+    "mode": {
+      "system": "Mfumo",
+      "light": "Mwanga",
+      "dark": "Giza"
     }
-   ]
-  },
-  "footer-page": {
-   "left-title": "Jiunge na jamii yetu",
-   "left-button": "Jisajili",
-   "policy": "Sera ya Faragha",
-   "terms": "Masharti ya Huduma",
-   "copyright": "Hakimiliki ©",
-   "giftbytes": "GiftBytesProductions"
-  },
-  "latest-page": {
-   "title": "Mpya",
-   "article": [
-    {
-     "tag": "Miradi",
-     "title": "Tangazo la Mradi Mpya",
-     "description": "Tunatangaza kuwa mradi wetu mpya utakuwa mchezo wa video wa mezani wa kucheza bure utakaopatikana kwenye mifumo yote ya uendeshaji na majukwaa",
-     "author": "Michael Schenk, Msanidi"
-    },
-    {
-     "tag": "Tovuti",
-     "title": "Tovuti Mpya",
-     "description": "Tunatangaza kuwa tovuti yetu hatimaye imekuwa hewani na wazi kwa umma",
-     "author": "Michael Schenk, Msanidi"
-    },
-    {
-     "tag": "Miradi",
-     "title": "TouchSlider Iko Hewani",
-     "description": "Tunatangaza kuwa mchezo wetu wa video wa simu TouchSlider unapatikana kwa IOS na Android kwa kupakua bure",
-     "author": "Michael Schenk, Msanidi"
-    },
-    {
-     "tag": "Kampuni",
-     "title": "",
-     "description": "",
-     "author": "Michael Schenk, Msanidi"
-    },
-    {
-     "tag": "Uhandisi",
-     "title": "",
-     "description": "",
-     "author": "Michael Schenk, Msanidi"
-    },
-    {
-     "tag": "Bidhaa",
-     "title": "",
-     "description": "",
-     "author": "Michael Schenk, Msanidi"
-    }
-   ]
-  },
-  "principles-page": {
-   "title": "Kanuni Zetu",
-   "subheader": "Thamani hizi ndio msingi wa kila kitu tunachojenga, kutoka mstari wa kwanza wa msimbo hadi uzoefu wa mwisho wa mtumiaji",
-   "items": [
-    {
-     "title": "Inapatikana Kila Mahali",
-     "description": "Tunaamini programu bora inapaswa kufanya kazi kwa kila mtu, kwenye kifaa chochote. Miradi yetu imeundwa kwa uangalifu kwa ajili ya utangamano wa majukwaa mbalimbali na upatikanaji rahisi tangu mwanzo"
-    },
-    {
-     "title": "Imekamilika & Yenye Utendaji Bora",
-     "description": "Tunatoa uzoefu kamili na uliotengenezwa vyema. Lengo letu katika usanifu safi na majaribio ya kina yanahakikisha kila bidhaa ni thabiti, inafanya kazi vizuri, na iko tayari kufurahishwa tangu siku ya kwanza"
-    },
-    {
-     "title": "Muundo wa Intuitive",
-     "description": "Tunaamini programu yenye nguvu haipaswi kuwa ngumu. Shauku yetu ni katika kuunda miingiliano safi, inayoeleweka kwa urahisi ambayo inafanya kila mwingiliano kuwa rahisi na wa kufurahisha"
-    },
-    {
-     "title": "Inayoendeshwa na Ubunifu",
-     "description": "Tunajenga kwa kuzingatia siku zijazo. Kwa kutumia teknolojia ya kisasa zaidi ya programu na maunzi, tunaunda bidhaa zenye mawazo ya mbele na utendaji wa kisasa wenye nguvu"
-    },
-    {
-     "title": "Msaada Maalum",
-     "description": "Uhusiano wetu hauishii kwenye kupakua. Tunatoa msaada rafiki na wa haraka moja kwa moja kutoka kwa timu yetu ili kuhakikisha unapata uzoefu mzuri na bidhaa zetu, kila wakati"
-    },
-    {
-     "title": "Ufundi wa Makini",
-     "description": "Tunaamini ubora uko katika maelezo madogo. Kuanzia dhana ya kwanza hadi mstari wa mwisho wa msimbo, kila kipengele cha kazi yetu kimepangwa kwa makini na kutekelezwa kwa usahihi kwa ajili ya bidhaa ya mwisho isiyo na kasoro"
-    }
-   ]
-  },
-  "testimonials-page": {
-   "title": "Shuhuda",
-   "subheader": "Tazama kile wateja wetu, waandaaji na wajaribu wanapenda kuhusu bidhaa zetu",
-   "testimonial": [
-    {
-     "name": "Michael Schenk",
-     "occupation": "Msanidi",
-     "testimonial": "Ninapenda kabisa jinsi bidhaa hii ilivyo hodari! Iwe ninashughulikia miradi ya kazi au kufurahia mambo ninayopenda, inajirekebisha kwa mahitaji yangu yanayobadilika. Muundo wake wa intuitive umeongeza thamani kwenye utaratibu wangu wa kila siku, na kufanya kazi kuwa rahisi na za kufurahisha zaidi"
-    },
-    {
-     "name": "Michael Schenk",
-     "occupation": "Msanidi",
-     "testimonial": "Moja ya sifa kuu za bidhaa hii ni msaada wake wa kipekee kwa wateja. Kwa uzoefu wangu, timu iliyo nyuma ya bidhaa hii imekuwa haraka kujibu na kusaidia sana. Inatia moyo kujua kwamba wanasimama imara nyuma ya bidhaa yao"
-    },
-    {
-     "name": "Michael Schenk",
-     "occupation": "Msanidi",
-     "testimonial": "Kiwango cha urahisi na urafiki kwa mtumiaji katika bidhaa hii kumerahisisha sana maisha yangu. Ninawashukuru waumbaji kwa kutoa suluhisho ambalo si tu linakidhi bali pia linazidi matarajio ya mtumiaji"
-    },
-    {
-     "name": "Michael Schenk",
-     "occupation": "Msanidi",
-     "testimonial": "Ninafurahia umakini wa undani katika muundo wa bidhaa hii. Vitu vidogo hufanya tofauti kubwa, na ni wazi kwamba waumbaji walilenga kutoa uzoefu wa hali ya juu"
-    },
-    {
-     "name": "Michael Schenk",
-     "occupation": "Msanidi",
-     "testimonial": "Nimejaribu bidhaa zingine zinazofanana, lakini hii inatofautishwa na sifa zake za kiubunifu. Ni wazi kwamba watengenezaji waliweka mawazo mengi katika kuunda suluhisho ambalo linakidhi mahitaji ya mtumiaji"
-    },
-    {
-     "name": "Michael Schenk",
-     "occupation": "Msanidi",
-     "testimonial": "Ubora wa bidhaa hii umezidi matarajio yangu. Ni imara, imeundwa vizuri, na imejengwa kudumu. Hakika inastahili uwekezaji"
-    }
-   ]
-  },
-  "mode": {
-   "system": "Mfumo",
-   "light": "Mwanga",
-   "dark": "Giza"
   }
- }
 }

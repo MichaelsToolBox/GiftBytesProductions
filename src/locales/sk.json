@@ -6,42 +6,42 @@
       "download": "Stiahnuť",
       "latest": "Najnovšie",
       "testimonials": "Referencie",
-      "faq": "Časté otázky"
+      "faq": "FAQ"
     },
     "hero-page": {
-      "subtitle": "Sme kreatívne vývojárske štúdio so sídlom v Nemecku, ktoré využíva najnovšie technológie na vytváranie pútavých a dostupných videohier, aplikácií a mediálnych zážitkov pre každého.",
+      "subtitle": "Sme kreatívne vývojové štúdio so sídlom v Nemecku, ktoré využíva najnovšie technológie na vytváranie pútavých a prístupných videohier, aplikácií a mediálnych zážitkov pre každého",
       "gift": "Gift",
       "bytes": "Bytes",
       "productions": "Productions"
     },
     "download-page": {
       "title": "Stiahnuť",
-      "subtitle": "Tu si môžete stiahnuť a pozrieť naše projekty"
+      "subtitle": "Tu si môžete stiahnuť a prezrieť naše projekty"
     },
     "tiers": {
       "title1": "Vývojárske denníky",
-      "price1": " Zadarmo",
+      "price1": "Zadarmo",
       "subheader1": "Dostupné",
       "description10": "Video produkcia v štúdiovej kvalite",
-      "description11": "Hĺbkové ponory do nášho kódu a dizajnu",
+      "description11": "Hĺbková analýza nášho kódu a dizajnu",
       "description12": "Priama interakcia s našimi vývojármi",
-      "description13": "Dostupné po celom svete na YouTube",
+      "description13": "Celosvetovo dostupné na YouTube",
       "buttontext1": "Bezplatné predplatné",
       "title2": "TouchSlider",
       "price2": "Zadarmo",
       "subheader2": "Odporúčané",
-      "description20": "Dostupné na IOS a Androide",
-      "description21": "Hrať zadarmo bez skrytých nákladov",
-      "description22": "Podporuje staršie mobilné zariadenia",
-      "description23": "Jednoduchá hra na akýkoľvek čas a deň",
+      "description20": "Dostupné na iOS a Android",
+      "description21": "Hra zadarmo bez skrytých poplatkov",
+      "description22": "Podporuje staré mobilné zariadenia",
+      "description23": "Jednoduchá hra na akúkoľvek príležitosť",
       "description24": "Prezentované vo vývojárskych denníkoch",
       "description25": "Podpora",
-      "buttontext21": "Stiahnuť IOS",
-      "buttontext22": "Stiahnuť Android",
+      "buttontext21": "Stiahnuť pre iOS",
+      "buttontext22": "Stiahnuť pre Android",
       "title3": "Pripravovaný projekt",
       "price3": "Zadarmo",
-      "subheader3": "Prebieha",
-      "description30": "Dostupné pre Windows, MacOS a Linux",
+      "subheader3": "V procese vývoja",
+      "description30": "Dostupné pre Windows, macOS a Linux",
       "description31": "Distribúcia cez Steam a Apple Store",
       "description32": "Dostupné v rôznych jazykoch",
       "description33": "Podpora",
@@ -50,36 +50,36 @@
     "faq": {
       "title": "Často kladené otázky",
       "subtitle1": "Ako môžem kontaktovať zákaznícku podporu, ak mám otázku alebo problém?",
-      "description1": "Náš tím zákazníckej podpory môžete kontaktovať e-mailom na adrese: ",
-      "subtitle2": "Čím sa váš produkt odlišuje od ostatných na trhu?",
-      "description2": "Náš produkt sa vyznačuje svojou prispôsobivosťou, odolnosťou a inovatívnymi funkciami. Uprednostňujeme spokojnosť používateľov a neustále sa snažíme prekonávať očakávania v každom aspekte.",
+      "description1": "Náš tím zákazníckej podpory môžete kontaktovať odoslaním e-mailu na: ",
+      "subtitle2": "Čo robí váš produkt výnimočným na trhu?",
+      "description2": "Náš produkt sa odlišuje svojou prispôsobivosťou, trvanlivosťou a inovatívnymi funkciami. Uprednostňujeme spokojnosť používateľov a neustále sa snažíme prekonať očakávania v každom aspekte",
       "subtitle3": "Ako môžem podporiť GiftBytesProductions?",
-      "description3": "Už nám pomáhate tým, že skúšate naše projekty a odporúčate ich. Inak sa môžete prihlásiť na odber nášho kanála na YouTube a zapojiť sa do komunity. Pre ďalšiu podporu nám môžete tiež prispieť priamo cez PayPal."
+      "description3": "Už len tým, že si vyskúšate a odporučíte naše projekty, nám pomáhate. Okrem toho sa môžete prihlásiť na odber nášho kanála na YouTube a zapojiť sa do komunity. Pre dodatočnú podporu nám môžete aj priamo darovať prostredníctvom PayPal"
     },
     "feature-page": {
       "title": "Funkcie",
-      "subheader": "Preskúmajte výkonné funkcie, vďaka ktorým naša aplikácia vyniká.",
+      "subheader": "Sme odhodlaní vytvárať vysokokvalitné digitálne zážitky, ktoré sú prístupné, všestranné a formované našou komunitou. Tu je náš prístup k projektom.",
       "items": [
         {
-          "title": "Dizajn zameraný na mobilné zariadenia",
-          "description": "Naša aplikácia je navrhnutá s prístupom zameraným na mobilné zariadenia, čo zaisťuje bezproblémový zážitok na akomkoľvek zariadení."
+          "title": "Bezproblémovo na všetkých zariadeniach",
+          "description": "Váš zážitok by nemal byť viazaný na jednu obrazovku. Naše projekty sú dôkladne optimalizované tak, aby bežali plynulo na akomkoľvek zariadení—od stolových počítačov a notebookov po tablety a mobilné telefóny, staré aj nové."
         },
         {
-          "title": "Intuitívny ovládací panel",
-          "description": "Čistý a organizovaný ovládací panel, ktorý vám poskytne kompletný prehľad na prvý pohľad."
+          "title": "Kreativita bez nákladov",
+          "description": "Veríme, že skvelý softvér a zábava by mali byť dostupné pre každého. Väčšina našich projektov je úplne zadarmo a prémiový softvér ponúkame za minimálnu, spravodlivú cenu."
         },
         {
-          "title": "Kompatibilita naprieč zariadeniami",
-          "description": "Užite si konzistentný a výkonný zážitok, či už ste na počítači, tablete alebo smartfóne."
+          "title": "Podpora riadená komunitou",
+          "description": "Nie sme len vývojári; sme súčasťou komunity. Vítame vašu spätnú väzbu a poskytujeme priamu, pohotovú podporu, aby sa naše projekty vyvíjali podľa vašich potrieb."
         }
       ]
     },
     "footer-page": {
-      "left-title": "Pripojte sa k našej komunite",
-      "left-button": "Odoberať",
+      "left-title": "Pridajte sa do našej komunity",
+      "left-button": "Prihlásiť sa na odber zadarmo",
       "policy": "Zásady ochrany osobných údajov",
-      "terms": "Podmienky služby",
-      "copyright": "Autorské práva © ",
+      "terms": "Podmienky používania",
+      "copyright": "Autorské práva ©",
       "giftbytes": "GiftBytesProductions"
     },
     "latest-page": {
@@ -88,104 +88,92 @@
         {
           "tag": "Projekty",
           "title": "Oznámenie nového projektu",
-          "description": "Oznamujeme, že náš nový projekt bude bezplatná videohra pre stolné počítače, ktorá bude dostupná na všetkých operačných systémoch a platformách.",
-          "author": "Michael Schenk, Vývojár"
-        },
-        {
-          "tag": "Webová stránka",
-          "title": "Nová webová stránka",
-          "description": "Oznamujeme, že naša webová stránka je konečne spustená a verejná.",
+          "description": "Oznamujeme, že náš nový projekt bude desktopová videohra zadarmo, ktorá bude dostupná na všetkých operačných systémoch a platformách",
           "author": "Michael Schenk, Vývojár"
         },
         {
           "tag": "Projekty",
-          "title": "TouchSlider je spustený",
-          "description": "Oznamujeme, že naša mobilná videohra TouchSlider je dostupná na stiahnutie zadarmo pre IOS a Android.",
+          "title": "TouchSlider je live",
+          "description": "Oznamujeme, že naša mobilná videohra TouchSlider je dostupná na stiahnutie zadarmo pre iOS a Android",
           "author": "Michael Schenk, Vývojár"
         },
         {
-          "tag": "Spoločnosť",
-          "title": "",
-          "description": "",
+          "tag": "Webstránka",
+          "title": "Nová webstránka",
+          "description": "Oznamujeme, že naša webstránka je konečne spustená a verejná",
           "author": "Michael Schenk, Vývojár"
         },
         {
-          "tag": "Inžinierstvo",
-          "title": "",
-          "description": "",
-          "author": "Michael Schenk, Vývojár"
-        },
-        {
-          "tag": "Produkt",
-          "title": "",
-          "description": "",
+          "tag": "Webstránka",
+          "title": "Nová doména",
+          "description": "Oznamujeme, že naša doména je zaregistrovaná",
           "author": "Michael Schenk, Vývojár"
         }
       ]
     },
     "principles-page": {
       "title": "Naše princípy",
-      "subheader": "Tieto hodnoty sú jadrom všetkého, čo tvoríme, od prvej riadky kódu až po konečný používateľský zážitok.",
+      "subheader": "Tieto hodnoty sú jadrom všetkého, čo vytvárame, od prvého riadku kódu po konečný používateľský zážitok",
       "items": [
         {
-          "title": "Dostupné všade",
-          "description": "Veríme, že skvelý softvér by mal fungovať pre každého a na akomkoľvek zariadení. Naše projekty sú starostlivo navrhnuté pre kompatibilitu naprieč platformami a dostupnosť od samého začiatku."
+          "title": "Prístupnosť kdekoľvek",
+          "description": "Veríme, že skvelý softvér by mal fungovať pre každého, na akomkoľvek zariadení. Naše projekty sú dôkladne navrhnuté pre multiplatformovú kompatibilitu a prístupnosť od samého začiatku"
         },
         {
-          "title": "Vyleštené a výkonné",
-          "description": "Poskytujeme kompletné a vysoko optimalizované zážitky. Naše zameranie na čistú architektúru a prísne testovanie zaisťuje, že každý produkt je stabilný, výkonný a pripravený na používanie od prvého dňa."
+          "title": "Vyladené a výkonné",
+          "description": "Prinášame kompletné a vysoko optimalizované zážitky. Naše zameranie na čistú architektúru a prísne testovanie zaručuje, že každý produkt je stabilný, výkonný a pripravený na použitie od prvého dňa"
         },
         {
           "title": "Intuitívny dizajn",
-          "description": "Veríme, že výkonný softvér nemusí byť zložitý. Naša vášeň spočíva vo vytváraní čistých, intuitívnych rozhraní, ktoré robia každú interakciu priamočiarou a príjemnou."
+          "description": "Veríme, že výkonný softvér nemusí byť zložitý. Našou vášňou je vytváranie čistých, intuitívnych rozhraní, ktoré robia každú interakciu jednoduchou a príjemnou"
         },
         {
           "title": "Poháňané inováciami",
-          "description": "Tvoríme s ohľadom na budúcnosť. Využívaním najnovších softvérových a hardvérových technológií vytvárame progresívne produkty s výkonnou, špičkovou funkcionalitou."
+          "description": "Staviame s ohľadom na budúcnosť. Využívaním najnovších softvérových a hardvérových technológií vytvárame produkty s vizionárskym prístupom a s výkonnou, špičkovou funkčnosťou"
         },
         {
-          "title": "Oddaná podpora",
-          "description": "Náš vzťah sa nekončí stiahnutím. Poskytujeme priateľskú a pohotovú podporu priamo od nášho tímu, aby sme zaistili, že budete mať s našimi produktmi vždy skvelý zážitok."
+          "title": "Osobitá podpora",
+          "description": "Náš vzťah sa nekončí stiahnutím. Poskytujeme priamu, priateľskú a pohotovú podporu z nášho tímu, aby sme sa uistili, že budete mať vždy skvelý zážitok s našimi produktmi"
         },
         {
-          "title": "Dôkladné remeselné spracovanie",
-          "description": "Veríme, že dokonalosť spočíva v detailoch. Od prvého konceptu až po poslednú riadku kódu je každý prvok našej práce premyslene naplánovaný a precízne vykonaný pre bezchybný finálny produkt."
+          "title": "Dôkladné remeslo",
+          "description": "Veríme, že dokonalosť spočíva v detailoch. Od prvého konceptu po posledný riadok kódu je každý prvok našej práce starostlivo naplánovaný a precízne vykonaný pre bezchybný konečný produkt"
         }
       ]
     },
     "testimonials-page": {
       "title": "Referencie",
-      "subheader": "Pozrite sa, čo naši zákazníci, vývojári a testeri milujú na našich produktoch.",
+      "subheader": "Pozrite sa, čo naši zákazníci, vývojári a testeri milujú na našich produktoch",
       "testimonial": [
         {
-          "name": "Michael Schenk",
-          "occupation": "Vývojár",
-          "testimonial": "Absolútne milujem, aký všestranný je tento produkt! Či už sa venujem pracovným projektom alebo sa oddávam svojim obľúbeným koníčkom, bez problémov sa prispôsobí mojim meniacim sa potrebám. Jeho intuitívny dizajn skutočne vylepšil moju každodennú rutinu, vďaka čomu sú úlohy efektívnejšie a príjemnejšie."
+          "name": "Nil Akash",
+          "occupation": "Zákazník",
+          "testimonial": "Pekná hra, každý si ju môže užiť a zahrať!"
+        },
+        {
+          "name": "Joy Roy",
+          "occupation": "Tester (anonymne)",
+          "testimonial": "Táto hra je absolútne ideálna na hranie počas cestovania alebo vo voľnom čase"
+        },
+        {
+          "name": "Anita Roy",
+          "occupation": "Zákazník (interné testovanie)",
+          "testimonial": "Zábavná a rýchla! Mechanizmus ťapnutia na otočenie je geniálny. Rád sa snažím prekonať svoje predchádzajúce najvyššie skóre"
         },
         {
           "name": "Michael Schenk",
           "occupation": "Vývojár",
-          "testimonial": "Jednou z vynikajúcich vlastností tohto produktu je výnimočná zákaznícka podpora. Podľa mojich skúseností tím, ktorý stojí za týmto produktom, reagoval rýchlo a bol neuveriteľne nápomocný. Je upokojujúce vedieť, že pevne stoja za svojím produktom."
+          "testimonial": "Úplne milujem, aký všestranný je tento produkt! Či už sa venujem pracovným projektom alebo svojim obľúbeným koníčkom, dokonale sa prispôsobuje mojim meniacim sa potrebám. Jeho intuitívny dizajn skutočne zlepšil moju dennú rutinu, čím sú úlohy efektívnejšie a príjemnejšie"
         },
         {
           "name": "Michael Schenk",
           "occupation": "Vývojár",
-          "testimonial": "Úroveň jednoduchosti a užívateľskej prívetivosti v tomto produkte výrazne zjednodušila môj život. Oceňujem tvorcov za dodanie riešenia, ktoré nielen spĺňa, ale aj prekračuje očakávania používateľov."
+          "testimonial": "Jednou z najvýznamnejších funkcií tohto produktu je výnimočná zákaznícka podpora. Z mojej skúsenosti, tím za týmto produktom reagoval rýchlo a bol neuveriteľne nápomocný. Je upokojujúce vedieť, že si pevne stoja za svojím produktom"
         },
         {
           "name": "Michael Schenk",
           "occupation": "Vývojár",
-          "testimonial": "Oceňujem pozornosť venovanú detailom v dizajne tohto produktu. Malé dotyky robia veľký rozdiel a je zrejmé, že tvorcovia sa zamerali na poskytovanie prémiového zážitku."
-        },
-        {
-          "name": "Michael Schenk",
-          "occupation": "Vývojár",
-          "testimonial": "Vyskúšal som iné podobné produkty, ale tento vyniká svojimi inovatívnymi funkciami. Je jasné, že tvorcovia si dali veľa záležať na vytvorení riešenia, ktoré skutočne rieši potreby používateľov."
-        },
-        {
-          "name": "Michael Schenk",
-          "occupation": "Vývojár",
-          "testimonial": "Kvalita tohto produktu prekonala moje očakávania. Je odolný, dobre navrhnutý a vyrobený tak, aby vydržal. Určite stojí za investíciu."
+          "testimonial": "Úroveň jednoduchosti a používateľskej prívetivosti v tomto produkte výrazne zjednodušila môj život. Oceňujem tvorcov za to, že poskytli riešenie, ktoré nielen spĺňa, ale prekračuje očakávania používateľov"
         }
       ]
     },

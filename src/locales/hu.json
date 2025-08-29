@@ -1,85 +1,85 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "Projektek",
-      "principles": "Elvek",
+      "projects": "Jellemzők",
+      "principles": "Alapelvek",
       "download": "Letöltés",
       "latest": "Legújabb",
       "testimonials": "Ajánlások",
-      "faq": "GYIK"
+      "faq": "Gyakori kérdések"
     },
     "hero-page": {
-      "subtitle": "Egy németországi székhelyű kreatív fejlesztőstúdió vagyunk, amely a legújabb technológiát használja, hogy lebilincselő és mindenki számára elérhető videojátékokat, alkalmazásokat és médiaélményeket hozzon létre.",
+      "subtitle": "Egy németországi székhelyű kreatív fejlesztőstúdió vagyunk, amely a legújabb technológiát használja, hogy magával ragadó és hozzáférhető videójátékokat, alkalmazásokat és médiaélményeket hozzon létre mindenki számára",
       "gift": "Gift",
       "bytes": "Bytes",
       "productions": "Productions"
     },
     "download-page": {
       "title": "Letöltés",
-      "subtitle": "Itt letöltheti és megtekintheti projektjeinket"
+      "subtitle": "Itt letöltheti és megnézheti projektjeinket"
     },
     "tiers": {
       "title1": "Fejlesztői naplók",
       "price1": "Ingyenes",
       "subheader1": "Elérhető",
       "description10": "Stúdió minőségű videóprodukció",
-      "description11": "Mély betekintés a kódunkba és a tervezésünkbe",
+      "description11": "Mélyreható betekintés a kódunkba és a tervezésünkbe",
       "description12": "Közvetlen interakció a fejlesztőinkkel",
       "description13": "Világszerte elérhető a YouTube-on",
       "buttontext1": "Ingyenes feliratkozás",
       "title2": "TouchSlider",
       "price2": "Ingyenes",
       "subheader2": "Ajánlott",
-      "description20": "Elérhető IOS-en és Androidon",
-      "description21": "Ingyenesen játszható, rejtett költségek nélkül",
+      "description20": "IOS-en és Androiden elérhető'",
+      "description21": "Ingyenesen játszható rejtett költségek nélkül",
       "description22": "Támogatja a régi mobileszközöket",
-      "description23": "Egyszerű játék bármikor és bármely nap",
-      "description24": "Bemutatva a fejlesztői naplókban",
+      "description23": "Egyszerű játék bármikor és bármely napra",
+      "description24": "A fejlesztői naplókban bemutatva",
       "description25": "Támogatás",
       "buttontext21": "Letöltés IOS",
       "buttontext22": "Letöltés Android",
-      "title3": "Következő projekt",
+      "title3": "Közelgő projekt",
       "price3": "Ingyenes",
       "subheader3": "Folyamatban",
-      "description30": "Elérhető Windows, MacOS és Linux rendszerekre",
-      "description31": "Terjesztés a Steam és az Apple Store মাধ্যমে",
-      "description32": "Több nyelven elérhető",
+      "description30": "Windows, Macos és Linux rendszerekre elérhető",
+      "description31": "Terjesztés a Steam és az Apple Store-on keresztül",
+      "description32": "Különböző nyelveken hozzáférhető",
       "description33": "Támogatás",
-      "buttontext3": "Később kerül bejelentésre"
+      "buttontext3": "Hamarosan bejelentésre kerül"
     },
     "faq": {
-      "title": "Gyakran ismételt kérdések",
+      "title": "Gyakori kérdések",
       "subtitle1": "Hogyan léphetek kapcsolatba az ügyfélszolgálattal, ha kérdésem vagy problémám van?",
       "description1": "Ügyfélszolgálati csapatunkat e-mailben érheti el a következő címen: ",
-      "subtitle2": "Mi különbözteti meg a termékét a piacon lévő többitől?",
-      "description2": "Termékünk alkalmazkodóképességével, tartósságával és innovatív funkcióival tűnik ki. A felhasználói elégedettséget helyezzük előtérbe, és folyamatosan arra törekszünk, hogy minden tekintetben felülmúljuk az elvárásokat.",
+      "subtitle2": "Mi teszi kiemelkedővé a terméküket a piacon?",
+      "description2": "Termékünk alkalmazkodóképességével, tartósságával és innovatív funkcióival tűnik ki. Elsődleges fontosságú számunkra a felhasználói elégedettség, és folyamatosan törekszünk arra, hogy minden tekintetben felülmúljuk az elvárásokat",
       "subtitle3": "Hogyan támogathatom a GiftBytesProductions-t?",
-      "description3": "Már azzal is segít, ha kipróbálja projektjeinket és ajánlja őket. Ezenkívül feliratkozhat YouTube-csatornánkra és kapcsolatba léphet a közösséggel. További támogatásért közvetlenül is adományozhat nekünk a PayPal-on keresztül."
+      "description3": "Már azzal is segít nekünk, ha kipróbálja projektjeinket és ajánlja őket. Ezenkívül feliratkozhat a YouTube-csatornánkra, és részt vehet a közösségi életben. További támogatásért közvetlenül a PayPal-on keresztül is adományozhat nekünk"
     },
     "feature-page": {
       "title": "Jellemzők",
-      "subheader": "Fedezze fel azokat a hatékony funkciókat, amelyek kiemelik alkalmazásunkat.",
+      "subheader": "Elkötelezettek vagyunk a magas minőségű digitális élmények létrehozása iránt, amelyek hozzáférhetőek, sokoldalúak és a közösségünk által formáltak. Így közelítjük meg a projektjeinket.",
       "items": [
         {
-          "title": "Mobil-első tervezés",
-          "description": "Alkalmazásunkat mobil-első megközelítéssel terveztük, amely zökkenőmentes élményt biztosít bármilyen eszközön."
+          "title": "Zökkenőmentes minden eszközön",
+          "description": "Az élményének nem szabad egy képernyőhöz kötődnie. Projektjeinket aprólékosan optimalizáltuk, hogy zökkenőmentesen fussanak bármilyen eszközön - legyen az asztali vagy hordozható számítógép, táblagép vagy mobiltelefon, régi és új egyaránt."
         },
         {
-          "title": "Intuitív irányítópult",
-          "description": "Egy tiszta és rendezett irányítópult, amely egy pillantással teljes áttekintést nyújt."
+          "title": "Kreativitás költségek nélkül",
+          "description": "Hisszük, hogy a nagyszerű szoftvereknek és szórakoztatásnak mindenki számára elérhetőnek kell lennie. Projektjeink többsége teljesen ingyenes, a prémium szoftvereket pedig minimális, méltányos áron kínáljuk."
         },
         {
-          "title": "Eszközök közötti kompatibilitás",
-          "description": "Élvezze a következetes és hatékony élményt, akár asztali számítógépen, táblagépen vagy okostelefonon van."
+          "title": "Közösségi alapú támogatás",
+          "description": "Nem csak fejlesztők vagyunk; a közösség részét képezzük. A visszajelzéseiből fejlődünk, és közvetlen, gyors reagálású támogatást nyújtunk, hogy projektjeink fejlődjenek az igényeinek megfelelően."
         }
       ]
     },
     "footer-page": {
-      "left-title": "Csatlakozzon közösségünkhöz",
-      "left-button": "Feliratkozás",
+      "left-title": "Csatlakozzon a közösségünkhöz",
+      "left-button": "Feliratkozás ingyen",
       "policy": "Adatvédelmi irányelvek",
       "terms": "Szolgáltatási feltételek",
-      "copyright": "Copyright © ",
+      "copyright": "Szerzői jog © ",
       "giftbytes": "GiftBytesProductions"
     },
     "latest-page": {
@@ -88,104 +88,92 @@
         {
           "tag": "Projektek",
           "title": "Új projekt bejelentése",
-          "description": "Bejelentjük, hogy új projektünk egy ingyenesen játszható asztali videojáték lesz, amely minden operációs rendszeren és platformon elérhető lesz.",
+          "description": "Bejelentjük, hogy új projektünk egy ingyenesen játszható asztali videójáték lesz, amely minden operációs rendszeren és platformon elérhető lesz",
+          "author": "Michael Schenk, Fejlesztő"
+        },
+        {
+          "tag": "Projektek",
+          "title": "A TouchSlider már elérhető",
+          "description": "Bejelentjük, hogy mobil videójátékunk, a TouchSlider ingyenesen letölthető IOS és Android rendszerekre",
           "author": "Michael Schenk, Fejlesztő"
         },
         {
           "tag": "Weboldal",
           "title": "Új weboldal",
-          "description": "Bejelentjük, hogy weboldalunk végre élőben és nyilvánosan elérhető.",
+          "description": "Bejelentjük, hogy weboldalunk végre élő és nyilvános",
           "author": "Michael Schenk, Fejlesztő"
         },
         {
-          "tag": "Projektek",
-          "title": "A TouchSlider elindult",
-          "description": "Bejelentjük, hogy a TouchSlider mobil videojátékunk ingyenesen letölthető IOS-re és Androidra.",
-          "author": "Michael Schenk, Fejlesztő"
-        },
-        {
-          "tag": "Vállalat",
-          "title": "",
-          "description": "",
-          "author": "Michael Schenk, Fejlesztő"
-        },
-        {
-          "tag": "Mérnöki munka",
-          "title": "",
-          "description": "",
-          "author": "Michael Schenk, Fejlesztő"
-        },
-        {
-          "tag": "Termék",
-          "title": "",
-          "description": "",
+          "tag": "Weboldal",
+          "title": "Új domain",
+          "description": "Bejelentjük, hogy domainünket regisztrálták",
           "author": "Michael Schenk, Fejlesztő"
         }
       ]
     },
     "principles-page": {
-      "title": "Elveink",
-      "subheader": "Ezek az értékek állnak minden általunk épített dolog középpontjában, az első kódsortól a végső felhasználói élményig.",
+      "title": "Alapelvek",
+      "subheader": "Ezek az értékek állnak mindennek a középpontjában, amit építünk, a kód első sorától a végső felhasználói élményig",
       "items": [
         {
-          "title": "Mindenhol elérhető",
-          "description": "Hisszük, hogy a nagyszerű szoftvernek mindenkinek, minden eszközön működnie kell. Projektjeinket aprólékosan terveztük a platformok közötti kompatibilitás és az alapoktól való hozzáférhetőség érdekében."
+          "title": "Mindenhol hozzáférhető",
+          "description": "Hisszük, hogy a nagyszerű szoftvernek mindenki számára működnie kell, bármilyen eszközön. Projektjeinket a keresztplatformos kompatibilitás és a hozzáférhetőség érdekében gondosan, az alapoktól kezdve tervezzük"
         },
         {
           "title": "Kifinomult és teljesítményorientált",
-          "description": "Teljes és magasan optimalizált élményeket nyújtunk. A tiszta architektúrára és a szigorú tesztelésre való összpontosításunk biztosítja, hogy minden termék stabil, teljesítményorientált és az első naptól kezdve élvezhető legyen."
+          "description": "Teljes és nagymértékben optimalizált élményeket nyújtunk. A tiszta architektúrára és a szigorú tesztelésre való összpontosításunk biztosítja, hogy minden termék stabil, nagy teljesítményű és az első naptól kezdve élvezhető"
         },
         {
           "title": "Intuitív tervezés",
-          "description": "Hisszük, hogy a hatékony szoftvernek nem kell bonyolultnak lennie. Szenvedélyünk a tiszta, intuitív felületek létrehozásában rejlik, amelyek minden interakciót egyszerűvé és élvezetessé tesznek."
+          "description": "Hisszük, hogy az erős szoftvernek nem kell bonyolultnak lennie. Szenvedélyünk a tiszta, intuitív interfészek létrehozása, amelyek minden interakciót egyszerűvé és élvezetessé tesznek"
         },
         {
-          "title": "Innovációval hajtva",
-          "description": "A jövőt szem előtt tartva építünk. A legújabb szoftver- és hardvertechnológia kihasználásával előremutató termékeket hozunk létre erőteljes, csúcstechnológiás funkcionalitással."
+          "title": "Innováció által vezérelve",
+          "description": "A jövőre gondolva építünk. A legújabb szoftver- és hardvertechnológiák kihasználásával előremutató termékeket hozunk létre, erőteljes, élvonalbeli funkcionalitással"
         },
         {
           "title": "Elkötelezett támogatás",
-          "description": "Kapcsolatunk nem ér véget a letöltéssel. Közvetlenül csapatunktól nyújtunk barátságos, gyorsan reagáló támogatást, hogy mindig nagyszerű élményben legyen része termékeinkkel."
+          "description": "A kapcsolatunk nem ér véget a letöltéssel. Közvetlen, barátságos és gyors reagálású támogatást nyújtunk csapatunk részéről, hogy mindig nagyszerű élményt nyújtsunk a termékeinkkel"
         },
         {
-          "title": "Aprólékos kivitelezés",
-          "description": "Hisszük, hogy a kiválóság a részletekben rejlik. Az első koncepciótól az utolsó kódsorig munkánk minden elemét gondosan megtervezzük és precízen kivitelezzük a hibátlan végtermék érdekében."
+          "title": "Aprólékos kézművesség",
+          "description": "Hisszük, hogy a kiválóság a részletekben rejlik. Az első koncepciótól a kód utolsó soráig munkánk minden eleme gondosan megtervezett és precízen kivitelezett egy hibátlan végtermék érdekében"
         }
       ]
     },
     "testimonials-page": {
       "title": "Ajánlások",
-      "subheader": "Nézze meg, mit szeretnek ügyfeleink, fejlesztőink és tesztelőink a termékeinkben.",
+      "subheader": "Nézze meg, mit szeretnek az ügyfeleink, fejlesztőink és tesztelőink a termékeinkben",
       "testimonial": [
         {
-          "name": "Michael Schenk",
-          "occupation": "Fejlesztő",
-          "testimonial": "Abszolút imádom, mennyire sokoldalú ez a termék! Akár munkahelyi projektekkel foglalkozom, akár kedvenc hobbijaimnak hódolok, zökkenőmentesen alkalmazkodik változó igényeimhez. Intuitív kialakítása valóban javította a napi rutinomat, hatékonyabbá és élvezetesebbé téve a feladatokat."
+          "name": "Nil Akash",
+          "occupation": "Ügyfél",
+          "testimonial": "Szép játék, mindenki élvezheti és játszhat vele!"
+        },
+        {
+          "name": "Joy Roy",
+          "occupation": "Tesztelő (anonim)",
+          "testimonial": "Ez a játék teljesen tökéletes utazás közbeni vagy szabadidőben való játékra"
+        },
+        {
+          "name": "Anita Roy",
+          "occupation": "Ügyfél (belső tesztelés)",
+          "testimonial": "Szórakoztató és pörgős! A „koppintással fordulás” mechanika zseniális. Szeretem megpróbálni megdönteni az előző rekordomat"
         },
         {
           "name": "Michael Schenk",
           "occupation": "Fejlesztő",
-          "testimonial": "A termék egyik kiemelkedő tulajdonsága a kivételes ügyfélszolgálat. Tapasztalataim szerint a termék mögött álló csapat gyorsan reagált és hihetetlenül segítőkész volt. Megnyugtató tudni, hogy szilárdan kiállnak a termékük mellett."
+          "testimonial": "Teljesen imádom, milyen sokoldalú ez a termék! Akár munkahelyi projektekkel foglalkozom, akár a kedvenc hobbijaimnak hódolok, zökkenőmentesen alkalmazkodik a változó igényeimhez. Intuitív kialakítása valóban javította a napi rutinomat, hatékonyabbá és kellemesebbé téve a feladatokat"
         },
         {
           "name": "Michael Schenk",
           "occupation": "Fejlesztő",
-          "testimonial": "A termék egyszerűsége és felhasználóbarát jellege jelentősen leegyszerűsítette az életemet. Nagyra értékelem az alkotókat, hogy olyan megoldást nyújtottak, amely nemcsak megfelel, hanem felülmúlja a felhasználói elvárásokat."
+          "testimonial": "A termék egyik kiemelkedő jellemzője a kivételes ügyfélszolgálat. Tapasztalataim szerint a termék mögött álló csapat gyorsan reagál, és hihetetlenül segítőkész. Nyugtató tudni, hogy szilárdan kiállnak a termékük mellett"
         },
         {
           "name": "Michael Schenk",
           "occupation": "Fejlesztő",
-          "testimonial": "Nagyra értékelem a termék tervezésénél a részletekre való odafigyelést. Az apró simítások nagy különbséget jelentenek, és nyilvánvaló, hogy az alkotók a prémium élmény nyújtására összpontosítottak."
-        },
-        {
-          "name": "Michael Schenk",
-          "occupation": "Fejlesztő",
-          "testimonial": "Kipróbáltam más hasonló termékeket is, de ez innovatív funkcióival tűnik ki. Világos, hogy a készítők sokat gondolkodtak egy olyan megoldás létrehozásán, amely valóban megfelel a felhasználói igényeknek."
-        },
-        {
-          "name": "Michael Schenk",
-          "occupation": "Fejlesztő",
-          "testimonial": "A termék minősége felülmúlta a várakozásaimat. Tartós, jól megtervezett és tartósra készült. Határozottan megéri a befektetést."
+          "testimonial": "A termék egyszerűsége és felhasználóbarát jellege jelentősen leegyszerűsítette az életemet. Hálás vagyok az alkotóknak, amiért olyan megoldást nyújtottak, amely nemcsak megfelel, hanem felülmúlja a felhasználói elvárásokat"
         }
       ]
     },

@@ -4,188 +4,176 @@
       "projects": "Prosjekter",
       "principles": "Prinsipper",
       "download": "Last ned",
-      "latest": "Siste",
-      "testimonials": "Attester",
+      "latest": "Siste nytt",
+      "testimonials": "Uttalelser",
       "faq": "Ofte stilte spørsmål"
     },
     "hero-page": {
-      "subtitle": "Vi er et tyskbasert kreativt utviklingsstudio som utnytter den nyeste teknologien for å skape fengslende og tilgjengelige videospill, apper og medieopplevelser for alle.",
+      "subtitle": "Vi er et tyskbasert kreativt utviklingsstudio som utnytter den nyeste teknologien for å lage fengslende og tilgjengelige videospill, apper og medieopplevelser for alle",
       "gift": "Gift",
       "bytes": "Bytes",
       "productions": "Productions"
     },
     "download-page": {
       "title": "Last ned",
-      "subtitle": "Her kan du laste ned og se prosjektene våre"
+      "subtitle": "Her kan du laste ned og se våre prosjekter"
     },
     "tiers": {
-      "title1": "Utviklerlogger",
+      "title1": "Dev Logs",
       "price1": "Gratis",
       "subheader1": "Tilgjengelig",
-      "description10": "Videoproduksjon i studiokvalitet",
-      "description11": "Dypdykk i koden og designet vårt",
-      "description12": "Direkte interaksjon med utviklerne våre",
+      "description10": "Videoproduksjon av studiokvalitet",
+      "description11": "Dybdeanalyser av vår kode og design",
+      "description12": "Direkte interaksjon med våre utviklere",
       "description13": "Tilgjengelig over hele verden på YouTube",
       "buttontext1": "Gratis abonnement",
       "title2": "TouchSlider",
       "price2": "Gratis",
       "subheader2": "Anbefalt",
-      "description20": "Tilgjengelig på IOS og Android",
+      "description20": "Tilgjengelig på iOS og Android",
       "description21": "Gratis å spille uten skjulte kostnader",
       "description22": "Støtter eldre mobile enheter",
-      "description23": "Enkelt spill for enhver tid og dag",
-      "description24": "Presentert i utviklerlogger",
+      "description23": "Enkelt spill for når som helst på dagen",
+      "description24": "Presentert i dev logs",
       "description25": "Støtte",
-      "buttontext21": "Last ned IOS",
+      "buttontext21": "Last ned iOS",
       "buttontext22": "Last ned Android",
       "title3": "Kommende prosjekt",
       "price3": "Gratis",
-      "subheader3": "Pågår",
-      "description30": "Tilgjengelig for Windows, MacOS og Linux",
+      "subheader3": "Under utvikling",
+      "description30": "Tilgjengelig for Windows, macOS og Linux",
       "description31": "Distribusjon via Steam og Apple Store",
-      "description32": "Tilgjengelig på forskjellige språk",
+      "description32": "Tilgjengelig på flere språk",
       "description33": "Støtte",
-      "buttontext3": "Vil bli annonsert"
+      "buttontext3": "Kunngjøres snart"
     },
     "faq": {
       "title": "Ofte stilte spørsmål",
       "subtitle1": "Hvordan kontakter jeg kundestøtte hvis jeg har et spørsmål eller et problem?",
       "description1": "Du kan nå vårt kundestøtteteam ved å sende en e-post til: ",
-      "subtitle2": "Hva gjør at produktet deres skiller seg ut fra andre på markedet?",
-      "description2": "Produktet vårt skiller seg ut gjennom sin tilpasningsevne, holdbarhet og innovative funksjoner. Vi prioriterer brukertilfredshet og streber kontinuerlig etter å overgå forventningene i alle aspekter.",
+      "subtitle2": "Hva gjør produktet deres unikt i markedet?",
+      "description2": "Produktet vårt skiller seg ut gjennom sin tilpasningsevne, holdbarhet og innovative funksjoner. Vi prioriterer brukerens tilfredshet og streber hele tiden etter å overgå forventningene på alle områder",
       "subtitle3": "Hvordan kan jeg støtte GiftBytesProductions?",
-      "description3": "Du hjelper oss allerede ved å bare prøve ut prosjektene våre og anbefale dem. Ellers kan du abonnere på YouTube-kanalen vår og engasjere deg i fellesskapet. For ekstra støtte kan du også donere direkte til oss via PayPal."
+      "description3": "Du hjelper oss allerede bare ved å prøve ut våre prosjekter og anbefale dem. Ellers kan du abonnere på vår YouTube-kanal og engasjere deg i fellesskapet. For ytterligere støtte kan du også donere direkte til oss via PayPal"
     },
     "feature-page": {
       "title": "Funksjoner",
-      "subheader": "Utforsk de kraftige funksjonene som gjør at applikasjonen vår skiller seg ut.",
+      "subheader": "Vi er dedikert til å skape digitale opplevelser av høy kvalitet som er tilgjengelige, allsidige og formet av vårt fellesskap. Slik tilnærmer vi oss våre prosjekter.",
       "items": [
         {
-          "title": "Mobil-først-design",
-          "description": "Appen vår er designet med en mobil-først-tilnærming, som sikrer en sømløs opplevelse på alle enheter."
+          "title": "Sømløst på tvers av enheter",
+          "description": "Din opplevelse skal ikke være bundet til én skjerm. Våre prosjekter er omhyggelig optimalisert for å kjøre sømløst på alle enheter – fra stasjonære og bærbare datamaskiner til nettbrett og mobiltelefoner, både gamle og nye."
         },
         {
-          "title": "Intuitivt dashbord",
-          "description": "Et rent og organisert dashbord som gir deg en fullstendig oversikt med et øyeblikk."
+          "title": "Kreativitet uten kostnad",
+          "description": "Vi mener at god programvare og underholdning skal være tilgjengelig for alle. De fleste av våre prosjekter er helt gratis, mens premiumprogramvare tilbys til en minimal og rettferdig pris."
         },
         {
-          "title": "Kompatibilitet på tvers av enheter",
-          "description": "Nyt en konsekvent og kraftig opplevelse enten du er på en stasjonær datamaskin, et nettbrett eller en smarttelefon."
+          "title": "Fellesskapsdrevet støtte",
+          "description": "Vi er ikke bare utviklere; vi er en del av fellesskapet. Vi trives med din tilbakemelding og gir direkte, responsiv støtte for å sikre at prosjektene våre utvikler seg med dine behov."
         }
       ]
     },
     "footer-page": {
       "left-title": "Bli med i fellesskapet vårt",
-      "left-button": "Abonner",
-      "policy": "Personvernerklæring",
-      "terms": "Tjenestevilkår",
-      "copyright": "Copyright © ",
+      "left-button": "Abonner gratis",
+      "policy": "Personvernregler",
+      "terms": "Vilkår for bruk",
+      "copyright": "Opphavsrett ©",
       "giftbytes": "GiftBytesProductions"
     },
     "latest-page": {
-      "title": "Siste",
+      "title": "Siste nytt",
       "article": [
         {
           "tag": "Prosjekter",
-          "title": "Kunngjøring av nytt prosjekt",
-          "description": "Vi kunngjør at vårt nye prosjekt vil være et gratis skrivebordsvideospill som vil være tilgjengelig på alle operativsystemer og plattformer.",
+          "title": "Kunngjøring om nytt prosjekt",
+          "description": "Vi kunngjør at vårt nye prosjekt vil være et gratis å spille dataspill som vil være tilgjengelig på alle operativsystemer og plattformer",
+          "author": "Michael Schenk, Utvikler"
+        },
+        {
+          "tag": "Prosjekter",
+          "title": "TouchSlider er lansert",
+          "description": "Vi kunngjør at vårt mobilspill TouchSlider er tilgjengelig for nedlasting for iOS og Android",
           "author": "Michael Schenk, Utvikler"
         },
         {
           "tag": "Nettsted",
           "title": "Nytt nettsted",
-          "description": "Vi kunngjør at nettstedet vårt endelig er live og offentlig.",
+          "description": "Vi kunngjør at vår nettside endelig er live og offentlig",
           "author": "Michael Schenk, Utvikler"
         },
         {
-          "tag": "Prosjekter",
-          "title": "TouchSlider er live",
-          "description": "Vi kunngjør at mobilvideospillet vårt TouchSlider er tilgjengelig for gratis nedlasting på IOS og Android.",
-          "author": "Michael Schenk, Utvikler"
-        },
-        {
-          "tag": "Selskap",
-          "title": "",
-          "description": "",
-          "author": "Michael Schenk, Utvikler"
-        },
-        {
-          "tag": "Ingeniørvitenskap",
-          "title": "",
-          "description": "",
-          "author": "Michael Schenk, Utvikler"
-        },
-        {
-          "tag": "Produkt",
-          "title": "",
-          "description": "",
+          "tag": "Nettsted",
+          "title": "Nytt domene",
+          "description": "Vi kunngjør at vårt domene er registrert",
           "author": "Michael Schenk, Utvikler"
         }
       ]
     },
     "principles-page": {
       "title": "Våre prinsipper",
-      "subheader": "Disse verdiene er kjernen i alt vi bygger, fra den første kodelinjen til den endelige brukeropplevelsen.",
+      "subheader": "Disse verdiene er kjernen i alt vi bygger, fra den første kodelinjen til den endelige brukeropplevelsen",
       "items": [
         {
           "title": "Tilgjengelig overalt",
-          "description": "Vi mener at god programvare skal fungere for alle, på alle enheter. Prosjektene våre er omhyggelig konstruert for kompatibilitet på tvers av plattformer og tilgjengelighet fra grunnen av."
+          "description": "Vi mener at god programvare skal fungere for alle, på hvilken som helst enhet. Våre prosjekter er omhyggelig konstruert for plattformkompatibilitet og tilgjengelighet fra grunnen av"
         },
         {
-          "title": "Polert og ytelsesdyktig",
-          "description": "Vi leverer komplette og høyt optimaliserte opplevelser. Vårt fokus på ren arkitektur og streng testing sikrer at hvert produkt er stabilt, ytelsesdyktig og klart til å nytes fra dag én."
+          "title": "Polert og høyytelses",
+          "description": "Vi leverer komplette og svært optimaliserte opplevelser. Vårt fokus på ren arkitektur og streng testing sikrer at hvert produkt er stabilt, ytelsessterkt og klart til å nytes fra dag én"
         },
         {
           "title": "Intuitivt design",
-          "description": "Vi mener at kraftig programvare ikke trenger å være komplisert. Vår lidenskap ligger i å lage rene, intuitive grensesnitt som gjør hver interaksjon enkel og hyggelig."
+          "description": "Vi mener at kraftig programvare ikke trenger å være komplisert. Vår lidenskap ligger i å lage rene, intuitive grensesnitt som gjør hver interaksjon enkel og hyggelig"
         },
         {
           "title": "Drevet av innovasjon",
-          "description": "Vi bygger med fremtiden i tankene. Ved å utnytte den nyeste programvare- og maskinvareteknologien skaper vi fremtidsrettede produkter med kraftig, banebrytende funksjonalitet."
+          "description": "Vi bygger med tanke på fremtiden. Ved å utnytte det nyeste innen programvare- og maskinvareteknologi, skaper vi fremtidsrettede produkter med kraftig, nyskapende funksjonalitet"
         },
         {
           "title": "Dedikert støtte",
-          "description": "Forholdet vårt slutter ikke ved nedlastingen. Vi gir vennlig, responsiv støtte direkte fra teamet vårt for å sikre at du alltid har en flott opplevelse med produktene våre."
+          "description": "Vårt forhold slutter ikke ved nedlastingen. Vi gir vennlig, responsiv støtte direkte fra teamet vårt for å sikre at du alltid har en flott opplevelse med våre produkter"
         },
         {
-          "title": "Nøyaktig håndverk",
-          "description": "Vi mener at fortreffelighet ligger i detaljene. Fra det første konseptet til den siste kodelinjen er hvert element i arbeidet vårt nøye planlagt og nøyaktig utført for et feilfritt sluttprodukt."
+          "title": "Omhyggelig håndverk",
+          "description": "Vi mener at fortreffelighet ligger i detaljene. Fra det første konseptet til den siste kodelinjen, er hvert element av vårt arbeid nøye planlagt og nøyaktig utført for et feilfritt sluttprodukt"
         }
       ]
     },
     "testimonials-page": {
-      "title": "Attester",
-      "subheader": "Se hva våre kunder, utviklere og testere elsker med produktene våre.",
+      "title": "Uttalelser",
+      "subheader": "Se hva våre kunder, utviklere og testere elsker med våre produkter",
       "testimonial": [
         {
-          "name": "Michael Schenk",
-          "occupation": "Utvikler",
-          "testimonial": "Jeg elsker absolutt hvor allsidig dette produktet er! Enten jeg takler arbeidsprosjekter eller hengir meg til favoritthobbyene mine, tilpasser det seg sømløst til mine skiftende behov. Dets intuitive design har virkelig forbedret min daglige rutine, og gjort oppgaver mer effektive og hyggelige."
+          "name": "Nil Akash",
+          "occupation": "Kunde",
+          "testimonial": "Fint spill, alle kan nyte og spille dette!"
+        },
+        {
+          "name": "Joy Roy",
+          "occupation": "Tester (anonym)",
+          "testimonial": "Dette spillet er absolutt perfekt for å spille mens du reiser eller i fritiden"
+        },
+        {
+          "name": "Anita Roy",
+          "occupation": "Kunde (intern testing)",
+          "testimonial": "Morsomt og fartsfylt! Trykk-for-å-sving-mekanikken er genial. Liker å prøve å slå min forrige høyeste poengsum"
         },
         {
           "name": "Michael Schenk",
           "occupation": "Utvikler",
-          "testimonial": "En av de fremtredende egenskapene til dette produktet er den eksepsjonelle kundestøtten. Etter min erfaring har teamet bak dette produktet vært raske til å svare og utrolig hjelpsomme. Det er betryggende å vite at de står fast bak produktet sitt."
+          "testimonial": "Jeg elsker hvor allsidig dette produktet er! Enten jeg jobber med arbeidsprosjekter eller hengir meg til mine favoritthobbyer, tilpasser det seg sømløst til mine skiftende behov. Det intuitive designet har virkelig forbedret min daglige rutine, noe som gjør oppgavene mer effektive og hyggelige"
         },
         {
           "name": "Michael Schenk",
           "occupation": "Utvikler",
-          "testimonial": "Nivået av enkelhet og brukervennlighet i dette produktet har forenklet livet mitt betydelig. Jeg setter pris på skaperne for å levere en løsning som ikke bare oppfyller, men overgår brukernes forventninger."
+          "testimonial": "En av de fremtredende egenskapene ved dette produktet er den eksepsjonelle kundestøtten. Etter min erfaring har teamet bak dette produktet vært raske med å svare og utrolig hjelpsomme. Det er betryggende å vite at de står fast bak produktet sitt"
         },
         {
           "name": "Michael Schenk",
           "occupation": "Utvikler",
-          "testimonial": "Jeg setter pris på oppmerksomheten på detaljer i designet av dette produktet. De små detaljene utgjør en stor forskjell, og det er tydelig at skaperne fokuserte på å levere en premiumopplevelse."
-        },
-        {
-          "name": "Michael Schenk",
-          "occupation": "Utvikler",
-          "testimonial": "Jeg har prøvd andre lignende produkter, men dette skiller seg ut for sine innovative funksjoner. Det er tydelig at produsentene har lagt mye tanke i å skape en løsning som virkelig imøtekommer brukernes behov."
-        },
-        {
-          "name": "Michael Schenk",
-          "occupation": "Utvikler",
-          "testimonial": "Kvaliteten på dette produktet overgikk forventningene mine. Det er holdbart, godt designet og bygget for å vare. Absolutt verdt investeringen."
+          "testimonial": "Nivået av enkelhet og brukervennlighet i dette produktet har betydelig forenklet livet mitt. Jeg setter pris på skaperne for å levere en løsning som ikke bare oppfyller, men overgår brukernes forventninger"
         }
       ]
     },

@@ -1,40 +1,40 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "Proiektuak",
+      "projects": "Ezaugarriak",
       "principles": "Printzipioak",
       "download": "Deskargatu",
       "latest": "Azkena",
-      "testimonials": "Testigantzak",
-      "faq": "FAQ"
+      "testimonials": "Iritziak",
+      "faq": "Maiz egindako galderak"
     },
     "hero-page": {
-      "subtitle": "Alemanian kokatutako sormen garapeneko estudio bat gara, teknologia berriena baliatuz bideo-joko, aplikazio eta media esperientzia erakargarri eta eskuragarriak sortzeko denontzat.",
+      "subtitle": "Alemanian kokatutako garapen-estudio sortzaile bat gara, azken teknologia baliatuz, bideojoko, aplikazio eta komunikabideen esperientzia liluragarri eta eskuragarriak sortzeko, guztiontzat",
       "gift": "Gift",
       "bytes": "Bytes",
       "productions": "Productions"
     },
     "download-page": {
       "title": "Deskargatu",
-      "subtitle": "Hemen gure proiektuak deskargatu eta ikus ditzakezu"
+      "subtitle": "Hemen gure proiektuak deskargatu eta ikusi ditzakezu"
     },
     "tiers": {
-      "title1": "Garapen Egunkariak",
+      "title1": "Garatzaile-egunkariak",
       "price1": "Doan",
       "subheader1": "Eskuragarri",
-      "description10": "Estudio kalitateko bideo ekoizpena",
-      "description11": "Gure kodean eta diseinuan murgilketa sakonak",
-      "description12": "Gure garatzaileekin interakzio zuzena",
+      "description10": "Estudio-kalitateko bideo-ekoizpena",
+      "description11": "Gure kode eta diseinuari buruzko azterketa sakonak",
+      "description12": "Gure garatzaileekin zuzeneko interakzioa",
       "description13": "Mundu osoan eskuragarri YouTube-n",
-      "buttontext1": "Doako Harpidetza",
+      "buttontext1": "Doako harpidetza",
       "title2": "TouchSlider",
       "price2": "Doan",
       "subheader2": "Gomendatua",
-      "description20": "IOS eta Android-en eskuragarri",
-      "description21": "Ezkutuko kosturik gabe jolasteko doan",
-      "description22": "Gailu mugikor zaharrak onartzen ditu",
-      "description23": "Edozein unetarako eta egunetarako joko sinplea",
-      "description24": "Garapen egunkarietan aurkeztua",
+      "description20": "IOS eta Android-en eskuragarri'",
+      "description21": "Doakoa ezkutuko kosturik gabe jokatzeko",
+      "description22": "Mugikor zaharrak onartzen ditu",
+      "description23": "Joko sinplea edozein unetarako",
+      "description24": "Garatzaile-egunkarietan aurkeztuta",
       "description25": "Laguntza",
       "buttontext21": "Deskargatu IOS",
       "buttontext22": "Deskargatu Android",
@@ -42,43 +42,43 @@
       "price3": "Doan",
       "subheader3": "Abian",
       "description30": "Windows, Macos eta Linux-erako eskuragarri",
-      "description31": "Banaketa Steam eta Apple Store bidez",
+      "description31": "Steam eta Apple Store-en bidez banaketa",
       "description32": "Hainbat hizkuntzatan eskuragarri",
       "description33": "Laguntza",
-      "buttontext3": "Iragartzeko"
+      "buttontext3": "Laster iragarriko da"
     },
     "faq": {
       "title": "Maiz egindako galderak",
-      "subtitle1": "Nola jar naiteke harremanetan bezeroarentzako arretarekin galdera edo arazoren bat badut?",
-      "description1": "Gure bezeroarentzako arreta taldearekin harremanetan jar zaitezke posta elektronikoz helbide honetara idatziz: ",
-      "subtitle2": "Zerk bereizten du zuen produktua merkatuko besteetatik?",
-      "description2": "Gure produktua bere moldagarritasunagatik, iraunkortasunagatik eta ezaugarri berritzaileengatik bereizten da. Erabiltzaileen gogobetetasuna lehenesten dugu eta etengabe ahalegintzen gara alderdi guztietan itxaropenak gainditzen.",
-      "subtitle3": "Nola lagun diezaioket GiftBytesProductions-i?",
-      "description3": "Dagoeneko laguntzen ari zara gure proiektuak probatuz eta gomendatuz. Bestela, gure YouTube kanalera harpidetu eta komunitatearekin parte har dezakezu. Laguntza gehigarrirako, zuzenean PayPal bidez ere dohaintza egin diezagukezu."
+      "subtitle1": "Nola jarri harremanetan bezero-laguntza-zerbitzuarekin galderaren bat edo arazoren bat badut?",
+      "description1": "Gure bezero-laguntza-taldearekin harremanetan jar zaitezke helbide honetara mezu elektroniko bat bidaliz: ",
+      "subtitle2": "Zerk egiten du zuen produktuak merkatuan dauden beste batzuen artean nabarmentzea?",
+      "description2": "Gure produktua bere moldagarritasun, iraunkortasun eta ezaugarri berritzaileengatik bereizten da. Erabiltzailearen gogobetetasuna lehenesten dugu eta etengabe ahalegintzen gara itxaropenak gainditzen alderdi guztietan",
+      "subtitle3": "Nola lagun dezaket GiftBytesProductions?",
+      "description3": "Dagoeneko laguntzen diguzu gure proiektuak probatuz eta gomendatuz. Bestela, gure YouTube-ko kanalera harpidetu eta komunitatearekin harremanetan jar zaitezke. Laguntza gehigarrirako, zuzenean ere eman diezagukezu PayPal bidez"
     },
     "feature-page": {
       "title": "Ezaugarriak",
-      "subheader": "Arakatu gure aplikazioa nabarmentzen duten ezaugarri indartsuak.",
+      "subheader": "Kalitate handiko esperientzia digitalak sortzera dedikatzen gara, eskuragarriak, aldakorrak eta gure komunitateak moldatuak direnak. Hona hemen gure proiektuei nola heltzen diegun.",
       "items": [
         {
-          "title": "Mugikorretarako Lehen Diseinua",
-          "description": "Gure aplikazioa mugikorretarako lehen ikuspegiarekin diseinatuta dago, edozein gailutan esperientzia arina bermatuz."
+          "title": "Eraginkortasun osoz gailu guztietan",
+          "description": "Zure esperientzia ez litzateke pantaila bakar batera lotuta egon behar. Gure proiektuak arreta handiz optimizatuta daude edozein gailutan (mahaigaineko eta eramangarrietatik tabletetara eta telefono mugikorretara, zaharrak zein berriak) ondo funtzionatzeko."
         },
         {
-          "title": "Arbel Intuitiboa",
-          "description": "Arbel garbi eta antolatu bat, begirada batean ikuspegi orokor osoa ematen dizuna."
+          "title": "Sormena kosturik gabe",
+          "description": "Uste dugu software eta entretenimendu bikainak guztion eskura egon beharko luketela. Gure proiektu gehienak guztiz doakoak dira, premium softwarea prezio minimo eta bidezko batean eskaintzen da."
         },
         {
-          "title": "Gailuen arteko Bateragarritasuna",
-          "description": "Gozatu esperientzia koherente eta indartsu batez mahaigainean, tabletan edo smartphonean zaudela ere."
+          "title": "Komunitateak bultzatutako laguntza",
+          "description": "Garatzaileak baino gehiago gara; komunitatearen parte gara. Zuen iritziari esker aurrera egiten dugu eta laguntza zuzena eta sentikorra eskaintzen dugu gure proiektuak zuen beharren arabera eboluzionatzen direla ziurtatzeko."
         }
       ]
     },
     "footer-page": {
       "left-title": "Sartu gure komunitatean",
-      "left-button": "Harpidetu",
-      "policy": "Pribatutasun Politika",
-      "terms": "Zerbitzuaren baldintzak",
+      "left-button": "Harpidetu doan",
+      "policy": "Pribatutasun-gidalerroak",
+      "terms": "Zerbitzu-baldintzak",
       "copyright": "Copyright © ",
       "giftbytes": "GiftBytesProductions"
     },
@@ -88,104 +88,92 @@
         {
           "tag": "Proiektuak",
           "title": "Proiektu berriaren iragarpena",
-          "description": "Gure proiektu berria sistema eragile eta plataforma guztietan eskuragarri egongo den doako mahaigaineko bideo-joko bat izango dela iragartzen dugu.",
-          "author": "Michael Schenk, Garatzailea"
-        },
-        {
-          "tag": "Webgunea",
-          "title": "Webgune berria",
-          "description": "Gure webgunea azkenean zuzenean eta publikoki eskuragarri dagoela iragartzen dugu.",
+          "description": "Iragartzen dugu gure proiektu berria mahaigaineko bideojoko bat izango dela, doakoa, sistema eragile eta plataforma guztietan eskuragarri egongo dena",
           "author": "Michael Schenk, Garatzailea"
         },
         {
           "tag": "Proiektuak",
           "title": "TouchSlider zuzenean dago",
-          "description": "Gure TouchSlider bideo-joko mugikorra IOS eta Androiderako doan deskargatzeko eskuragarri dagoela iragartzen dugu.",
+          "description": "Iragartzen dugu gure TouchSlider bideojoko mugikorra IOS eta Android-en doan deskargatzeko eskuragarri dagoela",
           "author": "Michael Schenk, Garatzailea"
         },
         {
-          "tag": "Enpresa",
-          "title": "",
-          "description": "",
+          "tag": "Webgunea",
+          "title": "Webgune berria",
+          "description": "Iragartzen dugu gure webgunea azkenean zuzenean eta publikoa dela",
           "author": "Michael Schenk, Garatzailea"
         },
         {
-          "tag": "Ingeniaritza",
-          "title": "",
-          "description": "",
-          "author": "Michael Schenk, Garatzailea"
-        },
-        {
-          "tag": "Produktua",
-          "title": "",
-          "description": "",
+          "tag": "Webgunea",
+          "title": "Domeinu berria",
+          "description": "Iragartzen dugu gure domeinua erregistratuta dagoela",
           "author": "Michael Schenk, Garatzailea"
         }
       ]
     },
     "principles-page": {
       "title": "Gure printzipioak",
-      "subheader": "Balio hauek eraikitzen dugun guztiaren muinean daude, lehen kode-lerrotik azken erabiltzaile-esperientziaraino.",
+      "subheader": "Balio hauek dira eraikitzen dugun guztiaren oinarrian, kodearen lehen lerrotik azken erabiltzailearen esperientziaraino",
       "items": [
         {
-          "title": "Edonon Eskuragarri",
-          "description": "Software bikainak denontzat funtzionatu beharko lukeela uste dugu, edozein gailutan. Gure proiektuak arreta handiz diseinatuta daude plataforma anitzeko bateragarritasunerako eta hasieratik eskuragarritasunerako."
+          "title": "Edonon eskuragarri",
+          "description": "Uste dugu software bikainak guztiontzat funtzionatu behar duela, edozein gailutan. Gure proiektuak arreta handiz diseinatuta daude plataforma arteko bateragarritasuna eta eskuragarritasuna bermatzeko hasieratik"
         },
         {
-          "title": "Leundua eta Errendimendu Handikoa",
-          "description": "Esperientzia osoak eta oso optimizatuak eskaintzen ditugu. Arkitektura garbian eta proba zorrotzetan dugun arreta bermatzen du produktu bakoitza egonkorra, errendimendu handikoa eta lehen egunetik gozatzeko prest dagoela."
+          "title": "Akatsik gabe eta errendimendu handikoa",
+          "description": "Esperientzia osoak eta oso optimizatuak eskaintzen ditugu. Arkitektura garbian eta proba zorrotzetan jartzen dugun arreta ziurtatzen du produktu bakoitza egonkorra, errendimendu handikoa eta lehen egunetik gozatzeko prest dagoela"
         },
         {
-          "title": "Diseinu Intuitiboa",
-          "description": "Software indartsuak ez duela konplikatua izan behar uste dugu. Gure pasioa interakzio bakoitza zuzen eta atsegin bihurtzen duten interfaze garbi eta intuitiboak sortzean datza."
+          "title": "Diseinu intuitiboa",
+          "description": "Uste dugu software indartsuak ez duela zertan konplikatua izan. Gure pasioa interfaze garbi eta intuitiboak sortzea da, interakzio bakoitza zuzena eta atsegina izan dadin"
         },
         {
-          "title": "Berrikuntzak Bultzatuta",
-          "description": "Etorkizuna kontuan hartuta eraikitzen dugu. Software eta hardware teknologia berriena baliatuz, funtzionalitate indartsu eta abangoardiako produktu aurrerakoiak sortzen ditugu."
+          "title": "Berrikuntzak bultzatuta",
+          "description": "Etorkizunari begira eraikitzen dugu. Software eta hardware teknologia berriena baliatuz, aurrerako pentsamendua duten produktuak sortzen ditugu, funtzionalitate indartsu eta berritzailearekin"
         },
         {
-          "title": "Laguntza Dedikatua",
-          "description": "Gure harremana ez da deskargarekin amaitzen. Gure taldetik zuzenean laguntza atsegin eta azkarra eskaintzen dugu, gure produktuekin beti esperientzia bikaina izan dezazun ziurtatzeko."
+          "title": "Laguntza dedikatua",
+          "description": "Gure harremana ez da deskargarekin amaitzen. Gure taldearen laguntza zuzena eta sentikorra eskaintzen dugu, gure produktuekin beti esperientzia bikaina izan dezazun ziurtatzeko"
         },
         {
-          "title": "Artisautza Zehatza",
-          "description": "Bikaintasuna xehetasunetan datzala uste dugu. Lehen kontzeptutik azken kode-lerroetaraino, gure lanaren elementu bakoitza arreta handiz planifikatu eta zehatz-mehatz exekutatzen da akatsik gabeko azken produktu baterako."
+          "title": "Artisautza zorrotza",
+          "description": "Uste dugu bikaintasuna xehetasunetan dagoela. Lehen kontzeptutik kodearen azken lerrora arte, gure lanaren elementu bakoitza arreta handiz planifikatu eta zehaztasunez exekutatzen da akatsik gabeko azken produktu bat lortzeko"
         }
       ]
     },
     "testimonials-page": {
-      "title": "Testigantzak",
-      "subheader": "Ikusi zer maite duten gure bezeroek, garatzaileek eta probatzaileek gure produktuei buruz.",
+      "title": "Iritziak",
+      "subheader": "Ikusi gure bezeroek, garatzaileek eta probatzaileek zer maite duten gure produktuei buruz",
       "testimonial": [
         {
-          "name": "Michael Schenk",
-          "occupation": "Garatzailea",
-          "testimonial": "Erabat maite dut produktu hau zein polifazetikoa den! Laneko proiektuei aurre egiten ari naizen edo nire zaletasun gogokoenetan murgiltzen naizen, nire behar aldakorretara arazorik gabe egokitzen da. Bere diseinu intuitiboak nire eguneroko errutina benetan hobetu du, zereginak eraginkorragoak eta atseginagoak bihurtuz."
+          "name": "Nil Akash",
+          "occupation": "Bezeroa",
+          "testimonial": "Joko polita, denek gozatu eta jokatu dezakete!"
+        },
+        {
+          "name": "Joy Roy",
+          "occupation": "Probatzailea (anonimoa)",
+          "testimonial": "Joko hau erabat ezin hobea da bidaiatzen edo aisialdian jolasteko"
+        },
+        {
+          "name": "Anita Roy",
+          "occupation": "Bezeroa (barne-probak)",
+          "testimonial": "Dibertigarria eta azkarra! 'Tap-to-turn' mekanika jeiniala da. Maite dut nire aurreko puntuazio altuena gainditzen saiatzea"
         },
         {
           "name": "Michael Schenk",
           "occupation": "Garatzailea",
-          "testimonial": "Produktu honen ezaugarri nabarmenetako bat bezeroarentzako arreta bikaina da. Nire esperientzian, produktu honen atzean dagoen taldea azkar erantzuten eta izugarri lagungarria izan da. Lasaitasuna ematen du jakiteak beren produktuaren atzean irmo daudela."
+          "testimonial": "Guztiz maite dut produktu hau zein aldakorra den! Lan-proiektuekin ari naizela edo nire zaletasun gogokoenetan murgiltzen naizela, nire behar aldakorretara egokitzen da. Bere diseinu intuitiboak nire eguneroko errutina hobetu du, zereginak eraginkorrago eta atseginago bihurtuz"
         },
         {
           "name": "Michael Schenk",
           "occupation": "Garatzailea",
-          "testimonial": "Produktu honen sinpletasun eta erabilgarritasun mailak nire bizitza nabarmen sinplifikatu du. Eskertzen diet sortzaileei erabiltzaileen itxaropenak betetzeaz gain gainditzen dituen irtenbide bat emateagatik."
+          "testimonial": "Produktu honen ezaugarri nabarmenetako bat bezero-laguntza paregabea da. Nire esperientziaren arabera, produktu honen atzean dagoen taldea azkar erantzuten du eta izugarri lagungarria da. Lasaigarria da jakitea sendo babesten dutela beren produktua"
         },
         {
           "name": "Michael Schenk",
           "occupation": "Garatzailea",
-          "testimonial": "Produktu honen diseinuan xehetasunei emandako arreta eskertzen dut. Ukitu txikiek alde handia eragiten dute, eta argi dago sortzaileek premium esperientzia bat eskaintzera bideratu zirela."
-        },
-        {
-          "name": "Michael Schenk",
-          "occupation": "Garatzailea",
-          "testimonial": "Antzeko beste produktu batzuk probatu ditut, baina hau bere ezaugarri berritzaileengatik nabarmentzen da. Argi dago egileek asko pentsatu zutela erabiltzaileen beharrei benetan erantzuten dien irtenbide bat sortzeko."
-        },
-        {
-          "name": "Michael Schenk",
-          "occupation": "Garatzailea",
-          "testimonial": "Produktu honen kalitateak nire itxaropenak gainditu zituen. Iraunkorra da, ondo diseinatua eta irauteko egina. Zalantzarik gabe, inbertsioak merezi du."
+          "testimonial": "Produktu honen sinpletasun eta erabiltzaile-erraztasun mailak nabarmen sinplifikatu du nire bizitza. Esker ona adierazten diet sortzaileei, erabiltzailearen itxaropenak betetzen ez ezik, gainditzen dituen irtenbide bat eskaintzeagatik"
         }
       ]
     },

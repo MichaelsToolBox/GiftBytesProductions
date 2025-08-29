@@ -4,12 +4,12 @@
       "projects": "Projecten",
       "principles": "Principes",
       "download": "Downloaden",
-      "latest": "Nieuwste",
+      "latest": "Laatste",
       "testimonials": "Getuigenissen",
-      "faq": "FAQ"
+      "faq": "Veelgestelde Vragen"
     },
     "hero-page": {
-      "subtitle": "Wij zijn een in Duitsland gevestigde creatieve ontwikkelingsstudio die de nieuwste technologie gebruikt om boeiende en toegankelijke videogames, apps en media-ervaringen voor iedereen te creëren.",
+      "subtitle": "Wij zijn een in Duitsland gevestigde creatieve ontwikkelingsstudio die de nieuwste technologie benut om boeiende en toegankelijke videogames, apps en media-ervaringen te creëren voor iedereen",
       "gift": "Gift",
       "bytes": "Bytes",
       "productions": "Productions"
@@ -19,173 +19,161 @@
       "subtitle": "Hier kunt u onze projecten downloaden en bekijken"
     },
     "tiers": {
-      "title1": "Ontwikkelaarslogboeken",
+      "title1": "Dev Logs",
       "price1": "Gratis",
       "subheader1": "Beschikbaar",
       "description10": "Videoproductie van studiokwaliteit",
-      "description11": "Diepgaande duiken in onze code en ons ontwerp",
+      "description11": "Diepgaande analyses van onze code en ons ontwerp",
       "description12": "Directe interactie met onze ontwikkelaars",
-      "description13": "Wereldwijd beschikbaar op YouTube",
-      "buttontext1": "Gratis abonnement",
+      "description13": "Wereldwijd toegankelijk op YouTube",
+      "buttontext1": "Gratis Abonnement",
       "title2": "TouchSlider",
       "price2": "Gratis",
       "subheader2": "Aanbevolen",
-      "description20": "Beschikbaar op IOS en Android",
+      "description20": "Beschikbaar op iOS en Android",
       "description21": "Gratis te spelen zonder verborgen kosten",
       "description22": "Ondersteunt oude mobiele apparaten",
-      "description23": "Eenvoudig spel voor elk moment en elke dag",
-      "description24": "Gepresenteerd in ontwikkelaarslogboeken",
+      "description23": "Eenvoudig spel voor elk moment van de dag",
+      "description24": "Gepresenteerd in dev logs",
       "description25": "Ondersteuning",
-      "buttontext21": "Download IOS",
+      "buttontext21": "Download iOS",
       "buttontext22": "Download Android",
-      "title3": "Aankomend project",
+      "title3": "Toekomstig project",
       "price3": "Gratis",
-      "subheader3": "In uitvoering",
-      "description30": "Beschikbaar voor Windows, MacOS en Linux",
+      "subheader3": "In ontwikkeling",
+      "description30": "Beschikbaar voor Windows, macOS en Linux",
       "description31": "Distributie via Steam en Apple Store",
-      "description32": "Beschikbaar in verschillende talen",
+      "description32": "Toegankelijk in verschillende talen",
       "description33": "Ondersteuning",
-      "buttontext3": "Wordt nog aangekondigd"
+      "buttontext3": "Wordt binnenkort aangekondigd"
     },
     "faq": {
       "title": "Veelgestelde vragen",
-      "subtitle1": "Hoe neem ik contact op met de klantenservice als ik een vraag of probleem heb?",
-      "description1": "U kunt ons klantenserviceteam bereiken door een e-mail te sturen naar: ",
-      "subtitle2": "Waarin onderscheidt uw product zich van andere op de markt?",
-      "description2": "Ons product onderscheidt zich door zijn aanpassingsvermogen, duurzaamheid en innovatieve functies. We geven prioriteit aan gebruikerstevredenheid en streven er voortdurend naar om de verwachtingen op elk gebied te overtreffen.",
-      "subtitle3": "Hoe kan ik GiftBytesProductions ondersteunen?",
-      "description3": "U helpt ons al door simpelweg onze projecten uit te proberen en aan te bevelen. Anders kunt u zich abonneren op ons YouTube-kanaal en deelnemen aan de community. Voor extra ondersteuning kunt u ons ook rechtstreeks doneren via PayPal."
+      "subtitle1": "Hoe neem ik contact op met de klantenondersteuning als ik een vraag of probleem heb?",
+      "description1": "U kunt ons klantenondersteuningsteam bereiken door een e-mail te sturen naar: ",
+      "subtitle2": "Wat onderscheidt uw product van andere op de markt?",
+      "description2": "Ons product onderscheidt zich door zijn aanpasbaarheid, duurzaamheid en innovatieve functies. Wij geven prioriteit aan gebruikerstevredenheid en streven er voortdurend naar de verwachtingen in elk opzicht te overtreffen",
+      "subtitle3": "Hoe kan ik GiftBytesProductions steunen?",
+      "description3": "U helpt ons al door onze projecten uit te proberen en aan te bevelen. Daarnaast kunt u zich abonneren op ons YouTube-kanaal en deelnemen aan de community. Voor extra ondersteuning kunt u ook rechtstreeks doneren via PayPal"
     },
     "feature-page": {
       "title": "Functies",
-      "subheader": "Ontdek de krachtige functies die onze applicatie onderscheiden.",
+      "subheader": "Wij zetten ons in voor het creëren van digitale ervaringen van hoge kwaliteit die toegankelijk, veelzijdig en gevormd zijn door onze community. Hier is hoe wij onze projecten benaderen.",
       "items": [
         {
-          "title": "Mobile-First Ontwerp",
-          "description": "Onze app is ontworpen met een mobile-first benadering, wat zorgt voor een naadloze ervaring op elk apparaat."
+          "title": "Naadloos op Alle Apparaten",
+          "description": "Uw ervaring hoeft niet aan één scherm gebonden te zijn. Onze projecten zijn zorgvuldig geoptimaliseerd om soepel te draaien op elk apparaat—van desktops en laptops tot tablets en mobiele telefoons, zowel oude als nieuwe."
         },
         {
-          "title": "Intuïtief Dashboard",
-          "description": "Een schoon en georganiseerd dashboard dat u in één oogopslag een compleet overzicht geeft."
+          "title": "Creativiteit Zonder Kosten",
+          "description": "Wij geloven dat geweldige software en entertainment voor iedereen beschikbaar moeten zijn. De meeste van onze projecten zijn volledig gratis, met premium software die wordt aangeboden tegen een minimale, eerlijke prijs."
         },
         {
-          "title": "Compatibiliteit tussen apparaten",
-          "description": "Geniet van een consistente en krachtige ervaring, of u nu op een desktop, tablet of smartphone bent."
+          "title": "Community-Gedreven Ondersteuning",
+          "description": "Wij zijn niet alleen ontwikkelaars; we zijn deel van de community. Wij gedijen op uw feedback en bieden directe, responsieve ondersteuning om ervoor te zorgen dat onze projecten zich ontwikkelen met uw behoeften."
         }
       ]
     },
     "footer-page": {
       "left-title": "Word lid van onze community",
-      "left-button": "Abonneren",
+      "left-button": "Gratis abonneren",
       "policy": "Privacybeleid",
-      "terms": "Servicevoorwaarden",
-      "copyright": "Copyright © ",
+      "terms": "Gebruiksvoorwaarden",
+      "copyright": "Auteursrecht ©",
       "giftbytes": "GiftBytesProductions"
     },
     "latest-page": {
-      "title": "Nieuwste",
+      "title": "Laatste",
       "article": [
         {
           "tag": "Projecten",
-          "title": "Aankondiging van nieuw project",
-          "description": "We kondigen aan dat ons nieuwe project een gratis te spelen desktopvideogame wordt die beschikbaar zal zijn op alle besturingssystemen en platforms.",
+          "title": "Aankondiging Nieuw Project",
+          "description": "Wij kondigen aan dat ons nieuwe project een gratis te spelen desktop-videogame zal zijn die beschikbaar zal zijn op alle besturingssystemen en platforms",
+          "author": "Michael Schenk, Ontwikkelaar"
+        },
+        {
+          "tag": "Projecten",
+          "title": "TouchSlider is Live",
+          "description": "Wij kondigen aan dat onze mobiele videogame TouchSlider beschikbaar is voor iOS en Android om gratis te downloaden",
           "author": "Michael Schenk, Ontwikkelaar"
         },
         {
           "tag": "Website",
           "title": "Nieuwe website",
-          "description": "We kondigen aan dat onze website eindelijk live en openbaar is.",
+          "description": "Wij kondigen aan dat onze website eindelijk live en openbaar is",
           "author": "Michael Schenk, Ontwikkelaar"
         },
         {
-          "tag": "Projecten",
-          "title": "TouchSlider is live",
-          "description": "We kondigen aan dat onze mobiele videogame TouchSlider gratis te downloaden is voor IOS en Android.",
-          "author": "Michael Schenk, Ontwikkelaar"
-        },
-        {
-          "tag": "Bedrijf",
-          "title": "",
-          "description": "",
-          "author": "Michael Schenk, Ontwikkelaar"
-        },
-        {
-          "tag": "Techniek",
-          "title": "",
-          "description": "",
-          "author": "Michael Schenk, Ontwikkelaar"
-        },
-        {
-          "tag": "Product",
-          "title": "",
-          "description": "",
+          "tag": "Website",
+          "title": "Nieuw Domein",
+          "description": "Wij kondigen aan dat ons domein geregistreerd is",
           "author": "Michael Schenk, Ontwikkelaar"
         }
       ]
     },
     "principles-page": {
       "title": "Onze principes",
-      "subheader": "Deze waarden vormen de kern van alles wat we bouwen, van de eerste regel code tot de uiteindelijke gebruikerservaring.",
+      "subheader": "Deze waarden vormen de kern van alles wat we bouwen, van de eerste coderegel tot de uiteindelijke gebruikerservaring",
       "items": [
         {
-          "title": "Overal toegankelijk",
-          "description": "Wij geloven dat geweldige software voor iedereen moet werken, op elk apparaat. Onze projecten zijn zorgvuldig ontworpen voor platformonafhankelijke compatibiliteit en toegankelijkheid vanaf de basis."
+          "title": "Overal Toegankelijk",
+          "description": "Wij geloven dat geweldige software voor iedereen moet werken, op elk apparaat. Onze projecten zijn zorgvuldig ontworpen voor cross-platform compatibiliteit en toegankelijkheid vanaf de basis"
         },
         {
-          "title": "Gepolijst en performant",
-          "description": "Wij leveren complete en sterk geoptimaliseerde ervaringen. Onze focus op een schone architectuur en rigoureuze tests zorgt ervoor dat elk product stabiel en performant is en vanaf de eerste dag klaar is om van te genieten."
+          "title": "Gepolijst & Prestatiegericht",
+          "description": "Wij leveren complete en zeer geoptimaliseerde ervaringen. Onze focus op schone architectuur en strenge tests zorgt ervoor dat elk product stabiel is, goed presteert en vanaf dag één klaar is om van te genieten"
         },
         {
-          "title": "Intuïtief ontwerp",
-          "description": "Wij geloven dat krachtige software niet ingewikkeld hoeft te zijn. Onze passie ligt in het creëren van schone, intuïtieve interfaces die elke interactie eenvoudig en plezierig maken."
+          "title": "Intuïtief Ontwerp",
+          "description": "Wij geloven dat krachtige software niet ingewikkeld hoeft te zijn. Onze passie ligt in het creëren van schone, intuïtieve interfaces die elke interactie eenvoudig en plezierig maken"
         },
         {
-          "title": "Gedreven door innovatie",
-          "description": "Wij bouwen met de toekomst in gedachten. Door gebruik te maken van de nieuwste software- en hardwaretechnologie, creëren we toekomstgerichte producten met krachtige, geavanceerde functionaliteit."
+          "title": "Aangedreven door Innovatie",
+          "description": "We bouwen met het oog op de toekomst. Door gebruik te maken van de nieuwste software- en hardwaretechnologie creëren we toekomstgerichte producten met krachtige, geavanceerde functionaliteit"
         },
         {
-          "title": "Toegewijde ondersteuning",
-          "description": "Onze relatie eindigt niet bij de download. Wij bieden vriendelijke, responsieve ondersteuning rechtstreeks van ons team om ervoor te zorgen dat u altijd een geweldige ervaring heeft met onze producten."
+          "title": "Toegewijde Ondersteuning",
+          "description": "Onze relatie eindigt niet bij de download. Wij bieden vriendelijke, responsieve ondersteuning rechtstreeks van ons team om ervoor te zorgen dat u altijd een geweldige ervaring hebt met onze producten"
         },
         {
-          "title": "Nauwgezet vakmanschap",
-          "description": "Wij geloven dat uitmuntendheid in de details zit. Van het eerste concept tot de laatste regel code, elk element van ons werk wordt zorgvuldig gepland en nauwkeurig uitgevoerd voor een vlekkeloos eindproduct."
+          "title": "Zorgvuldig Vakmanschap",
+          "description": "Wij geloven dat uitmuntendheid in de details zit. Van het eerste concept tot de laatste coderegel wordt elk element van ons werk zorgvuldig gepland en nauwkeurig uitgevoerd voor een vlekkeloos eindproduct"
         }
       ]
     },
     "testimonials-page": {
       "title": "Getuigenissen",
-      "subheader": "Zie wat onze klanten, ontwikkelaars en testers leuk vinden aan onze producten.",
+      "subheader": "Kijk wat onze klanten, ontwikkelaars en testers leuk vinden aan onze producten",
       "testimonial": [
         {
-          "name": "Michael Schenk",
-          "occupation": "Ontwikkelaar",
-          "testimonial": "Ik ben absoluut dol op hoe veelzijdig dit product is! Of ik nu werkprojecten aanpak of me overgeef aan mijn favoriete hobby's, het past zich naadloos aan mijn veranderende behoeften aan. Het intuïtieve ontwerp heeft mijn dagelijkse routine echt verbeterd, waardoor taken efficiënter en aangenamer worden."
+          "name": "Nil Akash",
+          "occupation": "Klant",
+          "testimonial": "Leuk spel, iedereen kan ervan genieten en het spelen!"
+        },
+        {
+          "name": "Joy Roy",
+          "occupation": "Tester (anoniem)",
+          "testimonial": "Dit spel is absoluut perfect om te spelen tijdens het reizen of in de vrije tijd"
+        },
+        {
+          "name": "Anita Roy",
+          "occupation": "Klant (interne test)",
+          "testimonial": "Leuk en snel! Het tik-om-te-draaien-mechanisme is geniaal. Ik vind het leuk om mijn vorige hoogste score te proberen te verslaan"
         },
         {
           "name": "Michael Schenk",
           "occupation": "Ontwikkelaar",
-          "testimonial": "Een van de opvallende kenmerken van dit product is de uitzonderlijke klantenondersteuning. In mijn ervaring reageerde het team achter dit product snel en was het ongelooflijk behulpzaam. Het is geruststellend te weten dat ze stevig achter hun product staan."
+          "testimonial": "Ik vind het absoluut geweldig hoe veelzijdig dit product is! Of ik nu werkprojecten aanpak of me overgeef aan mijn favoriete hobby's, het past zich naadloos aan mijn veranderende behoeften aan. Het intuïtieve ontwerp heeft mijn dagelijkse routine echt verbeterd, waardoor taken efficiënter en leuker zijn geworden"
         },
         {
           "name": "Michael Schenk",
           "occupation": "Ontwikkelaar",
-          "testimonial": "Het niveau van eenvoud en gebruiksvriendelijkheid van dit product heeft mijn leven aanzienlijk vereenvoudigd. Ik waardeer de makers voor het leveren van een oplossing die niet alleen aan de verwachtingen van de gebruiker voldoet, maar deze zelfs overtreft."
+          "testimonial": "Een van de opvallende kenmerken van dit product is de uitzonderlijke klantenondersteuning. In mijn ervaring was het team achter dit product snel in reageren en ongelooflijk behulpzaam. Het is geruststellend om te weten dat ze stevig achter hun product staan"
         },
         {
           "name": "Michael Schenk",
           "occupation": "Ontwikkelaar",
-          "testimonial": "Ik waardeer de aandacht voor detail in het ontwerp van dit product. De kleine details maken een groot verschil, en het is duidelijk dat de makers zich hebben gericht op het leveren van een premium ervaring."
-        },
-        {
-          "name": "Michael Schenk",
-          "occupation": "Ontwikkelaar",
-          "testimonial": "Ik heb andere vergelijkbare producten geprobeerd, maar dit product onderscheidt zich door zijn innovatieve functies. Het is duidelijk dat de makers veel hebben nagedacht over het creëren van een oplossing die echt tegemoetkomt aan de behoeften van de gebruiker."
-        },
-        {
-          "name": "Michael Schenk",
-          "occupation": "Ontwikkelaar",
-          "testimonial": "De kwaliteit van dit product overtrof mijn verwachtingen. Het is duurzaam, goed ontworpen en gebouwd om lang mee te gaan. Zeker de investering waard."
+          "testimonial": "De mate van eenvoud en gebruiksvriendelijkheid in dit product heeft mijn leven aanzienlijk vereenvoudigd. Ik waardeer de makers voor het leveren van een oplossing die niet alleen aan de verwachtingen van de gebruiker voldoet, maar deze ook overtreft"
         }
       ]
     },

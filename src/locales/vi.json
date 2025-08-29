@@ -5,11 +5,11 @@
       "principles": "Nguyên tắc",
       "download": "Tải xuống",
       "latest": "Mới nhất",
-      "testimonials": "Nhận xét",
+      "testimonials": "Lời chứng thực",
       "faq": "Câu hỏi thường gặp"
     },
     "hero-page": {
-      "subtitle": "Chúng tôi là một studio phát triển sáng tạo có trụ sở tại Đức, tận dụng công nghệ mới nhất để tạo ra các trò chơi điện tử, ứng dụng và trải nghiệm truyền thông hấp dẫn và dễ tiếp cận cho mọi người.",
+      "subtitle": "Chúng tôi là một studio phát triển sáng tạo có trụ sở tại Đức, tận dụng công nghệ mới nhất để tạo ra các trò chơi video, ứng dụng và trải nghiệm truyền thông hấp dẫn và dễ tiếp cận cho mọi người",
       "gift": "Gift",
       "bytes": "Bytes",
       "productions": "Productions"
@@ -23,63 +23,63 @@
       "price1": "Miễn phí",
       "subheader1": "Có sẵn",
       "description10": "Sản xuất video chất lượng studio",
-      "description11": "Tìm hiểu sâu về mã và thiết kế của chúng tôi",
+      "description11": "Đi sâu vào mã nguồn và thiết kế của chúng tôi",
       "description12": "Tương tác trực tiếp với các nhà phát triển của chúng tôi",
       "description13": "Có thể truy cập trên toàn thế giới trên YouTube",
       "buttontext1": "Đăng ký miễn phí",
       "title2": "TouchSlider",
       "price2": "Miễn phí",
       "subheader2": "Được đề xuất",
-      "description20": "Có sẵn trên IOS và Android",
+      "description20": "Có sẵn trên iOS và Android",
       "description21": "Chơi miễn phí không có chi phí ẩn",
       "description22": "Hỗ trợ các thiết bị di động cũ",
-      "description23": "Trò chơi đơn giản cho mọi lúc và mọi ngày",
-      "description24": "Được trình bày trong nhật ký phát triển",
+      "description23": "Trò chơi đơn giản cho mọi lúc mọi nơi",
+      "description24": "Được trình bày trong các nhật ký phát triển",
       "description25": "Hỗ trợ",
-      "buttontext21": "Tải xuống IOS",
+      "buttontext21": "Tải xuống iOS",
       "buttontext22": "Tải xuống Android",
-      "title3": "Dự án sắp tới",
+      "title3": "Dự án sắp ra mắt",
       "price3": "Miễn phí",
       "subheader3": "Đang tiến hành",
-      "description30": "Có sẵn cho Windows, MacOS và Linux",
+      "description30": "Có sẵn cho Windows, macOS và Linux",
       "description31": "Phân phối qua Steam và Apple Store",
       "description32": "Có thể truy cập bằng nhiều ngôn ngữ",
       "description33": "Hỗ trợ",
-      "buttontext3": "Sẽ được thông báo"
+      "buttontext3": "Sẽ được công bố"
     },
     "faq": {
-      "title": "Các câu hỏi thường gặp",
-      "subtitle1": "Làm cách nào để liên hệ với bộ phận hỗ trợ khách hàng nếu tôi có câu hỏi hoặc vấn đề?",
-      "description1": "Bạn có thể liên hệ với nhóm hỗ trợ khách hàng của chúng tôi bằng cách gửi email đến: ",
-      "subtitle2": "Điều gì làm cho sản phẩm của bạn nổi bật so với những sản phẩm khác trên thị trường?",
-      "description2": "Sản phẩm của chúng tôi nổi bật nhờ khả năng thích ứng, độ bền và các tính năng sáng tạo. Chúng tôi ưu tiên sự hài lòng của người dùng và không ngừng nỗ lực để vượt qua sự mong đợi ở mọi khía cạnh.",
-      "subtitle3": "Làm cách nào tôi có thể hỗ trợ GiftBytesProductions?",
-      "description3": "Bạn đã giúp chúng tôi bằng cách dùng thử các dự án của chúng tôi và giới thiệu chúng. Ngoài ra, bạn có thể đăng ký kênh YouTube của chúng tôi và tương tác với cộng đồng. Để được hỗ trợ thêm, bạn cũng có thể quyên góp trực tiếp cho chúng tôi qua PayPal."
+      "title": "Câu hỏi thường gặp",
+      "subtitle1": "Làm cách nào để liên hệ với bộ phận hỗ trợ khách hàng nếu tôi có câu hỏi hoặc vấn đề",
+      "description1": "Bạn có thể liên hệ với đội ngũ hỗ trợ khách hàng của chúng tôi bằng cách gửi email đến: ",
+      "subtitle2": "Điều gì làm cho sản phẩm của bạn nổi bật trên thị trường?",
+      "description2": "Sản phẩm của chúng tôi tự phân biệt thông qua khả năng thích ứng, độ bền và các tính năng đổi mới. Chúng tôi ưu tiên sự hài lòng của người dùng và liên tục cố gắng vượt qua mong đợi trong mọi khía cạnh",
+      "subtitle3": "Làm thế nào tôi có thể hỗ trợ GiftBytesProductions?",
+      "description3": "Bạn đã giúp chúng tôi bằng cách thử các dự án của chúng tôi và giới thiệu chúng. Nếu không, bạn có thể đăng ký kênh YouTube của chúng tôi và tương tác với cộng đồng. Để được hỗ trợ thêm, bạn cũng có thể quyên góp trực tiếp cho chúng tôi qua PayPal"
     },
     "feature-page": {
       "title": "Tính năng",
-      "subheader": "Khám phá các tính năng mạnh mẽ làm cho ứng dụng của chúng tôi nổi bật.",
+      "subheader": "Chúng tôi cam kết tạo ra các trải nghiệm kỹ thuật số chất lượng cao, dễ tiếp cận, đa năng và được định hình bởi cộng đồng của chúng tôi. Dưới đây là cách chúng tôi tiếp cận các dự án của mình.",
       "items": [
         {
-          "title": "Thiết kế ưu tiên cho thiết bị di động",
-          "description": "Ứng dụng của chúng tôi được thiết kế với phương pháp ưu tiên cho thiết bị di động, đảm bảo trải nghiệm liền mạch trên mọi thiết bị."
+          "title": "Liền mạch trên các thiết bị",
+          "description": "Trải nghiệm của bạn không nên bị giới hạn trong một màn hình. Các dự án của chúng tôi được tối ưu hóa một cách tỉ mỉ để chạy mượt mà trên mọi thiết bị—từ máy tính để bàn và máy tính xách tay đến máy tính bảng và điện thoại di động, cả cũ và mới."
         },
         {
-          "title": "Bảng điều khiển trực quan",
-          "description": "Một bảng điều khiển sạch sẽ và có tổ chức cung cấp cho bạn cái nhìn tổng quan đầy đủ trong nháy mắt."
+          "title": "Sáng tạo không tốn kém",
+          "description": "Chúng tôi tin rằng phần mềm và giải trí tuyệt vời nên có sẵn cho tất cả mọi người. Hầu hết các dự án của chúng tôi đều hoàn toàn miễn phí, với phần mềm cao cấp được cung cấp với mức giá tối thiểu, hợp lý."
         },
         {
-          "title": "Tương thích trên nhiều thiết bị",
-          "description": "Tận hưởng trải nghiệm nhất quán và mạnh mẽ cho dù bạn đang sử dụng máy tính để bàn, máy tính bảng hay điện thoại thông minh."
+          "title": "Hỗ trợ dựa trên cộng đồng",
+          "description": "Chúng tôi không chỉ là các nhà phát triển; chúng tôi là một phần của cộng đồng. Chúng tôi phát triển dựa trên phản hồi của bạn và cung cấp hỗ trợ trực tiếp, nhanh chóng để đảm bảo rằng các dự án của chúng tôi phát triển cùng với nhu cầu của bạn."
         }
       ]
     },
     "footer-page": {
       "left-title": "Tham gia cộng đồng của chúng tôi",
-      "left-button": "Đăng ký",
+      "left-button": "Đăng ký miễn phí",
       "policy": "Chính sách bảo mật",
       "terms": "Điều khoản dịch vụ",
-      "copyright": "Bản quyền © ",
+      "copyright": "Bản quyền ©",
       "giftbytes": "GiftBytesProductions"
     },
     "latest-page": {
@@ -88,104 +88,92 @@
         {
           "tag": "Dự án",
           "title": "Thông báo dự án mới",
-          "description": "Chúng tôi thông báo rằng dự án mới của chúng tôi sẽ là một trò chơi điện tử trên máy tính để bàn miễn phí sẽ có sẵn trên tất cả các hệ điều hành và nền tảng.",
+          "description": "Chúng tôi thông báo rằng dự án mới của chúng tôi sẽ là một trò chơi video trên máy tính để bàn miễn phí để chơi và sẽ có sẵn trên tất cả các hệ điều hành và nền tảng",
+          "author": "Michael Schenk, Nhà phát triển"
+        },
+        {
+          "tag": "Dự án",
+          "title": "TouchSlider đã ra mắt",
+          "description": "Chúng tôi thông báo rằng trò chơi video di động của chúng tôi TouchSlider đã có sẵn để tải xuống miễn phí cho iOS và Android",
           "author": "Michael Schenk, Nhà phát triển"
         },
         {
           "tag": "Trang web",
           "title": "Trang web mới",
-          "description": "Chúng tôi thông báo rằng trang web của chúng tôi cuối cùng đã hoạt động và công khai.",
+          "description": "Chúng tôi thông báo rằng trang web của chúng tôi cuối cùng đã hoạt động và công khai",
           "author": "Michael Schenk, Nhà phát triển"
         },
         {
-          "tag": "Dự án",
-          "title": "TouchSlider đã hoạt động",
-          "description": "Chúng tôi thông báo rằng trò chơi điện tử di động của chúng tôi TouchSlider có sẵn để tải xuống miễn phí trên IOS và Android.",
-          "author": "Michael Schenk, Nhà phát triển"
-        },
-        {
-          "tag": "Công ty",
-          "title": "",
-          "description": "",
-          "author": "Michael Schenk, Nhà phát triển"
-        },
-        {
-          "tag": "Kỹ thuật",
-          "title": "",
-          "description": "",
-          "author": "Michael Schenk, Nhà phát triển"
-        },
-        {
-          "tag": "Sản phẩm",
-          "title": "",
-          "description": "",
+          "tag": "Trang web",
+          "title": "Tên miền mới",
+          "description": "Chúng tôi thông báo rằng tên miền của chúng tôi đã được đăng ký",
           "author": "Michael Schenk, Nhà phát triển"
         }
       ]
     },
     "principles-page": {
-      "title": "Nguyên tắc của chúng tôi",
-      "subheader": "Những giá trị này là trọng tâm của mọi thứ chúng tôi xây dựng, từ dòng mã đầu tiên đến trải nghiệm người dùng cuối cùng.",
+      "title": "Các nguyên tắc của chúng tôi",
+      "subheader": "Những giá trị này là trọng tâm của mọi thứ chúng tôi xây dựng, từ dòng mã đầu tiên đến trải nghiệm người dùng cuối cùng",
       "items": [
         {
-          "title": "Có thể truy cập ở mọi nơi",
-          "description": "Chúng tôi tin rằng phần mềm tuyệt vời phải hoạt động cho mọi người, trên mọi thiết bị. Các dự án của chúng tôi được thiết kế tỉ mỉ để tương thích trên nhiều nền tảng và có thể truy cập ngay từ đầu."
+          "title": "Dễ truy cập ở mọi nơi",
+          "description": "Chúng tôi tin rằng phần mềm tuyệt vời nên hoạt động cho mọi người, trên mọi thiết bị. Các dự án của chúng tôi được thiết kế tỉ mỉ để tương thích đa nền tảng và dễ truy cập ngay từ đầu"
         },
         {
-          "title": "Tinh tế và hiệu quả",
-          "description": "Chúng tôi mang đến những trải nghiệm hoàn chỉnh và được tối ưu hóa cao. Việc tập trung vào kiến trúc sạch sẽ và thử nghiệm nghiêm ngặt đảm bảo mọi sản phẩm đều ổn định, hiệu quả và sẵn sàng để thưởng thức ngay từ ngày đầu tiên."
+          "title": "Hoàn thiện & Hiệu quả cao",
+          "description": "Chúng tôi cung cấp các trải nghiệm hoàn chỉnh và được tối ưu hóa cao. Sự tập trung của chúng tôi vào kiến trúc sạch và thử nghiệm nghiêm ngặt đảm bảo rằng mọi sản phẩm đều ổn định, hiệu quả cao và sẵn sàng để thưởng thức ngay từ ngày đầu tiên"
         },
         {
           "title": "Thiết kế trực quan",
-          "description": "Chúng tôi tin rằng phần mềm mạnh mẽ không nhất thiết phải phức tạp. Niềm đam mê của chúng tôi nằm ở việc tạo ra các giao diện sạch sẽ, trực quan giúp mọi tương tác trở nên đơn giản và thú vị."
+          "description": "Chúng tôi tin rằng phần mềm mạnh mẽ không nhất thiết phải phức tạp. Niềm đam mê của chúng tôi nằm ở việc tạo ra các giao diện sạch, trực quan giúp mọi tương tác trở nên đơn giản và thú vị"
         },
         {
-          "title": "Được thúc đẩy bởi sự đổi mới",
-          "description": "Chúng tôi xây dựng với tầm nhìn về tương lai. Bằng cách tận dụng công nghệ phần mềm và phần cứng mới nhất, chúng tôi tạo ra các sản phẩm có tư duy tiến bộ với chức năng mạnh mẽ, tiên tiến."
+          "title": "Được thúc đẩy bởi đổi mới",
+          "description": "Chúng tôi xây dựng với tư duy hướng về tương lai. Bằng cách tận dụng công nghệ phần mềm và phần cứng mới nhất, chúng tôi tạo ra các sản phẩm có tư duy tiến bộ với chức năng mạnh mẽ, tiên tiến"
         },
         {
           "title": "Hỗ trợ tận tâm",
-          "description": "Mối quan hệ của chúng tôi không kết thúc ở việc tải xuống. Chúng tôi cung cấp hỗ trợ thân thiện, phản hồi nhanh chóng trực tiếp từ nhóm của chúng tôi để đảm bảo bạn luôn có trải nghiệm tuyệt vời với các sản phẩm của chúng tôi."
+          "description": "Mối quan hệ của chúng tôi không kết thúc khi bạn tải xuống. Chúng tôi cung cấp hỗ trợ thân thiện, nhanh chóng trực tiếp từ đội ngũ của chúng tôi để đảm bảo bạn luôn có trải nghiệm tuyệt vời với các sản phẩm của chúng tôi"
         },
         {
-          "title": "Sự khéo léo tỉ mỉ",
-          "description": "Chúng tôi tin rằng sự xuất sắc nằm ở các chi tiết. Từ khái niệm đầu tiên đến dòng mã cuối cùng, mọi yếu tố trong công việc của chúng tôi đều được lên kế hoạch chu đáo và thực hiện chính xác để tạo ra một sản phẩm cuối cùng hoàn hảo."
+          "title": "Chế tác tỉ mỉ",
+          "description": "Chúng tôi tin rằng sự xuất sắc nằm ở các chi tiết. Từ ý tưởng đầu tiên đến dòng mã cuối cùng, mọi yếu tố trong công việc của chúng tôi đều được lên kế hoạch cẩn thận và thực hiện chính xác để có một sản phẩm cuối cùng hoàn hảo"
         }
       ]
     },
     "testimonials-page": {
-      "title": "Nhận xét",
-      "subheader": "Xem khách hàng, nhà phát triển và người thử nghiệm của chúng tôi yêu thích điều gì ở sản phẩm của chúng tôi.",
+      "title": "Lời chứng thực",
+      "subheader": "Xem những gì khách hàng, nhà phát triển và người thử nghiệm của chúng tôi yêu thích về các sản phẩm của chúng tôi",
       "testimonial": [
         {
-          "name": "Michael Schenk",
-          "occupation": "Nhà phát triển",
-          "testimonial": "Tôi hoàn toàn yêu thích sự linh hoạt của sản phẩm này! Cho dù tôi đang giải quyết các dự án công việc hay đắm mình trong những sở thích yêu thích của mình, nó đều thích ứng liền mạch với nhu cầu thay đổi của tôi. Thiết kế trực quan của nó đã thực sự nâng cao thói quen hàng ngày của tôi, giúp các công việc trở nên hiệu quả và thú vị hơn."
+          "name": "Nil Akash",
+          "occupation": "Khách hàng",
+          "testimonial": "Trò chơi hay, mọi người đều có thể thưởng thức và chơi!"
+        },
+        {
+          "name": "Joy Roy",
+          "occupation": "Người thử nghiệm (ẩn danh)",
+          "testimonial": "Trò chơi này hoàn toàn hoàn hảo để chơi khi đi du lịch hoặc trong thời gian rảnh rỗi"
+        },
+        {
+          "name": "Anita Roy",
+          "occupation": "Khách hàng (thử nghiệm nội bộ)",
+          "testimonial": "Vui nhộn và nhanh chóng! Cơ chế chạm để quay thật thiên tài. Tôi thích cố gắng phá kỷ lục cao nhất trước đây của mình"
         },
         {
           "name": "Michael Schenk",
           "occupation": "Nhà phát triển",
-          "testimonial": "Một trong những tính năng nổi bật của sản phẩm này là dịch vụ hỗ trợ khách hàng đặc biệt. Theo kinh nghiệm của tôi, đội ngũ đằng sau sản phẩm này đã phản hồi nhanh chóng và vô cùng hữu ích. Thật yên tâm khi biết rằng họ đứng vững đằng sau sản phẩm của mình."
+          "testimonial": "Tôi hoàn toàn yêu thích sự đa năng của sản phẩm này! Dù tôi đang giải quyết các dự án công việc hay đắm mình trong những sở thích yêu thích của mình, nó đều thích ứng liền mạch với các nhu cầu thay đổi của tôi. Thiết kế trực quan của nó thực sự đã cải thiện thói quen hàng ngày của tôi, làm cho các công việc trở nên hiệu quả và thú vị hơn"
         },
         {
           "name": "Michael Schenk",
           "occupation": "Nhà phát triển",
-          "testimonial": "Mức độ đơn giản và thân thiện với người dùng của sản phẩm này đã đơn giản hóa đáng kể cuộc sống của tôi. Tôi đánh giá cao những người sáng tạo đã mang đến một giải pháp không chỉ đáp ứng mà còn vượt qua sự mong đợi của người dùng."
+          "testimonial": "Một trong những tính năng nổi bật của sản phẩm này là sự hỗ trợ khách hàng đặc biệt. Theo kinh nghiệm của tôi, đội ngũ đằng sau sản phẩm này đã phản hồi nhanh chóng và vô cùng hữu ích. Thật yên tâm khi biết rằng họ luôn đứng vững đằng sau sản phẩm của mình"
         },
         {
           "name": "Michael Schenk",
           "occupation": "Nhà phát triển",
-          "testimonial": "Tôi đánh giá cao sự chú ý đến từng chi tiết trong thiết kế của sản phẩm này. Những nét chấm phá nhỏ tạo nên sự khác biệt lớn, và rõ ràng là những người sáng tạo đã tập trung vào việc mang đến một trải nghiệm cao cấp."
-        },
-        {
-          "name": "Michael Schenk",
-          "occupation": "Nhà phát triển",
-          "testimonial": "Tôi đã thử các sản phẩm tương tự khác, nhưng sản phẩm này nổi bật nhờ các tính năng sáng tạo của nó. Rõ ràng là các nhà sản xuất đã suy nghĩ rất nhiều để tạo ra một giải pháp thực sự giải quyết được nhu cầu của người dùng."
-        },
-        {
-          "name": "Michael Schenk",
-          "occupation": "Nhà phát triển",
-          "testimonial": "Chất lượng của sản phẩm này đã vượt quá sự mong đợi của tôi. Nó bền, được thiết kế tốt và được chế tạo để tồn tại lâu dài. Chắc chắn đáng để đầu tư."
+          "testimonial": "Mức độ đơn giản và thân thiện với người dùng trong sản phẩm này đã đơn giản hóa đáng kể cuộc sống của tôi. Tôi đánh giá cao những người sáng tạo đã cung cấp một giải pháp không chỉ đáp ứng mà còn vượt quá mong đợi của người dùng"
         }
       ]
     },

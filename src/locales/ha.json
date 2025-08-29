@@ -1,191 +1,179 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "Ayyuka",
-      "principles": "Ka'idoji",
-      "download": "Sauke",
-      "latest": "Sabon",
-      "testimonials": "Shaida",
-      "faq": "Tambayoyi"
+      "projects": "Siffofi",
+      "principles": "Ka'idodi",
+      "download": "Zazzage",
+      "latest": "Na baya-bayan nan",
+      "testimonials": "Shawarwari",
+      "faq": "Tambayoyin da Ake Yawan Yi"
     },
     "hero-page": {
-      "subtitle": "Mu wani kamfanin kirkire-kirkire ne na Jamus wanda ke amfani da sabuwar fasaha don kirkirar wasannin bidiyo, manhajoji, da kuma abubuwan da suka shafi kafofin watsa labarai masu kayatarwa da saukin amfani ga kowa.",
+      "subtitle": "Mu ne wani gidan bincike mai kirkira da ke Jamus, muna amfani da sabuwar fasahar zamani don ƙirƙira kayatattun wasannin bidiyo, apps, da abubuwan jin daɗin kafofin watsa labarai da kowa zai iya amfani da su",
       "gift": "Gift",
       "bytes": "Bytes",
       "productions": "Productions"
     },
     "download-page": {
-      "title": "Sauke",
-      "subtitle": "Anan zaka iya saukewa da duba ayyukanmu"
+      "title": "Zazzage",
+      "subtitle": "Anan za ka iya zazzagewa da duba ayyukanmu"
     },
     "tiers": {
-      "title1": "Bayanan Ci Gaba",
+      "title1": "Dev Logs",
       "price1": "Kyauta",
       "subheader1": "Akwai",
-      "description10": "Samar da bidiyo mai ingancin situdiyo",
-      "description11": "Zurfin bincike a cikin lambarmu da zane",
-      "description12": "Sadarwa kai tsaye da masu haɓaka mu",
-      "description13": "Akwai a duk duniya a YouTube",
-      "buttontext1": "Biyan Kuɗi Kyauta",
+      "description10": "Shirin bidiyo mai ingancin studio",
+      "description11": "Zurfin bincike a cikin kodinmu da zane",
+      "description12": "Garkuwa kai tsaye da masu haɓaka mu",
+      "description13": "Ana iya samunsa a duk duniya a YouTube",
+      "buttontext1": "Biyan kuɗi kyauta",
       "title2": "TouchSlider",
       "price2": "Kyauta",
-      "subheader2": "An Shawarta",
-      "description20": "Akwai a kan IOS da Android",
-      "description21": "Wasa kyauta ba tare da wani boyayyen kuɗi ba",
-      "description22": "Yana goyan bayan tsofaffin na'urorin hannu",
-      "description23": "Wasa mai sauƙi ga kowane lokaci da rana",
-      "description24": "An gabatar a cikin bayanan ci gaba",
-      "description25": "Taimako",
-      "buttontext21": "Sauke IOS",
-      "buttontext22": "Sauke Android",
-      "title3": "Aiki mai zuwa",
+      "subheader2": "An ba da shawarar",
+      "description20": "Akwai a IOS da Android'",
+      "description21": "Kyauta don wasa ba tare da ɓoyayyen farashi ba",
+      "description22": "Yana goyan bayan tsoffin wayoyin hannu",
+      "description23": "Wasan mai sauƙi don kowane lokaci da rana",
+      "description24": "An gabatar da shi a cikin dev logs",
+      "description25": "Goyon baya",
+      "buttontext21": "Zazzage IOS",
+      "buttontext22": "Zazzage Android",
+      "title3": "Aikin da ke zuwa",
       "price3": "Kyauta",
-      "subheader3": "Ana kan aiki",
+      "subheader3": "Ana ci gaba",
       "description30": "Akwai don Windows, Macos da Linux",
-      "description31": "Rarrabawa ta hanyar Steam da Apple Store",
+      "description31": "Rarraba ta hanyar Steam da Apple Store",
       "description32": "Akwai a cikin harsuna daban-daban",
-      "description33": "Taimako",
-      "buttontext3": "Za a sanar"
+      "description33": "Goyon baya",
+      "buttontext3": "Za a sanar da shi nan ba da daɗewa ba"
     },
     "faq": {
-      "title": "Tambayoyin da aka saba yi",
-      "subtitle1": "Ta yaya zan tuntubi tallafin abokin ciniki idan ina da tambaya ko matsala?",
-      "description1": "Kuna iya tuntuɓar ƙungiyar tallafin abokin cinikinmu ta hanyar imel a: ",
-      "subtitle2": "Me ya sa samfurinku ya bambanta da sauran a kasuwa?",
-      "description2": "Samfurinmu ya bambanta ta hanyar daidaitawa, dorewa, da sabbin abubuwa. Muna ba da fifiko ga gamsuwa mai amfani kuma muna ci gaba da ƙoƙarin wuce tsammanin a kowane fanni.",
-      "subtitle3": "Ta yaya zan iya tallafawa GiftBytesProductions?",
-      "description3": "Kun riga kun taimaka mana ta hanyar gwada ayyukanmu da ba da shawarar su. In ba haka ba, kuna iya biyan kuɗin tasharmu ta YouTube kuma ku shiga cikin al'umma. Don ƙarin tallafi, kuna iya ba mu gudummawa kai tsaye ta hanyar PayPal."
+      "title": "Tambayoyin da Ake Yawan Yi",
+      "subtitle1": "Ta yaya zan iya tuntuɓar goyon bayan abokin ciniki idan ina da tambaya ko matsala?",
+      "description1": "Za ka iya isa ga goyon bayan abokin ciniki ta hanyar aika da imel: ",
+      "subtitle2": "Menene ya sa samfurinku ya bambanta daga sauran a kasuwa?",
+      "description2": "Samfurinmu ya bambanta kansa ta hanyar daidaitawar sa, dawwama, da sabbin siffofi. Muna ba da fifiko ga gamsuwa na mai amfani kuma muna ci gaba da ƙoƙari don wuce tsammanin a kowane fanni",
+      "subtitle3": "Ta yaya zan iya goyon bayan GiftBytesProductions?",
+      "description3": "Kana taimaka mana tuni ta hanyar gwada ayyukanmu da bada shawarar su. In ba haka ba, za ka iya yin rajista a tashar YouTube ɗinmu kuma ka shiga cikin jama'a. Don ƙarin goyon baya za ka iya kuma ba da gudummawa kai tsaye ta hanyar PayPal"
     },
     "feature-page": {
-      "title": "Fasaloli",
-      "subheader": "Binciko fasaloli masu ƙarfi waɗanda ke sa aikace-aikacenmu ya fice.",
+      "title": "Siffofi",
+      "subheader": "Mun sadaukar da kai don ƙirƙira ingantattun abubuwan dijital da suke da sauƙin amfani, masu amfani da yawa, kuma an tsara su ta hanyar jama'armu. Anan akwai yadda muke kusanci ga ayyukanmu.",
       "items": [
         {
-          "title": "Zane-zanen Farko na Waya",
-          "description": "An tsara manhajarmu da tsarin farko na wayar hannu, wanda ke tabbatar da ingantacciyar kwarewa a kowace na'ura."
+          "title": "Maras laushi a duk na'urori",
+          "description": "Kwarewarka bai kamata ta kasance daura da allo guda ɗaya ba. An tsara ayyukanmu sosai don gudu ba tare da matsala ba a kowace na'ura—daga kwamfyutocin tebur da na'urorin da ake ɗauka har zuwa wayoyin hannu da tsofaffi da sababbi."
         },
         {
-          "title": "Dashboard Mai Sauƙin Fahimta",
-          "description": "Dashboard mai tsabta da tsari wanda ke ba ku cikakken bayani a kallo ɗaya."
+          "title": "Kirkira ba tare da farashi ba",
+          "description": "Muna gaskata cewa manyan software da nishaɗi ya kamata su kasance ga kowa. Yawancin ayyukanmu kyauta ne gaba ɗaya, tare da software mai daraja da ake miƙa a farashi mai sauƙi, mai adalci."
         },
         {
-          "title": "Daidaituwa Tsakanin Na'urori",
-          "description": "Ji daɗin ingantacciyar kwarewa mai ƙarfi ko kuna kan kwamfutar tebur, kwamfutar hannu, ko wayar salula."
+          "title": "Goyon bayan da jama'a suka jawo",
+          "description": "Mu ba masu haɓakawa bane kawai; mu wani ɓangare ne na jama'a. Muna bunkasa a kan ra'ayoyinku kuma muna samar da goyon baya kai tsaye, mai amsa don tabbatar da cewa ayyukanmu sun ci gaba tare da bukatunku."
         }
       ]
     },
     "footer-page": {
-      "left-title": "Shiga cikin al'ummarmu",
-      "left-button": "Biyan Kuɗi",
+      "left-title": "Ku shiga cikin jama'armu",
+      "left-button": "Yi rajista kyauta",
       "policy": "Manufar Sirri",
-      "terms": "Sharuɗɗan Sabis",
+      "terms": "Sharuɗɗan sabis",
       "copyright": "Haƙƙin mallaka © ",
       "giftbytes": "GiftBytesProductions"
     },
     "latest-page": {
-      "title": "Sabon",
+      "title": "Na baya-bayan nan",
       "article": [
         {
           "tag": "Ayyuka",
           "title": "Sanarwar sabon aiki",
-          "description": "Muna sanar da cewa sabon aikinmu zai zama wasan bidiyo na kwamfutar tebur kyauta wanda zai kasance a kan dukkan tsarin aiki da dandamali.",
-          "author": "Michael Schenk, Mai Haɓakawa"
-        },
-        {
-          "tag": "Yanar Gizo",
-          "title": "Sabon yanar gizo",
-          "description": "Muna sanar da cewa a ƙarshe gidan yanar gizonmu yana kan layi kuma a bayyane yake.",
-          "author": "Michael Schenk, Mai Haɓakawa"
+          "description": "Mun sanar da cewa sabon aikinmu zai zama wasan bidiyo na kwamfyutocin tebur kyauta wanda zai kasance a duk tsarin aiki da dandamali",
+          "author": "Michael Schenk, Mai haɓaka"
         },
         {
           "tag": "Ayyuka",
           "title": "TouchSlider yana kan layi",
-          "description": "Muna sanar da cewa wasan bidiyo na wayar hannu TouchSlider yana samuwa don saukewa kyauta a kan IOS da Android.",
-          "author": "Michael Schenk, Mai Haɓakawa"
+          "description": "Mun sanar da cewa wasan bidiyo na wayoyinmu TouchSlider yana nan don zazzagewa kyauta don IOS da Android",
+          "author": "Michael Schenk, Mai haɓaka"
         },
         {
-          "tag": "Kamfani",
-          "title": "",
-          "description": "",
-          "author": "Michael Schenk, Mai Haɓakawa"
+          "tag": "Gidan yanar gizo",
+          "title": "Sabuwar gidan yanar gizo",
+          "description": "Mun sanar da cewa gidan yanar gizonmu yana nan a kan layi kuma a bainar jama'a",
+          "author": "Michael Schenk, Mai haɓaka"
         },
         {
-          "tag": "Injiniyanci",
-          "title": "",
-          "description": "",
-          "author": "Michael Schenk, Mai Haɓakawa"
-        },
-        {
-          "tag": "Samfur",
-          "title": "",
-          "description": "",
-          "author": "Michael Schenk, Mai Haɓakawa"
+          "tag": "Gidan yanar gizo",
+          "title": "Sabon yanki",
+          "description": "Mun sanar da cewa an yi rajistar yankinmu",
+          "author": "Michael Schenk, Mai haɓaka"
         }
       ]
     },
     "principles-page": {
-      "title": "Ka'idojinmu",
-      "subheader": "Waɗannan dabi'u suna cikin zuciyar duk abin da muke ginawa, daga layin farko na lamba zuwa kwarewar mai amfani ta ƙarshe.",
+      "title": "Ka'idodinmu",
+      "subheader": "Waɗannan ƙa'idodi suna a tsakiyar duk abin da muke ginawa, daga farkon layin kodi har zuwa ƙarshen ƙwarewar mai amfani",
       "items": [
         {
-          "title": "Akwai a Ko'ina",
-          "description": "Mun yi imanin cewa babban software ya kamata ya yi aiki ga kowa, a kowace na'ura. An tsara ayyukanmu da kyau don daidaituwa tsakanin dandamali da samun dama daga farko."
+          "title": "Ana iya samu a ko'ina",
+          "description": "Muna gaskata cewa babban software ya kamata ya yi aiki ga kowa, a kowace na'ura. An tsara ayyukanmu da kulawa don dacewa da dukkan dandamali da kuma samuwa daga tushe"
         },
         {
-          "title": "Goge da Inganci",
-          "description": "Muna ba da cikakkun abubuwan da aka inganta sosai. Mayar da hankalinmu kan tsaftataccen gine-gine da gwaji mai tsauri yana tabbatar da cewa kowane samfurin yana da kwanciyar hankali, inganci, kuma a shirye yake don jin daɗi daga rana ta farko."
+          "title": "Gogagge & Mai Aiki",
+          "description": "Muna samar da cikakkun abubuwan da aka haɓaka sosai. Mayar da hankali kan tsabtacccen tsari da gwaje-gwaje masu tsanani yana tabbatar da cewa kowane samfurin yana da kwanciyar hankali, mai aiki, kuma a shirye don jin daɗi daga ranar farko"
         },
         {
-          "title": "Zane Mai Sauƙin Fahimta",
-          "description": "Mun yi imanin cewa software mai ƙarfi ba dole ba ne ya zama mai rikitarwa. Sha'awarmu tana cikin ƙirƙirar tsaftatattun hanyoyin sadarwa masu sauƙin fahimta waɗanda ke sa kowane hulɗa ya zama mai sauƙi da daɗi."
+          "title": "Tsarin mai sauƙin fahimta",
+          "description": "Muna gaskata cewa software mai ƙarfi ba lallai bane ya zama mai rikitarwa. Sha'awarmu ta'a cikin ƙirƙira tsabtacccen, mai sauƙin fahimta wanda ke sa kowane garkuwa ya zama mai sauƙi da daɗi"
         },
         {
-          "title": "Ƙarfafawa ta hanyar Ƙirƙira",
-          "description": "Muna ginawa tare da tunanin gaba. Ta hanyar amfani da sabuwar fasahar software da kayan aiki, muna ƙirƙirar samfuran da ke tunanin gaba tare da ayyuka masu ƙarfi, na zamani."
+          "title": "An jawo shi ta hanyar kirkiro",
+          "description": "Muna ginawa da tunanin nan gaba. Ta hanyar amfani da sabuwar software da fasahar kayan aiki, muna ƙirƙira samfurori masu hangen nesa tare da aiki mai ƙarfi, na zamani"
         },
         {
-          "title": "Taimako na Musamman",
-          "description": "Dangantakarmu ba ta ƙarewa a saukewa. Muna ba da tallafi mai daɗi, mai saurin amsawa kai tsaye daga ƙungiyarmu don tabbatar da cewa koyaushe kuna da kyakkyawar kwarewa da samfuranmu."
+          "title": "Goyon bayan da aka sadaukar",
+          "description": "Dangantakarmu ba ta ƙare a kan zazzagewa ba. Muna samar da goyon baya mai aminci, mai amsa kai tsaye daga tawagarmu don tabbatar da cewa kullum kana da babban gogewa tare da samfuranmu"
         },
         {
-          "title": "Sana'a Mai Kyau",
-          "description": "Mun yi imanin cewa nagarta tana cikin cikakkun bayanai. Daga ra'ayi na farko zuwa layin ƙarshe na lamba, kowane ɓangare na aikinmu an tsara shi da kyau kuma an aiwatar da shi daidai don samfurin ƙarshe mara aibu."
+          "title": "Kwarewa mai kulawa",
+          "description": "Muna gaskata cewa kyawawa yana cikin cikakkun bayanai. Daga farkon tunani zuwa layin kodi na ƙarshe, an tsara kowane ɓangare na aikinmu sosai kuma an aiwatar da shi daidai don samfurin ƙarshe ba tare da lahani ba"
         }
       ]
     },
     "testimonials-page": {
-      "title": "Shaida",
-      "subheader": "Duba abin da abokan cinikinmu, masu haɓakawa, da masu gwadawa ke so game da samfuranmu.",
+      "title": "Shawarwari",
+      "subheader": "Dubi abin da abokan ciniki, masu haɓakawa da masu gwaji suka fi so game da samfuranmu",
       "testimonial": [
         {
-          "name": "Michael Schenk",
-          "occupation": "Mai Haɓakawa",
-          "testimonial": "Ina matukar son yadda wannan samfurin yake da yawa! Ko ina aiki a kan ayyukan aiki ko ina cikin abubuwan da na fi so, yana dacewa da bukatuna masu canzawa. Zane-zanensa mai sauƙin fahimta ya inganta rayuwata ta yau da kullun, yana sa ayyuka su zama masu inganci da daɗi."
+          "name": "Nil Akash",
+          "occupation": "Abokin ciniki",
+          "testimonial": "Wasan mai kyau, kowa zai iya jin daɗin sa kuma ya yi wasa!"
+        },
+        {
+          "name": "Joy Roy",
+          "occupation": "Mai gwaji (ba a san shi ba)",
+          "testimonial": "Wannan wasan cikakke ne don wasa yayin tafiya ko a lokacin nishaɗi"
+        },
+        {
+          "name": "Anita Roy",
+          "occupation": "Abokin ciniki (gwaji na ciki)",
+          "testimonial": "Wasan mai daɗi da sauri! Hanyar 'matsa-don-juyawa' na da kaifin basira. Ina son gwada karya babban ƙimar da nake da shi a baya"
         },
         {
           "name": "Michael Schenk",
-          "occupation": "Mai Haɓakawa",
-          "testimonial": "Ɗaya daga cikin fitattun fasalulluka na wannan samfurin shine goyon bayan abokin ciniki na musamman. A cikin kwarewata, ƙungiyar da ke bayan wannan samfurin ta kasance mai saurin amsawa kuma tana da taimako sosai. Yana da tabbaci sanin cewa suna tsaye a bayan samfuransu."
+          "occupation": "Mai haɓaka",
+          "testimonial": "Ina son yadda wannan samfurin yake da amfani da yawa! Ko da ina magance ayyukan aiki ko ina jin daɗin abubuwan da na fi so, yana daidaita da bukatuna masu canzawa ba tare da matsala ba. Tsarin sa mai sauƙin fahimta ya inganta tsarin yau da kullum, wanda ya sa ayyuka suka fi inganci da daɗi"
         },
         {
           "name": "Michael Schenk",
-          "occupation": "Mai Haɓakawa",
-          "testimonial": "Matsayin sauƙi da sauƙin amfani a cikin wannan samfurin ya sauƙaƙa rayuwata sosai. Ina godiya ga masu kirkirar don samar da mafita wanda ba wai kawai ya cika ba, har ma ya wuce tsammanin mai amfani."
+          "occupation": "Mai haɓaka",
+          "testimonial": "Ɗaya daga cikin manyan siffofin wannan samfurin shine goyon bayan abokin ciniki na musamman. A cikin kwarewata, ƙungiyar da ke bayan wannan samfurin tana da sauri don amsawa kuma tana da matuƙar taimako. Yana da kwanciyar hankali a san cewa suna tsaye da ƙarfi a bayan samfurin su"
         },
         {
           "name": "Michael Schenk",
-          "occupation": "Mai Haɓakawa",
-          "testimonial": "Ina godiya da kulawa da dalla-dalla a cikin zane na wannan samfurin. Ƙananan abubuwa suna yin babban bambanci, kuma a bayyane yake cewa masu kirkirar sun mai da hankali kan samar da kwarewa mai inganci."
-        },
-        {
-          "name": "Michael Schenk",
-          "occupation": "Mai Haɓakawa",
-          "testimonial": "Na gwada wasu samfuran makamantan su, amma wannan ya fice saboda sabbin fasalulluka. A bayyane yake cewa masu yin sun yi tunani sosai wajen ƙirƙirar mafita wanda da gaske yake magance bukatun mai amfani."
-        },
-        {
-          "name": "Michael Schenk",
-          "occupation": "Mai Haɓakawa",
-          "testimonial": "Ingancin wannan samfurin ya wuce tsammanina. Yana da dorewa, an tsara shi da kyau, kuma an gina shi don ya daɗe. Tabbas ya cancanci saka hannun jari."
+          "occupation": "Mai haɓaka",
+          "testimonial": "Matakin sauƙi da dacewa da mai amfani a cikin wannan samfurin ya sauƙaƙe rayuwata sosai. Ina gode wa masu ƙirƙira don samar da mafita wanda ba wai kawai ya cika, amma ya wuce tsammanin masu amfani ba"
         }
       ]
     },
