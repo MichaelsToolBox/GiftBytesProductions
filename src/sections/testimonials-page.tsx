@@ -30,25 +30,7 @@ export default function Testimonials() {
       name: t("testimonials-page.testimonial.2.name"),
       occupation: t("testimonials-page.testimonial.2.occupation"),
       testimonial: t("testimonials-page.testimonial.2.testimonial"),
-    },
-    {
-      avatar: <Avatar alt="Michael Schenk" src="/static/images/avatar/1.jpg" />,
-      name: t("testimonials-page.testimonial.3.name"),
-      occupation: t("testimonials-page.testimonial.3.occupation"),
-      testimonial: t("testimonials-page.testimonial.3.testimonial"),
-    },
-    {
-      avatar: <Avatar alt="Michael Schenk" src="/static/images/avatar/1.jpg" />,
-      name: t("testimonials-page.testimonial.4.name"),
-      occupation: t("testimonials-page.testimonial.4.occupation"),
-      testimonial: t("testimonials-page.testimonial.4.testimonial"),
-    },
-    {
-      avatar: <Avatar alt="Michael Schenk" src="/static/images/avatar/1.jpg" />,
-      name: t("testimonials-page.testimonial.5.name"),
-      occupation: t("testimonials-page.testimonial.5.occupation"),
-      testimonial: t("testimonials-page.testimonial.5.testimonial"),
-    },
+    }
   ];
 
   return (
