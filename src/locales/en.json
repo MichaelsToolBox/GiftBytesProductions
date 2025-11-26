@@ -40,12 +40,12 @@
       "buttontext22": "Download Android",
       "title3": "Chronomaze",
       "price3": "Free",
-      "subheader3": "In progress",
+      "subheader3": "8th of December",
       "description30": "Available for Windows, Macos and Linux",
       "description31": "Distribution through Steam, Itch.io and Apple Store",
       "description32": "Puzzle game",
       "description33": "Support",
-      "buttontext3": "To be announced"
+      "buttontext3": "Preview"
     },
     "faq":{
       "title": "Frequently asked questions",
@@ -87,7 +87,7 @@
       "article": [
         {
           "tag": "Projects",
-          "title": "New Project announcement",
+          "title": "Chronomaze will release on 8th of December",
           "description": "We announce that our new project will be a free to play desktop video game that will be available on all operating systems and platforms",
           "author": "Michael Schenk, Developer"
         },

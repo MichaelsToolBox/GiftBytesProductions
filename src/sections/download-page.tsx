@@ -63,7 +63,7 @@ export default function Download() {
       buttonText: t("tiers.buttontext3"),
       buttonVariant: 'outlined',
       buttonColor: 'primary',
-      buttonLink: '#',
+      buttonLink: 'https://store.steampowered.com/app/4180250/Chronomaze_Gravity_Maze/',
     },
   ];
 
