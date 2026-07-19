@@ -12,7 +12,9 @@
       "subtitle": "Nous sommes un studio de développement créatif basé en Allemagne qui exploite les dernières technologies pour créer des jeux vidéo, des applications et des expériences médiatiques captivantes et accessibles à tous",
       "gift": "Gift",
       "bytes": "Bytes",
-      "productions": "Productions"
+      "productions": "Productions",
+      "cta-primary": "Obtenir Chronomaze",
+      "cta-secondary": "Voir sur YouTube"
     },
     "download-page": {
       "title": "Télécharger",

@@ -31,7 +31,9 @@ export default function LogoCollection() {
           >
             <img
               src={logo}
-              alt={`Logo ${index + 1}`}
+              alt={`Partner logo ${index + 1}`}
+              loading="lazy"
+              decoding="async"
               style={{
                 width: '100%',
                 height: '100%',

@@ -12,7 +12,9 @@
       "subtitle": "Somos um estúdio de desenvolvimento criativo com sede na Alemanha, que utiliza a tecnologia mais recente para criar videojogos, aplicações e experiências de média cativantes e acessíveis a todos",
       "gift": "Gift",
       "bytes": "Bytes",
-      "productions": "Productions"
+      "productions": "Productions",
+      "cta-primary": "Obter Chronomaze",
+      "cta-secondary": "Ver no YouTube"
     },
     "download-page": {
       "title": "Download",
@@ -170,7 +172,7 @@
           "occupation": "Programador",
           "testimonial": "Uma das características mais notáveis deste produto é o seu apoio ao cliente excecional. Na minha experiência, a equipa por trás deste produto tem sido rápida a responder e incrivelmente útil. É reconfortante saber que eles apoiam firmemente o seu produto"
         },
-          {
+        {
           "name": "Michael Schenk",
           "occupation": "Programador",
           "testimonial": "O nível de simplicidade e facilidade de utilização neste produto simplificou significativamente a minha vida. Agradeço aos criadores por fornecerem uma solução que não só satisfaz, mas excede as expectativas do utilizador"

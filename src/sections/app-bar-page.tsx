@@ -4,12 +4,13 @@ import ColorModeIconDropdown from '../theme/mode-icon-dropdown';
 import CloseRoundedIcon from '@mui/icons-material/CloseRounded';
 import { StyledToolbar } from '../utils/styles/styled-toolbar';
 import { Language } from '../utils/types/language-types';
-import SitemarkIcon from '../utils/styles/app-bar-icon';
+import BrandLogo from '../utils/styles/app-bar-icon';
 import IconButton from '@mui/material/IconButton';
 import Container from '@mui/material/Container';
 import MenuIcon from '@mui/icons-material/Menu';
 import { useTranslation } from 'react-i18next';
 import MenuItem from '@mui/material/MenuItem';
+import { loadLanguage } from '../i18n';
 import AppBar from '@mui/material/AppBar';
 import Button from '@mui/material/Button';
 import Drawer from '@mui/material/Drawer';
@@ -20,11 +21,12 @@ export default function AppAppBar() {
   const { i18n, t } = useTranslation();
   const [open, setOpen] = React.useState(false);
 
-  const currentLanguageCode = i18n.language;
+  const currentLanguageCode = i18n.language.split('-')[0];
   const currentLanguage = availableLanguages.find(l => l.code === currentLanguageCode) || availableLanguages[0];
 
-  const handleLanguageChange = (newLanguage: Language) => {
-    i18n.changeLanguage(newLanguage.code);
+  const handleLanguageChange = async (newLanguage: Language) => {
+    await loadLanguage(newLanguage.code);
+    await i18n.changeLanguage(newLanguage.code);
   };
 
   const toggleDrawer = (newOpen: boolean) => () => {
@@ -33,7 +35,7 @@ export default function AppAppBar() {
 
   const scrollToSection = (sectionId: string) => {
     const sectionElement = document.getElementById(sectionId);
-    const offset = 80; // Adjust this value to perfectly match your app bar's height
+    const offset = 80;
 
     if (sectionElement) {
       const elementPosition = sectionElement.getBoundingClientRect().top;
@@ -47,11 +49,11 @@ export default function AppAppBar() {
   };
 
   return (
-    <AppBar position="fixed" enableColorOnDark sx={{ boxShadow: 0, bgcolor: 'transparent', backgroundImage: 'none', mt: 'calc(var(--template-frame-height, 0px) + 28px)' }}>
-      <Container maxWidth="lg">
+    <AppBar position="fixed" enableColorOnDark sx={{ boxShadow: 0, bgcolor: 'transparent', backgroundImage: 'none', mt: { xs: 'calc(var(--template-frame-height, 0px) + 12px)', sm: 'calc(var(--template-frame-height, 0px) + 28px)' } }}>
+      <Container maxWidth="lg" sx={{ px: { xs: 1.5, sm: 3 } }}>
         <StyledToolbar variant="dense" disableGutters>
           <Box sx={{ flexGrow: 1, display: 'flex', alignItems: 'center', px: 0 }}>
-            <SitemarkIcon />
+            <BrandLogo />
             <Box sx={{ display: { xs: 'none', md: 'flex' } }}>
               <Button variant="text" color="info" size="small" onClick={() => scrollToSection('features')}>{t('app-bar.projects')}</Button>
               <Button variant="text" color="info" size="small" onClick={() => scrollToSection('principles')}>{t('app-bar.principles')}</Button>

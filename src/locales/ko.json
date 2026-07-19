@@ -12,7 +12,9 @@
       "subtitle": "저희는 독일 기반의 창의적 개발 스튜디오로, 최신 기술을 활용해 모두를 위한 매력적이고 접근성 높은 비디오 게임, 앱 및 미디어 경험을 제작합니다",
       "gift": "Gift",
       "bytes": "Bytes",
-      "productions": "Productions"
+      "productions": "Productions",
+      "cta-primary": "Chronomaze 받기",
+      "cta-secondary": "YouTube에서 보기"
     },
     "download-page": {
       "title": "다운로드",

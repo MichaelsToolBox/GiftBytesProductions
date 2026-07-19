@@ -1,11 +1,11 @@
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
-import SitemarkIcon from '../utils/styles/app-bar-icon';
+import BrandLogo from '../utils/styles/app-bar-icon';
 import GitHubIcon from '@mui/icons-material/GitHub';
 import Typography from '@mui/material/Typography';
 import IconButton from '@mui/material/IconButton';
 import Container from '@mui/material/Container';
 import { useTranslation } from 'react-i18next';
-import { YouTube } from '@mui/icons-material';
+import YouTubeIcon from '@mui/icons-material/YouTube';
 import Button from '@mui/material/Button';
 import Stack from '@mui/material/Stack';
 import Link from '@mui/material/Link';
@@ -22,7 +22,7 @@ export default function Footer() {
       <Box sx={{display: 'flex', flexDirection: { xs: 'column', sm: 'row' }, width: '100%', justifyContent: 'space-between'}}>
         <Box sx={{display: 'flex', flexDirection: 'column', gap: 4, minWidth: { xs: '100%', sm: '60%' }}}>
           <Box sx={{ width: { xs: '100%', sm: '60%' } }}>
-            <SitemarkIcon />
+            <BrandLogo />
             <Typography variant="body2" gutterBottom sx={{ fontWeight: 600, mt: 2, mb: 4 }}>
               {t("footer-page.left-title")}
             </Typography>
@@ -47,7 +47,7 @@ export default function Footer() {
           <IconButton
             color="inherit"
             size="large"
-            href="https://github.com/mui"
+            href="https://github.com/MichaelsToolBox"
             aria-label="GitHub"
             sx={{ alignSelf: 'center' }}
           >
@@ -57,10 +57,10 @@ export default function Footer() {
             color="inherit"
             size="large"
             href="https://www.youtube.com/@GiftBytesProductions"
-            aria-label="X"
+            aria-label="YouTube"
             sx={{ alignSelf: 'center' }}
           >
-            <YouTube />
+            <YouTubeIcon />
           </IconButton>
           <IconButton
             color="inherit"

@@ -12,7 +12,9 @@
       "subtitle": "Мы — креативная студия разработки из Германии, использующая новейшие технологии для создания увлекательных и доступных видеоигр, приложений и медиа-опытов для всех",
       "gift": "Gift",
       "bytes": "Bytes",
-      "productions": "Productions"
+      "productions": "Productions",
+      "cta-primary": "Получить Chronomaze",
+      "cta-secondary": "Смотреть на YouTube"
     },
     "download-page": {
       "title": "Скачать",

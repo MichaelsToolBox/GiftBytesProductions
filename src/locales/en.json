@@ -12,15 +12,17 @@
       "subtitle": "We are a German-based creative development studio leveraging the latest technology to craft captivating and accessible video games, apps, and media experiences for everyone",
       "gift": "Gift",
       "bytes": "Bytes",
-      "productions": "Productions"
+      "productions": "Productions",
+      "cta-primary": "Get Chronomaze",
+      "cta-secondary": "Watch on YouTube"
     },
     "download-page": {
       "title": "Download",
       "subtitle": "Here you can download and view our projects"
     },
-    "tiers":{
+    "tiers": {
       "title1": "Dev Logs",
-      "price1":" Free",
+      "price1": " Free",
       "subheader1": "Available",
       "description10": "Studio-quality video production",
       "description11": "Deep dives into our code and design",
@@ -47,7 +49,7 @@
       "description33": "Support",
       "buttontext3": "Preview"
     },
-    "faq":{
+    "faq": {
       "title": "Frequently asked questions",
       "subtitle1": "How do I contact customer support if I have a question or issue",
       "description1": "You can reach our customer support team by emailing: ",
@@ -57,24 +59,24 @@
       "description3": "You are helping us already by just trying out our projects and recommending it. Otherwise you can subscribe to our youtube channel and engage with the community. For additional support you also donate us directly through PayPal"
     },
     "feature-page": {
-    "title": "Features",
-    "subheader": "We are dedicated to creating high-quality digital experiences that are accessible, versatile, and shaped by our community. Here's how we approach our projects.",
-    "items": [
-      {
-        "title": "Seamless Across Devices",
-        "description": "Your experience shouldn't be tied to one screen. Our projects are meticulously optimized to run smoothly on any device—from desktops and laptops to tablets and mobile phones, both old and new."
-      },
-      {
-        "title": "Creativity Without Cost",
-        "description": "We believe great software and entertainment should be available to everyone. Most of our projects are completely free, with premium software offered at a minimal, fair price."
-      },
-      {
-        "title": "Community-Powered Support",
-        "description": "We're not just developers; we're part of the community. We thrive on your feedback and provide direct, responsive support to ensure our projects evolve with your needs."
-      }
-    ]
+      "title": "Features",
+      "subheader": "We are dedicated to creating high-quality digital experiences that are accessible, versatile, and shaped by our community. Here's how we approach our projects.",
+      "items": [
+        {
+          "title": "Seamless Across Devices",
+          "description": "Your experience shouldn't be tied to one screen. Our projects are meticulously optimized to run smoothly on any device—from desktops and laptops to tablets and mobile phones, both old and new."
+        },
+        {
+          "title": "Creativity Without Cost",
+          "description": "We believe great software and entertainment should be available to everyone. Most of our projects are completely free, with premium software offered at a minimal, fair price."
+        },
+        {
+          "title": "Community-Powered Support",
+          "description": "We're not just developers; we're part of the community. We thrive on your feedback and provide direct, responsive support to ensure our projects evolve with your needs."
+        }
+      ]
     },
-    "footer-page":{
+    "footer-page": {
       "left-title": "Join our community",
       "left-button": "Subscribe for free",
       "policy": "Privacy Policy",
@@ -82,7 +84,7 @@
       "copyright": "Copyright © ",
       "giftbytes": "GiftBytesProductions"
     },
-    "latest-page":{
+    "latest-page": {
       "title": "Latest",
       "article": [
         {
@@ -111,10 +113,10 @@
         }
       ]
     },
-    "principles-page":{
+    "principles-page": {
       "title": "Our principles",
       "subheader": "These values are at the heart of everything we build, from the first line of code to the final user experience",
-      "items":[
+      "items": [
         {
           "title": "Accessible Everywhere",
           "description": "We believe great software should work for everyone, on any device. Our projects are meticulously engineered for cross-platform compatibility and accessibility from the ground up"
@@ -127,7 +129,7 @@
           "title": "Intuitive Desing",
           "description": "We believe powerful software doesn't have to be complicated. Our passion lies in crafting clean, intuitive interfaces that make every interaction straightforward and enjoyable"
         },
-           {
+        {
           "title": "Powered by Innovation",
           "description": "We build with the future in mind. By leveraging the latest in software and hardware technology, we create forward-thinking products with powerful, cutting-edge functionality"
         },
@@ -141,11 +143,10 @@
         }
       ]
     },
-    "testimonials-page":{
+    "testimonials-page": {
       "title": "Testimonials",
       "subheader": "See what our customers, developers and testers love about our products",
-      "testimonial":
-      [
+      "testimonial": [
         {
           "name": "Nil Akash",
           "occupation": "Customer",
@@ -159,7 +160,7 @@
         {
           "name": "Anita Roy",
           "occupation": "Customer (internal testing)",
-          "testimonial":"Fun and fast-paced! The tapo-to-turn mechanic is genius. Love trying to beat my previous high score"
+          "testimonial": "Fun and fast-paced! The tapo-to-turn mechanic is genius. Love trying to beat my previous high score"
         },
         {
           "name": "Michael Schenk",
@@ -174,11 +175,11 @@
         {
           "name": "Michael Schenk",
           "occupation": "Developer",
-          "testimonial":"The level of simplicity and user-friendliness in this product has significantly simplified my life. I appreciate the creators for delivering a solution that not only meets but exceeds user expectations"
+          "testimonial": "The level of simplicity and user-friendliness in this product has significantly simplified my life. I appreciate the creators for delivering a solution that not only meets but exceeds user expectations"
         }
       ]
     },
-    "mode":{
+    "mode": {
       "system": "System",
       "light": "Light",
       "dark": "Dark"

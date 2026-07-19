@@ -12,7 +12,9 @@
       "subtitle": "Kami ialah sebuah studio pembangunan kreatif yang berpangkalan di Jerman, memanfaatkan teknologi terkini untuk mencipta permainan video, aplikasi dan pengalaman media yang menawan dan mudah diakses untuk semua",
       "gift": "Gift",
       "bytes": "Bytes",
-      "productions": "Productions"
+      "productions": "Productions",
+      "cta-primary": "Dapatkan Chronomaze",
+      "cta-secondary": "Tonton di YouTube"
     },
     "download-page": {
       "title": "Muat Turun",
@@ -135,7 +137,7 @@
           "title": "Sokongan Berdedikasi",
           "description": "Hubungan kami tidak berakhir pada muat turun. Kami menyediakan sokongan yang mesra dan responsif secara langsung daripada pasukan kami untuk memastikan anda mempunyai pengalaman yang hebat dengan produk kami, sentiasa"
         },
-          {
+        {
           "title": "Ketukangan Teliti",
           "description": "Kami percaya kecemerlangan terletak pada butiran. Daripada konsep pertama hingga baris kod terakhir, setiap elemen kerja kami dirancang dengan teliti dan dilaksanakan dengan tepat untuk produk akhir yang sempurna"
         }

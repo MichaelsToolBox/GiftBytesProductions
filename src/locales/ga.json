@@ -12,7 +12,9 @@
       "subtitle": "Is stiúideo forbartha cruthaitheach é GiftBytesProductions atá lonnaithe sa Ghearmáin, a bhaineann leas as an teicneolaíocht is déanaí chun físchluichí, aipeanna agus eispéiris meán tarraingteacha agus inrochtana a chruthú do chách",
       "gift": "Gift",
       "bytes": "Bytes",
-      "productions": "Productions"
+      "productions": "Productions",
+      "cta-primary": "Faigh Chronomaze",
+      "cta-secondary": "Féach ar YouTube"
     },
     "download-page": {
       "title": "Íoslódáil",

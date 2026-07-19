@@ -12,7 +12,9 @@
       "subtitle": "Jsme německé kreativní vývojové studio, které využívá nejnovější technologie k vytváření poutavých a dostupných videoher, aplikací a mediálních zážitků pro každého",
       "gift": "Gift",
       "bytes": "Bytes",
-      "productions": "Productions"
+      "productions": "Productions",
+      "cta-primary": "Získat Chronomaze",
+      "cta-secondary": "Sledovat na YouTube"
     },
     "download-page": {
       "title": "Stáhnout",
@@ -68,7 +70,7 @@
           "title": "Kreativita bez nákladů",
           "description": "Věříme, že skvělý software a zábava by měly být dostupné pro každého. Většina našich projektů je zcela zdarma, přičemž prémiový software je nabízen za minimální, spravedlivou cenu."
         },
-            {
+        {
           "title": "Podpora řízená komunitou",
           "description": "Nejsme jen vývojáři; jsme součástí komunity. Daří se nám díky vaší zpětné vazbě a poskytujeme přímou, vstřícnou podporu, abychom zajistili, že se naše projekty vyvíjejí s vašimi potřebami."
         }

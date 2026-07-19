@@ -12,7 +12,9 @@
       "subtitle": "Em stûdyoyek pêşkeftina afirîner a Alman in, ku teknolojiya herî dawî bikar tînin da ku lîstikên vîdyoyê, sepanan û ezmûnên medyayê yên balkêş û gihîştî ji bo her kesî biafirînin",
       "gift": "Diyarî",
       "bytes": "Bayt",
-      "productions": "Hilberîn"
+      "productions": "Hilberîn",
+      "cta-primary": "Chronomaze bistîne",
+      "cta-secondary": "Li YouTube temaşe bike"
     },
     "download-page": {
       "title": "Daxistin",
@@ -135,7 +137,7 @@
           "title": "Piştgiriya Taybetî",
           "description": "Peywendiya me bi daxistinê re naqede. Em piştgirîyek dostane, bersivdar rasterast ji tîmê me pêşkêş dikin da ku hûn bi hilberên me re her gav ezmûnek mezin hebin"
         },
-          {
+        {
           "title": "Hostatîya Mîtolojîkî",
           "description": "Em bawer dikin ku hêjahî di hûrguliyan de ye. Ji konsepta yekem heya rêza dawî ya kodê, her hêmanek ji karê me bi baldarî hatî plansaz kirin û bi rengek rast ji bo hilberek dawîn a bêkêmasî hatî çêkirin"
         }

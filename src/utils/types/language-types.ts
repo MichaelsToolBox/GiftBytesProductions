@@ -9,5 +9,5 @@ export interface Language {
 export interface LanguageSelectorDropdownProps extends Omit<IconButtonOwnProps, 'onChange'> {
   selectedLanguage: Language;
   availableLanguages: Language[];
-  onChange: (language: Language) => void;
+  onChange: (language: Language) => void | Promise<void>;
 }

@@ -80,7 +80,11 @@ export default function LanguageSelectorDropdown(props: LanguageSelectorDropdown
             <Box sx={{ display: 'flex', alignItems: 'center' }}>
                 {selectedLanguage.icon}
             </Box>
-            <Typography variant="subtitle2" fontSize="small" sx={{ textTransform: 'uppercase' }}>
+            <Typography
+              variant="subtitle2"
+              fontSize="small"
+              sx={{ textTransform: 'uppercase', display: { xs: 'none', sm: 'inline' } }}
+            >
                 {selectedLanguage.code}
             </Typography>
             <TranslateIcon fontSize="small" />
