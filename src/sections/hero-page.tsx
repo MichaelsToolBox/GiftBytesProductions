@@ -60,11 +60,11 @@ export default function Hero() {
             src={videoUrl}
             width="100%"
             height="100%"
-            playing
+            playing={false}
             muted={false}
             volume={1}
             controls
-            light={false}
+            light
             style={{ position: 'absolute', top: 0, left: 0 }}
           />
         </StyledVideoBox>

@@ -7,23 +7,30 @@ export default function LogoCollection() {
   const logos = mode === 'light' ? lightModeLogos : darkModeLogos;
 
   return (
-    <Box id="logoCollection" sx={{ py: 8 }}>
+    <Box id="logoCollection" sx={{ py: { xs: 4, sm: 8 }, px: { xs: 2, sm: 3 } }}>
       <Box
         sx={{
-          display: 'flex',
-          flexDirection: { xs: 'column', md: 'row' },
+          display: 'grid',
+          gridTemplateColumns: {
+            xs: 'repeat(2, minmax(0, 1fr))',
+            sm: 'repeat(3, minmax(0, 1fr))',
+            md: 'repeat(6, minmax(0, 1fr))',
+          },
           alignItems: 'center',
-          justifyContent: 'center',
-          gap: { xs: 4, md: 6 },
+          justifyItems: 'center',
+          gap: { xs: 2.5, sm: 3, md: 4 },
           opacity: 0.6,
+          maxWidth: 1100,
+          mx: 'auto',
         }}
       >
         {logos.map((logo, index) => (
           <Box
             key={index}
             sx={{
-              width: '150px',
-              height: '80px',
+              width: '100%',
+              maxWidth: { xs: 120, sm: 140, md: 150 },
+              height: { xs: 56, sm: 72, md: 80 },
               display: 'flex',
               alignItems: 'center',
               justifyContent: 'center',
