@@ -42,7 +42,7 @@
       "buttontext22": "Atsisiųsti Android",
       "title3": "Būsimas projektas",
       "price3": "Nemokamai",
-      "subheader3": "Vykdoma",
+      "subheader3": "Rekomenduojama",
       "description30": "Prieinama Windows, Macos ir Linux sistemoms",
       "description31": "Platinimas per Steam ir Apple Store",
       "description32": "Prieinama įvairiomis kalbomis",
@@ -91,25 +91,29 @@
           "tag": "Projektai",
           "title": "Naujo projekto paskelbimas",
           "description": "Paskelbiame, kad mūsų naujas projektas bus nemokamas stacionarus vaizdo žaidimas, kuris bus prieinamas visose operacinėse sistemose ir platformose",
-          "author": "Michael Schenk, Kūrėjas"
+          "author": "Michael Schenk, Kūrėjas",
+          "date": "2025-12-08"
         },
         {
           "tag": "Projektai",
           "title": "TouchSlider yra gyvai",
           "description": "Paskelbiame, kad mūsų mobilusis vaizdo žaidimas „TouchSlider“ yra prieinamas nemokamai atsisiųsti IOS ir Android sistemoms",
-          "author": "Michael Schenk, Kūrėjas"
+          "author": "Michael Schenk, Kūrėjas",
+          "date": "2025-05-15"
         },
         {
           "tag": "Svetainė",
           "title": "Nauja svetainė",
           "description": "Paskelbiame, kad mūsų svetainė pagaliau veikia ir yra vieša",
-          "author": "Michael Schenk, Kūrėjas"
+          "author": "Michael Schenk, Kūrėjas",
+          "date": "2025-11-26"
         },
         {
           "tag": "Svetainė",
           "title": "Naujas domenas",
           "description": "Paskelbiame, kad mūsų domenas yra užregistruotas",
-          "author": "Michael Schenk, Kūrėjas"
+          "author": "Michael Schenk, Kūrėjas",
+          "date": "2025-11-20"
         }
       ]
     },
@@ -183,6 +187,7 @@
       "system": "Sistema",
       "light": "Šviesus",
       "dark": "Tamsus"
-    }
+    },
+    "legal": {}
   }
 }

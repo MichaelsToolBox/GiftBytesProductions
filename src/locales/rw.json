@@ -42,7 +42,7 @@
       "buttontext22": "Manura kuri Android",
       "title3": "Umushinga utaha",
       "price3": "Ku buntu",
-      "subheader3": "Uri gukorwa",
+      "subheader3": "Byasabwe",
       "description30": "Biboneka kuri Windows, Macos na Linux",
       "description31": "Bigurishirizwa kuri Steam na Apple Store",
       "description32": "Biboneka mu ndimi zitandukanye",
@@ -91,37 +91,43 @@
           "tag": "Imishinga",
           "title": "Itangazo ry'umushinga mushya",
           "description": "Turatangaza ko umushinga wacu mushya uzaba umukino wa videwo wa mudasobwa w'ubuntu uzakora kuri sisitemu zose n'imbuga zose.",
-          "author": "Michael Schenk, Umutezimbere"
+          "author": "Michael Schenk, Umutezimbere",
+          "date": "2025-12-08"
         },
         {
           "tag": "Urubuga",
           "title": "Urubuga rushya",
           "description": "Turatangaza ko urubuga rwacu rwamaze kujya ahagaragara kandi rukaba rusange.",
-          "author": "Michael Schenk, Umutezimbere"
+          "author": "Michael Schenk, Umutezimbere",
+          "date": "2025-05-15"
         },
         {
           "tag": "Imishinga",
           "title": "TouchSlider yageze ku isoko",
           "description": "Turatangaza ko umukino wacu wa videwo wa telefone TouchSlider uboneka ku buntu kuri IOS na Android.",
-          "author": "Michael Schenk, Umutezimbere"
+          "author": "Michael Schenk, Umutezimbere",
+          "date": "2025-11-26"
         },
         {
           "tag": "Isosiyete",
           "title": "",
           "description": "",
-          "author": "Michael Schenk, Umutezimbere"
+          "author": "Michael Schenk, Umutezimbere",
+          "date": "2025-11-20"
         },
         {
           "tag": "Ubunjeniye",
           "title": "",
           "description": "",
-          "author": "Michael Schenk, Umutezimbere"
+          "author": "Michael Schenk, Umutezimbere",
+          "date": "2025-12-08"
         },
         {
           "tag": "Igicuruzwa",
           "title": "",
           "description": "",
-          "author": "Michael Schenk, Umutezimbere"
+          "author": "Michael Schenk, Umutezimbere",
+          "date": "2025-12-08"
         }
       ]
     },
@@ -195,6 +201,7 @@
       "system": "Sisitemu",
       "light": "Urumuri",
       "dark": "Umwijima"
-    }
+    },
+    "legal": {}
   }
 }

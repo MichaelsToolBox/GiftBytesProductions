@@ -5,14 +5,18 @@ import Typography from '@mui/material/Typography';
 import Accordion from '@mui/material/Accordion';
 import Container from '@mui/material/Container';
 import { useTranslation } from 'react-i18next';
+import Button from '@mui/material/Button';
 import Link from '@mui/material/Link';
+import Stack from '@mui/material/Stack';
 import Box from '@mui/material/Box';
 import * as React from 'react';
 
-export default function FAQ() {
-  // i18n Translation
-  const { t } = useTranslation();
+const SUPPORT_EMAIL = 'giftbytesproductions@gmail.com';
+const PAYPAL_URL =
+  'https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=giftbytesproductions%40gmail.com&currency_code=EUR&item_name=Gift%20Bytes%20Productions';
 
+export default function FAQ() {
+  const { t } = useTranslation();
   const [expanded, setExpanded] = React.useState<string[]>([]);
 
   const handleChange =
@@ -37,7 +41,7 @@ export default function FAQ() {
           <AccordionDetails>
             <Typography variant="body2" gutterBottom sx={{ maxWidth: { sm: '100%', md: '70%' } }}>
               {t("faq.description1")}
-              <Link href="giftbytesproductions@gmail.com">giftbytesproductions@gmail.com</Link>
+              <Link href={`mailto:${SUPPORT_EMAIL}`}>{SUPPORT_EMAIL}</Link>
             </Typography>
           </AccordionDetails>
         </Accordion>
@@ -60,9 +64,29 @@ export default function FAQ() {
             </Typography>
           </AccordionSummary>
           <AccordionDetails>
-            <Typography  variant="body2" gutterBottom sx={{ maxWidth: { sm: '100%', md: '70%' } }}>
-              {t("faq.description3")}
-            </Typography>
+            <Stack spacing={2} sx={{ maxWidth: { sm: '100%', md: '70%' } }}>
+              <Typography variant="body2">
+                {t("faq.description3")}
+              </Typography>
+              <Stack direction={{ xs: 'column', sm: 'row' }} spacing={1.5}>
+                <Button
+                  variant="contained"
+                  color="primary"
+                  href={PAYPAL_URL}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  {t('faq.paypal')}
+                </Button>
+                <Button
+                  variant="outlined"
+                  color="primary"
+                  href={`mailto:${SUPPORT_EMAIL}`}
+                >
+                  {SUPPORT_EMAIL}
+                </Button>
+              </Stack>
+            </Stack>
           </AccordionDetails>
         </Accordion>
       </Box>

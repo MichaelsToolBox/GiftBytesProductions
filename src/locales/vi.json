@@ -42,7 +42,7 @@
       "buttontext22": "Tải xuống Android",
       "title3": "Dự án sắp ra mắt",
       "price3": "Miễn phí",
-      "subheader3": "Đang tiến hành",
+      "subheader3": "Được đề xuất",
       "description30": "Có sẵn cho Windows, macOS và Linux",
       "description31": "Phân phối qua Steam và Apple Store",
       "description32": "Có thể truy cập bằng nhiều ngôn ngữ",
@@ -91,25 +91,29 @@
           "tag": "Dự án",
           "title": "Thông báo dự án mới",
           "description": "Chúng tôi thông báo rằng dự án mới của chúng tôi sẽ là một trò chơi video trên máy tính để bàn miễn phí để chơi và sẽ có sẵn trên tất cả các hệ điều hành và nền tảng",
-          "author": "Michael Schenk, Nhà phát triển"
+          "author": "Michael Schenk, Nhà phát triển",
+          "date": "2025-12-08"
         },
         {
           "tag": "Dự án",
           "title": "TouchSlider đã ra mắt",
           "description": "Chúng tôi thông báo rằng trò chơi video di động của chúng tôi TouchSlider đã có sẵn để tải xuống miễn phí cho iOS và Android",
-          "author": "Michael Schenk, Nhà phát triển"
+          "author": "Michael Schenk, Nhà phát triển",
+          "date": "2025-05-15"
         },
         {
           "tag": "Trang web",
           "title": "Trang web mới",
           "description": "Chúng tôi thông báo rằng trang web của chúng tôi cuối cùng đã hoạt động và công khai",
-          "author": "Michael Schenk, Nhà phát triển"
+          "author": "Michael Schenk, Nhà phát triển",
+          "date": "2025-11-26"
         },
         {
           "tag": "Trang web",
           "title": "Tên miền mới",
           "description": "Chúng tôi thông báo rằng tên miền của chúng tôi đã được đăng ký",
-          "author": "Michael Schenk, Nhà phát triển"
+          "author": "Michael Schenk, Nhà phát triển",
+          "date": "2025-11-20"
         }
       ]
     },
@@ -183,6 +187,7 @@
       "system": "Hệ thống",
       "light": "Sáng",
       "dark": "Tối"
-    }
+    },
+    "legal": {}
   }
 }

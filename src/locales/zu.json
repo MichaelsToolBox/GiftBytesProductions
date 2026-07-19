@@ -42,7 +42,7 @@
       "buttontext22": "Landa i-Android",
       "title3": "Iphrojekthi ezayo",
       "price3": "Mahhala",
-      "subheader3": "Kuyaqhubeka",
+      "subheader3": "Kunconyiwe",
       "description30": "Kuyatholakala kwi-Windows, MacOS ne-Linux",
       "description31": "Ukusatshalaliswa nge-Steam ne-Apple Store",
       "description32": "Kufinyeleleka ngezilimi ezahlukahlukene",
@@ -91,37 +91,43 @@
           "tag": "Amaphrojekthi",
           "title": "Isimemezelo sephrojekthi entsha",
           "description": "Simemezela ukuthi iphrojekthi yethu entsha izoba umdlalo wevidiyo wedeskithophu wamahhala ozotholakala kuzo zonke izinhlelo zokusebenza namapulatifomu.",
-          "author": "Michael Schenk, Unjiniyela"
+          "author": "Michael Schenk, Unjiniyela",
+          "date": "2025-12-08"
         },
         {
           "tag": "Iwebhusayithi",
           "title": "Iwebhusayithi entsha",
           "description": "Simemezela ukuthi iwebhusayithi yethu isigcinile isemoyeni futhi isesidlangalaleni.",
-          "author": "Michael Schenk, Unjiniyela"
+          "author": "Michael Schenk, Unjiniyela",
+          "date": "2025-05-15"
         },
         {
           "tag": "Amaphrojekthi",
           "title": "I-TouchSlider isemoyeni",
           "description": "Simemezela ukuthi umdlalo wethu wevidiyo weselula i-TouchSlider uyatholakala ukuze ulandwe mahhala ku-IOS naku-Android.",
-          "author": "Michael Schenk, Unjiniyela"
+          "author": "Michael Schenk, Unjiniyela",
+          "date": "2025-11-26"
         },
         {
           "tag": "Inkampani",
           "title": "",
           "description": "",
-          "author": "Michael Schenk, Unjiniyela"
+          "author": "Michael Schenk, Unjiniyela",
+          "date": "2025-11-20"
         },
         {
           "tag": "Ubunjiniyela",
           "title": "",
           "description": "",
-          "author": "Michael Schenk, Unjiniyela"
+          "author": "Michael Schenk, Unjiniyela",
+          "date": "2025-12-08"
         },
         {
           "tag": "Umkhiqizo",
           "title": "",
           "description": "",
-          "author": "Michael Schenk, Unjiniyela"
+          "author": "Michael Schenk, Unjiniyela",
+          "date": "2025-12-08"
         }
       ]
     },
@@ -195,6 +201,7 @@
       "system": "Isistimu",
       "light": "Ukukhanya",
       "dark": "Ubumnyama"
-    }
+    },
+    "legal": {}
   }
 }

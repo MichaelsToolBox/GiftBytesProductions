@@ -42,7 +42,7 @@
       "buttontext22": "ດາວໂຫຼດ Android",
       "title3": "ໂຄງການທີ່ຈະມາເຖິງ",
       "price3": "ຟຣີ",
-      "subheader3": "ກຳລັງດຳເນີນການ",
+      "subheader3": "ແນະນຳ",
       "description30": "ມີໃຫ້ບໍລິການສຳລັບ Windows, Macos ແລະ Linux",
       "description31": "ການແຈກຢາຍຜ່ານ Steam ແລະ Apple Store",
       "description32": "ສາມາດເຂົ້າເຖິງໄດ້ໃນຫຼາຍພາສາ",
@@ -91,25 +91,29 @@
           "tag": "ໂຄງການ",
           "title": "ປະກາດໂຄງການໃໝ່",
           "description": "ພວກເຮົາປະກາດວ່າໂຄງການໃໝ່ຂອງພວກເຮົາຈະເປັນວິດີໂອເກມເດັສທັອບທີ່ຫຼິ້ນຟຣີ ເຊິ່ງຈະມີໃຫ້ບໍລິການໃນທຸກລະບົບປະຕິບັດການ ແລະແພລັດຟອມ",
-          "author": "Michael Schenk, ນັກພັດທະນາ"
+          "author": "Michael Schenk, ນັກພັດທະນາ",
+          "date": "2025-12-08"
         },
         {
           "tag": "ໂຄງການ",
           "title": "TouchSlider ຖືກປ່ອຍແລ້ວ",
           "description": "ພວກເຮົາປະກາດວ່າວິດີໂອເກມມືຖື TouchSlider ຂອງພວກເຮົາມີໃຫ້ດາວໂຫຼດຟຣີສຳລັບ IOS ແລະ Android",
-          "author": "Michael Schenk, ນັກພັດທະນາ"
+          "author": "Michael Schenk, ນັກພັດທະນາ",
+          "date": "2025-05-15"
         },
         {
           "tag": "ເວັບໄຊທ໌",
           "title": "ເວັບໄຊທ໌ໃໝ່",
           "description": "ພວກເຮົາປະກາດວ່າເວັບໄຊທ໌ຂອງພວກເຮົາໄດ້ຖືກປ່ອຍອອກສູ່ສາທາລະນະໃນທີ່ສຸດ",
-          "author": "Michael Schenk, ນັກພັດທະນາ"
+          "author": "Michael Schenk, ນັກພັດທະນາ",
+          "date": "2025-11-26"
         },
         {
           "tag": "ເວັບໄຊທ໌",
           "title": "ໂດເມນໃໝ່",
           "description": "ພວກເຮົາປະກາດວ່າໂດເມນຂອງພວກເຮົາໄດ້ຖືກລົງທະບຽນແລ້ວ",
-          "author": "Michael Schenk, ນັກພັດທະນາ"
+          "author": "Michael Schenk, ນັກພັດທະນາ",
+          "date": "2025-11-20"
         }
       ]
     },
@@ -183,6 +187,7 @@
       "system": "ລະບົບ",
       "light": "ສະຫວ່າງ",
       "dark": "ມືດ"
-    }
+    },
+    "legal": {}
   }
 }

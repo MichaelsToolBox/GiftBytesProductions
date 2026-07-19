@@ -47,6 +47,7 @@ export default function Download() {
       buttonColor: 'secondary' as const,
       buttonLink: 'https://store.steampowered.com/app/4180250/Chronomaze_Gravity_Maze/',
       featured: true,
+      image: '/header.jpg',
     },
     {
       title: t('tiers.title2'),
@@ -89,9 +90,10 @@ export default function Download() {
                   p: 2,
                   display: 'flex',
                   flexDirection: 'column',
-                  gap: 4,
+                  gap: 3,
                   width: '100%',
                   height: '100%',
+                  overflow: 'hidden',
                 },
                 tier.featured &&
                   ((theme) => ({
@@ -105,7 +107,26 @@ export default function Download() {
                   })),
               ]}
             >
-              <CardContent sx={{ flexGrow: 1, pb: 0 }}>
+              {'image' in tier && tier.image && (
+                <Box
+                  component="img"
+                  src={tier.image}
+                  alt={tier.title}
+                  loading="lazy"
+                  decoding="async"
+                  sx={{
+                    width: 'calc(100% + 32px)',
+                    maxWidth: 'none',
+                    ml: -2,
+                    mt: -2,
+                    mb: 0,
+                    aspectRatio: '16 / 9',
+                    objectFit: 'cover',
+                    display: 'block',
+                  }}
+                />
+              )}
+              <CardContent sx={{ flexGrow: 1, pb: 0, pt: tier.featured ? 0 : undefined }}>
                 <Box sx={[{mb: 1, display: 'flex', justifyContent: 'space-between', alignItems: 'center', gap: 2}, tier.featured ? { color: 'grey.100' } : { color: '' }]}>
                   <Typography component="h3" variant="h6">
                     {tier.title}

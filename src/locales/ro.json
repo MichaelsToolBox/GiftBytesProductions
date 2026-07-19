@@ -42,7 +42,7 @@
       "buttontext22": "Descarcă Android",
       "title3": "Proiect viitor",
       "price3": "Gratuit",
-      "subheader3": "În curs de desfășurare",
+      "subheader3": "Recomandat",
       "description30": "Disponibil pentru Windows, macOS și Linux",
       "description31": "Distribuție prin Steam și Apple Store",
       "description32": "Accesibil în diverse limbi",
@@ -91,25 +91,29 @@
           "tag": "Proiecte",
           "title": "Anunțarea unui nou proiect",
           "description": "Anunțăm că noul nostru proiect va fi un joc video desktop gratuit, disponibil pe toate sistemele de operare și platformele",
-          "author": "Michael Schenk, Dezvoltator"
+          "author": "Michael Schenk, Dezvoltator",
+          "date": "2025-12-08"
         },
         {
           "tag": "Proiecte",
           "title": "TouchSlider este live",
           "description": "Anunțăm că jocul nostru video mobil TouchSlider este disponibil pentru descărcare gratuită pe iOS și Android",
-          "author": "Michael Schenk, Dezvoltator"
+          "author": "Michael Schenk, Dezvoltator",
+          "date": "2025-05-15"
         },
         {
           "tag": "Site web",
           "title": "Site web nou",
           "description": "Anunțăm că site-ul nostru web este în sfârșit live și public",
-          "author": "Michael Schenk, Dezvoltator"
+          "author": "Michael Schenk, Dezvoltator",
+          "date": "2025-11-26"
         },
         {
           "tag": "Site web",
           "title": "Domeniu nou",
           "description": "Anunțăm că domeniul nostru este înregistrat",
-          "author": "Michael Schenk, Dezvoltator"
+          "author": "Michael Schenk, Dezvoltator",
+          "date": "2025-11-20"
         }
       ]
     },
@@ -183,6 +187,7 @@
       "system": "Sistem",
       "light": "Luminos",
       "dark": "Întunecat"
-    }
+    },
+    "legal": {}
   }
 }

@@ -42,7 +42,7 @@
       "buttontext22": "Sii mai le Android",
       "title3": "Poloketi o lo'o loma",
       "price3": "Leai se totogi",
-      "subheader3": "O lo'o fa'agasolo",
+      "subheader3": "Fautuaina",
       "description30": "Avanoa mo Windows, Macos ma Linux",
       "description31": "Tufatufaina e ala i le Steam ma le Apple Store",
       "description32": "Avanoa i gagana eseese",
@@ -91,37 +91,43 @@
           "tag": "Poloketi",
           "title": "Fa'alauiloaina o Poloketi Fou",
           "description": "Matou te fa'ailoa atu o la matou poloketi fou o le a avea ma se taaloga vitio komepiuta e ta'alo fua o le a avanoa i luga o faiga fa'aoga uma ma tulaga.",
-          "author": "Michael Schenk, Tagata Atina'e"
+          "author": "Michael Schenk, Tagata Atina'e",
+          "date": "2025-12-08"
         },
         {
           "tag": "Upega Tafa'ilagi",
           "title": "Upega Tafa'ilagi Fou",
           "description": "Matou te fa'ailoa atu ua iu lava ina ola la matou upega tafa'ilagi ma fa'alaua'itele.",
-          "author": "Michael Schenk, Tagata Atina'e"
+          "author": "Michael Schenk, Tagata Atina'e",
+          "date": "2025-05-15"
         },
         {
           "tag": "Poloketi",
           "title": "Ua ola le TouchSlider",
           "description": "Matou te fa'ailoa atu o la matou taaloga vitio feavea'i o le TouchSlider ua avanoa e sii mai fua i luga o le IOS ma le Android.",
-          "author": "Michael Schenk, Tagata Atina'e"
+          "author": "Michael Schenk, Tagata Atina'e",
+          "date": "2025-11-26"
         },
         {
           "tag": "Kamupani",
           "title": "",
           "description": "",
-          "author": "Michael Schenk, Tagata Atina'e"
+          "author": "Michael Schenk, Tagata Atina'e",
+          "date": "2025-11-20"
         },
         {
           "tag": "Inisinia",
           "title": "",
           "description": "",
-          "author": "Michael Schenk, Tagata Atina'e"
+          "author": "Michael Schenk, Tagata Atina'e",
+          "date": "2025-12-08"
         },
         {
           "tag": "Oloa",
           "title": "",
           "description": "",
-          "author": "Michael Schenk, Tagata Atina'e"
+          "author": "Michael Schenk, Tagata Atina'e",
+          "date": "2025-12-08"
         }
       ]
     },
@@ -195,6 +201,7 @@
       "system": "Faiga",
       "light": "Malamalama",
       "dark": "Pogisa"
-    }
+    },
+    "legal": {}
   }
 }

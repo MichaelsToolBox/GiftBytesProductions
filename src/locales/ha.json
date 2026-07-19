@@ -42,7 +42,7 @@
       "buttontext22": "Zazzage Android",
       "title3": "Aikin da ke zuwa",
       "price3": "Kyauta",
-      "subheader3": "Ana ci gaba",
+      "subheader3": "Ana ba da shawara",
       "description30": "Akwai don Windows, Macos da Linux",
       "description31": "Rarraba ta hanyar Steam da Apple Store",
       "description32": "Akwai a cikin harsuna daban-daban",
@@ -91,25 +91,29 @@
           "tag": "Ayyuka",
           "title": "Sanarwar sabon aiki",
           "description": "Mun sanar da cewa sabon aikinmu zai zama wasan bidiyo na kwamfyutocin tebur kyauta wanda zai kasance a duk tsarin aiki da dandamali",
-          "author": "Michael Schenk, Mai haɓaka"
+          "author": "Michael Schenk, Mai haɓaka",
+          "date": "2025-12-08"
         },
         {
           "tag": "Ayyuka",
           "title": "TouchSlider yana kan layi",
           "description": "Mun sanar da cewa wasan bidiyo na wayoyinmu TouchSlider yana nan don zazzagewa kyauta don IOS da Android",
-          "author": "Michael Schenk, Mai haɓaka"
+          "author": "Michael Schenk, Mai haɓaka",
+          "date": "2025-05-15"
         },
         {
           "tag": "Gidan yanar gizo",
           "title": "Sabuwar gidan yanar gizo",
           "description": "Mun sanar da cewa gidan yanar gizonmu yana nan a kan layi kuma a bainar jama'a",
-          "author": "Michael Schenk, Mai haɓaka"
+          "author": "Michael Schenk, Mai haɓaka",
+          "date": "2025-11-26"
         },
         {
           "tag": "Gidan yanar gizo",
           "title": "Sabon yanki",
           "description": "Mun sanar da cewa an yi rajistar yankinmu",
-          "author": "Michael Schenk, Mai haɓaka"
+          "author": "Michael Schenk, Mai haɓaka",
+          "date": "2025-11-20"
         }
       ]
     },
@@ -183,6 +187,7 @@
       "system": "Tsarin",
       "light": "Haske",
       "dark": "Duhu"
-    }
+    },
+    "legal": {}
   }
 }

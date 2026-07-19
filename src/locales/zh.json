@@ -42,7 +42,7 @@
       "buttontext22": "下载 Android",
       "title3": "即将推出的项目",
       "price3": "免费",
-      "subheader3": "进行中",
+      "subheader3": "推荐",
       "description30": "适用于 Windows、macOS 和 Linux",
       "description31": "通过 Steam 和 Apple Store 分发",
       "description32": "支持多种语言",
@@ -91,25 +91,29 @@
           "tag": "项目",
           "title": "新项目公告",
           "description": "我们宣布，我们的新项目将是一款免费的桌面视频游戏，它将适用于所有操作系统和平台",
-          "author": "Michael Schenk，开发人员"
+          "author": "Michael Schenk，开发人员",
+          "date": "2025-12-08"
         },
         {
           "tag": "项目",
           "title": "TouchSlider 已上线",
           "description": "我们宣布，我们的移动视频游戏 TouchSlider 已在 iOS 和 Android 上免费提供下载",
-          "author": "Michael Schenk，开发人员"
+          "author": "Michael Schenk，开发人员",
+          "date": "2025-05-15"
         },
         {
           "tag": "网站",
           "title": "新网站",
           "description": "我们宣布，我们的网站终于上线并向公众开放",
-          "author": "Michael Schenk，开发人员"
+          "author": "Michael Schenk，开发人员",
+          "date": "2025-11-26"
         },
         {
           "tag": "网站",
           "title": "新域名",
           "description": "我们宣布，我们的域名已注册",
-          "author": "Michael Schenk，开发人员"
+          "author": "Michael Schenk，开发人员",
+          "date": "2025-11-20"
         }
       ]
     },
@@ -183,6 +187,7 @@
       "system": "系统",
       "light": "浅色",
       "dark": "深色"
-    }
+    },
+    "legal": {}
   }
 }

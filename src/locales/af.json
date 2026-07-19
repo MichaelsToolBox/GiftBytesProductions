@@ -42,7 +42,7 @@
       "buttontext22": "Aflaai Android",
       "title3": "Opkomende projek",
       "price3": "Gratis",
-      "subheader3": "In ontwikkeling",
+      "subheader3": "Aanbeveel",
       "description30": "Beskikbaar vir Windows, Macos en Linux",
       "description31": "Verspreiding deur Steam en Apple Store",
       "description32": "Beskikbaar in verskeie tale",
@@ -91,25 +91,29 @@
           "tag": "Projekte",
           "title": "Nuwe projek aankondiging",
           "description": "Ons kondig aan dat ons nuwe projek 'n gratis-om-te-speel rekenaar-videospeletjie sal wees wat op alle bedryfstelsels en platforms beskikbaar sal wees",
-          "author": "Michael Schenk, Ontwikkelaar"
+          "author": "Michael Schenk, Ontwikkelaar",
+          "date": "2025-12-08"
         },
         {
           "tag": "Projekte",
           "title": "TouchSlider is regstreeks",
           "description": "Ons kondig aan dat ons mobiele videospeletjie TouchSlider beskikbaar is vir IOS en Android om gratis af te laai",
-          "author": "Michael Schenk, Ontwikkelaar"
+          "author": "Michael Schenk, Ontwikkelaar",
+          "date": "2025-05-15"
         },
         {
           "tag": "Webwerf",
           "title": "Nuwe webwerf",
           "description": "Ons kondig aan dat ons webwerf uiteindelik regstreeks en publiek is",
-          "author": "Michael Schenk, Ontwikkelaar"
+          "author": "Michael Schenk, Ontwikkelaar",
+          "date": "2025-11-26"
         },
         {
           "tag": "Webwerf",
           "title": "Nuwe domein",
           "description": "Ons kondig aan dat ons domein geregistreer is",
-          "author": "Michael Schenk, Ontwikkelaar"
+          "author": "Michael Schenk, Ontwikkelaar",
+          "date": "2025-11-20"
         }
       ]
     },
@@ -183,6 +187,7 @@
       "system": "Stelsel",
       "light": "Lig",
       "dark": "Donker"
-    }
+    },
+    "legal": {}
   }
 }

@@ -42,7 +42,7 @@
       "buttontext22": "Lae alla Android",
       "title3": "Tulevane projekt",
       "price3": "Tasuta",
-      "subheader3": "Arendamisel",
+      "subheader3": "Soovitatud",
       "description30": "Saadaval Windowsi, Macose ja Linuxi jaoks",
       "description31": "Levitamine Steami ja Apple Store'i kaudu",
       "description32": "Kättesaadav mitmes keeles",
@@ -91,25 +91,29 @@
           "tag": "Projektid",
           "title": "Uue projekti teadaanne",
           "description": "Anname teada, et meie uus projekt on tasuta mängitav lauaarvuti videomäng, mis on saadaval kõigil operatsioonisüsteemidel ja platvormidel",
-          "author": "Michael Schenk, Arendaja"
+          "author": "Michael Schenk, Arendaja",
+          "date": "2025-12-08"
         },
         {
           "tag": "Projektid",
           "title": "TouchSlider on saadaval",
           "description": "Anname teada, et meie mobiilne videomäng TouchSlider on tasuta allalaadimiseks saadaval IOS-i ja Androidi jaoks",
-          "author": "Michael Schenk, Arendaja"
+          "author": "Michael Schenk, Arendaja",
+          "date": "2025-05-15"
         },
         {
           "tag": "Veebileht",
           "title": "Uus veebileht",
           "description": "Anname teada, et meie veebisait on lõpuks avalik",
-          "author": "Michael Schenk, Arendaja"
+          "author": "Michael Schenk, Arendaja",
+          "date": "2025-11-26"
         },
         {
           "tag": "Veebileht",
           "title": "Uus domeen",
           "description": "Anname teada, et meie domeen on registreeritud",
-          "author": "Michael Schenk, Arendaja"
+          "author": "Michael Schenk, Arendaja",
+          "date": "2025-11-20"
         }
       ]
     },
@@ -183,6 +187,7 @@
       "system": "Süsteem",
       "light": "Valgus",
       "dark": "Tume"
-    }
+    },
+    "legal": {}
   }
 }

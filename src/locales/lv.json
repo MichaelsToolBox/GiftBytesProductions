@@ -42,7 +42,7 @@
       "buttontext22": "Lejupielādēt Android",
       "title3": "Nākamais projekts",
       "price3": "Bezmaksas",
-      "subheader3": "Izstrādē",
+      "subheader3": "Ieteicams",
       "description30": "Pieejams Windows, Macos un Linux",
       "description31": "Izplatīšana caur Steam un Apple Store",
       "description32": "Pieejams dažādās valodās",
@@ -91,25 +91,29 @@
           "tag": "Projekti",
           "title": "Jauna projekta paziņojums",
           "description": "Mēs paziņojam, ka mūsu jaunais projekts būs bezmaksas galddatora videospēle, kas būs pieejama visās operētājsistēmās un platformās",
-          "author": "Michael Schenk, Izstrādātājs"
+          "author": "Michael Schenk, Izstrādātājs",
+          "date": "2025-12-08"
         },
         {
           "tag": "Projekti",
           "title": "TouchSlider ir tiešraidē",
           "description": "Mēs paziņojam, ka mūsu mobilā videospēle TouchSlider ir pieejama bez maksas lejupielādei IOS un Android",
-          "author": "Michael Schenk, Izstrādātājs"
+          "author": "Michael Schenk, Izstrādātājs",
+          "date": "2025-05-15"
         },
         {
           "tag": "Tīmekļa vietne",
           "title": "Jauna tīmekļa vietne",
           "description": "Mēs paziņojam, ka mūsu tīmekļa vietne beidzot ir pieejama un publiska",
-          "author": "Michael Schenk, Izstrādātājs"
+          "author": "Michael Schenk, Izstrādātājs",
+          "date": "2025-11-26"
         },
         {
           "tag": "Tīmekļa vietne",
           "title": "Jauns domēns",
           "description": "Mēs paziņojam, ka mūsu domēns ir reģistrēts",
-          "author": "Michael Schenk, Izstrādātājs"
+          "author": "Michael Schenk, Izstrādātājs",
+          "date": "2025-11-20"
         }
       ]
     },
@@ -183,6 +187,7 @@
       "system": "Sistēma",
       "light": "Gaišs",
       "dark": "Tumšs"
-    }
+    },
+    "legal": {}
   }
 }

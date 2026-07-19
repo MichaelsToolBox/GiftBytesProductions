@@ -42,7 +42,7 @@
       "buttontext22": "Hlaða niður Android",
       "title3": "Væntanlegt verkefni",
       "price3": "Frítt",
-      "subheader3": "Í vinnslu",
+      "subheader3": "Mælt með",
       "description30": "Fáanlegt fyrir Windows, Macos og Linux",
       "description31": "Dreifing í gegnum Steam og Apple Store",
       "description32": "Aðgengilegt á ýmsum tungumálum",
@@ -91,25 +91,29 @@
           "tag": "Verkefni",
           "title": "Tilkynning um nýtt verkefni",
           "description": "Við tilkynnum að nýja verkefnið okkar verður frjáls-til-leiks tölvuleikur fyrir borðtölvur sem verður aðgengilegur á öllum stýrikerfum og kerfum",
-          "author": "Michael Schenk, Forritari"
+          "author": "Michael Schenk, Forritari",
+          "date": "2025-12-08"
         },
         {
           "tag": "Verkefni",
           "title": "TouchSlider er í gangi",
           "description": "Við tilkynnum að farsíma tölvuleikurinn okkar TouchSlider er fáanlegur til niðurhals ókeypis fyrir IOS og Android",
-          "author": "Michael Schenk, Forritari"
+          "author": "Michael Schenk, Forritari",
+          "date": "2025-05-15"
         },
         {
           "tag": "Vefsíða",
           "title": "Ný vefsíða",
           "description": "Við tilkynnum að vefsíðan okkar er loksins komin í loftið og opinber",
-          "author": "Michael Schenk, Forritari"
+          "author": "Michael Schenk, Forritari",
+          "date": "2025-11-26"
         },
         {
           "tag": "Vefsíða",
           "title": "Nýtt lén",
           "description": "Við tilkynnum að lénið okkar hefur verið skráð",
-          "author": "Michael Schenk, Forritari"
+          "author": "Michael Schenk, Forritari",
+          "date": "2025-11-20"
         }
       ]
     },
@@ -183,6 +187,7 @@
       "system": "Kerfi",
       "light": "Bjart",
       "dark": "Dökkt"
-    }
+    },
+    "legal": {}
   }
 }

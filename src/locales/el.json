@@ -42,7 +42,7 @@
       "buttontext22": "Λήψη Android",
       "title3": "Επόμενο έργο",
       "price3": "Δωρεάν",
-      "subheader3": "Σε εξέλιξη",
+      "subheader3": "Προτεινόμενο",
       "description30": "Διαθέσιμο για Windows, Macos και Linux",
       "description31": "Διανομή μέσω Steam και Apple Store",
       "description32": "Προσβάσιμο σε διάφορες γλώσσες",
@@ -91,25 +91,29 @@
           "tag": "Έργα",
           "title": "Ανακοίνωση νέου έργου",
           "description": "Ανακοινώνουμε ότι το νέο μας έργο θα είναι ένα δωρεάν παιχνίδι βίντεο για υπολογιστές, το οποίο θα είναι διαθέσιμο σε όλα τα λειτουργικά συστήματα και τις πλατφόρμες",
-          "author": "Michael Schenk, Προγραμματιστής"
+          "author": "Michael Schenk, Προγραμματιστής",
+          "date": "2025-12-08"
         },
         {
           "tag": "Έργα",
           "title": "Το TouchSlider είναι live",
           "description": "Ανακοινώνουμε ότι το κινητό μας βιντεοπαιχνίδι TouchSlider είναι διαθέσιμο για δωρεάν λήψη για IOS και Android",
-          "author": "Michael Schenk, Προγραμματιστής"
+          "author": "Michael Schenk, Προγραμματιστής",
+          "date": "2025-05-15"
         },
         {
           "tag": "Ιστότοπος",
           "title": "Νέος ιστότοπος",
           "description": "Ανακοινώνουμε ότι ο ιστότοπός μας είναι επιτέλους live και δημόσιος",
-          "author": "Michael Schenk, Προγραμματιστής"
+          "author": "Michael Schenk, Προγραμματιστής",
+          "date": "2025-11-26"
         },
         {
           "tag": "Ιστότοπος",
           "title": "Νέο domain",
           "description": "Ανακοινώνουμε ότι το domain μας έχει καταχωρηθεί",
-          "author": "Michael Schenk, Προγραμματιστής"
+          "author": "Michael Schenk, Προγραμματιστής",
+          "date": "2025-11-20"
         }
       ]
     },
@@ -183,6 +187,7 @@
       "system": "Σύστημα",
       "light": "Φως",
       "dark": "Σκοτάδι"
-    }
+    },
+    "legal": {}
   }
 }

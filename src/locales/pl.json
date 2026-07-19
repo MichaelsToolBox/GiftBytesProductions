@@ -42,7 +42,7 @@
       "buttontext22": "Pobierz na Android",
       "title3": "Nadchodzący projekt",
       "price3": "Bezpłatnie",
-      "subheader3": "W trakcie",
+      "subheader3": "Polecane",
       "description30": "Dostępny na Windows, macOS i Linux",
       "description31": "Dystrybucja przez Steam i Apple Store",
       "description32": "Dostępny w różnych językach",
@@ -91,25 +91,29 @@
           "tag": "Projekty",
           "title": "Ogłoszenie nowego projektu",
           "description": "Ogłaszamy, że naszym nowym projektem będzie darmowa gra wideo na komputery stacjonarne, która będzie dostępna na wszystkich systemach operacyjnych i platformach",
-          "author": "Michael Schenk, Deweloper"
+          "author": "Michael Schenk, Deweloper",
+          "date": "2025-12-08"
         },
         {
           "tag": "Projekty",
           "title": "TouchSlider jest już dostępny",
           "description": "Ogłaszamy, że nasza mobilna gra wideo TouchSlider jest dostępna do pobrania za darmo na iOS i Android",
-          "author": "Michael Schenk, Deweloper"
+          "author": "Michael Schenk, Deweloper",
+          "date": "2025-05-15"
         },
         {
           "tag": "Strona internetowa",
           "title": "Nowa strona internetowa",
           "description": "Ogłaszamy, że nasza strona internetowa jest wreszcie dostępna publicznie",
-          "author": "Michael Schenk, Deweloper"
+          "author": "Michael Schenk, Deweloper",
+          "date": "2025-11-26"
         },
         {
           "tag": "Strona internetowa",
           "title": "Nowa domena",
           "description": "Ogłaszamy, że nasza domena została zarejestrowana",
-          "author": "Michael Schenk, Deweloper"
+          "author": "Michael Schenk, Deweloper",
+          "date": "2025-11-20"
         }
       ]
     },
@@ -183,6 +187,7 @@
       "system": "System",
       "light": "Jasny",
       "dark": "Ciemny"
-    }
+    },
+    "legal": {}
   }
 }

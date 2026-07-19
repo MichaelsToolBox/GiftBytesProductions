@@ -42,7 +42,7 @@
       "buttontext22": "Android 다운로드",
       "title3": "차기 프로젝트",
       "price3": "무료",
-      "subheader3": "진행 중",
+      "subheader3": "추천",
       "description30": "Windows, Macos, Linux에서 이용 가능",
       "description31": "Steam 및 Apple Store를 통한 유통",
       "description32": "다양한 언어로 이용 가능",
@@ -91,25 +91,29 @@
           "tag": "프로젝트",
           "title": "새 프로젝트 발표",
           "description": "새로운 프로젝트는 모든 운영 체제와 플랫폼에서 이용 가능한 무료 데스크톱 비디오 게임이 될 것임을 발표합니다",
-          "author": "Michael Schenk, 개발자"
+          "author": "Michael Schenk, 개발자",
+          "date": "2025-12-08"
         },
         {
           "tag": "프로젝트",
           "title": "TouchSlider 출시",
           "description": "모바일 비디오 게임 TouchSlider가 IOS와 Android에서 무료로 다운로드 가능함을 발표합니다",
-          "author": "Michael Schenk, 개발자"
+          "author": "Michael Schenk, 개발자",
+          "date": "2025-05-15"
         },
         {
           "tag": "웹사이트",
           "title": "새로운 웹사이트",
           "description": "저희 웹사이트가 드디어 출시되어 일반에 공개되었음을 발표합니다",
-          "author": "Michael Schenk, 개발자"
+          "author": "Michael Schenk, 개발자",
+          "date": "2025-11-26"
         },
         {
           "tag": "웹사이트",
           "title": "새 도메인",
           "description": "저희 도메인이 등록되었음을 발표합니다",
-          "author": "Michael Schenk, 개발자"
+          "author": "Michael Schenk, 개발자",
+          "date": "2025-11-20"
         }
       ]
     },
@@ -183,6 +187,7 @@
       "system": "시스템",
       "light": "라이트",
       "dark": "다크"
-    }
+    },
+    "legal": {}
   }
 }

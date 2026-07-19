@@ -42,7 +42,7 @@
       "buttontext22": "Letöltés Android",
       "title3": "Közelgő projekt",
       "price3": "Ingyenes",
-      "subheader3": "Folyamatban",
+      "subheader3": "Ajánlott",
       "description30": "Windows, Macos és Linux rendszerekre elérhető",
       "description31": "Terjesztés a Steam és az Apple Store-on keresztül",
       "description32": "Különböző nyelveken hozzáférhető",
@@ -91,25 +91,29 @@
           "tag": "Projektek",
           "title": "Új projekt bejelentése",
           "description": "Bejelentjük, hogy új projektünk egy ingyenesen játszható asztali videójáték lesz, amely minden operációs rendszeren és platformon elérhető lesz",
-          "author": "Michael Schenk, Fejlesztő"
+          "author": "Michael Schenk, Fejlesztő",
+          "date": "2025-12-08"
         },
         {
           "tag": "Projektek",
           "title": "A TouchSlider már elérhető",
           "description": "Bejelentjük, hogy mobil videójátékunk, a TouchSlider ingyenesen letölthető IOS és Android rendszerekre",
-          "author": "Michael Schenk, Fejlesztő"
+          "author": "Michael Schenk, Fejlesztő",
+          "date": "2025-05-15"
         },
         {
           "tag": "Weboldal",
           "title": "Új weboldal",
           "description": "Bejelentjük, hogy weboldalunk végre élő és nyilvános",
-          "author": "Michael Schenk, Fejlesztő"
+          "author": "Michael Schenk, Fejlesztő",
+          "date": "2025-11-26"
         },
         {
           "tag": "Weboldal",
           "title": "Új domain",
           "description": "Bejelentjük, hogy domainünket regisztrálták",
-          "author": "Michael Schenk, Fejlesztő"
+          "author": "Michael Schenk, Fejlesztő",
+          "date": "2025-11-20"
         }
       ]
     },
@@ -183,6 +187,7 @@
       "system": "Rendszer",
       "light": "Világos",
       "dark": "Sötét"
-    }
+    },
+    "legal": {}
   }
 }

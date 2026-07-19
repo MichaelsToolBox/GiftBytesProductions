@@ -42,7 +42,7 @@
       "buttontext22": "Pakua Android",
       "title3": "Mradi unaokuja",
       "price3": "Bure",
-      "subheader3": "Inaendelea",
+      "subheader3": "Inapendekezwa",
       "description30": "Inapatikana kwa Windows, MacOS na Linux",
       "description31": "Usambazaji kupitia Steam na Apple Store",
       "description32": "Inapatikana katika lugha mbalimbali",
@@ -91,25 +91,29 @@
           "tag": "Miradi",
           "title": "Tangazo la Mradi Mpya",
           "description": "Tunatangaza kwamba mradi wetu mpya utakuwa mchezo wa video wa kompyuta ya mezani huru kucheza ambao utapatikana kwenye mifumo yote ya uendeshaji na majukwaa",
-          "author": "Michael Schenk, Muundaji"
+          "author": "Michael Schenk, Muundaji",
+          "date": "2025-12-08"
         },
         {
           "tag": "Miradi",
           "title": "TouchSlider imetangazwa",
           "description": "Tunatangaza kwamba mchezo wetu wa video wa rununu TouchSlider unapatikana kwa kupakuliwa bure kwa iOS na Android",
-          "author": "Michael Schenk, Muundaji"
+          "author": "Michael Schenk, Muundaji",
+          "date": "2025-05-15"
         },
         {
           "tag": "Tovuti",
           "title": "Tovuti Mpya",
           "description": "Tunatangaza kwamba tovuti yetu hatimaye imetangazwa na ni ya umma",
-          "author": "Michael Schenk, Muundaji"
+          "author": "Michael Schenk, Muundaji",
+          "date": "2025-11-26"
         },
         {
           "tag": "Tovuti",
           "title": "Kikoa Kipya",
           "description": "Tunatangaza kwamba kikoa chetu kimesajiliwa",
-          "author": "Michael Schenk, Muundaji"
+          "author": "Michael Schenk, Muundaji",
+          "date": "2025-11-20"
         }
       ]
     },
@@ -183,6 +187,7 @@
       "system": "Mfumo",
       "light": "Mwanga",
       "dark": "Giza"
-    }
+    },
+    "legal": {}
   }
 }

@@ -42,7 +42,7 @@
       "buttontext22": "Android Daxistin",
       "title3": "Projeya bê",
       "price3": "Belaş",
-      "subheader3": "Di pêşketinê de",
+      "subheader3": "Pêşniyarkirî",
       "description30": "Ji bo Windows, Macos û Linux-ê peyda ye",
       "description31": "Belavkirin bi rêya Steam û Apple Store",
       "description32": "Bi zimanên cihêreng gihîştî ye",
@@ -91,25 +91,29 @@
           "tag": "Projeyên",
           "title": "Daxuyaniya projeya nû",
           "description": "Em radigihînin ku projeya meya nû dê bibe lîstikek vîdyoyê ya sermasê ya belaş ku dê li ser hemî pergalên xebitandinê û platforman peyda bibe",
-          "author": "Michael Schenk, Pêşdebir"
+          "author": "Michael Schenk, Pêşdebir",
+          "date": "2025-12-08"
         },
         {
           "tag": "Projeyên",
           "title": "TouchSlider zindî ye",
           "description": "Em radigihînin ku lîstika vîdyoyê ya meya mobîl TouchSlider ji bo IOS û Android-ê ji bo daxistinê belaş peyda dibe",
-          "author": "Michael Schenk, Pêşdebir"
+          "author": "Michael Schenk, Pêşdebir",
+          "date": "2025-05-15"
         },
         {
           "tag": "Malper",
           "title": "Malpera nû",
           "description": "Em radigihînin ku malpera me di dawiyê de zindî û gelemperî ye",
-          "author": "Michael Schenk, Pêşdebir"
+          "author": "Michael Schenk, Pêşdebir",
+          "date": "2025-11-26"
         },
         {
           "tag": "Malper",
           "title": "Domen nû",
           "description": "Em radigihînin ku domena me qeydkirî ye",
-          "author": "Michael Schenk, Pêşdebir"
+          "author": "Michael Schenk, Pêşdebir",
+          "date": "2025-11-20"
         }
       ]
     },
@@ -183,6 +187,7 @@
       "system": "Pergal",
       "light": "Ronahî",
       "dark": "Tarî"
-    }
+    },
+    "legal": {}
   }
 }

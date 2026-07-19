@@ -42,7 +42,7 @@
       "buttontext22": "Niżżel għal Android",
       "title3": "Proġett li ġej",
       "price3": "B'xejn",
-      "subheader3": "Għaddej",
+      "subheader3": "Rakkomandat",
       "description30": "Disponibbli għal Windows, MacOS u Linux",
       "description31": "Distribuzzjoni permezz ta' Steam u Apple Store",
       "description32": "Aċċessibbli f'diversi lingwi",
@@ -91,25 +91,29 @@
           "tag": "Proġetti",
           "title": "Tħabbira ta' Proġett Ġdid",
           "description": "Aħna nħabbru li l-proġett il-ġdid tagħna se jkun logħba tal-kompjuter desktop b'xejn li se tkun disponibbli fuq is-sistemi operattivi u l-pjattaformi kollha",
-          "author": "Michael Schenk, Żviluppatur"
+          "author": "Michael Schenk, Żviluppatur",
+          "date": "2025-12-08"
         },
         {
           "tag": "Proġetti",
           "title": "TouchSlider huwa Live",
           "description": "Aħna nħabbru li l-logħba tal-kompjuter mobbli tagħna TouchSlider hija disponibbli għat-tniżżil b'xejn għal iOS u Android",
-          "author": "Michael Schenk, Żviluppatur"
+          "author": "Michael Schenk, Żviluppatur",
+          "date": "2025-05-15"
         },
         {
           "tag": "Websajt",
           "title": "Websajt Ġdida",
           "description": "Aħna nħabbru li l-websajt tagħna finalment hija live u pubblika",
-          "author": "Michael Schenk, Żviluppatur"
+          "author": "Michael Schenk, Żviluppatur",
+          "date": "2025-11-26"
         },
         {
           "tag": "Websajt",
           "title": "Dominju Ġdid",
           "description": "Aħna nħabbru li d-dominju tagħna huwa rreġistrat",
-          "author": "Michael Schenk, Żviluppatur"
+          "author": "Michael Schenk, Żviluppatur",
+          "date": "2025-11-20"
         }
       ]
     },
@@ -183,6 +187,7 @@
       "system": "Sistema",
       "light": "Dawl",
       "dark": "Dlam"
-    }
+    },
+    "legal": {}
   }
 }

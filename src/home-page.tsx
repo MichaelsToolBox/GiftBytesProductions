@@ -12,6 +12,7 @@ import Latest from './sections/latest-page';
 import AppTheme from './theme/app-theme';
 import Hero from './sections/hero-page';
 import FAQ from './sections/faq-page';
+import Reveal from './utils/reveal';
 import Box from '@mui/material/Box';
 
 export default function HomePage(props: { disableCustomTheme?: boolean }) {
@@ -30,7 +31,6 @@ export default function HomePage(props: { disableCustomTheme?: boolean }) {
           }),
         })}
       >
-        {/* Full-viewport watermark — sits above page content, below app bar/menus */}
         <Box
           aria-hidden
           sx={(theme) => ({
@@ -52,22 +52,38 @@ export default function HomePage(props: { disableCustomTheme?: boolean }) {
         />
 
         <Box sx={{ position: 'relative', overflowX: 'hidden' }}>
-        <AppAppBar />
-        <Hero />
-        <LogoCollection />
-        <Box id="features"><Features/></Box>
-        <Divider />
-        <Box id="principles"><Principles/></Box>
-        <Divider />
-        <Download />
-        <Divider />
-        <Box id="latest"><Latest/></Box>
-        <Divider/>
-        <Box id="testimonials"><Testimonials/></Box>
-        <Divider />
-        <Box id="faq"><FAQ/></Box>
-        <Divider />
-        <Footer />
+          <AppAppBar />
+          <Hero />
+          <Reveal>
+            <LogoCollection />
+          </Reveal>
+          <Reveal delayMs={40}>
+            <Box id="features"><Features/></Box>
+          </Reveal>
+          <Divider />
+          <Reveal delayMs={40}>
+            <Box id="principles"><Principles/></Box>
+          </Reveal>
+          <Divider />
+          <Reveal delayMs={60}>
+            <Download />
+          </Reveal>
+          <Divider />
+          <Reveal delayMs={40}>
+            <Box id="latest"><Latest/></Box>
+          </Reveal>
+          <Divider/>
+          <Reveal delayMs={40}>
+            <Box id="testimonials"><Testimonials/></Box>
+          </Reveal>
+          <Divider />
+          <Reveal delayMs={40}>
+            <Box id="faq"><FAQ/></Box>
+          </Reveal>
+          <Divider />
+          <Reveal>
+            <Footer />
+          </Reveal>
         </Box>
       </Box>
     </AppTheme>

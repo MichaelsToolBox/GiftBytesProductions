@@ -42,7 +42,7 @@
       "buttontext22": "Soo dejiso Android",
       "title3": "Mashruuc soo socda",
       "price3": "Bilaash",
-      "subheader3": "Soconaya",
+      "subheader3": "La taliyay",
       "description30": "Laga heli karo Windows, Macos iyo Linux",
       "description31": "Qaybinta iyada oo loo marayo Steam iyo Apple Store",
       "description32": "Laga heli karo luqado kala duwan",
@@ -91,37 +91,43 @@
           "tag": "Mashruucyo",
           "title": "Ogeysiis Mashruuc Cusub",
           "description": "Waxaan ogeysiineynaa in mashruuceena cusub uu noqon doono ciyaar fiidiyow kombiyuutar oo bilaash ah oo laga heli doono dhammaan nidaamyada hawlgalka iyo baraha.",
-          "author": "Michael Schenk, Horumariye"
+          "author": "Michael Schenk, Horumariye",
+          "date": "2025-12-08"
         },
         {
           "tag": "Websaydh",
           "title": "Websaydh cusub",
           "description": "Waxaan ogeysiineynaa in websaydhkeena uu ugu dambeyntii hawada ku jiro oo uu yahay mid dadweyne.",
-          "author": "Michael Schenk, Horumariye"
+          "author": "Michael Schenk, Horumariye",
+          "date": "2025-05-15"
         },
         {
           "tag": "Mashruucyo",
           "title": "TouchSlider waa hawada ku jiraa",
           "description": "Waxaan ogeysiineynaa in ciyaarteena fiidiyowga mobilka ee TouchSlider laga heli karo IOS iyo Android si bilaash ah loo soo dejisto.",
-          "author": "Michael Schenk, Horumariye"
+          "author": "Michael Schenk, Horumariye",
+          "date": "2025-11-26"
         },
         {
           "tag": "Shirkad",
           "title": "",
           "description": "",
-          "author": "Michael Schenk, Horumariye"
+          "author": "Michael Schenk, Horumariye",
+          "date": "2025-11-20"
         },
         {
           "tag": "Injineernimo",
           "title": "",
           "description": "",
-          "author": "Michael Schenk, Horumariye"
+          "author": "Michael Schenk, Horumariye",
+          "date": "2025-12-08"
         },
         {
           "tag": "Badeecad",
           "title": "",
           "description": "",
-          "author": "Michael Schenk, Horumariye"
+          "author": "Michael Schenk, Horumariye",
+          "date": "2025-12-08"
         }
       ]
     },
@@ -195,6 +201,7 @@
       "system": "Nidaam",
       "light": "Iftiin",
       "dark": "Madow"
-    }
+    },
+    "legal": {}
   }
 }

@@ -42,7 +42,7 @@
       "buttontext22": "Misintona Android",
       "title3": "Tetikasa ho avy",
       "price3": "Maimaim-poana",
-      "subheader3": "An-dalam-pandrosoana",
+      "subheader3": "Soso-kevitra",
       "description30": "Misy ho an'ny Windows, Macos ary Linux",
       "description31": "Fizarana amin'ny alalan'ny Steam sy Apple Store",
       "description32": "Azo idirana amin'ny fiteny isan-karazany",
@@ -91,25 +91,29 @@
           "tag": "Tetikasa",
           "title": "Fanoloran'ny tetikasa vaovao",
           "description": "Manambara izahay fa ny tetikasa vaovao anay dia lalao video desktop maimaim-poana izay ho hita amin'ny rafitra miasa rehetra sy ny sehatra rehetra",
-          "author": "Michael Schenk, Mpamorona"
+          "author": "Michael Schenk, Mpamorona",
+          "date": "2025-12-08"
         },
         {
           "tag": "Tetikasa",
           "title": "TouchSlider dia efa misy",
           "description": "Manambara izahay fa ny lalao video finday TouchSlider dia azo alaina maimaim-poana ho an'ny IOS sy Android",
-          "author": "Michael Schenk, Mpamorona"
+          "author": "Michael Schenk, Mpamorona",
+          "date": "2025-05-15"
         },
         {
           "tag": "Tranonkala",
           "title": "Tranonkala vaovao",
           "description": "Manambara izahay fa efa misy an-tserasera sy ho an'ny daholobe ny tranonkalanay",
-          "author": "Michael Schenk, Mpamorona"
+          "author": "Michael Schenk, Mpamorona",
+          "date": "2025-11-26"
         },
         {
           "tag": "Tranonkala",
           "title": "Domain vaovao",
           "description": "Manambara izahay fa voasoratra anarana ny domain anay",
-          "author": "Michael Schenk, Mpamorona"
+          "author": "Michael Schenk, Mpamorona",
+          "date": "2025-11-20"
         }
       ]
     },
@@ -183,6 +187,7 @@
       "system": "Rafitra",
       "light": "Mazava",
       "dark": "Maizina"
-    }
+    },
+    "legal": {}
   }
 }

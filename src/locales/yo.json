@@ -42,7 +42,7 @@
       "buttontext22": "Gba Android lati ayelujara",
       "title3": "Iṣẹ́ tí ó ń bọ̀",
       "price3": "Ọ̀fẹ́",
-      "subheader3": "Ní ìlọsíwájú",
+      "subheader3": "A dámọ̀ràn",
       "description30": "Wà nílẹ̀ fún Windows, Macos àti Linux",
       "description31": "Pínpín nípasẹ̀ Steam àti Apple Store",
       "description32": "Wà nílẹ̀ ní àwọn èdè oríṣiríṣi",
@@ -91,37 +91,43 @@
           "tag": "Àwọn Iṣẹ́",
           "title": "Ìkéde Iṣẹ́ Tuntun",
           "description": "A kéde pé iṣẹ́ tuntun wa yóò jẹ́ eré fídíò orí kọ̀ǹpútà ọ̀fẹ́ tí yóò wà nílẹ̀ lórí gbogbo ètò ìṣiṣẹ́ àti pèpéle.",
-          "author": "Michael Schenk, Oníṣẹ́"
+          "author": "Michael Schenk, Oníṣẹ́",
+          "date": "2025-12-08"
         },
         {
           "tag": "Ojúlé-wẹ́ẹ̀bù",
           "title": "Ojúlé-wẹ́ẹ̀bù Tuntun",
           "description": "A kéde pé ojúlé-wẹ́ẹ̀bù wa ti wà lórí ayélujára àti fún gbogbo ènìyàn.",
-          "author": "Michael Schenk, Oníṣẹ́"
+          "author": "Michael Schenk, Oníṣẹ́",
+          "date": "2025-05-15"
         },
         {
           "tag": "Àwọn Iṣẹ́",
           "title": "TouchSlider ti wà lórí ayélujára",
           "description": "A kéde pé eré fídíò alágbèéká wa TouchSlider wà nílẹ̀ fún gbígbà lati ayelujara ọ̀fẹ́ lórí IOS àti Android.",
-          "author": "Michael Schenk, Oníṣẹ́"
+          "author": "Michael Schenk, Oníṣẹ́",
+          "date": "2025-11-26"
         },
         {
           "tag": "Ilé-iṣẹ́",
           "title": "",
           "description": "",
-          "author": "Michael Schenk, Oníṣẹ́"
+          "author": "Michael Schenk, Oníṣẹ́",
+          "date": "2025-11-20"
         },
         {
           "tag": "Imọ-ẹrọ",
           "title": "",
           "description": "",
-          "author": "Michael Schenk, Oníṣẹ́"
+          "author": "Michael Schenk, Oníṣẹ́",
+          "date": "2025-12-08"
         },
         {
           "tag": "Ọjà",
           "title": "",
           "description": "",
-          "author": "Michael Schenk, Oníṣẹ́"
+          "author": "Michael Schenk, Oníṣẹ́",
+          "date": "2025-12-08"
         }
       ]
     },
@@ -195,6 +201,7 @@
       "system": "Ètò",
       "light": "Ìmọ́lẹ̀",
       "dark": "Òkùnkùn"
-    }
+    },
+    "legal": {}
   }
 }

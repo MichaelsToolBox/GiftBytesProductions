@@ -42,7 +42,7 @@
       "buttontext22": "Deskargatu Android",
       "title3": "Datorren proiektua",
       "price3": "Doan",
-      "subheader3": "Abian",
+      "subheader3": "Gomendatua",
       "description30": "Windows, Macos eta Linux-erako eskuragarri",
       "description31": "Steam eta Apple Store-en bidez banaketa",
       "description32": "Hainbat hizkuntzatan eskuragarri",
@@ -91,25 +91,29 @@
           "tag": "Proiektuak",
           "title": "Proiektu berriaren iragarpena",
           "description": "Iragartzen dugu gure proiektu berria mahaigaineko bideojoko bat izango dela, doakoa, sistema eragile eta plataforma guztietan eskuragarri egongo dena",
-          "author": "Michael Schenk, Garatzailea"
+          "author": "Michael Schenk, Garatzailea",
+          "date": "2025-12-08"
         },
         {
           "tag": "Proiektuak",
           "title": "TouchSlider zuzenean dago",
           "description": "Iragartzen dugu gure TouchSlider bideojoko mugikorra IOS eta Android-en doan deskargatzeko eskuragarri dagoela",
-          "author": "Michael Schenk, Garatzailea"
+          "author": "Michael Schenk, Garatzailea",
+          "date": "2025-05-15"
         },
         {
           "tag": "Webgunea",
           "title": "Webgune berria",
           "description": "Iragartzen dugu gure webgunea azkenean zuzenean eta publikoa dela",
-          "author": "Michael Schenk, Garatzailea"
+          "author": "Michael Schenk, Garatzailea",
+          "date": "2025-11-26"
         },
         {
           "tag": "Webgunea",
           "title": "Domeinu berria",
           "description": "Iragartzen dugu gure domeinua erregistratuta dagoela",
-          "author": "Michael Schenk, Garatzailea"
+          "author": "Michael Schenk, Garatzailea",
+          "date": "2025-11-20"
         }
       ]
     },
@@ -183,6 +187,7 @@
       "system": "Sistema",
       "light": "Argia",
       "dark": "Iluna"
-    }
+    },
+    "legal": {}
   }
 }

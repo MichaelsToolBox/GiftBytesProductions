@@ -42,7 +42,7 @@
       "buttontext22": "Lataa Android",
       "title3": "Tuleva projekti",
       "price3": "Ilmainen",
-      "subheader3": "Kesken",
+      "subheader3": "Suositeltu",
       "description30": "Saatavilla Windowsille, Macosille ja Linuxille",
       "description31": "Jakelu Steamin ja Apple Storen kautta",
       "description32": "Saatavilla useilla kielillä",
@@ -91,25 +91,29 @@
           "tag": "Projektit",
           "title": "Uuden projektin julkistus",
           "description": "Ilmoitamme, että uusi projektimme on ilmainen pelattava pöytätietokone-videopeli, joka on saatavilla kaikilla käyttöjärjestelmillä ja alustoilla",
-          "author": "Michael Schenk, Kehittäjä"
+          "author": "Michael Schenk, Kehittäjä",
+          "date": "2025-12-08"
         },
         {
           "tag": "Projektit",
           "title": "TouchSlider on julkaistu",
           "description": "Ilmoitamme, että mobiilivideopelimme TouchSlider on saatavilla ilmaiseksi ladattavaksi IOS:lle ja Androidille",
-          "author": "Michael Schenk, Kehittäjä"
+          "author": "Michael Schenk, Kehittäjä",
+          "date": "2025-05-15"
         },
         {
           "tag": "Verkkosivusto",
           "title": "Uusi verkkosivusto",
           "description": "Ilmoitamme, että verkkosivustomme on vihdoin julkaistu ja julkinen",
-          "author": "Michael Schenk, Kehittäjä"
+          "author": "Michael Schenk, Kehittäjä",
+          "date": "2025-11-26"
         },
         {
           "tag": "Verkkosivusto",
           "title": "Uusi verkkotunnus",
           "description": "Ilmoitamme, että verkkotunnuksemme on rekisteröity",
-          "author": "Michael Schenk, Kehittäjä"
+          "author": "Michael Schenk, Kehittäjä",
+          "date": "2025-11-20"
         }
       ]
     },
@@ -183,6 +187,7 @@
       "system": "Järjestelmä",
       "light": "Vaalea",
       "dark": "Tumma"
-    }
+    },
+    "legal": {}
   }
 }

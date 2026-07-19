@@ -42,7 +42,7 @@
       "buttontext22": "Budata Android",
       "title3": "Ọrụ na-abịa",
       "price3": "N'efu",
-      "subheader3": "N'ọganihu",
+      "subheader3": "Akwadoro",
       "description30": "Dị maka Windows, Macos na Linux",
       "description31": "Nkesa site na Steam na Apple Store",
       "description32": "Dị n'asụsụ dị iche iche",
@@ -91,25 +91,29 @@
           "tag": "Ọrụ",
           "title": "Nkwupụta ọrụ ọhụrụ",
           "description": "Anyị na-ekwupụta na ọrụ ọhụrụ anyị ga-abụ egwuregwu vidiyo desktop n'efu nke ga-adị maka usoro ọrụ niile na ikpo okwu",
-          "author": "Michael Schenk, Onye mmepe"
+          "author": "Michael Schenk, Onye mmepe",
+          "date": "2025-12-08"
         },
         {
           "tag": "Ọrụ",
           "title": "TouchSlider dị ndụ",
           "description": "Anyị na-ekwupụta na egwuregwu vidiyo mkpanaka anyị bụ TouchSlider dị maka nbudata n'efu maka IOS na Android",
-          "author": "Michael Schenk, Onye mmepe"
+          "author": "Michael Schenk, Onye mmepe",
+          "date": "2025-05-15"
         },
         {
           "tag": "Weebụsaịtị",
           "title": "Weebụsaịtị ọhụrụ",
           "description": "Anyị na-ekwupụta na weebụsaịtị anyị dị ndụ ma ọha na eze nwere ike ịhụ ya",
-          "author": "Michael Schenk, Onye mmepe"
+          "author": "Michael Schenk, Onye mmepe",
+          "date": "2025-11-26"
         },
         {
           "tag": "Weebụsaịtị",
           "title": "Nke ọhụrụ",
           "description": "Anyị na-ekwupụta na e debanyere aha ngalaba anyị",
-          "author": "Michael Schenk, Onye mmepe"
+          "author": "Michael Schenk, Onye mmepe",
+          "date": "2025-11-20"
         }
       ]
     },
@@ -183,6 +187,7 @@
       "system": "Usoro",
       "light": "Ọkụ",
       "dark": "Ọchịchịrị"
-    }
+    },
+    "legal": {}
   }
 }

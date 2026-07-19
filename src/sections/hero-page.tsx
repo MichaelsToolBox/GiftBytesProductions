@@ -2,17 +2,19 @@ import { StyledVideoBox } from '../utils/styles/styled-box';
 import Typography from '@mui/material/Typography';
 import Container from '@mui/material/Container';
 import { useTranslation } from 'react-i18next';
+import logo from '../utils/images/logo-transparent.png';
 import Button from '@mui/material/Button';
 import Stack from '@mui/material/Stack';
-import ReactPlayer from 'react-player';
 import Box from '@mui/material/Box';
+
+const VIDEO_ID = 'hS-31jq1CGk';
 
 export default function Hero() {
   const { t } = useTranslation();
 
-  const videoUrl = 'https://www.youtube.com/watch?v=hS-31jq1CGk';
   const chronomazeUrl = 'https://store.steampowered.com/app/4180250/Chronomaze_Gravity_Maze/';
   const youtubeUrl = 'https://www.youtube.com/@GiftBytesProductions?sub_confirmation=1';
+  const embedUrl = `https://www.youtube.com/embed/${VIDEO_ID}?autoplay=1&rel=0&modestbranding=1&playsinline=1`;
 
   return (
     <Box id="hero" sx={(theme) => ({width: '100%', backgroundRepeat: 'no-repeat', backgroundImage: 'radial-gradient(ellipse 80% 50% at 50% -20%, hsl(210, 100%, 90%), transparent)', ...theme.applyStyles('dark', {backgroundImage:'radial-gradient(ellipse 80% 50% at 50% -20%, hsl(210, 100%, 16%), transparent)'})})}>
@@ -56,16 +58,19 @@ export default function Hero() {
           </Stack>
         </Stack>
         <StyledVideoBox id="video-container">
-          <ReactPlayer
-            src={videoUrl}
-            width="100%"
-            height="100%"
-            playing={false}
-            muted={false}
-            volume={1}
-            controls
-            light
-            style={{ position: 'absolute', top: 0, left: 0 }}
+          <Box
+            component="iframe"
+            title="Gift Bytes Productions — latest video"
+            src={embedUrl}
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowFullScreen
+            sx={{
+              position: 'absolute',
+              inset: 0,
+              width: '100%',
+              height: '100%',
+              border: 0,
+            }}
           />
         </StyledVideoBox>
       </Container>

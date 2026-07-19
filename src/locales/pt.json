@@ -42,7 +42,7 @@
       "buttontext22": "Download Android",
       "title3": "Próximo projeto",
       "price3": "Gratuito",
-      "subheader3": "Em curso",
+      "subheader3": "Recomendado",
       "description30": "Disponível para Windows, macOS e Linux",
       "description31": "Distribuição através da Steam e Apple Store",
       "description32": "Acessível em vários idiomas",
@@ -91,25 +91,29 @@
           "tag": "Projetos",
           "title": "Anúncio de Novo Projeto",
           "description": "Anunciamos que o nosso novo projeto será um videojogo de desktop gratuito para jogar que estará disponível em todos os sistemas operativos e plataformas",
-          "author": "Michael Schenk, Programador"
+          "author": "Michael Schenk, Programador",
+          "date": "2025-12-08"
         },
         {
           "tag": "Projetos",
           "title": "TouchSlider está no ar",
           "description": "Anunciamos que o nosso videojogo para telemóvel TouchSlider está disponível para download gratuito para iOS e Android",
-          "author": "Michael Schenk, Programador"
+          "author": "Michael Schenk, Programador",
+          "date": "2025-05-15"
         },
         {
           "tag": "Website",
           "title": "Novo website",
           "description": "Anunciamos que o nosso website está finalmente online e público",
-          "author": "Michael Schenk, Programador"
+          "author": "Michael Schenk, Programador",
+          "date": "2025-11-26"
         },
         {
           "tag": "Website",
           "title": "Novo Domínio",
           "description": "Anunciamos que o nosso domínio está registado",
-          "author": "Michael Schenk, Programador"
+          "author": "Michael Schenk, Programador",
+          "date": "2025-11-20"
         }
       ]
     },
@@ -183,6 +187,7 @@
       "system": "Sistema",
       "light": "Claro",
       "dark": "Escuro"
-    }
+    },
+    "legal": {}
   }
 }

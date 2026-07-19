@@ -42,7 +42,7 @@
       "buttontext22": "Stáhnout Android",
       "title3": "Připravovaný projekt",
       "price3": "Zdarma",
-      "subheader3": "Ve vývoji",
+      "subheader3": "Doporučeno",
       "description30": "Dostupné pro Windows, Macos a Linux",
       "description31": "Distribuce přes Steam a Apple Store",
       "description32": "Dostupné v různých jazycích",
@@ -91,25 +91,29 @@
           "tag": "Projekty",
           "title": "Oznámení nového projektu",
           "description": "Oznamujeme, že náš nový projekt bude zdarma hratelná desktopová videohra, která bude dostupná na všech operačních systémech a platformách",
-          "author": "Michael Schenk, Vývojář"
+          "author": "Michael Schenk, Vývojář",
+          "date": "2025-12-08"
         },
         {
           "tag": "Projekty",
           "title": "TouchSlider je spuštěn",
           "description": "Oznamujeme, že naše mobilní videohra TouchSlider je zdarma ke stažení pro IOS a Android",
-          "author": "Michael Schenk, Vývojář"
+          "author": "Michael Schenk, Vývojář",
+          "date": "2025-05-15"
         },
         {
           "tag": "Webové stránky",
           "title": "Nové webové stránky",
           "description": "Oznamujeme, že naše webové stránky jsou konečně spuštěny a veřejné",
-          "author": "Michael Schenk, Vývojář"
+          "author": "Michael Schenk, Vývojář",
+          "date": "2025-11-26"
         },
         {
           "tag": "Webové stránky",
           "title": "Nová doména",
           "description": "Oznamujeme, že naše doména je registrována",
-          "author": "Michael Schenk, Vývojář"
+          "author": "Michael Schenk, Vývojář",
+          "date": "2025-11-20"
         }
       ]
     },
@@ -183,6 +187,7 @@
       "system": "Systém",
       "light": "Světlý",
       "dark": "Tmavý"
-    }
+    },
+    "legal": {}
   }
 }

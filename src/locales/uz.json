@@ -42,7 +42,7 @@
       "buttontext22": "Android’ni yuklab olish",
       "title3": "Kelgusi loyiha",
       "price3": "Bepul",
-      "subheader3": "Jarayonda",
+      "subheader3": "Tavsiya etiladi",
       "description30": "Windows, macOS va Linux uchun mavjud",
       "description31": "Steam va Apple Store orqali tarqatish",
       "description32": "Har xil tillarda mavjud",
@@ -91,25 +91,29 @@
           "tag": "Loyihalar",
           "title": "Yangi loyiha eʼloni",
           "description": "Yangi loyihamiz barcha operatsion tizimlar va platformalarda oʻynash uchun bepul boʻladigan ish stoli video oʻyini boʻlishini eʼlon qilamiz",
-          "author": "Michael Schenk, Dasturchi"
+          "author": "Michael Schenk, Dasturchi",
+          "date": "2025-12-08"
         },
         {
           "tag": "Loyihalar",
           "title": "TouchSlider ishladi",
           "description": "TouchSlider mobil video oʻyinimiz iOS va Android uchun bepul yuklab olishga mavjud ekanligini eʼlon qilamiz",
-          "author": "Michael Schenk, Dasturchi"
+          "author": "Michael Schenk, Dasturchi",
+          "date": "2025-05-15"
         },
         {
           "tag": "Vebsayt",
           "title": "Yangi vebsayt",
           "description": "Vebsaytimiz nihoyat ishladi va ommaviy ekanligini eʼlon qilamiz",
-          "author": "Michael Schenk, Dasturchi"
+          "author": "Michael Schenk, Dasturchi",
+          "date": "2025-11-26"
         },
         {
           "tag": "Vebsayt",
           "title": "Yangi domen",
           "description": "Domenimiz roʻyxatdan oʻtganini eʼlon qilamiz",
-          "author": "Michael Schenk, Dasturchi"
+          "author": "Michael Schenk, Dasturchi",
+          "date": "2025-11-20"
         }
       ]
     },
@@ -183,6 +187,7 @@
       "system": "Tizim",
       "light": "Yorqin",
       "dark": "Qorongʻi"
-    }
+    },
+    "legal": {}
   }
 }

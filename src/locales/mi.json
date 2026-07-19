@@ -42,7 +42,7 @@
       "buttontext22": "Tangohia te Android",
       "title3": "Kaupapa Uption",
       "price3": "Marere",
-      "subheader3": "I te ahunga whakamua",
+      "subheader3": "Tūtohua",
       "description30": "Kei te waatea mo te Matapihi, Macos me Linux",
       "description31": "Te tohatoha i te Steam me te Toa Toa",
       "description32": "Ka uru atu ki nga reo maha",
@@ -91,37 +91,43 @@
           "tag": "Kaupapa",
           "title": "Whakapuakanga Kaupapa Hou",
           "description": "Ka panui matou ko ta maatau kaupapa hou he koreutu ki te takaro i te kēmu ataata papamahi e waatea ana i runga i nga punaha whakahaere me nga papaaho",
-          "author": "Michael Schenk, Kaiwhakawhanake"
+          "author": "Michael Schenk, Kaiwhakawhanake",
+          "date": "2025-12-08"
         },
         {
           "tag": "Paetukutuku",
           "title": "Paetukutuku hou",
           "description": "Ka panui matou ko ta maatau paetukutuku te ora me te iwi whanui",
-          "author": "Michael Schenk, Kaiwhakawhanake"
+          "author": "Michael Schenk, Kaiwhakawhanake",
+          "date": "2025-05-15"
         },
         {
           "tag": "Kaupapa",
           "title": "Kei te ora te pa roa",
           "description": "Ka panui matou kei te waatea noa to maatau paetukutuku paikete ataata ataata mo te iOS me te Android hei tango noa",
-          "author": "Michael Schenk, Kaiwhakawhanake"
+          "author": "Michael Schenk, Kaiwhakawhanake",
+          "date": "2025-11-26"
         },
         {
           "tag": "Matua",
           "title": "",
           "description": "",
-          "author": "Michael Schenk, Kaiwhakawhanake"
+          "author": "Michael Schenk, Kaiwhakawhanake",
+          "date": "2025-11-20"
         },
         {
           "tag": "Hi",
           "title": "",
           "description": "",
-          "author": "Michael Schenk, Kaiwhakawhanake"
+          "author": "Michael Schenk, Kaiwhakawhanake",
+          "date": "2025-12-08"
         },
         {
           "tag": "Hua",
           "title": "",
           "description": "",
-          "author": "Michael Schenk, Kaiwhakawhanake"
+          "author": "Michael Schenk, Kaiwhakawhanake",
+          "date": "2025-12-08"
         }
       ]
     },
@@ -195,6 +201,7 @@
       "system": "Pūnaha",
       "light": "Taimāmā",
       "dark": "Wheuri"
-    }
+    },
+    "legal": {}
   }
 }

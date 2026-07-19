@@ -42,7 +42,7 @@
       "buttontext22": "Android බාගත කරන්න",
       "title3": "ඉදිරි ව්යාපෘතිය",
       "price3": "නොමිලේ",
-      "subheader3": "ක්‍රියාත්මක වෙමින් පවතී",
+      "subheader3": "නිර්දේශිත",
       "description30": "Windows, Macos සහ Linux සඳහා ලබා ගත හැක",
       "description31": "Steam සහ Apple Store හරහා බෙදා හැරීම",
       "description32": "විවිධ භාෂාවලින් ප්රවේශ විය හැක",
@@ -91,37 +91,43 @@
           "tag": "ව්යාපෘති",
           "title": "නව ව්යාපෘති නිවේදනය",
           "description": "අපගේ නව ව්‍යාපෘතිය සියලුම මෙහෙයුම් පද්ධති සහ වේදිකා මත ලබා ගත හැකි නොමිලේ ඩෙස්ක්ටොප් වීඩියෝ ක්‍රීඩාවක් බව අපි නිවේදනය කරමු",
-          "author": "Michael Schenk, සංවර්ධක"
+          "author": "Michael Schenk, සංවර්ධක",
+          "date": "2025-12-08"
         },
         {
           "tag": "වෙබ් අඩවිය",
           "title": "නව වෙබ් අඩවිය",
           "description": "අපගේ වෙබ් අඩවිය අවසානයේ සජීවීව සහ ප්‍රසිද්ධියට පත් වූ බව අපි නිවේදනය කරමු",
-          "author": "Michael Schenk, සංවර්ධක"
+          "author": "Michael Schenk, සංවර්ධක",
+          "date": "2025-05-15"
         },
         {
           "tag": "ව්යාපෘති",
           "title": "ටච්ස්ලයිඩර් සජීවීයි",
           "description": "අපගේ ජංගම වීඩියෝ ක්‍රීඩාව වන TouchSlider IOS සහ Android සඳහා නොමිලේ බාගත කිරීමට ඇති බව අපි නිවේදනය කරමු",
-          "author": "Michael Schenk, සංවර්ධක"
+          "author": "Michael Schenk, සංවර්ධක",
+          "date": "2025-11-26"
         },
         {
           "tag": "සමාගම",
           "title": "",
           "description": "",
-          "author": "Michael Schenk, සංවර්ධක"
+          "author": "Michael Schenk, සංවර්ධක",
+          "date": "2025-11-20"
         },
         {
           "tag": "ඉංජිනේරු විද්‍යාව",
           "title": "",
           "description": "",
-          "author": "Michael Schenk, සංවර්ධක"
+          "author": "Michael Schenk, සංවර්ධක",
+          "date": "2025-12-08"
         },
         {
           "tag": "නිෂ්පාදන",
           "title": "",
           "description": "",
-          "author": "Michael Schenk, සංවර්ධක"
+          "author": "Michael Schenk, සංවර්ධක",
+          "date": "2025-12-08"
         }
       ]
     },
@@ -195,6 +201,7 @@
       "system": "පද්ධතිය",
       "light": "ආලෝකය",
       "dark": "අඳුරු"
-    }
+    },
+    "legal": {}
   }
 }

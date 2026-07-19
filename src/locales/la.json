@@ -42,7 +42,7 @@
       "buttontext22": "Descarcare Android",
       "title3": "Inceptum futurum",
       "price3": "Gratis",
-      "subheader3": "In progressu",
+      "subheader3": "Commendatum",
       "description30": "Disponibilis pro Windows, Macos et Linux",
       "description31": "Distributio per Steam et Apple Store",
       "description32": "Accessibilis in variis linguis",
@@ -91,25 +91,29 @@
           "tag": "Incepta",
           "title": "Nuntiatio novi incepti",
           "description": "Nuntiamus quod novum inceptum nostrum erit ludus video desktope gratis ludendus qui erit disponibilis in omnibus systematibus operativis et platformis",
-          "author": "Michael Schenk, Evolutor"
+          "author": "Michael Schenk, Evolutor",
+          "date": "2025-12-08"
         },
         {
           "tag": "Incepta",
           "title": "TouchSlider est vivere",
           "description": "Nuntiamus quod ludus video noster mobilis TouchSlider est disponibilis pro descarcatione gratis pro IOS et Android",
-          "author": "Michael Schenk, Evolutor"
+          "author": "Michael Schenk, Evolutor",
+          "date": "2025-05-15"
         },
         {
           "tag": "Situs",
           "title": "Novus situs",
           "description": "Nuntiamus quod situs noster tandem est vivere et publicus",
-          "author": "Michael Schenk, Evolutor"
+          "author": "Michael Schenk, Evolutor",
+          "date": "2025-11-26"
         },
         {
           "tag": "Situs",
           "title": "Novus dominium",
           "description": "Nuntiamus quod dominium nostrum est registratum",
-          "author": "Michael Schenk, Evolutor"
+          "author": "Michael Schenk, Evolutor",
+          "date": "2025-11-20"
         }
       ]
     },
@@ -183,6 +187,7 @@
       "system": "Systema",
       "light": "Lumen",
       "dark": "Tenebrae"
-    }
+    },
+    "legal": {}
   }
 }

@@ -22,7 +22,7 @@
     },
     "tiers": {
       "title1": "Dev Logs",
-      "price1": " Free",
+      "price1": "Free",
       "subheader1": "Available",
       "description10": "Studio-quality video production",
       "description11": "Deep dives into our code and design",
@@ -32,31 +32,32 @@
       "title2": "TouchSlider",
       "price2": "Free",
       "subheader2": "Mobile",
-      "description20": "Available on IOS and Android'",
+      "description20": "Available on iOS and Android",
       "description21": "Free to play with no hidden cost",
-      "description22": "Supports old mobile devices",
-      "description23": "Simple game for any time and day",
-      "description24": "Presented in dev logs",
-      "description25": "Support",
-      "buttontext21": "Download IOS",
+      "description22": "Supports older mobile devices",
+      "description23": "Simple game for any time of day",
+      "description24": "Presented in our Dev Logs",
+      "description25": "Community support",
+      "buttontext21": "Download iOS",
       "buttontext22": "Download Android",
       "title3": "Chronomaze",
       "price3": "Free",
-      "subheader3": "8th of December",
-      "description30": "Available for Windows, Macos and Linux",
-      "description31": "Distribution through Steam, Itch.io and Apple Store",
-      "description32": "Puzzle game",
-      "description33": "Support",
-      "buttontext3": "Preview"
+      "subheader3": "Recommended",
+      "description30": "Available for Windows, macOS, and Linux",
+      "description31": "Distributed on Steam, Itch.io, and the App Store",
+      "description32": "Gravity puzzle adventure",
+      "description33": "Community support",
+      "buttontext3": "Preview on Steam"
     },
     "faq": {
       "title": "Frequently asked questions",
-      "subtitle1": "How do I contact customer support if I have a question or issue",
-      "description1": "You can reach our customer support team by emailing: ",
+      "subtitle1": "How do I contact customer support if I have a question or issue?",
+      "description1": "You can reach our customer support team by emailing ",
       "subtitle2": "What makes your product stand out from others in the market?",
-      "description2": "Our product distinguishes itself through its adaptability, durability, and innovative features. We prioritize user satisfaction and continually strive to exceed expectations in every aspect",
-      "subtitle3": "How can I support GiftBytesProductions ?",
-      "description3": "You are helping us already by just trying out our projects and recommending it. Otherwise you can subscribe to our youtube channel and engage with the community. For additional support you also donate us directly through PayPal"
+      "description2": "Our products stand out through accessibility, polish, and community-driven development. We prioritize user satisfaction and continually improve based on your feedback.",
+      "subtitle3": "How can I support Gift Bytes Productions?",
+      "description3": "You already help by trying our projects and recommending them. You can also subscribe to our YouTube channel and engage with the community. For additional support, you can donate directly via PayPal.",
+      "paypal": "Donate with PayPal"
     },
     "feature-page": {
       "title": "Features",
@@ -80,36 +81,47 @@
       "left-title": "Join our community",
       "left-button": "Subscribe for free",
       "policy": "Privacy Policy",
+      "impressum": "Impressum",
       "terms": "Terms of service",
       "copyright": "Copyright © ",
       "giftbytes": "GiftBytesProductions"
+    },
+    "legal": {
+      "impressum-title": "Impressum",
+      "impressum-body": "Gift Bytes Productions\nMichael Schenk\nGermany\nEmail: giftbytesproductions@gmail.com\nResponsible for content: Michael Schenk",
+      "privacy-title": "Privacy Policy",
+      "privacy-body": "This website is a static presentation site. We do not run our own user accounts or analytics trackers on this page. Embedded third-party content (such as YouTube) may set cookies or collect data according to their own policies. Contact: giftbytesproductions@gmail.com."
     },
     "latest-page": {
       "title": "Latest",
       "article": [
         {
           "tag": "Projects",
-          "title": "Chronomaze will release on 8th of December",
-          "description": "We announce that our new project will be a free to play desktop video game that will be available on all operating systems and platforms",
-          "author": "Michael Schenk, Developer"
+          "title": "Chronomaze will release on 8 December",
+          "description": "Our new free-to-play desktop game Chronomaze will be available across major platforms.",
+          "author": "Michael Schenk, Developer",
+          "date": "2025-12-08"
         },
         {
           "tag": "Projects",
           "title": "TouchSlider is live",
-          "description": "We announce that that our mobile video game TouchSlider is avaible for IOS And Android to download for free",
-          "author": "Michael Schenk, Developer"
+          "description": "Our mobile game TouchSlider is available free on iOS and Android.",
+          "author": "Michael Schenk, Developer",
+          "date": "2025-05-15"
         },
         {
           "tag": "Website",
           "title": "New website",
-          "description": "We announce that our website is finally live and public",
-          "author": "Michael Schenk, Developer"
+          "description": "Our Gift Bytes Productions website is live and public.",
+          "author": "Michael Schenk, Developer",
+          "date": "2025-11-26"
         },
         {
           "tag": "Website",
-          "title": "New Domain",
-          "description": "We announce that our domain is registred",
-          "author": "Michael Schenk, Developer"
+          "title": "New domain",
+          "description": "Our studio domain is registered and connected to the site.",
+          "author": "Michael Schenk, Developer",
+          "date": "2025-11-20"
         }
       ]
     },
@@ -126,7 +138,7 @@
           "description": "We deliver complete and highly optimized experiences. Our focus on clean architecture and rigorous testing ensures every product is stable, performant, and ready to enjoy from day one"
         },
         {
-          "title": "Intuitive Desing",
+          "title": "Intuitive Design",
           "description": "We believe powerful software doesn't have to be complicated. Our passion lies in crafting clean, intuitive interfaces that make every interaction straightforward and enjoyable"
         },
         {

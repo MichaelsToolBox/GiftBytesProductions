@@ -42,7 +42,7 @@
       "buttontext22": "Muat Turun Android",
       "title3": "Projek Akan Datang",
       "price3": "Percuma",
-      "subheader3": "Sedang Dijalankan",
+      "subheader3": "Disyorkan",
       "description30": "Tersedia untuk Windows, MacOS dan Linux",
       "description31": "Pengedaran melalui Steam dan Apple Store",
       "description32": "Boleh diakses dalam pelbagai bahasa",
@@ -91,25 +91,29 @@
           "tag": "Projek",
           "title": "Pengumuman Projek Baharu",
           "description": "Kami mengumumkan bahawa projek baharu kami akan menjadi permainan video desktop percuma untuk dimainkan yang akan tersedia pada semua sistem pengendalian dan platform",
-          "author": "Michael Schenk, Pembangun"
+          "author": "Michael Schenk, Pembangun",
+          "date": "2025-12-08"
         },
         {
           "tag": "Projek",
           "title": "TouchSlider Telah Langsung",
           "description": "Kami mengumumkan bahawa permainan video mudah alih kami, TouchSlider, boleh dimuat turun secara percuma untuk iOS dan Android",
-          "author": "Michael Schenk, Pembangun"
+          "author": "Michael Schenk, Pembangun",
+          "date": "2025-05-15"
         },
         {
           "tag": "Laman Web",
           "title": "Laman Web Baharu",
           "description": "Kami mengumumkan bahawa laman web kami akhirnya langsung dan awam",
-          "author": "Michael Schenk, Pembangun"
+          "author": "Michael Schenk, Pembangun",
+          "date": "2025-11-26"
         },
         {
           "tag": "Laman Web",
           "title": "Domain Baharu",
           "description": "Kami mengumumkan bahawa domain kami telah didaftarkan",
-          "author": "Michael Schenk, Pembangun"
+          "author": "Michael Schenk, Pembangun",
+          "date": "2025-11-20"
         }
       ]
     },
@@ -183,6 +187,7 @@
       "system": "Sistem",
       "light": "Terang",
       "dark": "Gelap"
-    }
+    },
+    "legal": {}
   }
 }

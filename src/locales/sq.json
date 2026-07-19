@@ -42,7 +42,7 @@
       "buttontext22": "Shkarko për Android",
       "title3": "Projekt i ardhshëm",
       "price3": "Falaso",
-      "subheader3": "Në zhvillim",
+      "subheader3": "E rekomanduar",
       "description30": "Në dispozicion për Windows, macOS dhe Linux",
       "description31": "Shpërndarje nëpërmjet Steam dhe Apple Store",
       "description32": "E aksesueshme në gjuhë të ndryshme",
@@ -91,25 +91,29 @@
           "tag": "Projekte",
           "title": "Njoftim për projekt të ri",
           "description": "Ne njoftojmë se projekti ynë i ri do të jetë një lojë video desktop falas për t'u luajtur, e cila do të jetë e disponueshme në të gjitha sistemet operative dhe platformat",
-          "author": "Michael Schenk, Zhvillues"
+          "author": "Michael Schenk, Zhvillues",
+          "date": "2025-12-08"
         },
         {
           "tag": "Projekte",
           "title": "TouchSlider është live",
           "description": "Ne njoftojmë se loja jonë video mobile TouchSlider është e disponueshme për t'u shkarkuar falas për iOS dhe Android",
-          "author": "Michael Schenk, Zhvillues"
+          "author": "Michael Schenk, Zhvillues",
+          "date": "2025-05-15"
         },
         {
           "tag": "Uebsajt",
           "title": "Uebsajt i ri",
           "description": "Ne njoftojmë se uebsajti ynë është më në fund live dhe publik",
-          "author": "Michael Schenk, Zhvillues"
+          "author": "Michael Schenk, Zhvillues",
+          "date": "2025-11-26"
         },
         {
           "tag": "Uebsajt",
           "title": "Domen i ri",
           "description": "Ne njoftojmë se domeni ynë është i regjistruar",
-          "author": "Michael Schenk, Zhvillues"
+          "author": "Michael Schenk, Zhvillues",
+          "date": "2025-11-20"
         }
       ]
     },
@@ -183,6 +187,7 @@
       "system": "Sistem",
       "light": "E lehtë",
       "dark": "E errët"
-    }
+    },
+    "legal": {}
   }
 }

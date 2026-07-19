@@ -42,7 +42,7 @@
       "buttontext22": "Prenesi za Android",
       "title3": "Prihajajoči projekt",
       "price3": "Brezplačno",
-      "subheader3": "V teku",
+      "subheader3": "Priporočeno",
       "description30": "Na voljo za Windows, macOS in Linux",
       "description31": "Distribucija prek Steama in Apple Storea",
       "description32": "Dostopno v različnih jezikih",
@@ -91,25 +91,29 @@
           "tag": "Projekti",
           "title": "Objava novega projekta",
           "description": "Objavljamo, da bo naš novi projekt brezplačna video igra za namizne računalnike, ki bo na voljo na vseh operacijskih sistemih in platformah",
-          "author": "Michael Schenk, Razvijalec"
+          "author": "Michael Schenk, Razvijalec",
+          "date": "2025-12-08"
         },
         {
           "tag": "Projekti",
           "title": "TouchSlider je v živo",
           "description": "Objavljamo, da je naša mobilna video igra TouchSlider na voljo za brezplačen prenos za iOS in Android",
-          "author": "Michael Schenk, Razvijalec"
+          "author": "Michael Schenk, Razvijalec",
+          "date": "2025-05-15"
         },
         {
           "tag": "Spletna stran",
           "title": "Nova spletna stran",
           "description": "Objavljamo, da je naša spletna stran končno v živo in javna",
-          "author": "Michael Schenk, Razvijalec"
+          "author": "Michael Schenk, Razvijalec",
+          "date": "2025-11-26"
         },
         {
           "tag": "Spletna stran",
           "title": "Nova domena",
           "description": "Objavljamo, da je naša domena registrirana",
-          "author": "Michael Schenk, Razvijalec"
+          "author": "Michael Schenk, Razvijalec",
+          "date": "2025-11-20"
         }
       ]
     },
@@ -183,6 +187,7 @@
       "system": "Sistem",
       "light": "Svetel",
       "dark": "Temen"
-    }
+    },
+    "legal": {}
   }
 }

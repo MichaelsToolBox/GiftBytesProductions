@@ -42,7 +42,7 @@
       "buttontext22": "Ladda ner Android",
       "title3": "Kommande projekt",
       "price3": "Gratis",
-      "subheader3": "Under utveckling",
+      "subheader3": "Rekommenderas",
       "description30": "Tillgänglig för Windows, macOS och Linux",
       "description31": "Distribution via Steam och Apple Store",
       "description32": "Tillgänglig på flera språk",
@@ -91,25 +91,29 @@
           "tag": "Projekt",
           "title": "Tillkännagivande av nytt projekt",
           "description": "Vi tillkännager att vårt nya projekt kommer att vara ett gratis videospel för stationära datorer som kommer att finnas tillgängligt på alla operativsystem och plattformar",
-          "author": "Michael Schenk, Utvecklare"
+          "author": "Michael Schenk, Utvecklare",
+          "date": "2025-12-08"
         },
         {
           "tag": "Projekt",
           "title": "TouchSlider är live",
           "description": "Vi tillkännager att vårt mobilspel TouchSlider är tillgängligt för nedladdning gratis för iOS och Android",
-          "author": "Michael Schenk, Utvecklare"
+          "author": "Michael Schenk, Utvecklare",
+          "date": "2025-05-15"
         },
         {
           "tag": "Webbplats",
           "title": "Ny webbplats",
           "description": "Vi tillkännager att vår webbplats äntligen är live och offentlig",
-          "author": "Michael Schenk, Utvecklare"
+          "author": "Michael Schenk, Utvecklare",
+          "date": "2025-11-26"
         },
         {
           "tag": "Webbplats",
           "title": "Ny domän",
           "description": "Vi tillkännager att vår domän är registrerad",
-          "author": "Michael Schenk, Utvecklare"
+          "author": "Michael Schenk, Utvecklare",
+          "date": "2025-11-20"
         }
       ]
     },
@@ -183,6 +187,7 @@
       "system": "System",
       "light": "Ljust",
       "dark": "Mörkt"
-    }
+    },
+    "legal": {}
   }
 }

@@ -32,31 +32,32 @@
       "title2": "TouchSlider",
       "price2": "Kostenlos",
       "subheader2": "Mobil",
-      "description20": "Für IOS und Android erhältlich'",
+      "description20": "Verfügbar für iOS und Android",
       "description21": "Kostenlos spielbar ohne versteckte Kosten",
-      "description22": "Unterstützt alte mobile Geräte",
+      "description22": "Unterstützt ältere mobile Geräte",
       "description23": "Einfaches Spiel für zwischendurch",
-      "description24": "Präsentiert in Dev Logs",
-      "description25": "Unterstützung",
-      "buttontext21": "IOS herunterladen",
+      "description24": "Präsentiert in unseren Dev Logs",
+      "description25": "Community-Support",
+      "buttontext21": "iOS herunterladen",
       "buttontext22": "Android herunterladen",
-      "title3": "Kommendes Projekt",
+      "title3": "Chronomaze",
       "price3": "Kostenlos",
-      "subheader3": "In Arbeit",
-      "description30": "Verfügbar für Windows, Macos und Linux",
-      "description31": "Vertrieb über Steam und den Apple Store",
-      "description32": "In verschiedenen Sprachen zugänglich",
-      "description33": "Unterstützung",
-      "buttontext3": "Wird noch bekannt gegeben"
+      "subheader3": "Empfohlen",
+      "description30": "Verfügbar für Windows, macOS und Linux",
+      "description31": "Vertrieb über Steam, Itch.io und den App Store",
+      "description32": "Gravity-Puzzle-Abenteuer",
+      "description33": "Community-Support",
+      "buttontext3": "Vorschau auf Steam"
     },
     "faq": {
       "title": "Häufig gestellte Fragen",
       "subtitle1": "Wie kann ich den Kundendienst kontaktieren, wenn ich eine Frage oder ein Problem habe?",
-      "description1": "Sie können unser Kundendienstteam per E-Mail kontaktieren: ",
+      "description1": "Sie erreichen unser Support-Team per E-Mail unter ",
       "subtitle2": "Was unterscheidet Ihr Produkt von anderen auf dem Markt?",
-      "description2": "Unser Produkt zeichnet sich durch seine Anpassungsfähigkeit, Langlebigkeit und innovative Funktionen aus. Wir priorisieren die Zufriedenheit der Nutzer und streben kontinuierlich danach, die Erwartungen in jeder Hinsicht zu übertreffen",
-      "subtitle3": "Wie kann ich GiftBytesProductions unterstützen?",
-      "description3": "Sie helfen uns bereits, indem Sie unsere Projekte ausprobieren und weiterempfehlen. Ansonsten können Sie unseren YouTube-Kanal abonnieren und sich in der Community engagieren. Für zusätzliche Unterstützung können Sie uns auch direkt über PayPal spenden"
+      "description2": "Unsere Produkte zeichnen sich durch Zugänglichkeit, Qualität und community-nahe Entwicklung aus. Wir priorisieren Nutzerzufriedenheit und verbessern kontinuierlich anhand Ihres Feedbacks.",
+      "subtitle3": "Wie kann ich Gift Bytes Productions unterstützen?",
+      "description3": "Sie helfen uns bereits, indem Sie unsere Projekte ausprobieren und weiterempfehlen. Sie können außerdem unseren YouTube-Kanal abonnieren und sich in der Community engagieren. Für zusätzliche Unterstützung können Sie uns direkt über PayPal spenden.",
+      "paypal": "Mit PayPal spenden"
     },
     "feature-page": {
       "title": "Funktionen",
@@ -79,37 +80,48 @@
     "footer-page": {
       "left-title": "Werden Sie Teil unserer Community",
       "left-button": "Kostenlos abonnieren",
-      "policy": "Datenschutzbestimmungen",
+      "policy": "Datenschutz",
+      "impressum": "Impressum",
       "terms": "Nutzungsbedingungen",
       "copyright": "Urheberrecht © ",
       "giftbytes": "GiftBytesProductions"
+    },
+    "legal": {
+      "impressum-title": "Impressum",
+      "impressum-body": "Gift Bytes Productions\nMichael Schenk\nDeutschland\nE-Mail: giftbytesproductions@gmail.com\nInhaltlich verantwortlich: Michael Schenk",
+      "privacy-title": "Datenschutzerklärung",
+      "privacy-body": "Diese Website ist eine statische Präsentationsseite. Wir betreiben hier keine eigenen Nutzerkonten oder Analytics-Tracker. Eingebettete Drittanbieter-Inhalte (z. B. YouTube) können Cookies setzen oder Daten gemäß deren eigenen Richtlinien erheben. Kontakt: giftbytesproductions@gmail.com."
     },
     "latest-page": {
       "title": "Aktuelles",
       "article": [
         {
           "tag": "Projekte",
-          "title": "Ankündigung eines neuen Projekts",
-          "description": "Wir kündigen an, dass unser neues Projekt ein kostenlos spielbares Desktop-Videospiel sein wird, das auf allen Betriebssystemen und Plattformen verfügbar sein wird",
-          "author": "Michael Schenk, Entwickler"
+          "title": "Chronomaze erscheint am 8. Dezember",
+          "description": "Unser neues Free-to-Play-Desktopspiel Chronomaze wird auf den wichtigsten Plattformen verfügbar sein.",
+          "author": "Michael Schenk, Entwickler",
+          "date": "2025-12-08"
         },
         {
           "tag": "Projekte",
           "title": "TouchSlider ist live",
-          "description": "Wir kündigen an, dass unser mobiles Videospiel TouchSlider kostenlos für IOS und Android heruntergeladen werden kann",
-          "author": "Michael Schenk, Entwickler"
+          "description": "Unser mobiles Spiel TouchSlider ist kostenlos für iOS und Android verfügbar.",
+          "author": "Michael Schenk, Entwickler",
+          "date": "2025-05-15"
         },
         {
           "tag": "Website",
           "title": "Neue Website",
-          "description": "Wir kündigen an, dass unsere Website endlich live und öffentlich ist",
-          "author": "Michael Schenk, Entwickler"
+          "description": "Die Website von Gift Bytes Productions ist live und öffentlich.",
+          "author": "Michael Schenk, Entwickler",
+          "date": "2025-11-26"
         },
         {
           "tag": "Website",
           "title": "Neue Domain",
-          "description": "Wir kündigen an, dass unsere Domain registriert ist",
-          "author": "Michael Schenk, Entwickler"
+          "description": "Unsere Studio-Domain ist registriert und mit der Website verbunden.",
+          "author": "Michael Schenk, Entwickler",
+          "date": "2025-11-20"
         }
       ]
     },
@@ -183,6 +195,7 @@
       "system": "System",
       "light": "Hell",
       "dark": "Dunkel"
-    }
+    },
+    "legal": {}
   }
 }

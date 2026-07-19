@@ -42,7 +42,7 @@
       "buttontext22": "Unduh Android",
       "title3": "Proyek sing bakal teka",
       "price3": "Gratis",
-      "subheader3": "Ing pengerjaan",
+      "subheader3": "Disaranake",
       "description30": "Kasedhiya kanggo Windows, Macos, lan Linux",
       "description31": "Distribusi liwat Steam lan Apple Store",
       "description32": "Bisa diakses ing macem-macem basa",
@@ -91,25 +91,29 @@
           "tag": "Proyek",
           "title": "Pengumuman Proyek Anyar",
           "description": "Kita ngumumake yen proyek anyar kita bakal dadi video game desktop gratis sing bakal kasedhiya ing kabeh sistem operasi lan platform",
-          "author": "Michael Schenk, Pangembang"
+          "author": "Michael Schenk, Pangembang",
+          "date": "2025-12-08"
         },
         {
           "tag": "Proyek",
           "title": "TouchSlider wis tayang",
           "description": "Kita ngumumake yen video game seluler kita, TouchSlider, kasedhiya kanggo diunduh gratis kanggo IOS lan Android",
-          "author": "Michael Schenk, Pangembang"
+          "author": "Michael Schenk, Pangembang",
+          "date": "2025-05-15"
         },
         {
           "tag": "Situs web",
           "title": "Situs web anyar",
           "description": "Kita ngumumake yen situs web kita wis tayang lan publik",
-          "author": "Michael Schenk, Pangembang"
+          "author": "Michael Schenk, Pangembang",
+          "date": "2025-11-26"
         },
         {
           "tag": "Situs web",
           "title": "Domain Anyar",
           "description": "Kita ngumumake yen domain kita wis terdaftar",
-          "author": "Michael Schenk, Pangembang"
+          "author": "Michael Schenk, Pangembang",
+          "date": "2025-11-20"
         }
       ]
     },
@@ -183,6 +187,7 @@
       "system": "Sistem",
       "light": "Terang",
       "dark": "Peteng"
-    }
+    },
+    "legal": {}
   }
 }

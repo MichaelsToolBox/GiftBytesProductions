@@ -42,7 +42,7 @@
       "buttontext22": "Íoslódáil Android",
       "title3": "Tionscadal atá le Teacht",
       "price3": "Saor in Aisce",
-      "subheader3": "Ar siúl",
+      "subheader3": "Molta",
       "description30": "Ar fáil do Windows, Macos agus Linux",
       "description31": "Dáileadh trí Steam agus Apple Store",
       "description32": "Inrochtana i dteangacha éagsúla",
@@ -91,25 +91,29 @@
           "tag": "Tionscadail",
           "title": "Fógra tionscadail nua",
           "description": "Fógraímid gur cluiche físeán deisce saor in aisce le himirt a bheidh inár dtionscadal nua, a bheidh ar fáil ar gach córas oibriúcháin agus ardán",
-          "author": "Michael Schenk, Forbróir"
+          "author": "Michael Schenk, Forbróir",
+          "date": "2025-12-08"
         },
         {
           "tag": "Tionscadail",
           "title": "Tá TouchSlider beo",
           "description": "Fógraímid go bhfuil ár bhfíschluiche soghluaiste TouchSlider ar fáil le híoslódáil saor in aisce do IOS agus Android",
-          "author": "Michael Schenk, Forbróir"
+          "author": "Michael Schenk, Forbróir",
+          "date": "2025-05-15"
         },
         {
           "tag": "Suíomh Gréasáin",
           "title": "Suíomh Gréasáin nua",
           "description": "Fógraímid go bhfuil ár suíomh gréasáin beo agus poiblí faoi dheireadh",
-          "author": "Michael Schenk, Forbróir"
+          "author": "Michael Schenk, Forbróir",
+          "date": "2025-11-26"
         },
         {
           "tag": "Suíomh Gréasáin",
           "title": "Fearann nua",
           "description": "Fógraímid go bhfuil ár bhfearann cláraithe",
-          "author": "Michael Schenk, Forbróir"
+          "author": "Michael Schenk, Forbróir",
+          "date": "2025-11-20"
         }
       ]
     },
@@ -183,6 +187,7 @@
       "system": "Córas",
       "light": "Éadrom",
       "dark": "Dorcha"
-    }
+    },
+    "legal": {}
   }
 }

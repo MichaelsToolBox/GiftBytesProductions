@@ -42,7 +42,7 @@
       "buttontext22": "Yüklə Android",
       "title3": "Gələcək layihə",
       "price3": "Pulsuz",
-      "subheader3": "İnkişafdadır",
+      "subheader3": "Tövsiyə olunur",
       "description30": "Windows, Macos və Linux üçün mövcuddur",
       "description31": "Steam və Apple Store vasitəsilə yayım",
       "description32": "Müxtəlif dillərdə əlçatandır",
@@ -91,25 +91,29 @@
           "tag": "Layihələr",
           "title": "Yeni layihə elanı",
           "description": "Elan edirik ki, yeni layihəmiz bütün əməliyyat sistemləri və platformalarda mövcud olacaq pulsuz stolüstü video oyunu olacaq",
-          "author": "Michael Schenk, Tərtibatçı"
+          "author": "Michael Schenk, Tərtibatçı",
+          "date": "2025-12-08"
         },
         {
           "tag": "Layihələr",
           "title": "TouchSlider artıq mövcuddur",
           "description": "Elan edirik ki, mobil video oyunumuz TouchSlider IOS və Android üçün pulsuz yükləməyə hazırdır",
-          "author": "Michael Schenk, Tərtibatçı"
+          "author": "Michael Schenk, Tərtibatçı",
+          "date": "2025-05-15"
         },
         {
           "tag": "Vebsayt",
           "title": "Yeni vebsayt",
           "description": "Elan edirik ki, vebsaytımız nəhayət açıq və ictimaiyyət üçün hazırdır",
-          "author": "Michael Schenk, Tərtibatçı"
+          "author": "Michael Schenk, Tərtibatçı",
+          "date": "2025-11-26"
         },
         {
           "tag": "Vebsayt",
           "title": "Yeni domen",
           "description": "Elan edirik ki, domenimiz qeydə alınıb",
-          "author": "Michael Schenk, Tərtibatçı"
+          "author": "Michael Schenk, Tərtibatçı",
+          "date": "2025-11-20"
         }
       ]
     },
@@ -183,6 +187,7 @@
       "system": "Sistem",
       "light": "İşıq",
       "dark": "Qaranlıq"
-    }
+    },
+    "legal": {}
   }
 }

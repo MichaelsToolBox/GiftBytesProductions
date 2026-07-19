@@ -9,6 +9,21 @@ const localeModules = import.meta.glob(['./locales/*.json', '!./locales/en.json'
   () => Promise<{ default: LocaleModule }>
 >;
 
+const supportedCodes = new Set([
+  'en',
+  ...Object.keys(localeModules).map((path) => path.match(/\/([a-z]{2})\.json$/)?.[1]).filter(Boolean) as string[],
+]);
+
+function detectBrowserLanguage(): string {
+  if (typeof navigator === 'undefined') return 'en';
+  const candidates = [...(navigator.languages ?? []), navigator.language].filter(Boolean);
+  for (const locale of candidates) {
+    const code = locale.toLowerCase().split('-')[0];
+    if (supportedCodes.has(code)) return code;
+  }
+  return 'en';
+}
+
 /** Lazily load a locale bundle the first time it is needed. */
 export async function loadLanguage(lng: string): Promise<string> {
   const code = lng.split('-')[0];
@@ -26,7 +41,9 @@ export async function loadLanguage(lng: string): Promise<string> {
   return code;
 }
 
-i18n.use(initReactI18next).init({
+const initialLng = detectBrowserLanguage();
+
+void i18n.use(initReactI18next).init({
   resources: { en },
   fallbackLng: 'en',
   lng: 'en',
@@ -34,6 +51,11 @@ i18n.use(initReactI18next).init({
   interpolation: {
     escapeValue: false,
   },
+}).then(async () => {
+  if (initialLng !== 'en') {
+    const code = await loadLanguage(initialLng);
+    await i18n.changeLanguage(code);
+  }
 });
 
 export default i18n;

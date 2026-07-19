@@ -42,7 +42,7 @@
       "buttontext22": "Last ned Android",
       "title3": "Kommende prosjekt",
       "price3": "Gratis",
-      "subheader3": "Under utvikling",
+      "subheader3": "Anbefalt",
       "description30": "Tilgjengelig for Windows, macOS og Linux",
       "description31": "Distribusjon via Steam og Apple Store",
       "description32": "Tilgjengelig på flere språk",
@@ -91,25 +91,29 @@
           "tag": "Prosjekter",
           "title": "Kunngjøring om nytt prosjekt",
           "description": "Vi kunngjør at vårt nye prosjekt vil være et gratis å spille dataspill som vil være tilgjengelig på alle operativsystemer og plattformer",
-          "author": "Michael Schenk, Utvikler"
+          "author": "Michael Schenk, Utvikler",
+          "date": "2025-12-08"
         },
         {
           "tag": "Prosjekter",
           "title": "TouchSlider er lansert",
           "description": "Vi kunngjør at vårt mobilspill TouchSlider er tilgjengelig for nedlasting for iOS og Android",
-          "author": "Michael Schenk, Utvikler"
+          "author": "Michael Schenk, Utvikler",
+          "date": "2025-05-15"
         },
         {
           "tag": "Nettsted",
           "title": "Nytt nettsted",
           "description": "Vi kunngjør at vår nettside endelig er live og offentlig",
-          "author": "Michael Schenk, Utvikler"
+          "author": "Michael Schenk, Utvikler",
+          "date": "2025-11-26"
         },
         {
           "tag": "Nettsted",
           "title": "Nytt domene",
           "description": "Vi kunngjør at vårt domene er registrert",
-          "author": "Michael Schenk, Utvikler"
+          "author": "Michael Schenk, Utvikler",
+          "date": "2025-11-20"
         }
       ]
     },
@@ -183,6 +187,7 @@
       "system": "System",
       "light": "Lys",
       "dark": "Mørk"
-    }
+    },
+    "legal": {}
   }
 }

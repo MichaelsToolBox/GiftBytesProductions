@@ -42,7 +42,7 @@
       "buttontext22": "Androidをダウンロード",
       "title3": "今後のプロジェクト",
       "price3": "無料",
-      "subheader3": "開発中",
+      "subheader3": "おすすめ",
       "description30": "Windows、Macos、Linuxで利用可能",
       "description31": "SteamおよびApple Storeを通じて配信",
       "description32": "さまざまな言語でアクセス可能",
@@ -91,25 +91,29 @@
           "tag": "プロジェクト",
           "title": "新プロジェクト発表",
           "description": "新しいプロジェクトは、すべてのオペレーティングシステムとプラットフォームで利用できる、無料でプレイできるデスクトップビデオゲームであることを発表します",
-          "author": "Michael Schenk、開発者"
+          "author": "Michael Schenk、開発者",
+          "date": "2025-12-08"
         },
         {
           "tag": "プロジェクト",
           "title": "TouchSliderがライブになりました",
           "description": "モバイルビデオゲームのTouchSliderが、IOSとAndroidで無料でダウンロードできるようになったことを発表します",
-          "author": "Michael Schenk、開発者"
+          "author": "Michael Schenk、開発者",
+          "date": "2025-05-15"
         },
         {
           "tag": "ウェブサイト",
           "title": "新ウェブサイト",
           "description": "私たちのウェブサイトがついに公開されたことを発表します",
-          "author": "Michael Schenk、開発者"
+          "author": "Michael Schenk、開発者",
+          "date": "2025-11-26"
         },
         {
           "tag": "ウェブサイト",
           "title": "新ドメイン",
           "description": "私たちのドメインが登録されたことを発表します",
-          "author": "Michael Schenk、開発者"
+          "author": "Michael Schenk、開発者",
+          "date": "2025-11-20"
         }
       ]
     },
@@ -183,6 +187,7 @@
       "system": "システム",
       "light": "ライト",
       "dark": "ダーク"
-    }
+    },
+    "legal": {}
   }
 }

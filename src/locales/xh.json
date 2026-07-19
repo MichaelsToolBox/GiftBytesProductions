@@ -42,7 +42,7 @@
       "buttontext22": "Khuphela i-Android",
       "title3": "Iprojekthi ezayo",
       "price3": "Mahala",
-      "subheader3": "Iyaqhubeka",
+      "subheader3": "Kuyacetyiswa",
       "description30": "Iyafumaneka kwiWindows, MacOS neLinux",
       "description31": "Ukusasazwa ngeSteam kunye neApple Store",
       "description32": "Ifumaneka ngeelwimi ezahlukeneyo",
@@ -91,37 +91,43 @@
           "tag": "Iiprojekthi",
           "title": "Isibhengezo seProjekthi eNtsha",
           "description": "Sibhengeza ukuba iprojekthi yethu entsha iya kuba ngumdlalo wevidiyo wedesktop wasimahla oza kufumaneka kuzo zonke iinkqubo zokusebenza namaqonga.",
-          "author": "Michael Schenk, uMphuhlisi"
+          "author": "Michael Schenk, uMphuhlisi",
+          "date": "2025-12-08"
         },
         {
           "tag": "Iwebhusayithi",
           "title": "Iwebhusayithi entsha",
           "description": "Sibhengeza ukuba iwebhusayithi yethu ekugqibeleni iphilile kwaye isesidlangalaleni.",
-          "author": "Michael Schenk, uMphuhlisi"
+          "author": "Michael Schenk, uMphuhlisi",
+          "date": "2025-05-15"
         },
         {
           "tag": "Iiprojekthi",
           "title": "I-TouchSlider iphilile",
           "description": "Sibhengeza ukuba umdlalo wethu wevidiyo weselula i-TouchSlider uyafumaneka ukuze ukhutshelwe mahala kwi-IOS nakwi-Android.",
-          "author": "Michael Schenk, uMphuhlisi"
+          "author": "Michael Schenk, uMphuhlisi",
+          "date": "2025-11-26"
         },
         {
           "tag": "Inkampani",
           "title": "",
           "description": "",
-          "author": "Michael Schenk, uMphuhlisi"
+          "author": "Michael Schenk, uMphuhlisi",
+          "date": "2025-11-20"
         },
         {
           "tag": "Ubunjineli",
           "title": "",
           "description": "",
-          "author": "Michael Schenk, uMphuhlisi"
+          "author": "Michael Schenk, uMphuhlisi",
+          "date": "2025-12-08"
         },
         {
           "tag": "Imveliso",
           "title": "",
           "description": "",
-          "author": "Michael Schenk, uMphuhlisi"
+          "author": "Michael Schenk, uMphuhlisi",
+          "date": "2025-12-08"
         }
       ]
     },
@@ -195,6 +201,7 @@
       "system": "Inkqubo",
       "light": "Ukukhanya",
       "dark": "Ubumnyama"
-    }
+    },
+    "legal": {}
   }
 }

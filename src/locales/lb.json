@@ -42,7 +42,7 @@
       "buttontext22": "Android eroflueden",
       "title3": "Kommende Projet",
       "price3": "Gratis",
-      "subheader3": "An Aarbecht",
+      "subheader3": "Recommended",
       "description30": "Verfügbar fir Windows, Macos a Linux",
       "description31": "Distributioun iwwer Steam an Apple Store",
       "description32": "Zougänglech a verschiddene Sproochen",
@@ -91,25 +91,29 @@
           "tag": "Projeten",
           "title": "Annonce vun engem neie Projet",
           "description": "Mir annoncéieren, dass eisen neie Projet e gratis-to-play Desktop-Videospill gëtt, deen op all Betribssystemer a Plattforme disponibel ass",
-          "author": "Michael Schenk, Entwéckler"
+          "author": "Michael Schenk, Entwéckler",
+          "date": "2025-12-08"
         },
         {
           "tag": "Projeten",
           "title": "TouchSlider ass live",
           "description": "Mir annoncéieren, dass eist mobil Videospill TouchSlider gratis fir IOS an Android erofgeluede ka ginn",
-          "author": "Michael Schenk, Entwéckler"
+          "author": "Michael Schenk, Entwéckler",
+          "date": "2025-05-15"
         },
         {
           "tag": "Websäit",
           "title": "Nei Websäit",
           "description": "Mir annoncéieren, dass eis Websäit endlech live an ëffentlech ass",
-          "author": "Michael Schenk, Entwéckler"
+          "author": "Michael Schenk, Entwéckler",
+          "date": "2025-11-26"
         },
         {
           "tag": "Websäit",
           "title": "Neien Domain",
           "description": "Mir annoncéieren, dass eisen Domain registréiert ass",
-          "author": "Michael Schenk, Entwéckler"
+          "author": "Michael Schenk, Entwéckler",
+          "date": "2025-11-20"
         }
       ]
     },
@@ -183,6 +187,7 @@
       "system": "System",
       "light": "Hell",
       "dark": "Däischter"
-    }
+    },
+    "legal": {}
   }
 }

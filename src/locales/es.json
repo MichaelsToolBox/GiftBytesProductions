@@ -42,7 +42,7 @@
       "buttontext22": "Descargar Android",
       "title3": "Próximo proyecto",
       "price3": "Gratis",
-      "subheader3": "En curso",
+      "subheader3": "Recomendado",
       "description30": "Disponible para Windows, Macos y Linux",
       "description31": "Distribución a través de Steam y Apple Store",
       "description32": "Accesible en varios idiomas",
@@ -91,25 +91,29 @@
           "tag": "Proyectos",
           "title": "Anuncio de un nuevo proyecto",
           "description": "Anunciamos que nuestro nuevo proyecto será un videojuego de escritorio gratuito que estará disponible en todos los sistemas operativos y plataformas",
-          "author": "Michael Schenk, Desarrollador"
+          "author": "Michael Schenk, Desarrollador",
+          "date": "2025-12-08"
         },
         {
           "tag": "Proyectos",
           "title": "TouchSlider ya está disponible",
           "description": "Anunciamos que nuestro videojuego para móviles TouchSlider ya se puede descargar de manera gratuita para IOS y Android",
-          "author": "Michael Schenk, Desarrollador"
+          "author": "Michael Schenk, Desarrollador",
+          "date": "2025-05-15"
         },
         {
           "tag": "Sitio web",
           "title": "Nuevo sitio web",
           "description": "Anunciamos que nuestro sitio web ya está finalmente en línea y es público",
-          "author": "Michael Schenk, Desarrollador"
+          "author": "Michael Schenk, Desarrollador",
+          "date": "2025-11-26"
         },
         {
           "tag": "Sitio web",
           "title": "Nuevo dominio",
           "description": "Anunciamos que nuestro dominio ya está registrado",
-          "author": "Michael Schenk, Desarrollador"
+          "author": "Michael Schenk, Desarrollador",
+          "date": "2025-11-20"
         }
       ]
     },
@@ -183,6 +187,7 @@
       "system": "Sistema",
       "light": "Claro",
       "dark": "Oscuro"
-    }
+    },
+    "legal": {}
   }
 }

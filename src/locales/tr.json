@@ -42,7 +42,7 @@
       "buttontext22": "Android'i İndir",
       "title3": "Yaklaşan proje",
       "price3": "Ücretsiz",
-      "subheader3": "Devam Ediyor",
+      "subheader3": "Önerilen",
       "description30": "Windows, macOS ve Linux için mevcut",
       "description31": "Steam ve Apple Store üzerinden dağıtım",
       "description32": "Çeşitli dillerde erişilebilir",
@@ -91,25 +91,29 @@
           "tag": "Projeler",
           "title": "Yeni Proje Duyurusu",
           "description": "Yeni projemizin, tüm işletim sistemlerinde ve platformlarda ücretsiz oynanabilecek bir masaüstü video oyunu olacağını duyuruyoruz",
-          "author": "Michael Schenk, Geliştirici"
+          "author": "Michael Schenk, Geliştirici",
+          "date": "2025-12-08"
         },
         {
           "tag": "Projeler",
           "title": "TouchSlider Canlıda",
           "description": "Mobil video oyunumuz TouchSlider'ın iOS ve Android için ücretsiz olarak indirilebileceğini duyuruyoruz",
-          "author": "Michael Schenk, Geliştirici"
+          "author": "Michael Schenk, Geliştirici",
+          "date": "2025-05-15"
         },
         {
           "tag": "Web Sitesi",
           "title": "Yeni Web Sitesi",
           "description": "Web sitemizin nihayet yayında ve herkese açık olduğunu duyuruyoruz",
-          "author": "Michael Schenk, Geliştirici"
+          "author": "Michael Schenk, Geliştirici",
+          "date": "2025-11-26"
         },
         {
           "tag": "Web Sitesi",
           "title": "Yeni Alan Adı",
           "description": "Alan adımızın tescil edildiğini duyuruyoruz",
-          "author": "Michael Schenk, Geliştirici"
+          "author": "Michael Schenk, Geliştirici",
+          "date": "2025-11-20"
         }
       ]
     },
@@ -183,6 +187,7 @@
       "system": "Sistem",
       "light": "Açık",
       "dark": "Koyu"
-    }
+    },
+    "legal": {}
   }
 }

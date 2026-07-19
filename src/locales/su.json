@@ -42,7 +42,7 @@
       "buttontext22": "Unduh Android",
       "title3": "Proyék nu bakal datang",
       "price3": "Gratis",
-      "subheader3": "Dina prosés",
+      "subheader3": "Disarankeun",
       "description30": "Aya pikeun Windows, macOS sareng Linux",
       "description31": "Distribusi ngaliwatan Steam sareng Apple Store",
       "description32": "Tiasa diaksés dina sagala rupa basa",
@@ -91,25 +91,29 @@
           "tag": "Proyék",
           "title": "Pengumuman Proyék Anyar",
           "description": "Kami ngumumkeun yén proyék anyar kami bakal janten kaulinan video desktop gratis pikeun dimainkan anu bakal sayogi dina sadaya sistem operasi sareng platform",
-          "author": "Michael Schenk, Pamekar"
+          "author": "Michael Schenk, Pamekar",
+          "date": "2025-12-08"
         },
         {
           "tag": "Proyék",
           "title": "TouchSlider parantos live",
           "description": "Kami ngumumkeun yén kaulinan video mobile kami TouchSlider parantos sayogi pikeun diunduh gratis pikeun iOS sareng Android",
-          "author": "Michael Schenk, Pamekar"
+          "author": "Michael Schenk, Pamekar",
+          "date": "2025-05-15"
         },
         {
           "tag": "Situs wéb",
           "title": "Situs wéb anyar",
           "description": "Kami ngumumkeun yén situs wéb kami parantos live sareng umum",
-          "author": "Michael Schenk, Pamekar"
+          "author": "Michael Schenk, Pamekar",
+          "date": "2025-11-26"
         },
         {
           "tag": "Situs wéb",
           "title": "Domain Anyar",
           "description": "Kami ngumumkeun yén domain kami parantos didaptarkeun",
-          "author": "Michael Schenk, Pamekar"
+          "author": "Michael Schenk, Pamekar",
+          "date": "2025-11-20"
         }
       ]
     },
@@ -183,6 +187,7 @@
       "system": "Sistem",
       "light": "Terang",
       "dark": "Poék"
-    }
+    },
+    "legal": {}
   }
 }

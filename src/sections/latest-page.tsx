@@ -9,7 +9,25 @@ import Grid from '@mui/material/Grid';
 import Box from '@mui/material/Box';
 import * as React from 'react';
 
-function Author({ authors }: { authors: { name: string; avatar: string }[] }) {
+function formatDate(iso: string, locale: string) {
+  const date = new Date(iso);
+  if (Number.isNaN(date.getTime())) return iso;
+  return new Intl.DateTimeFormat(locale || 'en', {
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric',
+  }).format(date);
+}
+
+function Author({
+  authors,
+  date,
+  locale,
+}: {
+  authors: { name: string; avatar: string }[];
+  date: string;
+  locale: string;
+}) {
   return (
     <Box sx={{ display: 'flex', flexDirection: 'row', gap: 2, alignItems: 'center', justifyContent: 'space-between'}}>
       <Box sx={{ display: 'flex', flexDirection: 'row', gap: 1, alignItems: 'center' }}>
@@ -27,18 +45,14 @@ function Author({ authors }: { authors: { name: string; avatar: string }[] }) {
           {authors.map((author) => author.name).join(', ')}
         </Typography>
       </Box>
-      <Typography variant="caption">November 26, 2025</Typography>
+      <Typography variant="caption">{formatDate(date, locale)}</Typography>
     </Box>
   );
 }
 
 export default function Latest() {
-  const { t } = useTranslation()
-
-  // useState
+  const { t, i18n } = useTranslation();
   const [focusedCardIndex, setFocusedCardIndex] = React.useState<number | null>(null);
-
-  // Various handles
 
   const handleFocus = (index: number) => {
     setFocusedCardIndex(index);
@@ -48,35 +62,16 @@ export default function Latest() {
     setFocusedCardIndex(null);
   };
 
-  const articleInfo = [
-  {
-    tag: t("latest-page.article.0.tag"),
-    title: t("latest-page.article.0.title"),
-    description: t("latest-page.article.0.description"),
-    authors: [{ name: t("latest-page.article.0.author"), avatar: '/static/images/avatar/1.jpg' }],
-  },
-  {
-    tag: t("latest-page.article.1.tag"),
-    title: t("latest-page.article.1.title"),
-    description: t("latest-page.article.1.description"),
-    authors: [{ name: t("latest-page.article.1.author"), avatar: '/static/images/avatar/1.jpg' }],
-  },
-    {
-    tag: t("latest-page.article.2.tag"),
-    title: t("latest-page.article.2.title"),
-    description: t("latest-page.article.2.description"),
-    authors: [{ name: t("latest-page.article.2.author"), avatar: '/static/images/avatar/1.jpg' }],
-  },
-    {
-    tag: t("latest-page.article.3.tag"),
-    title: t("latest-page.article.3.title"),
-    description: t("latest-page.article.3.description"),
-    authors: [{ name: t("latest-page.article.3.author"), avatar: '/static/images/avatar/1.jpg' }],
-  }
-];
+  const articleInfo = [0, 1, 2, 3].map((index) => ({
+    tag: t(`latest-page.article.${index}.tag`),
+    title: t(`latest-page.article.${index}.title`),
+    description: t(`latest-page.article.${index}.description`),
+    date: t(`latest-page.article.${index}.date`),
+    authors: [{ name: t(`latest-page.article.${index}.author`), avatar: '/static/images/avatar/1.jpg' }],
+  }));
 
   return (
-    <Container maxWidth="lg" component="main" sx={{ display: 'flex', flexDirection: 'column', my: 16, gap: 4 }}>
+    <Container maxWidth="lg" component="main" sx={{ display: 'flex', flexDirection: 'column', my: { xs: 8, sm: 16 }, gap: 4 }}>
       <Typography variant="h2" gutterBottom>
         {t("latest-page.title")}
       </Typography>
@@ -101,7 +96,7 @@ export default function Latest() {
               <StyledTypography variant="body2" color="text.secondary" gutterBottom>
                 {article.description}
               </StyledTypography>
-              <Author authors={article.authors} />
+              <Author authors={article.authors} date={article.date} locale={i18n.language} />
             </Box>
           </Grid>
         ))}
