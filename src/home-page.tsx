@@ -51,7 +51,7 @@ export default function HomePage(props: { disableCustomTheme?: boolean }) {
           })}
         />
 
-        <Box sx={{ position: 'relative', overflowX: 'hidden' }}>
+        <Box sx={{ position: 'relative' }}>
           <AppAppBar />
           <Hero />
           <Reveal>
