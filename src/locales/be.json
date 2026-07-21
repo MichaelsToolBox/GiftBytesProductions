@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "Асаблівасці",
+      "projects": "Studio",
       "principles": "Прынцыпы",
       "download": "Спампаваць",
       "latest": "Апошнія",
@@ -59,20 +59,22 @@
       "description3": "Вы ўжо дапамагаеце нам, проста спрабуючы нашы праекты і рэкамендуючы іх. Акрамя таго, вы можаце падпісацца на наш канал YouTube і ўзаемадзейнічаць з супольнасцю. Для дадатковай падтрымкі вы таксама можаце ахвяраваць нам непасрэдна праз PayPal"
     },
     "feature-page": {
-      "title": "Асаблівасці",
-      "subheader": "Мы прысвячаем сябе стварэнню высакаякасных лічбавых праектаў, якія з'яўляюцца даступнымі, універсальнымі і сфарміраванымі нашай супольнасцю. Вось як мы падыходзім да нашых праектаў.",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "Бясшвоўна на ўсіх прыладах",
-          "description": "Ваш досвед не павінен быць прывязаны да аднаго экрана. Нашы праекты старанна аптымізаваны, каб бесперабойна працаваць на любой прыладзе — ад настольных і партатыўных камп'ютараў да планшэтаў і мабільных тэлефонаў, як старых, так і новых."
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "Творчасць без выдаткаў",
-          "description": "Мы лічым, што выдатнае праграмнае забеспячэнне і забавы павінны быць даступныя для ўсіх. Большасць нашых праектаў цалкам бясплатныя, а прэміум-праграмнае забеспячэнне прапануецца па мінімальнай і справядлівай цане."
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "Падтрымка, кіруемая супольнасцю",
-          "description": "Мы не проста распрацоўшчыкі; мы частка супольнасці. Мы развіваемся дзякуючы вашым водгукам і забяспечваем прамую, хуткую падтрымку, каб нашы праекты развіваліся ў адпаведнасці з вашымі патрэбамі."
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },

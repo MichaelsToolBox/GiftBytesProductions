@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "Projeler",
+      "projects": "Studio",
       "principles": "İlkeler",
       "download": "İndir",
       "latest": "En Son",
@@ -59,20 +59,22 @@
       "description3": "Projelerimizi deneyerek ve tavsiye ederek zaten bize yardımcı oluyorsunuz. Aksi takdirde, YouTube kanalımıza abone olabilir ve toplulukla etkileşimde bulunabilirsiniz. Ek destek için PayPal üzerinden de doğrudan bağışta bulunabilirsiniz"
     },
     "feature-page": {
-      "title": "Özellikler",
-      "subheader": "Topluluğumuz tarafından şekillendirilmiş, erişilebilir, çok yönlü ve yüksek kaliteli dijital deneyimler yaratmaya adanmışız. Projelerimize yaklaşımımız işte böyle.",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "Tüm Cihazlarda Sorunsuz Çalışma",
-          "description": "Deneyiminiz tek bir ekrana bağlı olmamalıdır. Projelerimiz, eski ve yeni tüm masaüstü ve dizüstü bilgisayarlardan tablet ve cep telefonlarına kadar her cihazda sorunsuz çalışacak şekilde titizlikle optimize edilmiştir."
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "Maliyetsiz Yaratıcılık",
-          "description": "Harika yazılım ve eğlencenin herkes için erişilebilir olması gerektiğine inanıyoruz. Projelerimizin çoğu tamamen ücretsizdir ve premium yazılımlar minimal, adil bir fiyata sunulmaktadır."
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "Topluluk Odaklı Destek",
-          "description": "Biz sadece geliştiriciler değiliz; topluluğun bir parçasıyız. Geri bildirimlerinizle gelişiyoruz ve projelerimizin ihtiyaçlarınızla birlikte evrimleşmesini sağlamak için doğrudan, hızlı yanıt veren destek sunuyoruz."
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },

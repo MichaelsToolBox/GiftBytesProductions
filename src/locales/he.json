@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "תכונות",
+      "projects": "Studio",
       "principles": "עקרונות",
       "download": "הורדה",
       "latest": "האחרונים",
@@ -59,20 +59,22 @@
       "description3": "אתם כבר עוזרים לנו רק על ידי ניסיון הפרויקטים שלנו והמלצה עליהם. אחרת, תוכלו להירשם לערוץ היוטיוב שלנו ולקיים אינטראקציה עם הקהילה. לתמיכה נוספת, תוכלו גם לתרום לנו ישירות דרך PayPal"
     },
     "feature-page": {
-      "title": "תכונות",
-      "subheader": "אנו מחויבים ליצור חוויות דיגיטליות איכותיות הנגישות, רב-תכליתיות ומעוצבות על ידי הקהילה שלנו. הנה הגישה שלנו לפרויקטים.",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "ללא תפרים בין מכשירים",
-          "description": "החוויה שלכם לא צריכה להיות קשורה למסך אחד. הפרויקטים שלנו ממוטבים בקפידה כדי לפעול בצורה חלקה בכל מכשיר - ממחשבים שולחניים ומחשבים ניידים ועד טאבלטים וטלפונים ניידים, ישנים וחדשים כאחד."
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "יצירתיות ללא עלות",
-          "description": "אנו מאמינים שתוכנה ובידור נהדרים צריכים להיות זמינים לכולם. רוב הפרויקטים שלנו הם בחינם לחלוטין, כאשר תוכנת פרימיום מוצעת במחיר מינימלי והוגן."
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "תמיכה מונעת על ידי קהילה",
-          "description": "אנחנו לא רק מפתחים; אנחנו חלק מהקהילה. אנו פורחים על בסיס המשוב שלכם ומספקים תמיכה ישירה ומגיבה כדי להבטיח שהפרויקטים שלנו יתפתחו בהתאם לצרכים שלכם."
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },

@@ -1,4 +1,5 @@
 import { styled } from '@mui/material/styles';
+import { alpha } from '@mui/material/styles';
 import Box from '@mui/material/Box';
 
 export const StyledVideoBox = styled(Box)(({ theme }) => ({
@@ -7,24 +8,24 @@ export const StyledVideoBox = styled(Box)(({ theme }) => ({
   aspectRatio: '16 / 9',
   height: 'auto',
   maxHeight: 700,
-  marginTop: theme.spacing(3),
-  borderRadius: (theme.vars || theme).shape.borderRadius,
-  outline: '6px solid',
-  outlineColor: 'hsla(220, 25%, 80%, 0.2)',
+  marginTop: theme.spacing(3.5),
+  borderRadius: 18,
   border: '1px solid',
-  borderColor: (theme.vars || theme).palette.grey[200],
-  boxShadow: '0 0 12px 8px hsla(220, 25%, 80%, 0.2)',
+  borderColor: alpha(theme.palette.divider, 0.9),
+  boxShadow: `0 20px 48px ${alpha(theme.palette.common.black, 0.12)}`,
   overflow: 'hidden',
   position: 'relative',
   backgroundColor: '#000',
-
-  [theme.breakpoints.up('sm')]: {
-    marginTop: theme.spacing(4),
-  },
+  backgroundImage: 'url(/hero-poster.jpg)',
+  backgroundSize: 'cover',
+  backgroundPosition: 'center',
 
   ...theme.applyStyles('dark', {
-    boxShadow: '0 0 24px 12px hsla(210, 100%, 25%, 0.2)',
-    outlineColor: 'hsla(220, 20%, 42%, 0.1)',
-    borderColor: (theme.vars || theme).palette.grey[700],
+    boxShadow: `0 20px 48px ${alpha(theme.palette.common.black, 0.45)}`,
   }),
+
+  [theme.breakpoints.up('sm')]: {
+    marginTop: theme.spacing(4.5),
+    borderRadius: 20,
+  },
 }));

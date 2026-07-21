@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "Proġetti",
+      "projects": "Studio",
       "principles": "Prinċipji",
       "download": "Niżżel",
       "latest": "L-Aħħar",
@@ -59,20 +59,22 @@
       "description3": "Diġà qed tgħinna billi sempliċiment tipprova l-proġetti tagħna u tirrakkomandahom. Inkella tista' tabbona għall-kanal tagħna fuq YouTube u tinvolvi ruħek mal-komunità. Għal appoġġ addizzjonali, tista' wkoll tagħtina donazzjoni direttament permezz ta' PayPal"
     },
     "feature-page": {
-      "title": "Karatteristiċi",
-      "subheader": "Aħna ddedikati biex noħolqu esperjenzi diġitali ta' kwalità għolja li huma aċċessibbli, versatili, u ffurmati mill-komunità tagħna. Hawn kif nersqu lejn il-proġetti tagħna.",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "Bla Xkiel fuq l-Apparati kollha",
-          "description": "L-esperjenza tiegħek m'għandhiex tkun marbuta ma' skrin wieħed. Il-proġetti tagħna huma ottimizzati bir-reqqa biex jaħdmu bla xkiel fuq kwalunkwe apparat—minn desktops u laptops għal tablets u telefons ċellulari, kemm qodma kif ukoll ġodda."
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "Kreattività Mingħajr Spiża",
-          "description": "Nemmnu li softwer u divertiment kbir għandhom ikunu disponibbli għal kulħadd. Ħafna mill-proġetti tagħna huma kompletament b'xejn, b'softwer premium offrut bi prezz minimu u ġust."
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "Appoġġ Imħaddem mill-Komunità",
-          "description": "Aħna mhux biss żviluppaturi; aħna parti mill-komunità. Aħna nirnexxu bil-feedback tiegħek u nipprovdu appoġġ dirett u reattiv biex niżguraw li l-proġetti tagħna jevolvu mal-bżonnijiet tiegħek."
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },

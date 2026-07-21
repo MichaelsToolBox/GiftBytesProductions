@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "Kaupapa",
+      "projects": "Studio",
       "principles": "Ngā PORO",
       "download": "Tango",
       "latest": "Ina noa nei",
@@ -59,20 +59,22 @@
       "description3": "Kei te awhina koe i a maatau ma te tarai i a maatau kaupapa me te tūtohu. "
     },
     "feature-page": {
-      "title": "Ngakau",
-      "subheader": "Tirohia nga waahanga kaha e puta ai to maatau tono.",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "Hoahoa pūkoro-tuatahi",
-          "description": "Ko ta maatau taupānga i hangaia me te huarahi pūkoro-tuatahi, ko te whakarite i te wheako korekore ki tetahi taputapu."
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "Papatohu Intuitive",
-          "description": "He papa papatohu me te whakarite kia pai ai te tirohanga ki a koe."
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "Te hototahi-whakawhiti",
-          "description": "Kia pai ki te wheako me te kaha ki te kaha mehemea kei runga koe i te papamahi, papa, atamai ranei."
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },

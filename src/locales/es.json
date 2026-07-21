@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "Características",
+      "projects": "Studio",
       "principles": "Principios",
       "download": "Descargar",
       "latest": "Últimas noticias",
@@ -59,20 +59,22 @@
       "description3": "Ya nos ayudas solo probando nuestros proyectos y recomendándolos. Además, puedes suscribirte a nuestro canal de YouTube e interactuar con la comunidad. Para un apoyo adicional, también puedes donarnos directamente a través de PayPal"
     },
     "feature-page": {
-      "title": "Características",
-      "subheader": "Nos dedicamos a crear experiencias digitales de alta calidad que sean accesibles, versátiles y formadas por nuestra comunidad. Así es como abordamos nuestros proyectos.",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "Fluido en todos los dispositivos",
-          "description": "Tu experiencia no debería estar atada a una sola pantalla. Nuestros proyectos están optimizados meticulosamente para funcionar sin problemas en cualquier dispositivo, desde ordenadores de sobremesa y portátiles hasta tabletas y teléfonos móviles, tanto antiguos como nuevos."
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "Creatividad sin coste",
-          "description": "Creemos que un buen software y entretenimiento deberían estar disponibles para todos. La mayoría de nuestros proyectos son completamente gratuitos, y el software premium se ofrece a un precio mínimo y justo."
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "Soporte impulsado por la comunidad",
-          "description": "No somos solo desarrolladores; somos parte de la comunidad. Nos alimentamos de tus comentarios y proporcionamos un soporte directo y sensible para garantizar que nuestros proyectos evolucionen con tus necesidades."
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },

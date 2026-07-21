@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "Siffofi",
+      "projects": "Studio",
       "principles": "Ka'idodi",
       "download": "Zazzage",
       "latest": "Na baya-bayan nan",
@@ -59,20 +59,22 @@
       "description3": "Kana taimaka mana tuni ta hanyar gwada ayyukanmu da bada shawarar su. In ba haka ba, za ka iya yin rajista a tashar YouTube ɗinmu kuma ka shiga cikin jama'a. Don ƙarin goyon baya za ka iya kuma ba da gudummawa kai tsaye ta hanyar PayPal"
     },
     "feature-page": {
-      "title": "Siffofi",
-      "subheader": "Mun sadaukar da kai don ƙirƙira ingantattun abubuwan dijital da suke da sauƙin amfani, masu amfani da yawa, kuma an tsara su ta hanyar jama'armu. Anan akwai yadda muke kusanci ga ayyukanmu.",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "Maras laushi a duk na'urori",
-          "description": "Kwarewarka bai kamata ta kasance daura da allo guda ɗaya ba. An tsara ayyukanmu sosai don gudu ba tare da matsala ba a kowace na'ura—daga kwamfyutocin tebur da na'urorin da ake ɗauka har zuwa wayoyin hannu da tsofaffi da sababbi."
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "Kirkira ba tare da farashi ba",
-          "description": "Muna gaskata cewa manyan software da nishaɗi ya kamata su kasance ga kowa. Yawancin ayyukanmu kyauta ne gaba ɗaya, tare da software mai daraja da ake miƙa a farashi mai sauƙi, mai adalci."
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "Goyon bayan da jama'a suka jawo",
-          "description": "Mu ba masu haɓakawa bane kawai; mu wani ɓangare ne na jama'a. Muna bunkasa a kan ra'ayoyinku kuma muna samar da goyon baya kai tsaye, mai amsa don tabbatar da cewa ayyukanmu sun ci gaba tare da bukatunku."
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },

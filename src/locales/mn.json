@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "Төслүүд",
+      "projects": "Studio",
       "principles": "Зарчмууд",
       "download": "Татах",
       "latest": "Хамгийн сүүлийн үеийн",
@@ -59,20 +59,22 @@
       "description3": "Та манай төслүүдийг туршиж үзэж, зөвлөснөөр аль хэдийн бидэнд тусалж байна. Эсвэл та манай YouTube сувагт бүртгүүлж, нийгэмлэгтэй харилцах боломжтой. Нэмэлт дэмжлэг авахыг хүсвэл PayPal-аар дамжуулан шууд хандивлаж болно"
     },
     "feature-page": {
-      "title": "Онцлогууд",
-      "subheader": "Бид хүртээмжтэй, олон талт, манай нийгэмлэгээр бүтээгдсэн өндөр чанартай дижитал туршлагыг бий болгохыг зорьдог. Бид төслүүддээ ингэж ханддаг.",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "Төхөөрөмж хооронд саадгүй ажиллах",
-          "description": "Таны туршлага нэг дэлгэцээр хязгаарлагдах ёсгүй. Манай төслүүд нь ямар ч төхөөрөмж дээр—компьютер, зөөврийн компьютерээс эхлээд таблет, гар утас, хуучин болон шинэ—гэх мэт бүх төхөөрөмж дээр саадгүй ажиллахын тулд нарийн оновчтой болгосон."
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "Зардалгүй бүтээлч байдал",
-          "description": "Бид гайхалтай програм хангамж, зугаа цэнгэл хүн бүрд хүртээмжтэй байх ёстой гэж үздэг. Манай ихэнх төслүүд бүрэн үнэгүй бөгөөд дээд зэргийн програм хангамжийг хамгийн бага, боломжийн үнээр санал болгодог."
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "Нийгэмлэгээс удирдуулсан дэмжлэг",
-          "description": "Бид зөвхөн хөгжүүлэгчид биш; бид нийгэмлэгийн нэг хэсэг. Бид таны санал хүсэлтээр урагшилж, таны хэрэгцээнд нийцүүлэн төслүүдээ хөгжүүлэхийн тулд шууд, хариу үйлдэл үзүүлэх дэмжлэг үзүүлдэг."
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },

@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "Лоиҳаҳо",
+      "projects": "Studio",
       "principles": "Принсипҳо",
       "download": "Боргирӣ",
       "latest": "Навтарин",
@@ -59,20 +59,22 @@
       "description3": "Шумо аллакай ба мо танҳо бо озмоиш ва тавсияи лоиҳаҳои мо кӯмак карда истодаед. Дар акси ҳол, шумо метавонед ба канали YouTube-и мо обуна шавед ва бо ҷомеа ҳамкорӣ кунед. Барои дастгирии иловагӣ, шумо инчунин метавонед ба мо мустақиман тавассути PayPal хайрия кунед"
     },
     "feature-page": {
-      "title": "Хусусиятҳо",
-      "subheader": "Мо ба эҷоди таҷрибаҳои рақамии баландсифат, ки дастрас, бисёрҷониба ва аз ҷониби ҷомеаи мо ташаккул ёфтаанд, бахшидаем. Ин аст, ки чӣ тавр мо ба лоиҳаҳои худ муносибат мекунем.",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "Бе мушкилот дар ҳама дастгоҳҳо",
-          "description": "Таҷрибаи шумо набояд бо як экран маҳдуд бошад. Лоиҳаҳои мо бодиққат оптимизатсия карда шудаанд, то дар ҳама гуна дастгоҳ — аз компютерҳои мизи корӣ ва ноутбукҳо то планшетҳо ва телефонҳои мобилӣ, ҳам кӯҳна ва ҳам нав — бемалол кор кунанд."
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "Эҷодкорӣ бидуни хароҷот",
-          "description": "Мо боварӣ дорем, ки нармафзор ва фароғати хуб бояд барои ҳама дастрас бошад. Аксарияти лоиҳаҳои мо комилан ройгон мебошанд ва нармафзори мукофотӣ бо нархи ҳадди ақал ва одилона пешниҳод карда мешавад."
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "Дастгирии аз ҷониби ҷомеа",
-          "description": "Мо на танҳо таҳиягарон ҳастем; мо як қисми ҷомеа ҳастем. Мо аз фикру мулоҳизаҳои шумо пешрафт мекунем ва дастгирии мустақим ва ҷавобгӯро таъмин мекунем, то лоиҳаҳои мо бо ниёзҳои шумо инкишоф ёбанд."
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },

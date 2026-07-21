@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "Gnéithe",
+      "projects": "Studio",
       "principles": "Prionsabail",
       "download": "Íoslódáil",
       "latest": "An Nuacht is Déanaí",
@@ -59,20 +59,22 @@
       "description3": "Tá tú ag cabhrú linn cheana féin trí ár gcuid tionscadal a thriail agus iad a mholadh. Thairis sin, is féidir leat liostáil lenár gcainéal YouTube agus dul i ngleic leis an bpobal. Le haghaidh tacaíocht bhreise is féidir leat tabhartas a thabhairt dúinn go díreach trí PayPal freisin"
     },
     "feature-page": {
-      "title": "Gnéithe",
-      "subheader": "Táimid tiomanta d'eispéiris dhigiteacha ardchaighdeáin a chruthú atá inrochtana, ilúsáideacha agus a mhúnlaítear ag ár bpobal. Seo mar a chuirimid tús lenár dtionscadail.",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "Gan uaim ar fud na ngléasanna",
-          "description": "Níor cheart go mbeadh d'eispéireas nasctha le scáileán amháin. Tá ár gcuid tionscadal optamaithe go cúramach chun rith go réidh ar aon ghléas - ó ríomhairí deisce agus ríomhairí glúine go táibléid agus fón póca, sean agus nua."
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "Cruthaitheacht gan Chostas",
-          "description": "Creidimid gur chóir go mbeadh bogearraí agus siamsaíocht den scoth ar fáil do chách. Tá an chuid is mó dár dtionscadal go hiomlán saor in aisce, agus bogearraí préimhe ar fáil ar phraghas íosta, cóir."
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "Tacaíocht atá á Tiomáint ag an bPobal",
-          "description": "Ní hiad forbróirí amháin atá ionainn; is cuid den phobal sinn. Éiríonn linn mar gheall ar do chuid aiseolais agus soláthraímid tacaíocht dhíreach, fhreagrúil chun a chinntiú go dtiocfaidh ár gcuid tionscadal chun cinn le do riachtanais."
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },

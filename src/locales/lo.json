@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "ຄຸນສົມບັດ",
+      "projects": "Studio",
       "principles": "ຫຼັກການ",
       "download": "ດາວໂຫຼດ",
       "latest": "ລ່າສຸດ",
@@ -59,20 +59,22 @@
       "description3": "ທ່ານກຳລັງຊ່ວຍພວກເຮົາຢູ່ແລ້ວພຽງແຕ່ທົດລອງໂຄງການຂອງພວກເຮົາ ແລະແນະນຳມັນ. ນອກຈາກນັ້ນ, ທ່ານສາມາດສະໝັກສະມາຊິກຊ່ອງ YouTube ຂອງພວກເຮົາ ແລະເຂົ້າຮ່ວມໃນຊຸມຊົນ. ສຳລັບການຊ່ວຍເຫຼືອເພີ່ມເຕີມ, ທ່ານຍັງສາມາດບໍລິຈາກໃຫ້ພວກເຮົາໂດຍກົງຜ່ານ PayPal"
     },
     "feature-page": {
-      "title": "ຄຸນສົມບັດ",
-      "subheader": "ພວກເຮົາອຸທິດຕົນເພື່ອສ້າງປະສົບການດິຈິຕອລທີ່ມີຄຸນນະພາບສູງທີ່ສາມາດເຂົ້າເຖິງໄດ້, ມີຄວາມຫຼາກຫຼາຍ ແລະຖືກກຳນົດໂດຍຊຸມຊົນຂອງພວກເຮົາ. ນີ້ແມ່ນວິທີທີ່ພວກເຮົາເຂົ້າຫາໂຄງການຂອງພວກເຮົາ.",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "ລຽບງ່າຍໃນທົ່ວທຸກອຸປະກອນ",
-          "description": "ປະສົບການຂອງທ່ານບໍ່ຄວນຖືກຜູກມັດກັບໜ້າຈໍດຽວ. ໂຄງການຂອງພວກເຮົາຖືກປັບປຸງຢ່າງລະອຽດເພື່ອໃຫ້ສາມາດເຮັດວຽກໄດ້ຢ່າງລຽບງ່າຍໃນທຸກອຸປະກອນ — ຕັ້ງແຕ່ຄອມພິວເຕີເດັສທັອບ ແລະແລັບທັອບໄປຈົນເຖິງແທັບເລັດ ແລະໂທລະສັບມືຖື, ທັງລຸ້ນເກົ່າ ແລະລຸ້ນໃໝ່."
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "ຄວາມຄິດສ້າງສັນໂດຍບໍ່ມີຄ່າໃຊ້ຈ່າຍ",
-          "description": "ພວກເຮົາເຊື່ອວ່າຊອບແວ ແລະຄວາມບັນເທີງທີ່ດີຄວນມີໃຫ້ທຸກຄົນ. ໂຄງການສ່ວນໃຫຍ່ຂອງພວກເຮົາແມ່ນຟຣີຢ່າງສົມບູນ, ໂດຍຊອບແວພຣີມຽມແມ່ນມີໃຫ້ໃນລາຄາທີ່ຕໍ່າ ແລະຍຸດຕິທຳ."
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "ການຊ່ວຍເຫຼືອທີ່ມາຈາກຊຸມຊົນ",
-          "description": "ພວກເຮົາບໍ່ແມ່ນພຽງແຕ່ນັກພັດທະນາ; ພວກເຮົາເປັນສ່ວນໜຶ່ງຂອງຊຸມຊົນ. ພວກເຮົາເຕີບໃຫຍ່ຍ້ອນຄໍາຄິດເຫັນຂອງທ່ານ ແລະໃຫ້ການຊ່ວຍເຫຼືອທີ່ໂດຍກົງ ແລະຕອບສະໜອງເພື່ອຮັບປະກັນວ່າໂຄງການຂອງພວກເຮົາພັດທະນາໄປຕາມຄວາມຕ້ອງການຂອງທ່ານ."
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },

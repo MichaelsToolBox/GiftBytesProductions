@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "Projecten",
+      "projects": "Studio",
       "principles": "Principes",
       "download": "Downloaden",
       "latest": "Laatste",
@@ -59,20 +59,22 @@
       "description3": "U helpt ons al door onze projecten uit te proberen en aan te bevelen. Daarnaast kunt u zich abonneren op ons YouTube-kanaal en deelnemen aan de community. Voor extra ondersteuning kunt u ook rechtstreeks doneren via PayPal"
     },
     "feature-page": {
-      "title": "Functies",
-      "subheader": "Wij zetten ons in voor het creëren van digitale ervaringen van hoge kwaliteit die toegankelijk, veelzijdig en gevormd zijn door onze community. Hier is hoe wij onze projecten benaderen.",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "Naadloos op Alle Apparaten",
-          "description": "Uw ervaring hoeft niet aan één scherm gebonden te zijn. Onze projecten zijn zorgvuldig geoptimaliseerd om soepel te draaien op elk apparaat—van desktops en laptops tot tablets en mobiele telefoons, zowel oude als nieuwe."
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "Creativiteit Zonder Kosten",
-          "description": "Wij geloven dat geweldige software en entertainment voor iedereen beschikbaar moeten zijn. De meeste van onze projecten zijn volledig gratis, met premium software die wordt aangeboden tegen een minimale, eerlijke prijs."
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "Community-Gedreven Ondersteuning",
-          "description": "Wij zijn niet alleen ontwikkelaars; we zijn deel van de community. Wij gedijen op uw feedback en bieden directe, responsieve ondersteuning om ervoor te zorgen dat onze projecten zich ontwikkelen met uw behoeften."
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },

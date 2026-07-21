@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "Funkcije",
+      "projects": "Studio",
       "principles": "Principi",
       "download": "Preuzmi",
       "latest": "Najnovije",
@@ -59,20 +59,22 @@
       "description3": "Već nam pomažete samo isprobavanjem naših projekata i njihovim preporučivanjem. Inače, možete se pretplatiti na naš YouTube kanal i angažirati se s zajednicom. Za dodatnu podršku možete nam donirati i direktno putem PayPal-a"
     },
     "feature-page": {
-      "title": "Funkcije",
-      "subheader": "Posvećeni smo stvaranju visokokvalitetnih digitalnih iskustava koja su pristupačna, svestrana i oblikovana našom zajednicom. Evo kako pristupamo našim projektima.",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "Besprijekorno na svim uređajima",
-          "description": "Vaše iskustvo ne bi trebalo biti vezano za jedan ekran. Naši projekti su pažljivo optimizirani da rade glatko na bilo kojem uređaju—od desktopa i laptopa do tableta i mobilnih telefona, i starih i novih."
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "Kreativnost bez troškova",
-          "description": "Vjerujemo da bi odličan softver i zabava trebali biti dostupni svima. Većina naših projekata je potpuno besplatna, s premium softverom koji se nudi po minimalnoj, fer cijeni."
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "Podrška koju pokreće zajednica",
-          "description": "Mi nismo samo developeri; mi smo dio zajednice. Napredujemo zahvaljujući vašim povratnim informacijama i pružamo direktnu, responzivnu podršku kako bismo osigurali da se naši projekti razvijaju s vašim potrebama."
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },

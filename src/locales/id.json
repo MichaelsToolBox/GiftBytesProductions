@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "Fitur",
+      "projects": "Studio",
       "principles": "Prinsip",
       "download": "Unduh",
       "latest": "Terbaru",
@@ -59,20 +59,22 @@
       "description3": "Anda sudah membantu kami hanya dengan mencoba proyek-proyek kami dan merekomendasikannya. Selain itu, Anda bisa berlangganan saluran YouTube kami dan berinteraksi dengan komunitas. Untuk dukungan tambahan, Anda juga bisa menyumbang langsung kepada kami melalui PayPal"
     },
     "feature-page": {
-      "title": "Fitur",
-      "subheader": "Kami berdedikasi untuk menciptakan pengalaman digital berkualitas tinggi yang dapat diakses, serbaguna, dan dibentuk oleh komunitas kami. Inilah cara kami mendekati proyek-proyek kami.",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "Lancar di Seluruh Perangkat",
-          "description": "Pengalaman Anda tidak boleh terikat pada satu layar. Proyek-proyek kami dioptimalkan dengan cermat untuk berjalan dengan lancar di perangkat apa pun—mulai dari desktop dan laptop hingga tablet dan ponsel, baik yang lama maupun yang baru."
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "Kreativitas Tanpa Biaya",
-          "description": "Kami percaya bahwa perangkat lunak dan hiburan yang hebat harus tersedia untuk semua orang. Sebagian besar proyek kami sepenuhnya gratis, dengan perangkat lunak premium yang ditawarkan dengan harga minimal dan adil."
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "Dukungan yang Didukung Komunitas",
-          "description": "Kami bukan hanya pengembang; kami adalah bagian dari komunitas. Kami tumbuh dari umpan balik Anda dan menyediakan dukungan langsung dan responsif untuk memastikan proyek-proyek kami berkembang seiring dengan kebutuhan Anda."
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },

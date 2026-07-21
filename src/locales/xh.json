@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "Iiprojekthi",
+      "projects": "Studio",
       "principles": "Imigaqo",
       "download": "Khuphela",
       "latest": "Ezisandula",
@@ -59,20 +59,22 @@
       "description3": "Sele usinceda ngokuzama iiprojekthi zethu nokuzincoma. Kungenjalo ungabhalisa kwisitishi sethu seYouTube kwaye unxibelelane noluntu. Ukuze ufumane inkxaso eyongezelelweyo ungasinika umnikelo ngqo ngePayPal."
     },
     "feature-page": {
-      "title": "Iimpawu",
-      "subheader": "Hlola iimpawu ezinamandla ezenza isicelo sethu sigqame.",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "Uyilo lweMobile-First",
-          "description": "I-app yethu yenzelwe ngendlela ye-mobile-first, iqinisekisa amava angenamthungo kuso nasiphi na isixhobo."
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "Ideshibhodi enembile",
-          "description": "Ideshibhodi ecocekileyo necwangcisiweyo ekunika umbono opheleleyo ngokujonga nje."
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "Ukuhambelana kwezixhobo ezahlukeneyo",
-          "description": "Yonwabela amava angaguqukiyo nanamandla nokuba usebenzisa idesktop, ithebhulethi, okanye i-smartphone."
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },

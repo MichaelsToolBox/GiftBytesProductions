@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "Amaphrojekthi",
+      "projects": "Studio",
       "principles": "Izimiso",
       "download": "Landa",
       "latest": "Okwakamuva",
@@ -59,20 +59,22 @@
       "description3": "Usuvele usisiza ngokuzama amaphrojekthi ethu nokuwancoma. Ngaphandle kwalokho ungabhalisela isiteshi sethu se-YouTube futhi uhlanganyele nomphakathi. Ukuze uthole ukwesekwa okwengeziwe ungaphinda usinikele ngqo nge-PayPal."
     },
     "feature-page": {
-      "title": "Izici",
-      "subheader": "Hlola izici ezinamandla ezenza uhlelo lwethu lokusebenza lugqame.",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "Idizayini ye-Mobile-First",
-          "description": "Uhlelo lwethu lokusebenza luklanywe ngendlela ye-mobile-first, okuqinisekisa ulwazi olungenazihibe kunoma iyiphi idivayisi."
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "Ideshibhodi Enembile",
-          "description": "Ideshibhodi ehlanzekile nehlelekile ekunikeza umbono ophelele shazi."
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "Ukuhambisana Kwamadivayisi Ahlukene",
-          "description": "Jabulela ulwazi olungaguquki nolunamandla noma ngabe usebenzisa ideskithophu, ithebhulethi, noma i-smartphone."
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },

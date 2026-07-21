@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "Funksies",
+      "projects": "Studio",
       "principles": "Beginsels",
       "download": "Aflaai",
       "latest": "Nuutste",
@@ -59,20 +59,22 @@
       "description3": "Jy help ons reeds net deur ons projekte te probeer en dit aan te beveel. Andersins kan jy op ons YouTube-kanaal inteken en met die gemeenskap skakel. Vir bykomende ondersteuning kan jy ons ook direk via PayPal skenk"
     },
     "feature-page": {
-      "title": "Funksies",
-      "subheader": "Ons is toegewy aan die skep van hoë-gehalte digitale ervarings wat toeganklik, veelsydig en deur ons gemeenskap gevorm is. Hier is hoe ons ons projekte benader.",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "Naadloos oor alle toestelle",
-          "description": "Jou ervaring moet nie aan een skerm gebind wees nie. Ons projekte is noukeurig geoptimaliseer om vlot te werk op enige toestel—van rekenaars en skootrekenaars tot tablette en selfone, beide oud en nuut."
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "Kreatiwiteit sonder koste",
-          "description": "Ons glo goeie sagteware en vermaak moet vir almal beskikbaar wees. Die meeste van ons projekte is heeltemal gratis, met premium sagteware wat teen 'n minimale, billike prys aangebied word."
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "Gemeenskap-gedrewe ondersteuning",
-          "description": "Ons is nie net ontwikkelaars nie; ons is deel van die gemeenskap. Ons floreer op jou terugvoer en bied direkte, responsiewe ondersteuning om te verseker dat ons projekte met jou behoeftes ontwikkel."
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },

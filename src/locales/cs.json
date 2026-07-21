@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "Funkce",
+      "projects": "Studio",
       "principles": "Principy",
       "download": "Stáhnout",
       "latest": "Nejnovější",
@@ -59,20 +59,22 @@
       "description3": "Už nám pomáháte tím, že vyzkoušíte naše projekty a doporučíte je. Kromě toho se můžete přihlásit k odběru našeho kanálu na YouTube a zapojit se do komunity. Pro další podporu nám také můžete přispět přímo přes PayPal"
     },
     "feature-page": {
-      "title": "Funkce",
-      "subheader": "Jsme odhodláni vytvářet vysoce kvalitní digitální zážitky, které jsou dostupné, všestranné a formované naší komunitou. Zde je náš přístup k projektům.",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "Bezproblémově napříč zařízeními",
-          "description": "Váš zážitek by neměl být vázán na jednu obrazovku. Naše projekty jsou pečlivě optimalizovány tak, aby bezproblémově fungovaly na jakémkoli zařízení – od stolních počítačů a notebooků po tablety a mobilní telefony, staré i nové."
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "Kreativita bez nákladů",
-          "description": "Věříme, že skvělý software a zábava by měly být dostupné pro každého. Většina našich projektů je zcela zdarma, přičemž prémiový software je nabízen za minimální, spravedlivou cenu."
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "Podpora řízená komunitou",
-          "description": "Nejsme jen vývojáři; jsme součástí komunity. Daří se nám díky vaší zpětné vazbě a poskytujeme přímou, vstřícnou podporu, abychom zajistili, že se naše projekty vyvíjejí s vašimi potřebami."
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },

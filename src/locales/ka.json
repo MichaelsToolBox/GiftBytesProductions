@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "ფუნქციები",
+      "projects": "Studio",
       "principles": "პრინციპები",
       "download": "ჩამოტვირთვა",
       "latest": "უახლესი",
@@ -59,20 +59,22 @@
       "description3": "თქვენ უკვე გვეხმარებით, თუ უბრალოდ ცდით ჩვენს პროექტებს და ურჩევთ სხვებს. გარდა ამისა, შეგიძლიათ გამოიწეროთ ჩვენი YouTube არხი და ჩაერთოთ საზოგადოებასთან. დამატებითი მხარდაჭერისთვის ასევე შეგიძლიათ შემოწირულობა გააკეთოთ პირდაპირ PayPal-ის საშუალებით"
     },
     "feature-page": {
-      "title": "ფუნქციები",
-      "subheader": "ჩვენ მზად ვართ შევქმნათ მაღალი ხარისხის ციფრული გამოცდილებები, რომლებიც ხელმისაწვდომი, მრავალმხრივი და ჩვენი საზოგადოების მიერ არის ფორმირებული. აი, როგორ ვუდგებით ჩვენს პროექტებს.",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "შეუფერხებელი ყველა მოწყობილობაზე",
-          "description": "თქვენი გამოცდილება არ უნდა იყოს მიბმული ერთ ეკრანთან. ჩვენი პროექტები საგულდაგულოდ არის ოპტიმიზებული, რომ შეუფერხებლად იმუშაოს ნებისმიერ მოწყობილობაზე - დესკტოპებიდან და ლეპტოპებიდან პლანშეტებამდე და მობილურ ტელეფონებამდე, როგორც ძველზე, ასევე ახალზე."
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "კრეატიულობა ხარჯების გარეშე",
-          "description": "ჩვენ გვჯერა, რომ შესანიშნავი პროგრამული უზრუნველყოფა და გასართობი ყველასთვის ხელმისაწვდომი უნდა იყოს. ჩვენი პროექტების უმეტესობა სრულიად უფასოა, ხოლო პრემიუმ პროგრამული უზრუნველყოფა შეთავაზებულია მინიმალურ, სამართლიან ფასად."
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "საზოგადოებაზე დაფუძნებული მხარდაჭერა",
-          "description": "ჩვენ მხოლოდ დეველოპერები არ ვართ; ჩვენ საზოგადოების ნაწილი ვართ. ჩვენ ვიზრდებით თქვენი გამოხმაურების საფუძველზე და ვაძლევთ პირდაპირ, სწრაფ მხარდაჭერას იმის უზრუნველსაყოფად, რომ ჩვენი პროექტები განვითარდეს თქვენს საჭიროებებთან ერთად."
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },

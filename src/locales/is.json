@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "Eiginleikar",
+      "projects": "Studio",
       "principles": "Meginreglur",
       "download": "Niðurhal",
       "latest": "Nýjast",
@@ -59,20 +59,22 @@
       "description3": "Þú ert nú þegar að hjálpa okkur með því að prófa verkefnin okkar og mæla með þeim. Annars geturðu gerst áskrifandi að YouTube rásinni okkar og tekið þátt í samfélaginu. Fyrir frekari stuðning geturðu einnig gefið okkur beint í gegnum PayPal"
     },
     "feature-page": {
-      "title": "Eiginleikar",
-      "subheader": "Við erum staðráðin í að skapa hágæða stafræna upplifun sem er aðgengileg, fjölhæf og mótuð af samfélagi okkar. Hér er hvernig við nálgumst verkefnin okkar.",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "Slétt á öllum tækjum",
-          "description": "Upplifun þín ætti ekki að vera bundin við einn skjá. Verkefnin okkar eru vandlega fínstillt til að ganga vel á hvaða tæki sem er - frá borðtölvum og fartölvum til spjaldtölva og farsíma, bæði gamalla og nýrra."
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "Sköpunargleði án kostnaðar",
-          "description": "Við trúum því að frábær hugbúnaður og afþreying eigi að vera aðgengileg öllum. Flest verkefnin okkar eru algjörlega ókeypis, en úrvalshugbúnaður er boðinn á lágmarks, sanngjörnu verði."
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "Stuðningur knúinn áfram af samfélaginu",
-          "description": "Við erum ekki bara forritarar; við erum hluti af samfélaginu. Við blómstrum á endurgjöf þinni og veitum beinan, móttækilegan stuðning til að tryggja að verkefnin okkar þróist með þínum þörfum."
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },

@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "ವೈಶಿಷ್ಟ್ಯಗಳು",
+      "projects": "Studio",
       "principles": "ತತ್ವಗಳು",
       "download": "ಡೌನ್‌ಲೋಡ್",
       "latest": "ಇತ್ತೀಚಿನದು",
@@ -59,20 +59,22 @@
       "description3": "ನಮ್ಮ ಯೋಜನೆಗಳನ್ನು ಪ್ರಯತ್ನಿಸಿ ಮತ್ತು ಶಿಫಾರಸು ಮಾಡುವ ಮೂಲಕ ನೀವು ಈಗಾಗಲೇ ನಮಗೆ ಸಹಾಯ ಮಾಡುತ್ತಿದ್ದೀರಿ. ಇಲ್ಲದಿದ್ದರೆ, ನೀವು ನಮ್ಮ YouTube ಚಾನಲ್‌ಗೆ ಚಂದಾದಾರರಾಗಬಹುದು ಮತ್ತು ಸಮುದಾಯದೊಂದಿಗೆ ತೊಡಗಿಸಿಕೊಳ್ಳಬಹುದು. ಹೆಚ್ಚುವರಿ ಬೆಂಬಲಕ್ಕಾಗಿ ನೀವು PayPal ಮೂಲಕ ನೇರವಾಗಿ ನಮಗೆ ದಾನ ಮಾಡಬಹುದು"
     },
     "feature-page": {
-      "title": "ವೈಶಿಷ್ಟ್ಯಗಳು",
-      "subheader": "ನಾವು ಉತ್ತಮ ಗುಣಮಟ್ಟದ ಡಿಜಿಟಲ್ ಅನುಭವಗಳನ್ನು ರಚಿಸಲು ಸಮರ್ಪಿತರಾಗಿದ್ದೇವೆ ಅದು ಪ್ರವೇಶಿಸಬಹುದಾದ, ಬಹುಮುಖಿ ಮತ್ತು ನಮ್ಮ ಸಮುದಾಯದಿಂದ ರೂಪುಗೊಂಡಿದೆ. ನಾವು ನಮ್ಮ ಯೋಜನೆಗಳನ್ನು ಹೇಗೆ ಸಮೀಪಿಸುತ್ತೇವೆ ಎಂಬುದು ಇಲ್ಲಿದೆ.",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "ಸಾಧನಗಳಲ್ಲಿ ತಡೆರಹಿತವಾಗಿ",
-          "description": "ನಿಮ್ಮ ಅನುಭವವು ಒಂದೇ ಪರದೆಗೆ ಸೀಮಿತವಾಗಿರಬಾರದು. ನಮ್ಮ ಯೋಜನೆಗಳು ಯಾವುದೇ ಸಾಧನದಲ್ಲಿ—ಡೆಸ್ಕ್‌ಟಾಪ್ ಮತ್ತು ಲ್ಯಾಪ್‌ಟಾಪ್‌ಗಳಿಂದ ಟ್ಯಾಬ್ಲೆಟ್‌ಗಳು ಮತ್ತು ಮೊಬೈಲ್ ಫೋನ್‌ಗಳವರೆಗೆ, ಹಳೆಯ ಮತ್ತು ಹೊಸ ಎರಡರಲ್ಲೂ ಸುಗಮವಾಗಿ ಚಲಿಸುವಂತೆ ಸೂಕ್ಷ್ಮವಾಗಿ ಉತ್ತಮಗೊಳಿಸಲಾಗಿದೆ."
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "ವೆಚ್ಚವಿಲ್ಲದೆ ಸೃಜನಶೀಲತೆ",
-          "description": "ಉತ್ತಮ ಸಾಫ್ಟ್‌ವೇರ್ ಮತ್ತು ಮನರಂಜನೆಯು ಎಲ್ಲರಿಗೂ ಲಭ್ಯವಿರಬೇಕು ಎಂದು ನಾವು ನಂಬುತ್ತೇವೆ. ನಮ್ಮ ಹೆಚ್ಚಿನ ಯೋಜನೆಗಳು ಸಂಪೂರ್ಣವಾಗಿ ಉಚಿತವಾಗಿದ್ದು, ಪ್ರೀಮಿಯಂ ಸಾಫ್ಟ್‌ವೇರ್ ಅನ್ನು ಕನಿಷ್ಠ, ನ್ಯಾಯಯುತ ಬೆಲೆಗೆ ನೀಡಲಾಗುತ್ತದೆ."
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "ಸಮುದಾಯ-ಚಾಲಿತ ಬೆಂಬಲ",
-          "description": "ನಾವು ಕೇವಲ ಡೆವಲಪರ್‌ಗಳಲ್ಲ; ನಾವು ಸಮುದಾಯದ ಭಾಗವಾಗಿದ್ದೇವೆ. ನಿಮ್ಮ ಪ್ರತಿಕ್ರಿಯೆಯಿಂದ ನಾವು ಅಭಿವೃದ್ಧಿ ಹೊಂದುತ್ತೇವೆ ಮತ್ತು ನಮ್ಮ ಯೋಜನೆಗಳು ನಿಮ್ಮ ಅಗತ್ಯಗಳಿಗೆ ಅನುಗುಣವಾಗಿ ವಿಕಸನಗೊಳ್ಳುತ್ತವೆ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು ನೇರ, ಪ್ರತಿಕ್ರಿಯಾಶೀಲ ಬೆಂಬಲವನ್ನು ಒದಗಿಸುತ್ತೇವೆ."
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },

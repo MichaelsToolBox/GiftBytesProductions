@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "പ്രോജക്റ്റുകൾ",
+      "projects": "Studio",
       "principles": "തത്വങ്ങൾ",
       "download": "ഡൗൺലോഡ്",
       "latest": "ഏറ്റവും പുതിയത്",
@@ -59,20 +59,22 @@
       "description3": "ഞങ്ങളുടെ പ്രോജക്റ്റുകൾ ഉപയോഗിച്ചും അവ മറ്റുള്ളവർക്ക് ശുപാർശ ചെയ്തും നിങ്ങൾ ഇതിനകം ഞങ്ങളെ സഹായിക്കുന്നു. അല്ലാത്തപക്ഷം, നിങ്ങൾക്ക് ഞങ്ങളുടെ YouTube ചാനൽ സബ്സ്ക്രൈബ് ചെയ്യുകയും കമ്മ്യൂണിറ്റിയുമായി ഇടപഴകുകയും ചെയ്യാം. അധിക പിന്തുണയ്ക്കായി PayPal വഴി നിങ്ങൾക്ക് നേരിട്ട് സംഭാവന നൽകാനും കഴിയും"
     },
     "feature-page": {
-      "title": "സവിശേഷതകൾ",
-      "subheader": "സൗകര്യപ്രദവും, വൈവിധ്യപൂർണ്ണവും, ഞങ്ങളുടെ കമ്മ്യൂണിറ്റിയാൽ രൂപീകരിക്കപ്പെട്ടതുമായ ഉയർന്ന നിലവാരമുള്ള ഡിജിറ്റൽ അനുഭവങ്ങൾ സൃഷ്ടിക്കാൻ ഞങ്ങൾ പ്രതിജ്ഞാബദ്ധരാണ്. ഞങ്ങളുടെ പ്രോജക്റ്റുകളെ ഞങ്ങൾ എങ്ങനെ സമീപിക്കുന്നുവെന്ന് താഴെ പറയുന്നു.",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "എല്ലാ ഉപകരണങ്ങളിലും തടസ്സമില്ലാത്ത അനുഭവം",
-          "description": "നിങ്ങളുടെ അനുഭവം ഒരു സ്ക്രീനിൽ മാത്രം ഒതുങ്ങേണ്ടതില്ല. ഞങ്ങളുടെ പ്രോജക്റ്റുകൾ ഏതൊരു ഉപകരണത്തിലും - ഡെസ്ക്ടോപ്പുകൾ, ലാപ്ടോപ്പുകൾ, ടാബ്‌ലെറ്റുകൾ, മൊബൈൽ ഫോണുകൾ, പഴയതും പുതിയതും - സുഗമമായി പ്രവർത്തിക്കാൻ ശ്രദ്ധാപൂർവ്വം ഒപ്റ്റിമൈസ് ചെയ്തിരിക്കുന്നു."
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "ചെലവില്ലാത്ത സർഗ്ഗാത്മകത",
-          "description": "മികച്ച സോഫ്റ്റ്‌വെയറും വിനോദവും എല്ലാവർക്കും ലഭ്യമാകണമെന്ന് ഞങ്ങൾ വിശ്വസിക്കുന്നു. ഞങ്ങളുടെ മിക്ക പ്രോജക്റ്റുകളും പൂർണ്ണമായും സൗജന്യമാണ്, പ്രീമിയം സോഫ്റ്റ്‌വെയറുകൾ ഏറ്റവും കുറഞ്ഞ, ന്യായമായ വിലയിൽ നൽകുന്നു."
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "കമ്മ്യൂണിറ്റി പിന്തുണയുള്ള സഹായം",
-          "description": "ഞങ്ങൾ വെറും ഡെവലപ്പർമാർ മാത്രമല്ല; ഞങ്ങൾ കമ്മ്യൂണിറ്റിയുടെ ഭാഗമാണ്. നിങ്ങളുടെ ഫീഡ്‌ബാക്കിൽ ഞങ്ങൾ വളരുകയും നിങ്ങളുടെ ആവശ്യങ്ങൾക്കനുസരിച്ച് ഞങ്ങളുടെ പ്രോജക്റ്റുകൾ വികസിപ്പിക്കുന്നുവെന്ന് ഉറപ്പാക്കാൻ നേരിട്ടുള്ള, പ്രതികരിക്കുന്ന പിന്തുണ നൽകുകയും ചെയ്യുന്നു."
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },

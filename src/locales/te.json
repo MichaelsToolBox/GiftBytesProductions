@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "ప్రాజెక్ట్‌లు",
+      "projects": "Studio",
       "principles": "సూత్రాలు",
       "download": "డౌన్‌లోడ్ చేయండి",
       "latest": "తాజావి",
@@ -59,20 +59,22 @@
       "description3": "మా ప్రాజెక్ట్‌లను ప్రయత్నించడం మరియు వాటిని సిఫార్సు చేయడం ద్వారా మీరు ఇప్పటికే మాకు సహాయం చేస్తున్నారు. లేకపోతే మీరు మా YouTube ఛానెల్‌కు సభ్యత్వం పొందవచ్చు మరియు సంఘంతో పాలుపంచుకోవచ్చు. అదనపు మద్దతు కోసం మీరు PayPal ద్వారా మాకు నేరుగా విరాళం కూడా ఇవ్వవచ్చు"
     },
     "feature-page": {
-      "title": "లక్షణాలు",
-      "subheader": "అందుబాటులో ఉండే, బహుముఖమైన మరియు మా సంఘం ద్వారా రూపొందించబడిన అధిక-నాణ్యత డిజిటల్ అనుభవాలను సృష్టించడానికి మేము అంకితభావంతో ఉన్నాము. మేము మా ప్రాజెక్ట్‌లను ఎలా చేరుకుంటామో ఇక్కడ ఉంది.",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "అన్ని పరికరాలలో నిరంతరాయంగా",
-          "description": "మీ అనుభవం ఒకే స్క్రీన్‌కు పరిమితం కాకూడదు. మా ప్రాజెక్ట్‌లు ఏ పరికరంలోనైనా—డెస్క్‌టాప్‌లు మరియు ల్యాప్‌టాప్‌ల నుండి టాబ్లెట్‌లు మరియు మొబైల్ ఫోన్‌ల వరకు, పాతవి మరియు కొత్తవి రెండింటిలోనూ—సజావుగా నడవడానికి జాగ్రత్తగా ఆప్టిమైజ్ చేయబడ్డాయి."
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "ఖర్చు లేకుండా సృజనాత్మకత",
-          "description": "గొప్ప సాఫ్ట్‌వేర్ మరియు వినోదం అందరికీ అందుబాటులో ఉండాలని మేము నమ్ముతాము. మా ప్రాజెక్ట్‌లలో ఎక్కువ భాగం పూర్తిగా ఉచితం, ప్రీమియం సాఫ్ట్‌వేర్ కనీస, సరసమైన ధర వద్ద అందించబడుతుంది."
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "సంఘం-ఆధారిత మద్దతు",
-          "description": "మేము కేవలం డెవలపర్‌లు మాత్రమే కాదు; మేము సంఘంలో భాగం. మేము మీ అభిప్రాయాలపై వృద్ధి చెందుతాము మరియు మా ప్రాజెక్ట్‌లు మీ అవసరాలకు అనుగుణంగా అభివృద్ధి చెందేలా చూసుకోవడానికి ప్రత్యక్ష, ప్రతిస్పందించే మద్దతును అందిస్తాము."
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },

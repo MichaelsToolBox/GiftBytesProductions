@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "Funkcijas",
+      "projects": "Studio",
       "principles": "Principi",
       "download": "Lejupielādēt",
       "latest": "Jaunākais",
@@ -59,20 +59,22 @@
       "description3": "Jūs jau palīdzat mums, vienkārši izmēģinot mūsu projektus un tos iesakot. Pretējā gadījumā jūs varat abonēt mūsu YouTube kanālu un mijiedarboties ar kopienu. Papildu atbalstam varat mums ziedot arī tieši caur PayPal"
     },
     "feature-page": {
-      "title": "Funkcijas",
-      "subheader": "Mēs esam veltīti augstas kvalitātes digitālās pieredzes radīšanai, kas ir pieejama, daudzpusīga un ko veido mūsu kopiena. Lūk, kā mēs pieejam saviem projektiem.",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "Vienmērīgs visās ierīcēs",
-          "description": "Jūsu pieredzei nevajadzētu būt piesaistītai vienam ekrānam. Mūsu projekti ir rūpīgi optimizēti, lai nevainojami darbotos jebkurā ierīcē — no galddatoriem un klēpjdatoriem līdz planšetdatoriem un mobilajiem tālruņiem, gan veciem, gan jauniem."
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "Radošums bez izmaksām",
-          "description": "Mēs uzskatām, ka lielisks programmatūra un izklaidei jābūt pieejamai ikvienam. Lielākā daļa mūsu projektu ir pilnīgi bez maksas, un premium programmatūra tiek piedāvāta par minimālu, godīgu cenu."
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "Kopienas vadīts atbalsts",
-          "description": "Mēs neesam tikai izstrādātāji; mēs esam daļa no kopienas. Mēs attīstāmies no jūsu atsauksmēm un sniedzam tiešu, atsaucīgu atbalstu, lai nodrošinātu, ka mūsu projekti attīstās atbilstoši jūsu vajadzībām."
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },

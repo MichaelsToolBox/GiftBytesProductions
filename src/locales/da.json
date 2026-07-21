@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "Funktioner",
+      "projects": "Studio",
       "principles": "Principper",
       "download": "Download",
       "latest": "Seneste",
@@ -59,20 +59,22 @@
       "description3": "Du hjælper os allerede ved bare at prøve vores projekter og anbefale dem. Derudover kan du abonnere på vores YouTube-kanal og engagere dig i fællesskabet. For yderligere support kan du også donere direkte til os via PayPal"
     },
     "feature-page": {
-      "title": "Funktioner",
-      "subheader": "Vi er dedikerede til at skabe digitale oplevelser af høj kvalitet, der er tilgængelige, alsidige og formet af vores fællesskab. Her er vores tilgang til vores projekter.",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "Problemfrit på tværs af enheder",
-          "description": "Din oplevelse skal ikke være bundet til én skærm. Vores projekter er omhyggeligt optimeret til at køre problemfrit på enhver enhed – fra desktops og laptops til tablets og mobiltelefoner, både gamle og nye."
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "Kreativitet uden omkostninger",
-          "description": "Vi mener, at fantastisk software og underholdning skal være tilgængeligt for alle. De fleste af vores projekter er helt gratis, med premium software, der tilbydes til en minimal, fair pris."
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "Fællesskabsdrevet support",
-          "description": "Vi er ikke kun udviklere; vi er en del af fællesskabet. Vi trives med jeres feedback og yder direkte, lydhør support for at sikre, at vores projekter udvikler sig med jeres behov."
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },

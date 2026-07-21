@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "លក្ខណៈពិសេស",
+      "projects": "Studio",
       "principles": "គោលការណ៍",
       "download": "ទាញយក",
       "latest": "ថ្មីបំផុត",
@@ -59,20 +59,22 @@
       "description3": "អ្នកកំពុងជួយយើងរួចហើយដោយគ្រាន់តែសាកល្បងគម្រោងរបស់យើង និងណែនាំវា។ ក្រៅពីនេះ អ្នកអាចជាវឆានែល YouTube របស់យើង និងចូលរួមជាមួយសហគមន៍។ សម្រាប់ការគាំទ្របន្ថែម អ្នកក៏អាចបរិច្ចាគមកយើងដោយផ្ទាល់តាមរយៈ PayPal"
     },
     "feature-page": {
-      "title": "លក្ខណៈពិសេស",
-      "subheader": "យើងប្តេជ្ញាបង្កើតបទពិសោធន៍ឌីជីថលដែលមានគុណភាពខ្ពស់ ដែលងាយស្រួលប្រើ មានលក្ខណៈចម្រុះ និងបង្កើតឡើងដោយសហគមន៍របស់យើង។ នេះជារបៀបដែលយើងចូលទៅជិតគម្រោងរបស់យើង។",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "គ្មានភាពរអាក់រអួលលើឧបករណ៍នានា",
-          "description": "បទពិសោធន៍របស់អ្នកមិនគួរត្រូវបានភ្ជាប់ទៅនឹងអេក្រង់តែមួយទេ។ គម្រោងរបស់យើងត្រូវបានកែប្រែយ៉ាងល្អិតល្អន់ដើម្បីដំណើរការយ៉ាងរលូននៅលើឧបករណ៍ណាមួយ - ពីកុំព្យូទ័រលើតុ និងកុំព្យូទ័រយួរដៃ រហូតដល់ថេប្លេត និងទូរស័ព្ទចល័ត ទាំងចាស់និងថ្មី។"
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "ការច្នៃប្រឌិតដោយគ្មានការចំណាយ",
-          "description": "យើងជឿថា software និងការកម្សាន្តដ៏អស្ចារ្យគួរតែមានសម្រាប់មនុស្សគ្រប់គ្នា។ គម្រោងភាគច្រើនរបស់យើងគឺឥតគិតថ្លៃទាំងស្រុង ជាមួយ software កម្រិតខ្ពស់ដែលផ្តល់ជូនក្នុងតម្លៃសមរម្យ។"
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "ការគាំទ្រដែលជំរុញដោយសហគមន៍",
-          "description": "យើងមិនត្រឹមតែជាអ្នកអភិវឌ្ឍន៍ទេ យើងក៏ជាផ្នែកមួយនៃសហគមន៍ផងដែរ។ យើងរីកចម្រើនលើមតិកែលម្អរបស់អ្នក និងផ្តល់ការគាំទ្រដោយផ្ទាល់ និងឆ្លើយតបដើម្បីធានាថាគម្រោងរបស់យើងវិវឌ្ឍន៍ទៅតាមតម្រូវការរបស់អ្នក។"
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },

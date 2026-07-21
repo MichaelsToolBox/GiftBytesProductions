@@ -1,250 +1,163 @@
-import * as React from 'react';
-import Box from '@mui/material/Box';
-import Button from '@mui/material/Button';
-import Card from '@mui/material/Card';
-import Container from '@mui/material/Container';
-import Stack from '@mui/material/Stack';
+import SportsEsportsRoundedIcon from '@mui/icons-material/SportsEsportsRounded';
+import VideocamRoundedIcon from '@mui/icons-material/VideocamRounded';
+import RocketLaunchRoundedIcon from '@mui/icons-material/RocketLaunchRounded';
 import Typography from '@mui/material/Typography';
-import Fade from '@mui/material/Fade';
+import Container from '@mui/material/Container';
 import { useTranslation } from 'react-i18next';
-import { keyframes } from '@mui/material/styles';
+import { alpha } from '@mui/material/styles';
+import Button from '@mui/material/Button';
+import Stack from '@mui/material/Stack';
+import Grid from '@mui/material/Grid';
+import Box from '@mui/material/Box';
+import SectionHeader from '../utils/section-header';
+import { cardGap, sectionPx, sectionPy, softHoverLift, surfaceRadius } from '../utils/section-rhythm';
+import { paperBg } from '../utils/theme-alpha';
 
-// --- ICONS ---
-import PriceCheckRoundedIcon from '@mui/icons-material/PriceCheckRounded';
-import DevicesRoundedIcon from '@mui/icons-material/DevicesRounded';
-import SupportAgentRoundedIcon from '@mui/icons-material/SupportAgentRounded';
-import AutoAwesomeRoundedIcon from '@mui/icons-material/AutoAwesomeRounded';
-import PhoneIphoneRoundedIcon from '@mui/icons-material/PhoneIphoneRounded';
-import TabletMacRoundedIcon from '@mui/icons-material/TabletMacRounded';
-import DesktopWindowsRoundedIcon from '@mui/icons-material/DesktopWindowsRounded';
+const ICONS = [
+  <SportsEsportsRoundedIcon key="games" />,
+  <VideocamRoundedIcon key="media" />,
+  <RocketLaunchRoundedIcon key="ship" />,
+];
 
-// --- DYNAMIC ANIMATION KEYFRAMES ---
-const shake = keyframes`
-  0%, 100% { transform: rotate(0deg); }
-  25% { transform: rotate(5deg); }
-  50% { transform: rotate(-5deg); }
-  75% { transform: rotate(5deg); }
-`;
-
-const intenseGlow = keyframes`
-  0% { box-shadow: 0 0 10px 0px hsla(210, 100%, 50%, 0.5); }
-  50% { box-shadow: 0 0 40px 15px hsla(210, 100%, 50%, 0.8); }
-  100% { box-shadow: 0 0 10px 0px hsla(210, 100%, 50%, 0.5); }
-`;
-
-const orbit = keyframes`
-  0% { transform: translate(0, 0) scale(1); }
-  25% { transform: translate(-200px, -25px) scale(1.1); }
-  50% { transform: translate(0, 160px) scale(0.9); }
-  75% { transform: translate(200px, -100px) scale(1.1); }
-  100% { transform: translate(0, 0) scale(1); }
-`;
-
-const shockwave = keyframes`
-  0% { transform: scale(0.5); opacity: 0.7; }
-  100% { transform: scale(4); opacity: 0; }
-`;
-
-// --- CUSTOM VISUAL COMPONENTS ---
-const CostVisual = () => (
-  <Box sx={{ position: 'relative', height: '100%', width: '100%', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
-    <Box sx={{
-      position: 'absolute',
-      width: '80px',
-      height: '80px',
-      borderRadius: '100%',
-      border: '3px solid',
-      borderColor: 'primary.main',
-      animation: `${shockwave} 2s ease-out infinite`,
-    }} />
-      <PriceCheckRoundedIcon color="primary" sx={{ fontSize: '5rem', animation: `${shake} 1s linear infinite` }}/>
-  </Box>
-);
-
-const DevicesVisual = () => (
-  <Box sx={{ position: 'relative', height: '100%', width: '100%', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
-    <Box
-      sx={{
-        width: '80px',
-        height: '80px',
-        borderRadius: '50%',
-        display: 'flex',
-        alignItems: 'center',
-        justifyContent: 'center',
-        animation: `${intenseGlow} 2s ease-in-out infinite`,
-      }}
-    >
-      <AutoAwesomeRoundedIcon color="primary" sx={{ fontSize: '3rem', zIndex: 1 }}/>
-    </Box>
-    <DesktopWindowsRoundedIcon sx={{ position: 'absolute', fontSize: '5rem', color: 'text.secondary', opacity: 0.7, animation: `${orbit} 10s linear infinite`, animationDelay: '0s' }} />
-    <TabletMacRoundedIcon sx={{ position: 'absolute', fontSize: '4rem', color: 'text.secondary', opacity: 0.7, animation: `${orbit} 8s linear infinite reverse`, animationDelay: '1s' }} />
-    <PhoneIphoneRoundedIcon sx={{ position: 'absolute', fontSize: '3rem', color: 'text.secondary', opacity: 0.7, animation: `${orbit} 9s linear infinite`, animationDelay: '2s' }} />
-  </Box>
-);
-
-const CommunityVisual = () => (
-  <Box sx={{ position: 'relative', height: '100%', width: '100%', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
-    <Box sx={{
-      position: 'absolute',
-      width: '80px',
-      height: '80px',
-      borderRadius: '100%',
-      border: '3px solid',
-      borderColor: 'primary.main',
-      animation: `${shockwave} 2s ease-out infinite`,
-    }} />
-    <SupportAgentRoundedIcon color="primary" sx={{ fontSize: '4rem', zIndex: 1 }} />
-  </Box>
-);
-
-// --- MOBILE LAYOUT ---
-interface FeaturesMobileViewProps {
-  items: Array<{ title: string; description: string; visual: React.ReactNode }>;
-}
-
-function FeaturesMobileView({ items }: FeaturesMobileViewProps) {
-  return (
-    <Stack spacing={4} sx={{ display: { xs: 'flex', sm: 'none' } }}>
-      {items.map((item, index) => (
-        <Card key={index} variant="outlined">
-          <Box sx={{ minHeight: 280, display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
-            <Box sx={{ height: 200, width: '100%' }}>{item.visual}</Box>
-          </Box>
-          <Box sx={{ px: 2, pb: 2 }}>
-            <Typography gutterBottom sx={{ color: 'text.primary', fontWeight: 'medium' }}>
-              {item.title}
-            </Typography>
-            <Typography variant="body2" sx={{ color: 'text.secondary', mb: 1.5 }}>
-              {item.description}
-            </Typography>
-          </Box>
-        </Card>
-      ))}
-    </Stack>
-  );
-}
-
-// --- MAIN FEATURES COMPONENT ---
 export default function Features() {
   const { t } = useTranslation();
-  const [selectedItemIndex, setSelectedItemIndex] = React.useState(0);
 
-  const items = [
-    {
-      icon: <DevicesRoundedIcon />,
-      title: t("feature-page.items.0.title"),
-      description: t("feature-page.items.0.description"),
-      visual: <DevicesVisual />,
-    },
-    {
-      icon: <PriceCheckRoundedIcon />,
-      title: t("feature-page.items.1.title"),
-      description: t("feature-page.items.1.description"),
-      visual: <CostVisual />,
-    },
-    {
-      icon: <SupportAgentRoundedIcon />,
-      title: t("feature-page.items.2.title"),
-      description: t("feature-page.items.2.description"),
-      visual: <CommunityVisual />,
-    },
-  ];
+  const pillars = [0, 1, 2].map((index) => ({
+    icon: ICONS[index],
+    index,
+    title: t(`feature-page.items.${index}.title`),
+    description: t(`feature-page.items.${index}.description`),
+  }));
 
-  const handleItemClick = (index: number) => {
-    setSelectedItemIndex(index);
+  const scrollToGames = () => {
+    const el = document.getElementById('download');
+    if (!el) return;
+    const offset = 80;
+    window.scrollTo({ top: el.getBoundingClientRect().top + window.scrollY - offset, behavior: 'smooth' });
   };
 
   return (
-    <Container id="features" sx={{ py: { xs: 8, sm: 16 } }}>
-      <Box sx={{ width: { sm: '100%', md: '60%' } }}>
-        <Typography
-          component="h2"
-          variant="h4"
-          gutterBottom
-          sx={{ color: 'text.primary' }}
-        >
-          {t("feature-page.title")}
-        </Typography>
-        <Typography
-          variant="body1"
-          sx={{ color: 'text.secondary', mb: { xs: 2, sm: 4 } }}
-        >
-          {t("feature-page.subheader")}
-        </Typography>
-      </Box>
+    <Container id="studio" sx={{ py: sectionPy, px: sectionPx }}>
+      <SectionHeader title={t('feature-page.title')} subtitle={t('feature-page.subheader')} />
 
-      {/* --- DESKTOP VIEW --- */}
-      <Box sx={{ display: { xs: 'none', sm: 'flex' }, flexDirection: { sm: 'column', md: 'row' }, gap: 4 }}>
-        <Card
-          variant="outlined"
-          sx={{
-            width: { sm: '100%', md: '70%' },
-            height: { sm: 420, md: 'auto' },
-            p: 2,
-          }}
-        >
-          <Fade in key={selectedItemIndex} timeout={500}>
-            <Box sx={{ width: '100%', height: '100%' }}>
-              {items[selectedItemIndex].visual}
-            </Box>
-          </Fade>
-        </Card>
-        <Box sx={{ display: 'flex', flexDirection: 'column', gap: 2, flexShrink: 0, width: { sm: '100%', md: '40%'} }}>
-          {items.map(({ icon, title, description }, index) => (
+      <Grid container spacing={cardGap}>
+        {pillars.map((pillar) => (
+          <Grid key={pillar.title} size={{ xs: 12, md: 4 }} sx={{ display: 'flex' }}>
             <Box
-              key={index}
-              component={Button}
-              onClick={() => handleItemClick(index)}
               sx={[
                 (theme) => ({
-                  p: 2.5,
-                  height: '100%',
                   width: '100%',
+                  display: 'flex',
+                  flexDirection: 'column',
+                  gap: 2,
+                  p: { xs: 2.75, sm: 3 },
+                  borderRadius: surfaceRadius,
                   border: '1px solid',
-                  borderColor: 'grey.200',
-                  borderRadius: '12px',
+                  borderColor: 'divider',
+                  bgcolor: paperBg(theme, 0.92),
+                  background: `
+                    linear-gradient(165deg, ${alpha(theme.palette.primary.main, 0.05)} 0%, transparent 42%),
+                    ${paperBg(theme, 0.92)}
+                  `,
+                  transition: 'transform 220ms ease, border-color 220ms ease, box-shadow 220ms ease',
                   '&:hover': {
-                    backgroundColor: 'action.hover',
+                    transform: softHoverLift,
+                    borderColor: alpha(theme.palette.primary.main, 0.4),
+                    boxShadow: {
+                      sm: `0 16px 36px ${alpha(theme.palette.common.black, 0.07)}`,
+                    },
                   },
-                  ...theme.applyStyles('dark', {
-                    borderColor: 'grey.800',
-                  }),
                 }),
-                selectedItemIndex === index && {
-                  backgroundColor: 'action.selected',
-                  borderColor: 'primary.main',
-                },
+                (theme) =>
+                  theme.applyStyles('dark', {
+                    background: `
+                      linear-gradient(165deg, ${alpha(theme.palette.primary.main, 0.1)} 0%, transparent 42%),
+                      ${paperBg(theme, 0.92)}
+                    `,
+                    '&:hover': {
+                      boxShadow: {
+                        sm: `0 16px 36px ${alpha(theme.palette.common.black, 0.3)}`,
+                      },
+                    },
+                  }),
               ]}
             >
-              <Box
-                sx={[
-                  {
-                    width: '100%',
-                    display: 'flex',
-                    flexDirection: 'column',
-                    alignItems: 'left',
-                    gap: 1,
-                    textAlign: 'left',
-                    textTransform: 'none',
+              <Stack direction="row" alignItems="center" justifyContent="space-between" spacing={2}>
+                <Box
+                  sx={(theme) => ({
+                    width: 44,
+                    height: 44,
+                    borderRadius: 2,
+                    display: 'grid',
+                    placeItems: 'center',
+                    color: 'primary.main',
+                    bgcolor: alpha(theme.palette.primary.main, 0.12),
+                  })}
+                >
+                  {pillar.icon}
+                </Box>
+                <Typography
+                  variant="caption"
+                  sx={{
+                    fontFamily: '"Syne", sans-serif',
+                    fontWeight: 700,
+                    letterSpacing: 1.2,
                     color: 'text.secondary',
-                  },
-                  selectedItemIndex === index && {
-                    color: 'text.primary',
-                  },
-                ]}
-              >
-                {React.cloneElement(icon, { sx: { mb: 1 } })}
-                <Typography variant="h6">{title}</Typography>
-                <Typography variant="body2">{description}</Typography>
+                    opacity: 0.7,
+                  }}
+                >
+                  {String(pillar.index + 1).padStart(2, '0')}
+                </Typography>
+              </Stack>
+
+              <Box sx={{ flexGrow: 1 }}>
+                <Typography variant="h6" sx={{ letterSpacing: '-0.02em', mb: 1 }}>
+                  {pillar.title}
+                </Typography>
+                <Typography variant="body2" color="text.secondary" sx={{ lineHeight: 1.7 }}>
+                  {pillar.description}
+                </Typography>
               </Box>
             </Box>
-          ))}
-        </Box>
-      </Box>
+          </Grid>
+        ))}
+      </Grid>
 
-      {/* --- NEW MOBILE VIEW --- */}
-      <FeaturesMobileView items={items} />
-
+      <Stack
+        direction={{ xs: 'column', sm: 'row' }}
+        spacing={1.5}
+        useFlexGap
+        sx={{ mt: { xs: 3.5, sm: 4.5 }, justifyContent: 'center', alignItems: 'center' }}
+      >
+        <Button
+          variant="contained"
+          color="primary"
+          sx={{ borderRadius: 999, px: 2.75, whiteSpace: 'nowrap', width: { xs: '100%', sm: 'auto' } }}
+          onClick={scrollToGames}
+        >
+          {t('feature-page.cta-games')}
+        </Button>
+        <Button
+          variant="outlined"
+          sx={{
+            borderRadius: 999,
+            px: 2.75,
+            whiteSpace: 'nowrap',
+            width: { xs: '100%', sm: 'auto' },
+            color: 'text.primary',
+            borderColor: 'divider',
+          }}
+          onClick={() =>
+            window.open(
+              'https://www.youtube.com/@GiftBytesProductions?sub_confirmation=1',
+              '_blank',
+              'noopener,noreferrer',
+            )
+          }
+        >
+          {t('feature-page.cta-media')}
+        </Button>
+      </Stack>
     </Container>
   );
 }

@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "Fonctionnalitéiten",
+      "projects": "Studio",
       "principles": "Prinzipien",
       "download": "Eroflueden",
       "latest": "Neist",
@@ -59,20 +59,22 @@
       "description3": "Dir hëlleft eis schonn andeems Dir eis Projeten ausprobéiert an se recommandéiert. Soss kënnt Dir Iech op eisem YouTube-Kanal abonnéieren an mat der Gemeinschaft interagéieren. Fir zousätzlech Ënnerstëtzung kënnt Dir eis och direkt iwwer PayPal spenden"
     },
     "feature-page": {
-      "title": "Fonctionnalitéiten",
-      "subheader": "Mir sinn engagéiert fir qualitativ héichwäerteg digital Erfarungen ze kreéieren, déi zougänglech, villsäiteg an duerch eis Gemeinschaft geformt sinn. Hei ass wéi mir eis Projeten ugoen.",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "Ouni Iwwergang op allen Apparater",
-          "description": "Är Erfarung sollt net un engem eenzegen Ecran gebonne sinn. Eis Projete sinn akribesch optimiséiert fir ouni Problemer op all Apparat ze lafen — vun Desktops a Laptops bis zu Tablets a mobil Apparater, al wéi nei."
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "Kreativitéit ouni Käschten",
-          "description": "Mir gleewen, datt super Software an Ënnerhalung fir jiddereen disponibel soll sinn. Déi meescht vun eise Projeten sinn komplett gratis, mat Premium-Software déi zu engem minimalen, faire Präis ugebuede gëtt."
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "Gemeinschaftsgedriwwen Ënnerstëtzung",
-          "description": "Mir sinn net nëmmen Entwéckler; mir sinn en Deel vun der Gemeinschaft. Mir floréieren mat Ärem Feedback a bidden direkt, reaktiiv Ënnerstëtzung fir sécherzestellen, datt eis Projeten sech mat Äre Besoinen entwéckelen."
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },

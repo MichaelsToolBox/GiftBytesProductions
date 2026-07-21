@@ -31,16 +31,16 @@ const defaultTheme = createTheme();
 const customShadows: Shadows = [...defaultTheme.shadows];
 
 export const brand = {
-  50: 'hsl(210, 100%, 95%)',
-  100: 'hsl(210, 100%, 92%)',
-  200: 'hsl(210, 100%, 80%)',
-  300: 'hsl(210, 100%, 65%)',
-  400: 'hsl(210, 98%, 48%)',
-  500: 'hsl(210, 98%, 42%)',
-  600: 'hsl(210, 98%, 55%)',
-  700: 'hsl(210, 100%, 35%)',
-  800: 'hsl(210, 100%, 16%)',
-  900: 'hsl(210, 100%, 21%)',
+  50: 'hsl(204, 100%, 96%)',
+  100: 'hsl(204, 100%, 92%)',
+  200: 'hsl(204, 95%, 78%)',
+  300: 'hsl(204, 92%, 62%)',
+  400: 'hsl(204, 90%, 46%)',
+  500: 'hsl(204, 90%, 40%)',
+  600: 'hsl(204, 88%, 52%)',
+  700: 'hsl(204, 92%, 32%)',
+  800: 'hsl(204, 95%, 18%)',
+  900: 'hsl(204, 98%, 12%)',
 };
 
 export const gray = {
@@ -163,9 +163,12 @@ export const getDesignTokens = (mode: PaletteMode) => {
       },
       divider: mode === 'dark' ? alpha(gray[700], 0.6) : alpha(gray[300], 0.4),
       background: {
-        default: 'hsl(0, 0%, 99%)',
-        paper: 'hsl(220, 35%, 97%)',
-        ...(mode === 'dark' && { default: gray[900], paper: 'hsl(220, 30%, 7%)' }),
+        default: 'hsl(210, 32%, 98.5%)',
+        paper: 'hsl(0, 0%, 100%)',
+        ...(mode === 'dark' && {
+          default: 'hsl(220, 32%, 4%)',
+          paper: 'hsl(220, 28%, 8%)',
+        }),
       },
       text: {
         primary: gray[800],
@@ -183,32 +186,42 @@ export const getDesignTokens = (mode: PaletteMode) => {
       },
     },
     typography: {
-      fontFamily: 'Inter, sans-serif',
+      fontFamily: '"Manrope", system-ui, sans-serif',
       h1: {
+        fontFamily: '"Syne", "Manrope", sans-serif',
         fontSize: defaultTheme.typography.pxToRem(48),
-        fontWeight: 600,
-        lineHeight: 1.2,
-        letterSpacing: -0.5,
+        fontWeight: 700,
+        lineHeight: 1.12,
+        letterSpacing: -1.2,
       },
       h2: {
+        fontFamily: '"Syne", "Manrope", sans-serif',
         fontSize: defaultTheme.typography.pxToRem(36),
-        fontWeight: 600,
-        lineHeight: 1.2,
+        fontWeight: 700,
+        lineHeight: 1.15,
+        letterSpacing: -0.8,
       },
       h3: {
+        fontFamily: '"Syne", "Manrope", sans-serif',
         fontSize: defaultTheme.typography.pxToRem(30),
+        fontWeight: 700,
         lineHeight: 1.2,
+        letterSpacing: -0.6,
       },
       h4: {
+        fontFamily: '"Syne", "Manrope", sans-serif',
         fontSize: defaultTheme.typography.pxToRem(24),
-        fontWeight: 600,
-        lineHeight: 1.5,
+        fontWeight: 700,
+        lineHeight: 1.35,
+        letterSpacing: -0.4,
       },
       h5: {
+        fontFamily: '"Syne", "Manrope", sans-serif',
         fontSize: defaultTheme.typography.pxToRem(20),
         fontWeight: 600,
       },
       h6: {
+        fontFamily: '"Syne", "Manrope", sans-serif',
         fontSize: defaultTheme.typography.pxToRem(18),
         fontWeight: 600,
       },
@@ -220,19 +233,28 @@ export const getDesignTokens = (mode: PaletteMode) => {
         fontWeight: 500,
       },
       body1: {
-        fontSize: defaultTheme.typography.pxToRem(14),
+        fontSize: defaultTheme.typography.pxToRem(15),
+        lineHeight: 1.65,
       },
       body2: {
         fontSize: defaultTheme.typography.pxToRem(14),
         fontWeight: 400,
+        lineHeight: 1.6,
       },
       caption: {
         fontSize: defaultTheme.typography.pxToRem(12),
-        fontWeight: 400,
+        fontWeight: 500,
+        letterSpacing: 0.2,
+      },
+      button: {
+        fontFamily: '"Manrope", system-ui, sans-serif',
+        fontWeight: 600,
+        letterSpacing: 0.1,
+        textTransform: 'none' as const,
       },
     },
     shape: {
-      borderRadius: 8,
+      borderRadius: 16,
     },
     shadows: customShadows,
   };
@@ -273,8 +295,8 @@ export const colorSchemes = {
       },
       divider: alpha(gray[300], 0.4),
       background: {
-        default: 'hsl(0, 0%, 99%)',
-        paper: 'hsl(220, 35%, 97%)',
+        default: 'hsl(210, 32%, 98.5%)',
+        paper: 'hsl(0, 0%, 100%)',
       },
       text: {
         primary: gray[800],
@@ -286,7 +308,7 @@ export const colorSchemes = {
         selected: `${alpha(gray[200], 0.3)}`,
       },
       baseShadow:
-        'hsla(220, 30%, 5%, 0.07) 0px 4px 16px 0px, hsla(220, 25%, 10%, 0.07) 0px 8px 16px -5px',
+        'hsla(210, 40%, 12%, 0.06) 0px 8px 24px 0px, hsla(210, 30%, 10%, 0.04) 0px 2px 8px 0px',
     },
   },
   dark: {
@@ -321,10 +343,10 @@ export const colorSchemes = {
       grey: {
         ...gray,
       },
-      divider: alpha(gray[700], 0.6),
+      divider: alpha(gray[700], 0.55),
       background: {
-        default: gray[900],
-        paper: 'hsl(220, 30%, 7%)',
+        default: 'hsl(220, 32%, 4%)',
+        paper: 'hsl(220, 28%, 8%)',
       },
       text: {
         primary: 'hsl(0, 0%, 100%)',
@@ -341,32 +363,42 @@ export const colorSchemes = {
 };
 
 export const typography = {
-  fontFamily: 'Inter, sans-serif',
+  fontFamily: '"Manrope", system-ui, sans-serif',
   h1: {
+    fontFamily: '"Syne", "Manrope", sans-serif',
     fontSize: defaultTheme.typography.pxToRem(48),
-    fontWeight: 600,
-    lineHeight: 1.2,
-    letterSpacing: -0.5,
+    fontWeight: 700,
+    lineHeight: 1.12,
+    letterSpacing: -1.2,
   },
   h2: {
+    fontFamily: '"Syne", "Manrope", sans-serif',
     fontSize: defaultTheme.typography.pxToRem(36),
-    fontWeight: 600,
-    lineHeight: 1.2,
+    fontWeight: 700,
+    lineHeight: 1.15,
+    letterSpacing: -0.8,
   },
   h3: {
+    fontFamily: '"Syne", "Manrope", sans-serif',
     fontSize: defaultTheme.typography.pxToRem(30),
+    fontWeight: 700,
     lineHeight: 1.2,
+    letterSpacing: -0.6,
   },
   h4: {
+    fontFamily: '"Syne", "Manrope", sans-serif',
     fontSize: defaultTheme.typography.pxToRem(24),
-    fontWeight: 600,
-    lineHeight: 1.5,
+    fontWeight: 700,
+    lineHeight: 1.35,
+    letterSpacing: -0.4,
   },
   h5: {
+    fontFamily: '"Syne", "Manrope", sans-serif',
     fontSize: defaultTheme.typography.pxToRem(20),
     fontWeight: 600,
   },
   h6: {
+    fontFamily: '"Syne", "Manrope", sans-serif',
     fontSize: defaultTheme.typography.pxToRem(18),
     fontWeight: 600,
   },
@@ -378,20 +410,29 @@ export const typography = {
     fontWeight: 500,
   },
   body1: {
-    fontSize: defaultTheme.typography.pxToRem(14),
+    fontSize: defaultTheme.typography.pxToRem(15),
+    lineHeight: 1.65,
   },
   body2: {
     fontSize: defaultTheme.typography.pxToRem(14),
     fontWeight: 400,
+    lineHeight: 1.6,
   },
   caption: {
     fontSize: defaultTheme.typography.pxToRem(12),
-    fontWeight: 400,
+    fontWeight: 500,
+    letterSpacing: 0.2,
+  },
+  button: {
+    fontFamily: '"Manrope", system-ui, sans-serif',
+    fontWeight: 600,
+    letterSpacing: 0.1,
+    textTransform: 'none' as const,
   },
 };
 
 export const shape = {
-  borderRadius: 8,
+  borderRadius: 16,
 };
 
 // @ts-ignore

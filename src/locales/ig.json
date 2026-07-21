@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "Njirimara",
+      "projects": "Studio",
       "principles": "Ụkpụrụ",
       "download": "Nbudata",
       "latest": "Nke kachasị ọhụrụ",
@@ -59,20 +59,22 @@
       "description3": "Ị na-enyere anyị aka ugbua site n'ịgbalị ọrụ anyị na site n'ịkwado ha. Ma ọ bụghị ya, ị nwere ike ịdebanye aha na ọwa YouTube anyị ma soro obodo gị rụọ ọrụ. Maka nkwado agbakwunyere, ị nwekwara ike inyere anyị ego kpọmkwem site na PayPal"
     },
     "feature-page": {
-      "title": "Njirimara",
-      "subheader": "Anyị na-agbasi mbọ ike ịmepụta ahụmahụ dijital dị mma nke dị mfe inweta, ọtụtụ ebe, ma obodo anyị mepụtara ya. Ebe a bụ otu anyị si abịaru nso n'ọrụ anyị.",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "Na-agba ọsọ n'enweghị nsogbu n'ụwa niile",
-          "description": "Ahụmahụ gị ekwesighi ijikọta na otu ihuenyo. A na-ahazi ọrụ anyị nke ọma ka ọ na-agba ọsọ n'enweghị nsogbu na ngwaọrụ ọ bụla - site na kọmputa desktop na laptọọpụ ruo na mbadamba na ekwentị mkpanaka, ma ochie ma ọhụrụ."
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "Okike n'enweghị ego",
-          "description": "Anyị kwenyere na ezi sọftụwe na ntụrụndụ kwesịrị ịdị maka onye ọ bụla. Ọtụtụ n'ime ọrụ anyị bụ n'efu kpamkpam, na sọftụwe premium na-enye na ọnụahịa dị ala, ezi uche dị na ya."
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "Nkwado obodo-ndu",
-          "description": "Anyị abụghị naanị ndị mmepe; anyị bụ akụkụ nke obodo. Anyị na-eto n'ihi nzaghachi gị ma na-enye nkwado kpọmkwem, na-aza ajụjụ iji jide n'aka na ọrụ anyị na-agbanwe agbanwe dị ka mkpa gị si dị."
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },

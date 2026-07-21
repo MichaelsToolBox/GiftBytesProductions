@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "સુવિધાઓ",
+      "projects": "Studio",
       "principles": "સિદ્ધાંતો",
       "download": "ડાઉનલોડ કરો",
       "latest": "નવીનતમ",
@@ -59,20 +59,22 @@
       "description3": "તમે અમારા પ્રોજેક્ટ્સને અજમાવી અને ભલામણ કરીને અમને પહેલાથી જ મદદ કરી રહ્યા છો. અન્યથા, તમે અમારી YouTube ચેનલને સબસ્ક્રાઇબ કરી શકો છો અને સમુદાય સાથે જોડાઈ શકો છો. વધારાના સપોર્ટ માટે તમે સીધા PayPal દ્વારા પણ અમને દાન આપી શકો છો"
     },
     "feature-page": {
-      "title": "સુવિધાઓ",
-      "subheader": "અમે ઉચ્ચ-ગુણવત્તાવાળા ડિજિટલ અનુભવો બનાવવા માટે પ્રતિબદ્ધ છીએ જે સુલભ, બહુમુખી અને અમારા સમુદાય દ્વારા આકાર પામેલા હોય. અમે અમારા પ્રોજેક્ટ્સને કેવી રીતે અપનાવીએ છીએ તે અહીં છે.",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "ઉપકરણોમાં સીમલેસ",
-          "description": "તમારો અનુભવ એક સ્ક્રીન સાથે બંધાયેલો ન હોવો જોઈએ. અમારા પ્રોજેક્ટ્સ કોઈપણ ઉપકરણ પર સરળતાથી ચલાવવા માટે ઝીણવટપૂર્વક ઑપ્ટિમાઇઝ કરવામાં આવ્યા છે—ડેસ્કટોપ અને લેપટોપથી લઈને ટેબ્લેટ અને મોબાઇલ ફોન સુધી, જૂના અને નવા બંને."
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "ખર્ચ વિના સર્જનાત્મકતા",
-          "description": "અમે માનીએ છીએ કે શ્રેષ્ઠ સોફ્ટવેર અને મનોરંજન દરેક માટે ઉપલબ્ધ હોવું જોઈએ. અમારા મોટાભાગના પ્રોજેક્ટ્સ સંપૂર્ણપણે મફત છે, અને પ્રીમિયમ સોફ્ટવેર ન્યૂનતમ, વાજબી કિંમતે ઓફર કરવામાં આવે છે."
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "સમુદાય-સંચાલિત સપોર્ટ",
-          "description": "અમે માત્ર ડેવલપર્સ નથી; અમે સમુદાયનો એક ભાગ છીએ. અમે તમારા પ્રતિસાદ પર આધાર રાખીએ છીએ અને અમારા પ્રોજેક્ટ્સ તમારી જરૂરિયાતો સાથે વિકસિત થાય તે સુનિશ્ચિત કરવા માટે સીધો, પ્રતિક્રિયાશીલ સપોર્ટ પ્રદાન કરીએ છીએ."
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },

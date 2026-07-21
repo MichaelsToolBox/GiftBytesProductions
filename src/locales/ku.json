@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "Taybetmendî",
+      "projects": "Studio",
       "principles": "Prensîb",
       "download": "Daxistin",
       "latest": "Herî nû",
@@ -59,20 +59,22 @@
       "description3": "Hûn jixwe bi tenê ceribandina projeyên me û pêşniyarkirina wan alîkariya me dikin. Wekî din, hûn dikarin bibin aboneya kanala me ya YouTube-ê û bi civakê re têkilî daynin. Ji bo piştgirîya zêde, hûn dikarin bi rêya PayPal-ê jî rasterast alîkariya me bikin"
     },
     "feature-page": {
-      "title": "Taybetmendî",
-      "subheader": "Em ji bo afirandina ezmûnên dîjîtal ên bi kalîteya bilind ku gihîştî, pirreng û ji hêla civata me ve hatine çêkirin ve girêdayî ne. Li vir e ku em çawa nêzîkî projeyên xwe dibin.",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "Bêkêmasî li seranserê cîhazan",
-          "description": "Ezmûna we divê bi yek ekranê ve neyê girêdan. Projeyên me bi baldarî hatine xweşbîn kirin da ku li ser her amûrekê bi rengek bêkêmasî bixebitin - ji sermasê û laptopan bigire heya tablet û têlefonên desta, hem yên kevn û hem jî yên nû."
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "Afirînerî bêyî lêçûn",
-          "description": "Em bawer dikin ku nermalava û şahînetiya mezin divê ji bo her kesî peyda bibe. Piraniya projeyên me bi tevahî belaş in, digel nermalava premium bi bihayek hindiktirîn û adil tê pêşkêş kirin."
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "Piştgiriya Civakî-Ajotî",
-          "description": "Em ne tenê pêşdebir in; em beşek ji civakê ne. Em bi berteka we geş dibin û piştgirîyek rasterast, bersivdar peyda dikin da ku pê ewle bin ku projeyên me bi hewcedariyên we re pêşve diçin."
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },
