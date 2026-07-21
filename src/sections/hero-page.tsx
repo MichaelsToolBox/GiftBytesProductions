@@ -2,12 +2,12 @@ import { StyledVideoBox } from '../utils/styles/styled-box';
 import Typography from '@mui/material/Typography';
 import Container from '@mui/material/Container';
 import { useTranslation } from 'react-i18next';
-import logo from '../utils/images/logo-transparent.png';
 import { alpha, keyframes } from '@mui/material/styles';
 import Button from '@mui/material/Button';
 import Stack from '@mui/material/Stack';
 import Box from '@mui/material/Box';
 import { sectionPx } from '../utils/section-rhythm';
+import { paperBg } from '../utils/theme-alpha';
 
 const VIDEO_ID = 'hS-31jq1CGk';
 
@@ -136,7 +136,7 @@ export default function Hero() {
                 whiteSpace: 'nowrap',
                 color: 'text.primary',
                 borderColor: 'divider',
-                bgcolor: (theme) => alpha(theme.palette.background.paper, 0.8),
+                bgcolor: (theme) => paperBg(theme, 0.8),
               }}
               onClick={() => window.open(youtubeUrl, '_blank', 'noopener,noreferrer')}
             >

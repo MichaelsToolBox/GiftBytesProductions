@@ -12,6 +12,7 @@ import Link from '@mui/material/Link';
 import Box from '@mui/material/Box';
 import * as React from 'react';
 import { sectionPx } from '../utils/section-rhythm';
+import { paperBg } from '../utils/theme-alpha';
 
 export default function Footer() {
   const { t } = useTranslation();
@@ -20,14 +21,23 @@ export default function Footer() {
 
   return (
     <Box
-      sx={(theme) => ({
-        borderTop: '1px solid',
-        borderColor: 'divider',
-        background: `
-          radial-gradient(ellipse 60% 80% at 50% 100%, ${alpha(theme.palette.primary.main, theme.palette.mode === 'dark' ? 0.1 : 0.06)}, transparent 70%),
-          linear-gradient(180deg, transparent, ${alpha(theme.palette.primary.main, theme.palette.mode === 'dark' ? 0.04 : 0.03)} 100%)
-        `,
-      })}
+      sx={[
+        (theme) => ({
+          borderTop: '1px solid',
+          borderColor: 'divider',
+          background: `
+            radial-gradient(ellipse 60% 80% at 50% 100%, ${alpha(theme.palette.primary.main, 0.06)}, transparent 70%),
+            linear-gradient(180deg, transparent, ${alpha(theme.palette.primary.main, 0.03)} 100%)
+          `,
+        }),
+        (theme) =>
+          theme.applyStyles('dark', {
+            background: `
+              radial-gradient(ellipse 60% 80% at 50% 100%, ${alpha(theme.palette.primary.main, 0.1)}, transparent 70%),
+              linear-gradient(180deg, transparent, ${alpha(theme.palette.primary.main, 0.04)} 100%)
+            `,
+          }),
+      ]}
     >
       <Container
         id="legal"
@@ -108,7 +118,7 @@ export default function Footer() {
               borderRadius: 3.5,
               border: '1px solid',
               borderColor: 'divider',
-              bgcolor: alpha(theme.palette.background.paper, 0.95),
+              bgcolor: paperBg(theme, 0.95),
               textAlign: 'left',
             })}
           >

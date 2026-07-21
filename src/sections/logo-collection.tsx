@@ -3,10 +3,12 @@ import { alpha } from '@mui/material/styles';
 import Box from '@mui/material/Box';
 import { lightModeLogos, darkModeLogos } from '../utils/styles/logo-links';
 import { sectionPx } from '../utils/section-rhythm';
+import { paperBg } from '../utils/theme-alpha';
 
 export default function LogoCollection() {
-  const { mode } = useColorScheme();
-  const logos = mode === 'light' ? lightModeLogos : darkModeLogos;
+  const { mode, systemMode } = useColorScheme();
+  const resolved = (mode === 'system' ? systemMode : mode) ?? 'light';
+  const logos = resolved === 'dark' ? darkModeLogos : lightModeLogos;
 
   return (
     <Box id="logoCollection" sx={{ py: { xs: 2.5, sm: 3.5 }, px: sectionPx }}>
@@ -27,8 +29,8 @@ export default function LogoCollection() {
           py: { xs: 1.75, sm: 2 },
           borderRadius: { xs: 3, sm: 999 },
           border: '1px solid',
-          borderColor: alpha(theme.palette.divider, 0.85),
-          bgcolor: alpha(theme.palette.background.paper, 0.55),
+          borderColor: 'divider',
+          bgcolor: paperBg(theme, 0.55),
           backdropFilter: 'blur(10px)',
         })}
       >

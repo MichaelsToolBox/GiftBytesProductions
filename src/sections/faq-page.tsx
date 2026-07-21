@@ -13,6 +13,7 @@ import Box from '@mui/material/Box';
 import * as React from 'react';
 import SectionHeader from '../utils/section-header';
 import { sectionPx, sectionPy } from '../utils/section-rhythm';
+import { paperBg } from '../utils/theme-alpha';
 
 const SUPPORT_EMAIL = 'giftbytesproductions@gmail.com';
 const PAYPAL_URL =
@@ -112,15 +113,15 @@ export default function FAQ() {
                 borderRadius: '16px !important',
                 border: '1px solid',
                 borderColor: isOpen ? alpha(theme.palette.primary.main, 0.5) : 'divider',
-                bgcolor: isOpen
-                  ? alpha(theme.palette.primary.main, theme.palette.mode === 'dark' ? 0.1 : 0.045)
-                  : alpha(theme.palette.background.paper, 0.9),
+                bgcolor: isOpen ? alpha(theme.palette.primary.main, 0.045) : paperBg(theme, 0.9),
                 overflow: 'hidden',
                 transition: 'border-color 200ms ease, background-color 200ms ease, box-shadow 200ms ease',
-                boxShadow: isOpen
-                  ? `0 12px 28px ${alpha(theme.palette.common.black, theme.palette.mode === 'dark' ? 0.28 : 0.06)}`
-                  : 'none',
+                boxShadow: isOpen ? `0 12px 28px ${alpha(theme.palette.common.black, 0.06)}` : 'none',
                 '&::before': { display: 'none' },
+                ...theme.applyStyles('dark', {
+                  bgcolor: isOpen ? alpha(theme.palette.primary.main, 0.1) : paperBg(theme, 0.9),
+                  boxShadow: isOpen ? `0 12px 28px ${alpha(theme.palette.common.black, 0.28)}` : 'none',
+                }),
               })}
             >
               <AccordionSummary

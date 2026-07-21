@@ -8,6 +8,7 @@ import Grid from '@mui/material/Grid';
 import Box from '@mui/material/Box';
 import SectionHeader from '../utils/section-header';
 import { cardGap, sectionPx, sectionPy, softHoverLift, surfaceRadius } from '../utils/section-rhythm';
+import { paperBg } from '../utils/theme-alpha';
 
 const AVATAR_TONES = [
   'hsl(204, 90%, 42%)',
@@ -69,7 +70,7 @@ export default function Testimonials() {
                 borderRadius: surfaceRadius,
                 border: '1px solid',
                 borderColor: 'divider',
-                bgcolor: alpha(theme.palette.background.paper, 0.92),
+                bgcolor: paperBg(theme, 0.92),
                 position: 'relative',
                 overflow: 'hidden',
                 transition: 'transform 220ms ease, border-color 220ms ease, box-shadow 220ms ease',
@@ -88,9 +89,16 @@ export default function Testimonials() {
                   transform: softHoverLift,
                   borderColor: alpha(theme.palette.primary.main, 0.4),
                   boxShadow: {
-                    sm: `0 16px 36px ${alpha(theme.palette.common.black, theme.palette.mode === 'dark' ? 0.3 : 0.07)}`,
+                    sm: `0 16px 36px ${alpha(theme.palette.common.black, 0.07)}`,
                   },
                 },
+                ...theme.applyStyles('dark', {
+                  '&:hover': {
+                    boxShadow: {
+                      sm: `0 16px 36px ${alpha(theme.palette.common.black, 0.3)}`,
+                    },
+                  },
+                }),
               })}
             >
               <Box>

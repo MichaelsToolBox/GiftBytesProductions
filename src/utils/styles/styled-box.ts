@@ -12,13 +12,17 @@ export const StyledVideoBox = styled(Box)(({ theme }) => ({
   borderRadius: 18,
   border: '1px solid',
   borderColor: alpha(theme.palette.divider, 0.9),
-  boxShadow: `0 20px 48px ${alpha(theme.palette.common.black, theme.palette.mode === 'dark' ? 0.45 : 0.12)}`,
+  boxShadow: `0 20px 48px ${alpha(theme.palette.common.black, 0.12)}`,
   overflow: 'hidden',
   position: 'relative',
   backgroundColor: '#000',
   backgroundImage: 'url(/hero-poster.jpg)',
   backgroundSize: 'cover',
   backgroundPosition: 'center',
+
+  ...theme.applyStyles('dark', {
+    boxShadow: `0 20px 48px ${alpha(theme.palette.common.black, 0.45)}`,
+  }),
 
   [theme.breakpoints.up('sm')]: {
     marginTop: theme.spacing(4.5),

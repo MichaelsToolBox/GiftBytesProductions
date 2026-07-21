@@ -8,6 +8,7 @@ import Box from '@mui/material/Box';
 import * as React from 'react';
 import SectionHeader from '../utils/section-header';
 import { cardGap, sectionPx, sectionPy, softHoverLift, surfaceRadius } from '../utils/section-rhythm';
+import { paperBg } from '../utils/theme-alpha';
 
 function formatDate(iso: string, locale: string) {
   const date = new Date(iso);
@@ -58,18 +59,18 @@ export default function Latest() {
                   borderRadius: surfaceRadius,
                   border: '1px solid',
                   borderColor: focused ? alpha(theme.palette.primary.main, 0.5) : 'divider',
-                  bgcolor: alpha(theme.palette.background.paper, 0.92),
+                  bgcolor: paperBg(theme, 0.92),
                   background: featured
                     ? `
-                      linear-gradient(135deg, ${alpha(theme.palette.primary.main, theme.palette.mode === 'dark' ? 0.12 : 0.06)} 0%, transparent 55%),
-                      ${alpha(theme.palette.background.paper, 0.95)}
+                      linear-gradient(135deg, ${alpha(theme.palette.primary.main, 0.06)} 0%, transparent 55%),
+                      ${paperBg(theme, 0.95)}
                     `
                     : undefined,
                   transition: 'border-color 200ms ease, transform 200ms ease, box-shadow 200ms ease',
                   transform: focused ? softHoverLift : 'none',
                   boxShadow: focused
                     ? {
-                        sm: `0 14px 32px ${alpha(theme.palette.common.black, theme.palette.mode === 'dark' ? 0.28 : 0.06)}`,
+                        sm: `0 14px 32px ${alpha(theme.palette.common.black, 0.06)}`,
                       }
                     : 'none',
                   cursor: 'default',
@@ -77,6 +78,19 @@ export default function Latest() {
                     outline: `2px solid ${theme.palette.primary.main}`,
                     outlineOffset: 2,
                   },
+                  ...theme.applyStyles('dark', {
+                    background: featured
+                      ? `
+                        linear-gradient(135deg, ${alpha(theme.palette.primary.main, 0.12)} 0%, transparent 55%),
+                        ${paperBg(theme, 0.95)}
+                      `
+                      : undefined,
+                    boxShadow: focused
+                      ? {
+                          sm: `0 14px 32px ${alpha(theme.palette.common.black, 0.28)}`,
+                        }
+                      : 'none',
+                  }),
                 })}
               >
                 <Typography

@@ -1,5 +1,6 @@
 import { styled, alpha } from '@mui/material/styles';
 import Toolbar from '@mui/material/Toolbar';
+import { defaultBg } from '../theme-alpha';
 
 export const StyledToolbar = styled(Toolbar)(({ theme }) => ({
   display: 'flex',
@@ -11,10 +12,11 @@ export const StyledToolbar = styled(Toolbar)(({ theme }) => ({
   backdropFilter: 'blur(22px) saturate(1.2)',
   WebkitBackdropFilter: 'blur(22px) saturate(1.2)',
   border: '1px solid',
-  borderColor: alpha(theme.palette.divider, 0.85),
-  backgroundColor: theme.vars
-    ? `rgba(${theme.vars.palette.background.defaultChannel} / 0.78)`
-    : alpha(theme.palette.background.default, 0.78),
-  boxShadow: `0 10px 36px ${alpha(theme.palette.common.black, theme.palette.mode === 'dark' ? 0.35 : 0.06)}`,
+  borderColor: (theme.vars || theme).palette.divider,
+  backgroundColor: defaultBg(theme, 0.78),
+  boxShadow: `0 10px 36px ${alpha(theme.palette.common.black, 0.06)}`,
   padding: '7px 12px',
+  ...theme.applyStyles('dark', {
+    boxShadow: `0 10px 36px ${alpha(theme.palette.common.black, 0.35)}`,
+  }),
 }));

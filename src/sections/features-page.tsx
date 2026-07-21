@@ -11,6 +11,7 @@ import Grid from '@mui/material/Grid';
 import Box from '@mui/material/Box';
 import SectionHeader from '../utils/section-header';
 import { cardGap, sectionPx, sectionPy, softHoverLift, surfaceRadius } from '../utils/section-rhythm';
+import { paperBg } from '../utils/theme-alpha';
 
 const ICONS = [
   <SportsEsportsRoundedIcon key="games" />,
@@ -43,29 +44,43 @@ export default function Features() {
         {pillars.map((pillar) => (
           <Grid key={pillar.title} size={{ xs: 12, md: 4 }} sx={{ display: 'flex' }}>
             <Box
-              sx={(theme) => ({
-                width: '100%',
-                display: 'flex',
-                flexDirection: 'column',
-                gap: 2,
-                p: { xs: 2.75, sm: 3 },
-                borderRadius: surfaceRadius,
-                border: '1px solid',
-                borderColor: 'divider',
-                bgcolor: alpha(theme.palette.background.paper, 0.92),
-                background: `
-                  linear-gradient(165deg, ${alpha(theme.palette.primary.main, theme.palette.mode === 'dark' ? 0.1 : 0.05)} 0%, transparent 42%),
-                  ${alpha(theme.palette.background.paper, 0.92)}
-                `,
-                transition: 'transform 220ms ease, border-color 220ms ease, box-shadow 220ms ease',
-                '&:hover': {
-                  transform: softHoverLift,
-                  borderColor: alpha(theme.palette.primary.main, 0.4),
-                  boxShadow: {
-                    sm: `0 16px 36px ${alpha(theme.palette.common.black, theme.palette.mode === 'dark' ? 0.3 : 0.07)}`,
+              sx={[
+                (theme) => ({
+                  width: '100%',
+                  display: 'flex',
+                  flexDirection: 'column',
+                  gap: 2,
+                  p: { xs: 2.75, sm: 3 },
+                  borderRadius: surfaceRadius,
+                  border: '1px solid',
+                  borderColor: 'divider',
+                  bgcolor: paperBg(theme, 0.92),
+                  background: `
+                    linear-gradient(165deg, ${alpha(theme.palette.primary.main, 0.05)} 0%, transparent 42%),
+                    ${paperBg(theme, 0.92)}
+                  `,
+                  transition: 'transform 220ms ease, border-color 220ms ease, box-shadow 220ms ease',
+                  '&:hover': {
+                    transform: softHoverLift,
+                    borderColor: alpha(theme.palette.primary.main, 0.4),
+                    boxShadow: {
+                      sm: `0 16px 36px ${alpha(theme.palette.common.black, 0.07)}`,
+                    },
                   },
-                },
-              })}
+                }),
+                (theme) =>
+                  theme.applyStyles('dark', {
+                    background: `
+                      linear-gradient(165deg, ${alpha(theme.palette.primary.main, 0.1)} 0%, transparent 42%),
+                      ${paperBg(theme, 0.92)}
+                    `,
+                    '&:hover': {
+                      boxShadow: {
+                        sm: `0 16px 36px ${alpha(theme.palette.common.black, 0.3)}`,
+                      },
+                    },
+                  }),
+              ]}
             >
               <Stack direction="row" alignItems="center" justifyContent="space-between" spacing={2}>
                 <Box

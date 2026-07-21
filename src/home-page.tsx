@@ -22,7 +22,7 @@ export default function HomePage(props: { disableCustomTheme?: boolean }) {
       <Box
         sx={(theme) => ({
           minHeight: '100vh',
-          backgroundColor: theme.palette.background.default,
+          bgcolor: 'background.default',
           backgroundImage: `
             radial-gradient(ellipse 100% 55% at 50% -15%, ${alpha(theme.palette.primary.main, 0.14)}, transparent 55%),
             radial-gradient(ellipse 55% 40% at 100% 35%, ${alpha(theme.palette.primary.main, 0.06)}, transparent 55%),

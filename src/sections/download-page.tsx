@@ -13,6 +13,7 @@ import Grid from '@mui/material/Grid';
 import Box from '@mui/material/Box';
 import SectionHeader from '../utils/section-header';
 import { cardGap, sectionPx, sectionPy, softHoverLift, surfaceRadius } from '../utils/section-rhythm';
+import { paperBg } from '../utils/theme-alpha';
 
 export default function Download() {
   const { t } = useTranslation();
@@ -113,15 +114,22 @@ export default function Download() {
                     borderRadius: surfaceRadius,
                     border: '1px solid',
                     borderColor: alpha(theme.palette.divider, 0.9),
-                    bgcolor: alpha(theme.palette.background.paper, 0.9),
+                    bgcolor: paperBg(theme, 0.9),
                     transition: 'transform 240ms ease, border-color 240ms ease, box-shadow 240ms ease',
                     '&:hover': {
                       transform: softHoverLift,
                       borderColor: alpha(theme.palette.primary.main, 0.45),
                       boxShadow: {
-                        sm: `0 18px 40px ${alpha(theme.palette.common.black, theme.palette.mode === 'dark' ? 0.35 : 0.08)}`,
+                        sm: `0 18px 40px ${alpha(theme.palette.common.black, 0.08)}`,
                       },
                     },
+                    ...theme.applyStyles('dark', {
+                      '&:hover': {
+                        boxShadow: {
+                          sm: `0 18px 40px ${alpha(theme.palette.common.black, 0.35)}`,
+                        },
+                      },
+                    }),
                   }),
                   tier.featured &&
                     ((theme) => ({
