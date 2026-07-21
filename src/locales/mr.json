@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "प्रकल्प",
+      "projects": "Studio",
       "principles": "तत्वे",
       "download": "डाउनलोड",
       "latest": "नवीनतम",
@@ -59,20 +59,22 @@
       "description3": "तुम्ही आमचे प्रकल्प वापरून आणि त्याची शिफारस करून आम्हाला आधीच मदत करत आहात. अन्यथा तुम्ही आमच्या YouTube चॅनेलची सदस्यता घेऊ शकता आणि समुदायाशी संवाद साधू शकता. अतिरिक्त समर्थनासाठी तुम्ही आम्हाला PayPal द्वारे थेट देणगी देखील देऊ शकता"
     },
     "feature-page": {
-      "title": "वैशिष्ट्ये",
-      "subheader": "आम्ही उच्च-गुणवत्तेचे डिजिटल अनुभव तयार करण्यासाठी समर्पित आहोत जे सुलभ, बहुमुखी आणि आमच्या समुदायाद्वारे आकारले जातात. आम्ही आमच्या प्रकल्पांकडे कसे पाहतो ते येथे आहे.",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "सर्व उपकरणांवर अखंड",
-          "description": "तुमचा अनुभव एका स्क्रीनपुरता मर्यादित नसावा. आमचे प्रकल्प कोणत्याही उपकरणावर - डेस्कटॉप आणि लॅपटॉपपासून टॅब्लेट आणि मोबाईल फोनपर्यंत, जुने आणि नवीन दोन्ही - सहजतेने चालण्यासाठी काळजीपूर्वक ऑप्टिमाइझ केलेले आहेत."
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "खर्चाशिवाय सर्जनशीलता",
-          "description": "आम्ही मानतो की उत्कृष्ट सॉफ्टवेअर आणि मनोरंजन प्रत्येकासाठी उपलब्ध असले पाहिजे. आमचे बहुतेक प्रकल्प पूर्णपणे मोफत आहेत, प्रीमियम सॉफ्टवेअर किमान, वाजवी किमतीत दिले जाते."
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "समुदायाच्या मदतीने समर्थन",
-          "description": "आम्ही केवळ डेव्हलपर नाही; आम्ही समुदायाचा भाग आहोत. आम्ही तुमच्या फीडबॅकवर भरभराटीस येतो आणि आमच्या प्रकल्पांची तुमच्या गरजांनुसार प्रगती सुनिश्चित करण्यासाठी थेट, प्रतिसाद देणारे समर्थन देतो."
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },

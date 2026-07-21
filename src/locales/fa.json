@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "ویژگی‌ها",
+      "projects": "Studio",
       "principles": "اصول",
       "download": "دانلود",
       "latest": "آخرین",
@@ -59,20 +59,22 @@
       "description3": "شما با امتحان کردن پروژه‌های ما و توصیه آنها به دیگران، همین حالا هم به ما کمک می‌کنید. علاوه بر این، می‌توانید در کانال یوتیوب ما عضو شوید و با جامعه ارتباط برقرار کنید. برای پشتیبانی بیشتر می‌توانید مستقیماً از طریق پی‌پال نیز به ما کمک مالی کنید"
     },
     "feature-page": {
-      "title": "ویژگی‌ها",
-      "subheader": "ما متعهد به ایجاد تجربه‌های دیجیتالی با کیفیت بالا هستیم که قابل دسترس، چندمنظوره و با مشارکت جامعه ما شکل گرفته‌اند. رویکرد ما به پروژه‌ها این‌گونه است.",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "بدون نقص در همه دستگاه‌ها",
-          "description": "تجربه شما نباید به یک صفحه نمایش محدود شود. پروژه‌های ما با دقت بهینه‌سازی شده‌اند تا به صورت روان بر روی هر دستگاهی اجرا شوند—از دسکتاپ‌ها و لپ‌تاپ‌ها گرفته تا تبلت‌ها و تلفن‌های همراه، چه قدیمی و چه جدید."
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "خلاقیت بدون هزینه",
-          "description": "ما اعتقاد داریم که نرم‌افزار و سرگرمی عالی باید برای همه قابل دسترس باشد. بیشتر پروژه‌های ما کاملاً رایگان هستند و نرم‌افزارهای ویژه با قیمتی کم و منصفانه ارائه می‌شوند."
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "پشتیبانی جامعه‌محور",
-          "description": "ما فقط توسعه‌دهنده نیستیم؛ ما بخشی از جامعه هستیم. ما از بازخورد شما رشد می‌کنیم و پشتیبانی مستقیم و پاسخگو ارائه می‌دهیم تا اطمینان حاصل کنیم که پروژه‌های ما با نیازهای شما تکامل می‌یابند."
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },

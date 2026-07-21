@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "Xüsusiyyətlər",
+      "projects": "Studio",
       "principles": "Prinsiplər",
       "download": "Yüklə",
       "latest": "Ən son",
@@ -59,20 +59,22 @@
       "description3": "Layihələrimizi sınayaraq və tövsiyə edərək onsuz da bizə kömək edirsiniz. Bundan başqa, YouTube kanalımıza abunə olaraq və icma ilə əlaqə quraraq da bizi dəstəkləyə bilərsiniz. Əlavə dəstək üçün bizə birbaşa PayPal vasitəsilə də bağış edə bilərsiniz"
     },
     "feature-page": {
-      "title": "Xüsusiyyətlər",
-      "subheader": "Biz əlçatan, çoxfunksiyalı və icmamız tərəfindən formalaşdırılan yüksək keyfiyyətli rəqəmsal təcrübələr yaratmağa həsr olunmuşuq. Layihələrimizə bu şəkildə yanaşırıq.",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "Cihazlar arasında problemsiz",
-          "description": "Təcrübəniz bir ekrana bağlı olmamalıdır. Layihələrimiz köhnə və yeni, stolüstü kompüterlərdən və noutbuklardan planşetlərə və mobil telefonlara qədər hər hansı bir cihazda səlis işləmək üçün diqqətlə optimallaşdırılmışdır."
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "Xərcsiz yaradıcılıq",
-          "description": "Biz inanırıq ki, əla proqram təminatı və əyləncə hər kəs üçün əlçatan olmalıdır. Layihələrimizin əksəriyyəti tamamilə pulsuzdur, premium proqram təminatı isə minimal, ədalətli qiymətə təklif olunur."
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "İcma tərəfindən dəstəklənən",
-          "description": "Biz sadəcə tərtibatçı deyilik; biz icmanın bir hissəsiyik. Rəylərinizdən zövq alır və layihələrimizin ehtiyaclarınızla birlikdə inkişaf etməsini təmin etmək üçün birbaşa, həssas dəstək veririk."
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },

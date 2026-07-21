@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "Dự án",
+      "projects": "Studio",
       "principles": "Nguyên tắc",
       "download": "Tải xuống",
       "latest": "Mới nhất",
@@ -59,20 +59,22 @@
       "description3": "Bạn đã giúp chúng tôi bằng cách thử các dự án của chúng tôi và giới thiệu chúng. Nếu không, bạn có thể đăng ký kênh YouTube của chúng tôi và tương tác với cộng đồng. Để được hỗ trợ thêm, bạn cũng có thể quyên góp trực tiếp cho chúng tôi qua PayPal"
     },
     "feature-page": {
-      "title": "Tính năng",
-      "subheader": "Chúng tôi cam kết tạo ra các trải nghiệm kỹ thuật số chất lượng cao, dễ tiếp cận, đa năng và được định hình bởi cộng đồng của chúng tôi. Dưới đây là cách chúng tôi tiếp cận các dự án của mình.",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "Liền mạch trên các thiết bị",
-          "description": "Trải nghiệm của bạn không nên bị giới hạn trong một màn hình. Các dự án của chúng tôi được tối ưu hóa một cách tỉ mỉ để chạy mượt mà trên mọi thiết bị—từ máy tính để bàn và máy tính xách tay đến máy tính bảng và điện thoại di động, cả cũ và mới."
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "Sáng tạo không tốn kém",
-          "description": "Chúng tôi tin rằng phần mềm và giải trí tuyệt vời nên có sẵn cho tất cả mọi người. Hầu hết các dự án của chúng tôi đều hoàn toàn miễn phí, với phần mềm cao cấp được cung cấp với mức giá tối thiểu, hợp lý."
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "Hỗ trợ dựa trên cộng đồng",
-          "description": "Chúng tôi không chỉ là các nhà phát triển; chúng tôi là một phần của cộng đồng. Chúng tôi phát triển dựa trên phản hồi của bạn và cung cấp hỗ trợ trực tiếp, nhanh chóng để đảm bảo rằng các dự án của chúng tôi phát triển cùng với nhu cầu của bạn."
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },

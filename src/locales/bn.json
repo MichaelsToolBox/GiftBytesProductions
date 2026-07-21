@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "বৈশিষ্ট্য",
+      "projects": "Studio",
       "principles": "নীতিমালা",
       "download": "ডাউনলোড",
       "latest": "সর্বশেষ",
@@ -59,20 +59,22 @@
       "description3": "আমাদের প্রজেক্টগুলি ব্যবহার করে এবং সুপারিশ করেই আপনি আমাদের সাহায্য করছেন। এছাড়াও আপনি আমাদের ইউটিউব চ্যানেলে সাবস্ক্রাইব করতে পারেন এবং কমিউনিটির সাথে যুক্ত হতে পারেন। অতিরিক্ত সহায়তার জন্য আপনি সরাসরি পেপ্যালের মাধ্যমে আমাদের অনুদানও দিতে পারেন"
     },
     "feature-page": {
-      "title": "বৈশিষ্ট্য",
-      "subheader": "আমরা এমন উচ্চ-মানের ডিজিটাল অভিজ্ঞতা তৈরি করতে প্রতিশ্রুতিবদ্ধ যা অ্যাক্সেসযোগ্য, বহুমুখী এবং আমাদের কমিউনিটি দ্বারা গঠিত। এখানে আমরা আমাদের প্রজেক্টগুলি কীভাবে তৈরি করি তা বর্ণনা করা হলো।",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "ডিভাইস জুড়ে নির্বিঘ্ন",
-          "description": "আপনার অভিজ্ঞতা একটি স্ক্রিনে আবদ্ধ হওয়া উচিত নয়। আমাদের প্রজেক্টগুলি যেকোনো ডিভাইসে — ডেস্কটপ এবং ল্যাপটপ থেকে ট্যাবলেট এবং মোবাইল ফোন, পুরাতন এবং নতুন উভয় ধরনের ডিভাইসে সহজে চলার জন্য নিখুঁতভাবে অপটিমাইজ করা হয়েছে।"
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "খরচ ছাড়া সৃজনশীলতা",
-          "description": "আমরা বিশ্বাস করি যে দুর্দান্ত সফটওয়্যার এবং বিনোদন সবার জন্য উপলব্ধ হওয়া উচিত। আমাদের বেশিরভাগ প্রজেক্ট সম্পূর্ণ বিনামূল্যে, এবং প্রিমিয়াম সফটওয়্যার ন্যূনতম, ন্যায্য মূল্যে অফার করা হয়।"
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "কমিউনিটি-চালিত সহায়তা",
-          "description": "আমরা শুধু ডেভেলপার নই; আমরা কমিউনিটির একটি অংশ। আমরা আপনার প্রতিক্রিয়ার উপর নির্ভর করি এবং আমাদের প্রজেক্টগুলি আপনার চাহিদা অনুযায়ী বিকশিত হয় তা নিশ্চিত করতে সরাসরি, প্রতিক্রিয়াশীল সহায়তা প্রদান করি।"
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },

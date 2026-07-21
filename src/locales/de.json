@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "Funktionen",
+      "projects": "Studio",
       "principles": "Prinzipien",
       "download": "Spiele",
       "latest": "Aktuelles",
@@ -60,20 +60,22 @@
       "paypal": "Mit PayPal spenden"
     },
     "feature-page": {
-      "title": "Funktionen",
-      "subheader": "Wir haben uns der Schaffung von hochwertigen digitalen Erlebnissen verschrieben, die zugänglich, vielseitig und von unserer Community mitgestaltet sind. So gehen wir unsere Projekte an.",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions ist ein kleines deutsches Studio für Spiele, Apps und Medien — offen entwickelt, zugänglich gestaltet und eng mit der Community verbunden.",
+      "cta-games": "Spiele entdecken",
+      "cta-media": "Auf YouTube ansehen",
       "items": [
         {
-          "title": "Nahtlos über alle Geräte",
-          "description": "Ihr Erlebnis sollte nicht an einen Bildschirm gebunden sein. Unsere Projekte sind sorgfältig optimiert, um reibungslos auf jedem Gerät zu laufen – von Desktops und Laptops bis hin zu Tablets und Mobiltelefonen, alten wie neuen."
+          "title": "Spiele & interaktives Spiel",
+          "description": "Wir denken zuerst in spielbaren Erlebnissen — von Chronomaze am Desktop bis TouchSlider auf dem Handy — mit klaren Ideen, sorgfältiger Feinschliff-Arbeit und Raum zum Wachsen."
         },
         {
-          "title": "Kreativität ohne Kosten",
-          "description": "Wir glauben, dass großartige Software und Unterhaltung für jeden zugänglich sein sollten. Die meisten unserer Projekte sind völlig kostenlos, während Premium-Software zu einem minimalen, fairen Preis angeboten wird."
+          "title": "Offen entwickelt",
+          "description": "Dev Logs und YouTube gehören zum Handwerk. Wir teilen Fortschritt, Entscheidungen und Rückschläge, damit Spieler dem Studio beim Entstehen folgen können."
         },
         {
-          "title": "Von der Community gestützte Unterstützung",
-          "description": "Wir sind nicht nur Entwickler; wir sind Teil der Community. Wir leben von Ihrem Feedback und bieten direkten, reaktionsschnellen Support, um sicherzustellen, dass sich unsere Projekte mit Ihren Bedürfnissen weiterentwickeln."
+          "title": "Für echte Reichweite gemacht",
+          "description": "Zugänglichkeit, faire Preise und Multi-Plattform-Releases sind keine Extras. Wir veröffentlichen so, dass mehr Menschen wirklich spielen, zuschauen und mitmachen können."
         }
       ]
     },

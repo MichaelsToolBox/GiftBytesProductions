@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "Функциялар",
+      "projects": "Studio",
       "principles": "Принциптер",
       "download": "Жүктөп алуу",
       "latest": "Акыркы",
@@ -59,20 +59,22 @@
       "description3": "Сиз биздин долбоорлорубузду сынап көрүп, аларды сунуштап, буга чейин эле жардам берип жатасыз. Андан тышкары, биздин YouTube каналыбызга жазылып, коомчулук менен баарлашсаңыз болот. Кошумча колдоо үчүн PayPal аркылуу да бизге түздөн-түз кайрымдуулук кылсаңыз болот"
     },
     "feature-page": {
-      "title": "Функциялар",
-      "subheader": "Биз жеткиликтүү, көп функционалдуу жана коомчулугубуз тарабынан түзүлгөн жогорку сапаттагы санариптик тажрыйбаларды түзүүгө арналганбыз. Бул жерде биздин долбоорлорго болгон мамилебиз көрсөтүлгөн.",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "Бардык түзмөктөрдө үзгүлтүксүз",
-          "description": "Сиздин тажрыйбаңыз бир экранга байланбашы керек. Биздин долбоорлор каалаган түзмөктө — рабочий компьютерлерден жана ноутбуктардан планшеттерге жана мобилдик телефондорго, эскиси жана жаңысына да үзгүлтүксүз иштөө үчүн кылдаттык менен оптималдаштырылган."
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "Чыгымсыз чыгармачылык",
-          "description": "Биз мыкты программалык камсыздоо жана көңүл ачуу ар бир адам үчүн жеткиликтүү болушу керек деп эсептейбиз. Биздин долбоорлорубуздун көбү толугу менен акысыз, ал эми премиум программалык камсыздоо минималдуу, адилеттүү баада сунушталат."
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "Коомчулук тарабынан колдоого алынган",
-          "description": "Биз жөн гана иштеп чыгуучулар эмеспиз; биз коомчулуктун бир бөлүгүбүз. Биз сиздин пикириңизден өнүгүп, биздин долбоорлор сиздин муктаждыктарыңыз менен бирге өнүгөт деп камсыз кылуу үчүн түздөн-түз, ыкчам колдоо көрсөтөбүз."
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },

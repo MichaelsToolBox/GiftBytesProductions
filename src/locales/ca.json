@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "Característiques",
+      "projects": "Studio",
       "principles": "Principis",
       "download": "Descarrega",
       "latest": "Últimes notícies",
@@ -59,20 +59,22 @@
       "description3": "Ja ens ajudes només provant els nostres projectes i recomanant-los. A més, pots subscriure't al nostre canal de YouTube i interactuar amb la comunitat. Per a un suport addicional, també pots fer-nos una donació directament a través de PayPal"
     },
     "feature-page": {
-      "title": "Característiques",
-      "subheader": "Ens dediquem a crear experiències digitals d'alta qualitat que siguin accessibles, versàtils i formades per la nostra comunitat. Així és com abordem els nostres projectes.",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "Fluid a tots els dispositius",
-          "description": "La teva experiència no hauria d'estar lligada a una sola pantalla. Els nostres projectes estan optimitzats meticulosament per funcionar sense problemes a qualsevol dispositiu, des d'ordinadors de sobretaula i portàtils fins a tauletes i telèfons mòbils, tant antics com nous."
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "Creativitat sense cost",
-          "description": "Creiem que un bon programari i entreteniment haurien d'estar disponibles per a tothom. La majoria dels nostres projectes són completament gratuïts, i el programari premium s'ofereix a un preu mínim i just."
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "Suport impulsat per la comunitat",
-          "description": "No som només desenvolupadors; som part de la comunitat. Ens alimentem dels teus comentaris i proporcionem un suport directe i sensible per garantir que els nostres projectes evolucionin amb les teves necessitats."
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },

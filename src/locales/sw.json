@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "Miradi",
+      "projects": "Studio",
       "principles": "Misingi",
       "download": "Pakua",
       "latest": "Mpya Zaidi",
@@ -59,20 +59,22 @@
       "description3": "Tayari unatusaidia kwa kujaribu tu miradi yetu na kuipendekeza. Vinginevyo unaweza kujiandikisha kwenye chaneli yetu ya YouTube na kushirikiana na jamii. Kwa msaada wa ziada unaweza pia kutuchangia moja kwa moja kupitia PayPal"
     },
     "feature-page": {
-      "title": "Vipengele",
-      "subheader": "Tumejitolea kuunda uzoefu wa kidijitali wa hali ya juu ambao unapatikana kwa urahisi, ni hodari, na umeundwa na jamii yetu. Hivi ndivyo tunavyofikia miradi yetu.",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "Hufanya Kazi kwa Urahisi kwenye Vifaa Zote",
-          "description": "Uzoefu wako haupaswi kufungwa kwenye skrini moja. Miradi yetu imeundwa kwa uangalifu ili iweze kufanya kazi vizuri kwenye kifaa chochote—kutoka kwa kompyuta za mezani na za mkononi hadi kwenye kompyuta za mkononi na simu za mkononi, za zamani na mpya."
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "Ubunifu Bila Gharama",
-          "description": "Tunaamini kwamba programu na burudani nzuri zinapaswa kupatikana kwa kila mtu. Miradi yetu mingi ni bure kabisa, huku programu ya kulipia inatolewa kwa bei ya chini, na ya haki."
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "Msaada Unaotokana na Jamii",
-          "description": "Sisi sio tu waandaaji; sisi ni sehemu ya jamii. Tunastawi kutokana na maoni yako na tunatoa msaada wa moja kwa moja, unaojibu haraka ili kuhakikisha kwamba miradi yetu inakua kulingana na mahitaji yako."
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },

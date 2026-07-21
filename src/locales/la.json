@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "Proprietates",
+      "projects": "Studio",
       "principles": "Principia",
       "download": "Descarcare",
       "latest": "Novissima",
@@ -59,20 +59,22 @@
       "description3": "Iam adiuvatis nos solum probando incepta nostra et commendando ea. Aliter, potes subscribere nostro canali YouTube et inter agere cum communitate. Pro auxilio addito potes etiam nobis directe donare per PayPal"
     },
     "feature-page": {
-      "title": "Proprietates",
-      "subheader": "Dedicati sumus ad creandas experientias digitales altae qualitatis quae sunt accessibiles, versatiles et a nostra communitate conformatae. Haec est via nostra ad incepta nostra accedendi.",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "Sine intermissione trans machinamenta",
-          "description": "Experientia tua non debet uni screen alligata esse. Nostra incepta sunt meticulous optimizata ut currunt leniter in quolibet machina - a desktope et laptopis ad tabulas et telephonos mobiles, tam veteres quam novos."
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "Creativitas sine sumptu",
-          "description": "Credimus magnum software et ludum esse omnibus accessibile. Maxima pars inceptorum nostrorum est omnino gratis, cum software premium offeratur pretio minimo et iusto."
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "Auxilium communitate-pulso",
-          "description": "Non solum evolutores sumus; pars sumus communitatis. Floramus ex feedback tuo et praebemus auxilium directum, responsivum ut incepta nostra cum necessitatibus tuis evolvantur."
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },

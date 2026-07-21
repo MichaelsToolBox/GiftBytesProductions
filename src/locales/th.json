@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "โปรเจกต์",
+      "projects": "Studio",
       "principles": "หลักการ",
       "download": "ดาวน์โหลด",
       "latest": "ล่าสุด",
@@ -59,20 +59,22 @@
       "description3": "คุณกำลังช่วยเราอยู่แล้วเพียงแค่ลองใช้โปรเจกต์ของเราและแนะนำให้ผู้อื่น หรือคุณสามารถสมัครสมาชิกช่อง YouTube ของเราและมีส่วนร่วมกับชุมชนได้ สำหรับการสนับสนุนเพิ่มเติม คุณยังสามารถบริจาคโดยตรงผ่าน PayPal ให้กับเราได้อีกด้วย"
     },
     "feature-page": {
-      "title": "ฟีเจอร์",
-      "subheader": "เราทุ่มเทให้กับการสร้างประสบการณ์ดิจิทัลคุณภาพสูงที่เข้าถึงได้ อเนกประสงค์ และถูกหล่อหลอมโดยชุมชนของเรา นี่คือวิธีการที่เราเข้าถึงโปรเจกต์ของเรา",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "ใช้งานได้อย่างราบรื่นทุกอุปกรณ์",
-          "description": "ประสบการณ์ของคุณไม่ควรถูกผูกติดกับหน้าจอเดียว โปรเจกต์ของเราได้รับการปรับให้เหมาะสมอย่างพิถีพิถันเพื่อทำงานได้อย่างราบรื่นบนทุกอุปกรณ์ ตั้งแต่เดสก์ท็อปและแล็ปท็อปไปจนถึงแท็บเล็ตและโทรศัพท์มือถือ ทั้งรุ่นเก่าและรุ่นใหม่"
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "ความคิดสร้างสรรค์ที่ไม่มีค่าใช้จ่าย",
-          "description": "เราเชื่อว่าซอฟต์แวร์และความบันเทิงที่ยอดเยี่ยมควรมีให้สำหรับทุกคน โปรเจกต์ส่วนใหญ่ของเราเป็นแบบฟรีทั้งหมด โดยมีซอฟต์แวร์พรีเมียมเสนอในราคาที่ย่อมเยาและเป็นธรรม"
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "การสนับสนุนที่ขับเคลื่อนโดยชุมชน",
-          "description": "เราไม่ใช่นักพัฒนาเท่านั้น แต่เราเป็นส่วนหนึ่งของชุมชน เราเติบโตจากความคิดเห็นของคุณและให้การสนับสนุนโดยตรงและตอบสนองได้รวดเร็วเพื่อให้แน่ใจว่าโปรเจกต์ของเราจะพัฒนาไปพร้อมกับความต้องการของคุณ"
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },

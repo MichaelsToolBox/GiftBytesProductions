@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "Poloketi",
+      "projects": "Studio",
       "principles": "Taiala",
       "download": "Sii mai",
       "latest": "Tala Fou",
@@ -59,20 +59,22 @@
       "description3": "Ua e fesoasoani mai ia i matou i le na'o le fa'ata'ita'iina o a matou poloketi ma fautuaina. A leai e mafai ona e lesitala i la matou alaleo YouTube ma auai i le nu'u. Mo se lagolago fa'aopoopo e mafai fo'i ona e foa'i sa'o mai ia i matou e ala i le PayPal."
     },
     "feature-page": {
-      "title": "Vaega",
-      "subheader": "Su'esu'e vaega mamana e fa'ailoa ai la matou talosaga.",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "Mamanu Fa'amuamua Telefoni Feavea'i",
-          "description": "O la matou polokalame ua mamanuina ma se auala e fa'amuamua ai telefoni feavea'i, e mautinoa ai se aafiaga sologa lelei i so'o se masini."
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "Lisi Fa'atonu Faigofie",
-          "description": "O se lisi fa'atonu mama ma fa'atulagaina lelei e avatu ai ia te oe se va'aiga lautele i le tepa tasi."
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "Fegalegaleai i Masini Eseese",
-          "description": "Fiafia i se aafiaga tumau ma mamana pe o e i luga o se komepiuta, laupapa, po'o se telefoni poto."
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },

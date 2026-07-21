@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "திட்டங்கள்",
+      "projects": "Studio",
       "principles": "கோட்பாடுகள்",
       "download": "பதிவிறக்கம்",
       "latest": "சமீபத்தியது",
@@ -59,20 +59,22 @@
       "description3": "எங்கள் திட்டங்களை முயற்சி செய்து அதை பரிந்துரைப்பதன் மூலம் நீங்கள் ஏற்கனவே எங்களுக்கு உதவுகிறீர்கள். இல்லையெனில் நீங்கள் எங்கள் YouTube சேனலை சந்தா செய்யலாம் மற்றும் சமூகத்துடன் ஈடுபடலாம். கூடுதல் ஆதரவுக்கு நீங்கள் நேரடியாக PayPal வழியாக எங்களுக்கு நன்கொடை அளிக்கலாம்"
     },
     "feature-page": {
-      "title": "அம்சங்கள்",
-      "subheader": "எங்கள் சமூகத்தால் வடிவமைக்கப்பட்ட, அணுகக்கூடிய, பல்துறை மற்றும் உயர்தர டிஜிட்டல் அனுபவங்களை உருவாக்குவதில் நாங்கள் அர்ப்பணித்துள்ளோம். எங்கள் திட்டங்களை நாங்கள் அணுகும் முறை இங்கே உள்ளது.",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "அனைத்து சாதனங்களிலும் தடையற்றது",
-          "description": "உங்கள் அனுபவம் ஒரு திரையில் மட்டும் கட்டுப்படக்கூடாது. எங்கள் திட்டங்கள் எந்த சாதனத்திலும்—டெஸ்க்டாப்கள் மற்றும் மடிக்கணினிகள் முதல் டேப்லெட்டுகள் மற்றும் மொபைல் போன்கள் வரை, பழைய மற்றும் புதிய இரண்டிலும்—சீராக இயங்க கவனமாக மேம்படுத்தப்பட்டுள்ளன."
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "செலவில்லா படைப்பாற்றல்",
-          "description": "சிறந்த மென்பொருள் மற்றும் பொழுதுபோக்கு அனைவருக்கும் கிடைக்க வேண்டும் என்று நாங்கள் நம்புகிறோம். எங்கள் திட்டங்களில் பெரும்பாலானவை முற்றிலும் இலவசம், பிரீமியம் மென்பொருள் குறைந்த, நியாயமான விலையில் வழங்கப்படுகிறது."
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "சமூகத்தால் இயக்கப்படும் ஆதரவு",
-          "description": "நாங்கள் டெவலப்பர்கள் மட்டுமல்ல; நாங்கள் சமூகத்தின் ஒரு பகுதி. உங்கள் கருத்துக்களின் அடிப்படையில் நாங்கள் செழித்து வருகிறோம் மற்றும் எங்கள் திட்டங்கள் உங்கள் தேவைகளுடன் உருவாகுவதை உறுதிசெய்ய நேரடி, பதிலளிக்கக்கூடிய ஆதரவை வழங்குகிறோம்."
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },

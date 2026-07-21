@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "Toetoetra",
+      "projects": "Studio",
       "principles": "Fotokevitra",
       "download": "Misintona",
       "latest": "Vaovao farany",
@@ -59,20 +59,22 @@
       "description3": "Efa manampy anay ianao amin'ny alalan'ny fanandramana ny tetikasanay sy ny fanolorana izany. Raha tsy izany dia afaka misoratra anarana amin'ny channel YouTube anay ianao ary mifandray amin'ny fiaraha-monina. Ho an'ny fanohanana fanampiny dia afaka manolotra fanomezana mivantana aminay amin'ny alalan'ny PayPal ihany koa ianao"
     },
     "feature-page": {
-      "title": "Toetoetra",
-      "subheader": "Manolo-tena izahay hamorona traikefa nomerika avo lenta izay azo idirana, maro karazana, ary noforonin'ny fiaraha-monina misy anay. Ity ny fomba fitsinjovanay ny tetikasanay.",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "Tsy misy olana amin'ny fitaovana rehetra",
-          "description": "Ny traikefanao dia tsy tokony hofehezin'ny efijery iray. Namboarina tsara ny tetikasanay mba hihazakazaka tsara amin'ny fitaovana rehetra—avy amin'ny solosaina desktop sy laptop ka hatramin'ny takelaka sy telefaona finday, na taloha na vaovao."
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "Famoronana tsy misy vidiny",
-          "description": "Mino izahay fa ny rindrambaiko sy ny fialamboly lehibe dia tokony ho azon'ny rehetra. Ny ankamaroan'ny tetikasanay dia maimaim-poana tanteraka, miaraka amin'ny rindrambaiko premium omena amin'ny vidiny kely sy ara-drariny."
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "Fanohanana avy amin'ny fiaraha-monina",
-          "description": "Tsy mpamorona fotsiny izahay; fa ampahany amin'ny fiaraha-monina. Manatsara ny fanohananay izahay amin'ny alalan'ny feedback avy aminao ary manome fanohanana mivantana sy haingana mba hahazoana antoka fa miovaova ny tetikasanay mifanaraka amin'ny filanao."
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },

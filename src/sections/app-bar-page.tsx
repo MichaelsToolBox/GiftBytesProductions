@@ -19,7 +19,7 @@ import * as React from 'react';
 
 const navItems = [
   { id: 'download', labelKey: 'app-bar.download' },
-  { id: 'features', labelKey: 'app-bar.projects' },
+  { id: 'studio', labelKey: 'app-bar.projects' },
   { id: 'principles', labelKey: 'app-bar.principles' },
   { id: 'latest', labelKey: 'app-bar.latest' },
   { id: 'testimonials', labelKey: 'app-bar.testimonials' },

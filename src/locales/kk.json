@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "Мүмкіндіктер",
+      "projects": "Studio",
       "principles": "Принциптер",
       "download": "Жүктеп алу",
       "latest": "Соңғы",
@@ -59,20 +59,22 @@
       "description3": "Біздің жобаларымызды қолданып, оларды ұсыну арқылы сіз бізге қазірдің өзінде көмектесіп жатырсыз. Сонымен қатар, сіз біздің YouTube арнамызға жазылып, қауымдастықпен араласа аласыз. Қосымша қолдау үшін бізге PayPal арқылы тікелей де қайырымдылық жасай аласыз"
     },
     "feature-page": {
-      "title": "Мүмкіндіктер",
-      "subheader": "Біз қолжетімді, жан-жақты және біздің қауымдастықпен қалыптасқан жоғары сапалы цифрлық тәжірибелер жасауға арналғанбыз. Біз өз жобаларымызға осылай қараймыз.",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "Құрылғылар арасында үздіксіз",
-          "description": "Сіздің тәжірибеңіз бір экранға байланбауы керек. Біздің жобалар кез келген құрылғыда — жұмыс үстелі мен ноутбуктан бастап, планшеттер мен мобильді телефондарға дейін, ескі және жаңа құрылғыларда үздіксіз жұмыс істеу үшін мұқият оңтайландырылған."
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "Шығынсыз шығармашылық",
-          "description": "Біз керемет бағдарламалық қамтамасыз ету мен ойын-сауық барлығына қолжетімді болуы керек деп есептейміз. Біздің жобаларымыздың көпшілігі толығымен тегін, ал премиум бағдарламалық қамтамасыз ету минималды, әділ бағамен ұсынылады."
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "Қауымдастық басқаратын қолдау",
-          "description": "Біз тек әзірлеушілер емеспіз; біз қауымдастықтың бір бөлігіміз. Біз сіздің кері байланысыңыздан өсіп, жобаларымыздың сіздің қажеттіліктеріңізбен дамуын қамтамасыз ету үшін тікелей, жауапты қолдау көрсетеміз."
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },

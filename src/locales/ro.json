@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "Proiecte",
+      "projects": "Studio",
       "principles": "Principii",
       "download": "Descarcă",
       "latest": "Ultimele",
@@ -59,20 +59,22 @@
       "description3": "Ne ajuți deja doar prin a încerca proiectele noastre și a le recomanda. De asemenea, te poți abona la canalul nostru de YouTube și te poți implica în comunitate. Pentru suport adițional, ne poți dona direct prin PayPal"
     },
     "feature-page": {
-      "title": "Caracteristici",
-      "subheader": "Suntem dedicați creării de experiențe digitale de înaltă calitate, care sunt accesibile, versatile și modelate de comunitatea noastră. Iată cum abordăm proiectele noastre.",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "Fluiditate pe toate dispozitivele",
-          "description": "Experiența ta nu ar trebui să fie legată de un singur ecran. Proiectele noastre sunt optimizate meticulos pentru a rula fluid pe orice dispozitiv—de la desktopuri și laptopuri la tablete și telefoane mobile, atât vechi, cât și noi."
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "Creativitate fără costuri",
-          "description": "Credem că software-ul și divertismentul de calitate ar trebui să fie disponibile pentru toată lumea. Majoritatea proiectelor noastre sunt complet gratuite, iar software-ul premium este oferit la un preț minim și corect."
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "Suport bazat pe comunitate",
-          "description": "Nu suntem doar dezvoltatori; suntem parte din comunitate. Ne dezvoltăm cu feedback-ul tău și oferim suport direct, receptiv pentru a ne asigura că proiectele noastre evoluează odată cu nevoile tale."
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },

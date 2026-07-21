@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "项目",
+      "projects": "Studio",
       "principles": "原则",
       "download": "下载",
       "latest": "最新动态",
@@ -59,20 +59,22 @@
       "description3": "您可以通过试用和推荐我们的项目来帮助我们。此外，您还可以订阅我们的 YouTube 频道并与社区互动。如需额外支持，您也可以通过 PayPal 直接捐赠给我们"
     },
     "feature-page": {
-      "title": "功能特色",
-      "subheader": "我们致力于创造高质量的数字体验，这些体验易于访问、功能多样并由我们的社区塑造。以下是我们对待项目的方式。",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "跨设备无缝衔接",
-          "description": "您的体验不应被局限在一个屏幕上。我们的项目经过精心优化，可在任何设备上流畅运行——从台式机和笔记本电脑到平板电脑和手机，无论新旧。"
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "无需成本的创意",
-          "description": "我们相信出色的软件和娱乐应该对所有人开放。我们的大多数项目都是完全免费的，而高级软件则以最低且合理的价格提供。"
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "社区驱动的支持",
-          "description": "我们不仅是开发人员，也是社区的一部分。我们乐于接受您的反馈，并提供直接、响应迅速的支持，以确保我们的项目与您的需求共同发展。"
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },

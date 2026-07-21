@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "ව්යාපෘති",
+      "projects": "Studio",
       "principles": "ප්රතිපත්ති",
       "download": "බාගත කරන්න",
       "latest": "නවතම",
@@ -59,20 +59,22 @@
       "description3": "අපගේ ව්යාපෘති අත්හදා බැලීමෙන් සහ ඒවා නිර්දේශ කිරීමෙන් ඔබ දැනටමත් අපට උදව් කරයි. එසේ නොමැතිනම් ඔබට අපගේ YouTube නාලිකාවට දායක වී ප්‍රජාව සමඟ සම්බන්ධ විය හැක. අතිරේක සහය සඳහා ඔබට PayPal හරහා සෘජුවම අපට පරිත්‍යාග කළ හැක"
     },
     "feature-page": {
-      "title": "විශේෂාංග",
-      "subheader": "අපගේ යෙදුම කැපී පෙනෙන ලෙස සලකුණු කරන ප්‍රබල විශේෂාංග ගවේෂණය කරන්න.",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "ජංගම-පළමු සැලසුම",
-          "description": "අපගේ යෙදුම ජංගම-පළමු ප්‍රවේශයක් සමඟින් නිර්මාණය කර ඇති අතර, ඕනෑම උපාංගයක බාධාවකින් තොර අත්දැකීමක් සහතික කරයි."
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "බුද්ධිමත් උපකරණ පුවරුව",
-          "description": "එකවරම ඔබට සම්පූර්ණ දළ විශ්ලේෂණයක් ලබා දෙන පිරිසිදු සහ සංවිධානාත්මක උපකරණ පුවරුවක්."
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "හරස්-උපාංග අනුකූලතාව",
-          "description": "ඔබ ඩෙස්ක්ටොප් එකක, ටැබ්ලට් එකක හෝ ස්මාර්ට් ජංගම දුරකථනයක සිටියත් ස්ථාවර සහ බලවත් අත්දැකීමක් භුක්ති විඳින්න."
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },

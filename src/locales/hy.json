@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "Հատկանիշներ",
+      "projects": "Studio",
       "principles": "Սկզբունքներ",
       "download": "Ներբեռնել",
       "latest": "Վերջին",
@@ -59,20 +59,22 @@
       "description3": "Դուք արդեն օգնում եք մեզ՝ պարզապես փորձելով մեր նախագծերը և դրանք խորհուրդ տալով: Այլ կերպ կարող եք բաժանորդագրվել մեր YouTube ալիքին և շփվել համայնքի հետ: Լրացուցիչ աջակցության համար կարող եք նաև ուղղակիորեն նվիրատվություն կատարել մեզ PayPal-ի միջոցով"
     },
     "feature-page": {
-      "title": "Հատկանիշներ",
-      "subheader": "Մենք նվիրված ենք բարձրորակ թվային փորձառությունների ստեղծմանը, որոնք մատչելի են, բազմակողմանի և ձևավորված են մեր համայնքի կողմից: Ահա թե ինչպես ենք մենք մոտենում մեր նախագծերին:",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "Անթերի տարբեր սարքերում",
-          "description": "Ձեր փորձառությունը չպետք է կապված լինի մեկ էկրանի հետ: Մեր նախագծերը մանրակրկիտ կերպով օպտիմալացված են ցանկացած սարքի վրա սահուն աշխատելու համար՝ սեղանադիր և նոութբուք համակարգիչներից մինչև պլանշետներ և բջջային հեռախոսներ, ինչպես հին, այնպես էլ նոր:"
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "Ստեղծագործություն առանց ծախսերի",
-          "description": "Մենք կարծում ենք, որ հիանալի ծրագրային ապահովումը և զվարճանքը պետք է հասանելի լինեն բոլորի համար: Մեր նախագծերի մեծ մասը լիովին անվճար է, իսկ պրեմիում ծրագրային ապահովումը առաջարկվում է նվազագույն, արդար գնով:"
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "Համայնքի կողմից աջակցվող",
-          "description": "Մենք ոչ միայն մշակողներ ենք, այլև համայնքի մաս: Մենք ծաղկում ենք ձեր կարծիքի շնորհիվ և տրամադրում ենք ուղղակի, արագ արձագանքող աջակցություն՝ ապահովելու համար, որ մեր նախագծերը զարգանան ձեր կարիքների հետ միասին:"
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },

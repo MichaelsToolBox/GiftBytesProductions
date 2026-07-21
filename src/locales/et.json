@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "Funktsioonid",
+      "projects": "Studio",
       "principles": "Põhimõtted",
       "download": "Lae alla",
       "latest": "Viimased",
@@ -59,20 +59,22 @@
       "description3": "Aitate meid juba ainuüksi meie projektide proovimise ja nende soovitamisega. Samuti saate tellida meie YouTube'i kanali ja suhelda kogukonnaga. Täiendavaks toetuseks saate meile annetada ka otse PayPali kaudu"
     },
     "feature-page": {
-      "title": "Funktsioonid",
-      "subheader": "Oleme pühendunud kvaliteetsete digitaalsete kogemuste loomisele, mis on ligipääsetavad, mitmekülgsed ja meie kogukonna poolt kujundatud. Siin on meie lähenemine projektidele.",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "Sujuvus kõigis seadmetes",
-          "description": "Teie kogemus ei tohiks olla seotud ühe ekraaniga. Meie projektid on hoolikalt optimeeritud, et töötada sujuvalt igas seadmes – alates laua- ja sülearvutitest kuni tahvelarvutite ja mobiiltelefonideni, nii vanade kui ka uute."
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "Loovus ilma kuludeta",
-          "description": "Usume, et suurepärane tarkvara ja meelelahutus peaksid olema kõigile kättesaadavad. Enamik meie projekte on täiesti tasuta, lisatasu eest pakutavat tarkvara pakutakse minimaalse ja õiglase hinnaga."
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "Kogukonnapõhine tugi",
-          "description": "Me ei ole ainult arendajad, me oleme osa kogukonnast. Me arendame teie tagasiside põhjal ja pakume otsest ja reageerimisvõimelist tuge, et tagada meie projektide areng koos teie vajadustega."
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },

@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "Ominaisuudet",
+      "projects": "Studio",
       "principles": "Periaatteet",
       "download": "Lataa",
       "latest": "Uusimmat",
@@ -59,20 +59,22 @@
       "description3": "Autat meitä jo kokeilemalla projektejamme ja suosittelemalla niitä. Muuten voit tilata YouTube-kanavamme ja osallistua yhteisön toimintaan. Lisätukea varten voit myös lahjoittaa meille suoraan PayPalin kautta"
     },
     "feature-page": {
-      "title": "Ominaisuudet",
-      "subheader": "Olemme omistautuneet luomaan korkealaatuisia digitaalisia kokemuksia, jotka ovat saavutettavia, monipuolisia ja yhteisömme muokkaamia. Näin lähestymme projektejamme.",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "Saumaton kaikilla laitteilla",
-          "description": "Kokemuksesi ei pitäisi olla sidottu yhteen näyttöön. Projektimme on huolella optimoitu toimimaan sujuvasti kaikilla laitteilla – pöytäkoneista ja kannettavista tietokoneista tabletteihin ja matkapuhelimiin, sekä vanhoihin että uusiin."
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "Luovuus ilman kustannuksia",
-          "description": "Uskomme, että upea ohjelmisto ja viihde tulisi olla kaikkien saatavilla. Suurin osa projekteistamme on täysin ilmaisia, ja premium-ohjelmistoa tarjotaan minimaaliseen, kohtuulliseen hintaan."
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "Yhteisön vetämä tuki",
-          "description": "Emme ole vain kehittäjiä; olemme osa yhteisöä. Kukoistamme palautteesi ansiosta ja tarjoamme suoraa, reagoivaa tukea varmistaaksemme, että projektimme kehittyvät tarpeidesi mukana."
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },

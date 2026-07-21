@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "Projekte",
+      "projects": "Studio",
       "principles": "Parime",
       "download": "Shkarko",
       "latest": "Të fundit",
@@ -59,20 +59,22 @@
       "description3": "Ju tashmë po na ndihmoni vetëm duke provuar projektet tona dhe duke i rekomanduar ato. Përndryshe mund të abonoheni në kanalin tonë në YouTube dhe të angazhoheni me komunitetin. Për mbështetje shtesë, mund të na dhuroni edhe drejtpërdrejt përmes PayPal"
     },
     "feature-page": {
-      "title": "Veçoritë",
-      "subheader": "Jemi të përkushtuar në krijimin e përvojave digjitale me cilësi të lartë që janë të aksesueshme, të gjithanshme dhe të formuara nga komuniteti ynë. Ja si i qasemi projekteve tona.",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "E përkryer në të gjitha pajisjet",
-          "description": "Përvoja juaj nuk duhet të jetë e lidhur me një ekran të vetëm. Projektet tona janë optimizuar me kujdes për të funksionuar pa probleme në çdo pajisje—nga kompjuterët desktop dhe laptopët te tabletat dhe telefonat celularë, si të vjetër ashtu edhe të rinj."
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "Kreativitet pa kosto",
-          "description": "Ne besojmë se softueri dhe argëtimi i mirë duhet të jenë në dispozicion për të gjithë. Shumica e projekteve tona janë plotësisht falas, ndërsa softueri premium ofrohet me një çmim minimal dhe të drejtë."
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "Mbështetje e drejtuar nga komuniteti",
-          "description": "Ne nuk jemi vetëm zhvillues; jemi pjesë e komunitetit. Ne zhvillohemi me reagimet tuaja dhe ofrojmë mbështetje të drejtpërdrejtë dhe të shpejtë për të siguruar që projektet tona evoluojnë sipas nevojave tuaja."
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },

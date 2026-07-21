@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "پروجیکٹس",
+      "projects": "Studio",
       "principles": "اصول",
       "download": "ڈاؤن لوڈ",
       "latest": "تازہ ترین",
@@ -59,20 +59,22 @@
       "description3": "آپ ہمارے پروجیکٹس کو آزما کر اور ان کی سفارش کرکے پہلے ہی ہماری مدد کر رہے ہیں۔ بصورت دیگر، آپ ہمارے یوٹیوب چینل کو سبسکرائب کر سکتے ہیں اور کمیونٹی کے ساتھ مشغول ہو سکتے ہیں۔ اضافی سپورٹ کے لیے آپ ہمیں پے پال کے ذریعے براہ راست عطیہ بھی کر سکتے ہیں"
     },
     "feature-page": {
-      "title": "خصوصیات",
-      "subheader": "ہم اعلیٰ معیار کے ڈیجیٹل تجربات بنانے کے لیے وقف ہیں جو قابل رسائی، ورسٹائل، اور ہماری کمیونٹی کے ذریعے تشکیل شدہ ہیں۔ ہم اپنے پروجیکٹس تک کیسے پہنچتے ہیں یہ یہاں ہے:",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "تمام آلات پر بغیر کسی رکاوٹ کے",
-          "description": "آپ کا تجربہ ایک اسکرین سے منسلک نہیں ہونا چاہیے۔ ہمارے پروجیکٹس کو کسی بھی ڈیوائس پر - ڈیسک ٹاپس اور لیپ ٹاپس سے لے کر ٹیبلٹس اور موبائل فونز تک، پرانے اور نئے دونوں پر - آسانی سے چلنے کے لیے احتیاط سے آپٹیمائز کیا گیا ہے"
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "بغیر کسی قیمت کے تخلیقی صلاحیت",
-          "description": "ہم سمجھتے ہیں کہ زبردست سافٹ ویئر اور تفریح ہر ایک کے لیے دستیاب ہونا چاہیے۔ ہمارے زیادہ تر پروجیکٹس مکمل طور پر مفت ہیں، جس میں پریمیم سافٹ ویئر کم سے کم اور مناسب قیمت پر پیش کیا جاتا ہے"
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "کمیونٹی کی قیادت میں سپورٹ",
-          "description": "ہم صرف ڈویلپرز نہیں ہیں؛ ہم کمیونٹی کا حصہ ہیں۔ ہم آپ کے فیڈ بیک پر ترقی کرتے ہیں اور براہ راست، ذمہ دار سپورٹ فراہم کرتے ہیں تاکہ یہ یقینی بنایا جا سکے کہ ہمارے پروجیکٹس آپ کی ضروریات کے ساتھ تیار ہوتے ہیں"
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },

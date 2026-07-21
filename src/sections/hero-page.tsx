@@ -63,16 +63,6 @@ export default function Hero() {
             animation: `${fadeUp} 850ms cubic-bezier(0.22, 1, 0.36, 1) both`,
           }}
         >
-          <Box
-            component="img"
-            src={logo}
-            alt="Gift Bytes Productions"
-            sx={(theme) => ({
-              height: { xs: 58, sm: 78 },
-              width: 'auto',
-              ...theme.applyStyles('light', { filter: 'invert(1)' }),
-            })}
-          />
           <Typography
             variant="h1"
             sx={{

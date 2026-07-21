@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "Mashruucyo",
+      "projects": "Studio",
       "principles": "Mabaadi'da",
       "download": "Soo dejiso",
       "latest": "Ugu dambeeyay",
@@ -59,20 +59,22 @@
       "description3": "Waxaad horeyba noo caawineysaa adoo isku dayaya mashaariicdeena oo aad ku talineysaa. Haddii kale waxaad iska diiwaan gelin kartaa kanaalkayaga YouTube-ka oo aad la falgeli kartaa bulshada. Taageero dheeri ah waxaad sidoo kale noogu deeqi kartaa si toos ah PayPal."
     },
     "feature-page": {
-      "title": "Astaamaha",
-      "subheader": "Sahami astaamaha awooda badan ee ka dhigaya barnaamijkeena mid ka dhex muuqda.",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "Naqshad Mobilka-koowaad ah",
-          "description": "Barnaamijkeena waxaa loo qaabeeyey qaab mobilka-koowaad ah, taasoo hubineysa khibrad aan kala go' lahayn qalab kasta."
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "Dashboard Dareen ah",
-          "description": "Dashboard nadiif ah oo habaysan oo ku siinaya aragti dhammaystiran hal mar."
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "Iswaafajinta Qalabka-dhexdiisa",
-          "description": "Ku raaxayso khibrad joogto ah oo awood badan haddii aad ku jirto kombiyuutar, kiniin, ama taleefan casri ah."
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },

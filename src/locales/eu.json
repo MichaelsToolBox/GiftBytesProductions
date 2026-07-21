@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "Ezaugarriak",
+      "projects": "Studio",
       "principles": "Printzipioak",
       "download": "Deskargatu",
       "latest": "Azkena",
@@ -59,20 +59,22 @@
       "description3": "Dagoeneko laguntzen diguzu gure proiektuak probatuz eta gomendatuz. Bestela, gure YouTube-ko kanalera harpidetu eta komunitatearekin harremanetan jar zaitezke. Laguntza gehigarrirako, zuzenean ere eman diezagukezu PayPal bidez"
     },
     "feature-page": {
-      "title": "Ezaugarriak",
-      "subheader": "Kalitate handiko esperientzia digitalak sortzera dedikatzen gara, eskuragarriak, aldakorrak eta gure komunitateak moldatuak direnak. Hona hemen gure proiektuei nola heltzen diegun.",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "Eraginkortasun osoz gailu guztietan",
-          "description": "Zure esperientzia ez litzateke pantaila bakar batera lotuta egon behar. Gure proiektuak arreta handiz optimizatuta daude edozein gailutan (mahaigaineko eta eramangarrietatik tabletetara eta telefono mugikorretara, zaharrak zein berriak) ondo funtzionatzeko."
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "Sormena kosturik gabe",
-          "description": "Uste dugu software eta entretenimendu bikainak guztion eskura egon beharko luketela. Gure proiektu gehienak guztiz doakoak dira, premium softwarea prezio minimo eta bidezko batean eskaintzen da."
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "Komunitateak bultzatutako laguntza",
-          "description": "Garatzaileak baino gehiago gara; komunitatearen parte gara. Zuen iritziari esker aurrera egiten dugu eta laguntza zuzena eta sentikorra eskaintzen dugu gure proiektuak zuen beharren arabera eboluzionatzen direla ziurtatzeko."
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },

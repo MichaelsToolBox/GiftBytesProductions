@@ -1,7 +1,7 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "Àwọn Iṣẹ́",
+      "projects": "Studio",
       "principles": "Àwọn Ìlànà",
       "download": "Gbigba lati ayelujara",
       "latest": "Tuntun",
@@ -59,20 +59,22 @@
       "description3": "O ti ń ràn wá lọ́wọ́ tẹ́lẹ̀ nípa gbígbìyànjú àwọn iṣẹ́ wa àti dídámọ̀ràn rẹ̀. Bíbẹ́ẹ̀kọ́, o lè forúkọsílẹ̀ sí ìkànnì YouTube wa àti bá àwùjọ sọ̀rọ̀. Fún ìtìlẹ́yìn àfikún, o tún lè ṣètọrẹ fún wa tààrà nípasẹ̀ PayPal."
     },
     "feature-page": {
-      "title": "Àwọn Àbùdá",
-      "subheader": "Ṣàwárí àwọn àbùdá alágbára tí ó jẹ́ kí ìṣàfilọ́lẹ̀ wa yàtọ̀.",
+      "title": "Studio",
+      "subheader": "Gift Bytes Productions is a small German studio building games, apps, and media — openly, accessibly, and with the community in the loop.",
+      "cta-games": "Explore our games",
+      "cta-media": "Watch on YouTube",
       "items": [
         {
-          "title": "Àpẹẹrẹ Alágbèéká-Ní-Àkọ́kọ́",
-          "description": "A ṣe àpẹẹrẹ ìṣàfilọ́lẹ̀ wa pẹ̀lú ọ̀nà alágbèéká-ní-àkọ́kọ́, ní dídámọ̀ pé ìrírí yóò rọrùn lórí ẹ̀rọ èyíkéyìí."
+          "title": "Games & interactive play",
+          "description": "We design playable experiences first — from Chronomaze on desktop to TouchSlider on mobile — with clear ideas, careful polish, and room to grow."
         },
         {
-          "title": "Ojú-iṣẹ́ Tí ó Rọrùn",
-          "description": "Ojú-iṣẹ́ tí ó mọ́ àti tí a ṣètò tí ó fún ọ ní àkópọ̀ pípé ní ìwò kan."
+          "title": "Built in public",
+          "description": "Dev Logs and YouTube are part of the craft. We share progress, decisions, and setbacks so players can follow the studio as it takes shape."
         },
         {
-          "title": "Ìbámu Kọjá Ẹ̀rọ",
-          "description": "Gbádùn ìrírí tí ó dúró ṣinṣin àti alágbára bóyá o wà lórí kọ̀ǹpútà, tábìlì, tàbí fóònù."
+          "title": "Made to reach people",
+          "description": "Accessibility, fair pricing, and multi-platform releases are not extras. We ship so more people can actually play, watch, and take part."
         }
       ]
     },
