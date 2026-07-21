@@ -3,7 +3,7 @@
     "app-bar": {
       "projects": "Features",
       "principles": "Principles",
-      "download": "Download",
+      "download": "Games",
       "latest": "Latest",
       "testimonials": "Testimonials",
       "faq": "FAQ"
@@ -17,8 +17,8 @@
       "cta-secondary": "Watch on YouTube"
     },
     "download-page": {
-      "title": "Download",
-      "subtitle": "Here you can download and view our projects"
+      "title": "Games",
+      "subtitle": "Explore and download our games and projects"
     },
     "tiers": {
       "title1": "Dev Logs",

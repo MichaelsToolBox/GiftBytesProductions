@@ -47,7 +47,7 @@ export const surfacesCustomizations: Components<Theme> = {
   },
   MuiAccordionDetails: {
     styleOverrides: {
-      root: { mb: 20, border: 'none' },
+      root: { paddingBottom: 16, border: 'none' },
     },
   },
   MuiPaper: {

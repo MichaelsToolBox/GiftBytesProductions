@@ -1,130 +1,93 @@
 import * as React from 'react';
 import Box from '@mui/material/Box';
-import Button from '@mui/material/Button';
-import Card from '@mui/material/Card';
-import Container from '@mui/material/Container';
 import Stack from '@mui/material/Stack';
 import Typography from '@mui/material/Typography';
+import Container from '@mui/material/Container';
 import Fade from '@mui/material/Fade';
+import { alpha, keyframes } from '@mui/material/styles';
 import { useTranslation } from 'react-i18next';
-import { keyframes } from '@mui/material/styles';
-
-// --- ICONS ---
-import PriceCheckRoundedIcon from '@mui/icons-material/PriceCheckRounded';
 import DevicesRoundedIcon from '@mui/icons-material/DevicesRounded';
+import PriceCheckRoundedIcon from '@mui/icons-material/PriceCheckRounded';
 import SupportAgentRoundedIcon from '@mui/icons-material/SupportAgentRounded';
-import AutoAwesomeRoundedIcon from '@mui/icons-material/AutoAwesomeRounded';
 import PhoneIphoneRoundedIcon from '@mui/icons-material/PhoneIphoneRounded';
 import TabletMacRoundedIcon from '@mui/icons-material/TabletMacRounded';
 import DesktopWindowsRoundedIcon from '@mui/icons-material/DesktopWindowsRounded';
+import SectionHeader from '../utils/section-header';
+import { cardGap, sectionPx, sectionPy, surfaceRadius } from '../utils/section-rhythm';
 
-// --- DYNAMIC ANIMATION KEYFRAMES ---
-const shake = keyframes`
-  0%, 100% { transform: rotate(0deg); }
-  25% { transform: rotate(5deg); }
-  50% { transform: rotate(-5deg); }
-  75% { transform: rotate(5deg); }
+const softFloat = keyframes`
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-7px); }
 `;
 
-const intenseGlow = keyframes`
-  0% { box-shadow: 0 0 10px 0px hsla(210, 100%, 50%, 0.5); }
-  50% { box-shadow: 0 0 40px 15px hsla(210, 100%, 50%, 0.8); }
-  100% { box-shadow: 0 0 10px 0px hsla(210, 100%, 50%, 0.5); }
-`;
-
-const orbit = keyframes`
-  0% { transform: translate(0, 0) scale(1); }
-  25% { transform: translate(-200px, -25px) scale(1.1); }
-  50% { transform: translate(0, 160px) scale(0.9); }
-  75% { transform: translate(200px, -100px) scale(1.1); }
-  100% { transform: translate(0, 0) scale(1); }
-`;
-
-const shockwave = keyframes`
-  0% { transform: scale(0.5); opacity: 0.7; }
-  100% { transform: scale(4); opacity: 0; }
-`;
-
-// --- CUSTOM VISUAL COMPONENTS ---
-const CostVisual = () => (
-  <Box sx={{ position: 'relative', height: '100%', width: '100%', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
-    <Box sx={{
-      position: 'absolute',
-      width: '80px',
-      height: '80px',
-      borderRadius: '100%',
-      border: '3px solid',
-      borderColor: 'primary.main',
-      animation: `${shockwave} 2s ease-out infinite`,
-    }} />
-      <PriceCheckRoundedIcon color="primary" sx={{ fontSize: '5rem', animation: `${shake} 1s linear infinite` }}/>
+const DevicesVisual = () => (
+  <Box sx={{ position: 'relative', height: '100%', width: '100%', display: 'grid', placeItems: 'center' }}>
+    <Box
+      sx={(theme) => ({
+        position: 'absolute',
+        width: 200,
+        height: 200,
+        borderRadius: '50%',
+        background: `radial-gradient(circle, ${alpha(theme.palette.primary.main, 0.2)} 0%, transparent 68%)`,
+      })}
+    />
+    <Stack
+      direction="row"
+      spacing={2.25}
+      alignItems="flex-end"
+      sx={{ position: 'relative', zIndex: 1, animation: `${softFloat} 5.2s ease-in-out infinite` }}
+    >
+      <DesktopWindowsRoundedIcon sx={{ fontSize: 68, color: 'primary.main', opacity: 0.95 }} />
+      <TabletMacRoundedIcon sx={{ fontSize: 50, color: 'text.secondary', opacity: 0.72, mb: 0.5 }} />
+      <PhoneIphoneRoundedIcon sx={{ fontSize: 38, color: 'text.secondary', opacity: 0.6, mb: 0.25 }} />
+    </Stack>
   </Box>
 );
 
-const DevicesVisual = () => (
-  <Box sx={{ position: 'relative', height: '100%', width: '100%', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+const CostVisual = () => (
+  <Box sx={{ position: 'relative', height: '100%', width: '100%', display: 'grid', placeItems: 'center' }}>
     <Box
-      sx={{
-        width: '80px',
-        height: '80px',
+      sx={(theme) => ({
+        width: 128,
+        height: 128,
         borderRadius: '50%',
-        display: 'flex',
-        alignItems: 'center',
-        justifyContent: 'center',
-        animation: `${intenseGlow} 2s ease-in-out infinite`,
-      }}
+        display: 'grid',
+        placeItems: 'center',
+        border: '1px solid',
+        borderColor: alpha(theme.palette.primary.main, 0.4),
+        background: `radial-gradient(circle at 30% 28%, ${alpha(theme.palette.primary.main, 0.22)}, transparent 65%)`,
+        boxShadow: `0 0 40px ${alpha(theme.palette.primary.main, 0.15)}`,
+        animation: `${softFloat} 4.6s ease-in-out infinite`,
+      })}
     >
-      <AutoAwesomeRoundedIcon color="primary" sx={{ fontSize: '3rem', zIndex: 1 }}/>
+      <PriceCheckRoundedIcon color="primary" sx={{ fontSize: 58 }} />
     </Box>
-    <DesktopWindowsRoundedIcon sx={{ position: 'absolute', fontSize: '5rem', color: 'text.secondary', opacity: 0.7, animation: `${orbit} 10s linear infinite`, animationDelay: '0s' }} />
-    <TabletMacRoundedIcon sx={{ position: 'absolute', fontSize: '4rem', color: 'text.secondary', opacity: 0.7, animation: `${orbit} 8s linear infinite reverse`, animationDelay: '1s' }} />
-    <PhoneIphoneRoundedIcon sx={{ position: 'absolute', fontSize: '3rem', color: 'text.secondary', opacity: 0.7, animation: `${orbit} 9s linear infinite`, animationDelay: '2s' }} />
   </Box>
 );
 
 const CommunityVisual = () => (
-  <Box sx={{ position: 'relative', height: '100%', width: '100%', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
-    <Box sx={{
-      position: 'absolute',
-      width: '80px',
-      height: '80px',
-      borderRadius: '100%',
-      border: '3px solid',
-      borderColor: 'primary.main',
-      animation: `${shockwave} 2s ease-out infinite`,
-    }} />
-    <SupportAgentRoundedIcon color="primary" sx={{ fontSize: '4rem', zIndex: 1 }} />
+  <Box sx={{ position: 'relative', height: '100%', width: '100%', display: 'grid', placeItems: 'center' }}>
+    <Box
+      sx={(theme) => ({
+        width: 148,
+        height: 148,
+        borderRadius: 4,
+        display: 'grid',
+        placeItems: 'center',
+        border: '1px solid',
+        borderColor: alpha(theme.palette.primary.main, 0.28),
+        background: `
+          linear-gradient(145deg, ${alpha(theme.palette.primary.main, 0.14)}, transparent 55%),
+          ${alpha(theme.palette.background.paper, 0.4)}
+        `,
+        animation: `${softFloat} 5.4s ease-in-out infinite`,
+      })}
+    >
+      <SupportAgentRoundedIcon color="primary" sx={{ fontSize: 54 }} />
+    </Box>
   </Box>
 );
 
-// --- MOBILE LAYOUT ---
-interface FeaturesMobileViewProps {
-  items: Array<{ title: string; description: string; visual: React.ReactNode }>;
-}
-
-function FeaturesMobileView({ items }: FeaturesMobileViewProps) {
-  return (
-    <Stack spacing={4} sx={{ display: { xs: 'flex', sm: 'none' } }}>
-      {items.map((item, index) => (
-        <Card key={index} variant="outlined">
-          <Box sx={{ minHeight: 280, display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
-            <Box sx={{ height: 200, width: '100%' }}>{item.visual}</Box>
-          </Box>
-          <Box sx={{ px: 2, pb: 2 }}>
-            <Typography gutterBottom sx={{ color: 'text.primary', fontWeight: 'medium' }}>
-              {item.title}
-            </Typography>
-            <Typography variant="body2" sx={{ color: 'text.secondary', mb: 1.5 }}>
-              {item.description}
-            </Typography>
-          </Box>
-        </Card>
-      ))}
-    </Stack>
-  );
-}
-
-// --- MAIN FEATURES COMPONENT ---
 export default function Features() {
   const { t } = useTranslation();
   const [selectedItemIndex, setSelectedItemIndex] = React.useState(0);
@@ -132,119 +95,161 @@ export default function Features() {
   const items = [
     {
       icon: <DevicesRoundedIcon />,
-      title: t("feature-page.items.0.title"),
-      description: t("feature-page.items.0.description"),
+      title: t('feature-page.items.0.title'),
+      description: t('feature-page.items.0.description'),
       visual: <DevicesVisual />,
     },
     {
       icon: <PriceCheckRoundedIcon />,
-      title: t("feature-page.items.1.title"),
-      description: t("feature-page.items.1.description"),
+      title: t('feature-page.items.1.title'),
+      description: t('feature-page.items.1.description'),
       visual: <CostVisual />,
     },
     {
       icon: <SupportAgentRoundedIcon />,
-      title: t("feature-page.items.2.title"),
-      description: t("feature-page.items.2.description"),
+      title: t('feature-page.items.2.title'),
+      description: t('feature-page.items.2.description'),
       visual: <CommunityVisual />,
     },
   ];
 
-  const handleItemClick = (index: number) => {
-    setSelectedItemIndex(index);
-  };
-
   return (
-    <Container id="features" sx={{ py: { xs: 8, sm: 16 } }}>
-      <Box sx={{ width: { sm: '100%', md: '60%' } }}>
-        <Typography
-          component="h2"
-          variant="h4"
-          gutterBottom
-          sx={{ color: 'text.primary' }}
-        >
-          {t("feature-page.title")}
-        </Typography>
-        <Typography
-          variant="body1"
-          sx={{ color: 'text.secondary', mb: { xs: 2, sm: 4 } }}
-        >
-          {t("feature-page.subheader")}
-        </Typography>
-      </Box>
+    <Container id="features" sx={{ py: sectionPy, px: sectionPx }}>
+      <SectionHeader title={t('feature-page.title')} subtitle={t('feature-page.subheader')} />
 
-      {/* --- DESKTOP VIEW --- */}
-      <Box sx={{ display: { xs: 'none', sm: 'flex' }, flexDirection: { sm: 'column', md: 'row' }, gap: 4 }}>
-        <Card
-          variant="outlined"
-          sx={{
-            width: { sm: '100%', md: '70%' },
-            height: { sm: 420, md: 'auto' },
+      <Box
+        sx={{
+          display: { xs: 'none', sm: 'grid' },
+          gridTemplateColumns: { sm: '1fr', md: '1.2fr 0.8fr' },
+          gap: cardGap,
+          alignItems: 'stretch',
+        }}
+      >
+        <Box
+          sx={(theme) => ({
+            minHeight: { sm: 360, md: 420 },
+            borderRadius: surfaceRadius,
+            border: '1px solid',
+            borderColor: alpha(theme.palette.primary.main, 0.18),
+            background: `
+              radial-gradient(ellipse 70% 55% at 50% 40%, ${alpha(theme.palette.primary.main, 0.12)}, transparent 65%),
+              linear-gradient(180deg, ${alpha(theme.palette.primary.main, 0.05)} 0%, transparent 50%),
+              ${theme.palette.background.paper}
+            `,
+            position: 'relative',
+            overflow: 'hidden',
             p: 2,
-          }}
+          })}
         >
-          <Fade in key={selectedItemIndex} timeout={500}>
-            <Box sx={{ width: '100%', height: '100%' }}>
-              {items[selectedItemIndex].visual}
-            </Box>
+          <Box
+            aria-hidden
+            sx={{
+              position: 'absolute',
+              inset: 0,
+              backgroundImage:
+                'linear-gradient(to right, hsla(210,20%,50%,0.05) 1px, transparent 1px), linear-gradient(to bottom, hsla(210,20%,50%,0.05) 1px, transparent 1px)',
+              backgroundSize: '32px 32px',
+              maskImage: 'radial-gradient(ellipse at center, black 30%, transparent 78%)',
+            }}
+          />
+          <Fade in key={selectedItemIndex} timeout={320}>
+            <Box sx={{ position: 'relative', height: '100%', minHeight: 320 }}>{items[selectedItemIndex].visual}</Box>
           </Fade>
-        </Card>
-        <Box sx={{ display: 'flex', flexDirection: 'column', gap: 2, flexShrink: 0, width: { sm: '100%', md: '40%'} }}>
-          {items.map(({ icon, title, description }, index) => (
-            <Box
-              key={index}
-              component={Button}
-              onClick={() => handleItemClick(index)}
-              sx={[
-                (theme) => ({
-                  p: 2.5,
-                  height: '100%',
-                  width: '100%',
-                  border: '1px solid',
-                  borderColor: 'grey.200',
-                  borderRadius: '12px',
-                  '&:hover': {
-                    backgroundColor: 'action.hover',
-                  },
-                  ...theme.applyStyles('dark', {
-                    borderColor: 'grey.800',
-                  }),
-                }),
-                selectedItemIndex === index && {
-                  backgroundColor: 'action.selected',
-                  borderColor: 'primary.main',
-                },
-              ]}
-            >
-              <Box
-                sx={[
-                  {
-                    width: '100%',
-                    display: 'flex',
-                    flexDirection: 'column',
-                    alignItems: 'left',
-                    gap: 1,
-                    textAlign: 'left',
-                    textTransform: 'none',
-                    color: 'text.secondary',
-                  },
-                  selectedItemIndex === index && {
-                    color: 'text.primary',
-                  },
-                ]}
-              >
-                {React.cloneElement(icon, { sx: { mb: 1 } })}
-                <Typography variant="h6">{title}</Typography>
-                <Typography variant="body2">{description}</Typography>
-              </Box>
-            </Box>
-          ))}
         </Box>
+
+        <Stack spacing={1.25} role="tablist" aria-label={t('feature-page.title')}>
+          {items.map(({ icon, title, description }, index) => {
+            const selected = selectedItemIndex === index;
+            return (
+              <Box
+                key={title}
+                component="button"
+                type="button"
+                role="tab"
+                aria-selected={selected}
+                onClick={() => setSelectedItemIndex(index)}
+                onMouseEnter={() => setSelectedItemIndex(index)}
+                sx={(theme) => ({
+                  all: 'unset',
+                  cursor: 'pointer',
+                  display: 'block',
+                  p: { sm: 2.1, md: 2.35 },
+                  borderRadius: 2.5,
+                  border: '1px solid',
+                  borderColor: selected ? alpha(theme.palette.primary.main, 0.55) : 'divider',
+                  backgroundColor: selected
+                    ? alpha(theme.palette.primary.main, theme.palette.mode === 'dark' ? 0.14 : 0.07)
+                    : alpha(theme.palette.background.paper, 0.7),
+                  boxShadow: selected
+                    ? `0 12px 28px ${alpha(theme.palette.common.black, theme.palette.mode === 'dark' ? 0.28 : 0.06)}`
+                    : 'none',
+                  transition: 'border-color 200ms ease, background-color 200ms ease, transform 200ms ease, box-shadow 200ms ease',
+                  transform: selected ? 'translateX(3px)' : 'none',
+                  '&:hover': {
+                    borderColor: alpha(theme.palette.primary.main, 0.4),
+                    backgroundColor: alpha(theme.palette.primary.main, 0.05),
+                  },
+                  '&:focus-visible': {
+                    outline: `2px solid ${theme.palette.primary.main}`,
+                    outlineOffset: 2,
+                  },
+                })}
+              >
+                <Stack direction="row" spacing={1.5} alignItems="flex-start">
+                  <Box
+                    sx={(theme) => ({
+                      mt: 0.25,
+                      color: selected ? 'primary.main' : 'text.secondary',
+                      display: 'grid',
+                      placeItems: 'center',
+                      width: 38,
+                      height: 38,
+                      borderRadius: 1.75,
+                      bgcolor: alpha(theme.palette.primary.main, selected ? 0.16 : 0.06),
+                    })}
+                  >
+                    {icon}
+                  </Box>
+                  <Box sx={{ textAlign: 'left' }}>
+                    <Typography variant="h6" sx={{ color: 'text.primary', mb: 0.5, letterSpacing: '-0.02em' }}>
+                      {title}
+                    </Typography>
+                    <Typography variant="body2" sx={{ color: 'text.secondary' }}>
+                      {description}
+                    </Typography>
+                  </Box>
+                </Stack>
+              </Box>
+            );
+          })}
+        </Stack>
       </Box>
 
-      {/* --- NEW MOBILE VIEW --- */}
-      <FeaturesMobileView items={items} />
-
+      <Stack spacing={cardGap.xs} sx={{ display: { xs: 'flex', sm: 'none' } }}>
+        {items.map((item) => (
+          <Box
+            key={item.title}
+            sx={(theme) => ({
+              borderRadius: surfaceRadius,
+              border: '1px solid',
+              borderColor: 'divider',
+              overflow: 'hidden',
+              bgcolor: 'background.paper',
+              background: `linear-gradient(160deg, ${alpha(theme.palette.primary.main, 0.06)}, transparent 42%)`,
+            })}
+          >
+            <Box sx={{ height: 152, px: 2 }}>{item.visual}</Box>
+            <Box sx={{ px: 2.5, pb: 2.5, pt: 0.75 }}>
+              <Typography variant="h6" gutterBottom sx={{ letterSpacing: '-0.02em' }}>
+                {item.title}
+              </Typography>
+              <Typography variant="body2" color="text.secondary">
+                {item.description}
+              </Typography>
+            </Box>
+          </Box>
+        ))}
+      </Stack>
     </Container>
   );
 }

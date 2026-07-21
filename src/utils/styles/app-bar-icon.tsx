@@ -8,9 +8,9 @@ export default function BrandLogo() {
       src={logo}
       alt="Gift Bytes Productions"
       sx={(theme) => ({
-        height: { xs: 28, sm: 36 },
+        height: { xs: 28, sm: 34 },
         width: 'auto',
-        mr: { xs: 0.5, sm: 1.5 },
+        mr: { xs: 1, sm: 1.5 },
         display: 'block',
         flexShrink: 0,
         ...theme.applyStyles('light', {

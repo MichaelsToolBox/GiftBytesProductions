@@ -47,7 +47,18 @@ export const inputsCustomizations: Components<Theme> = {
               size: 'medium',
             },
             style: {
-              height: '2.5rem', // 40px
+              height: '2.5rem',
+              padding: '8px 18px',
+            },
+          },
+          {
+            props: {
+              size: 'large',
+            },
+            style: {
+              height: '3rem',
+              padding: '10px 24px',
+              fontSize: '0.95rem',
             },
           },
           {
@@ -116,9 +127,11 @@ export const inputsCustomizations: Components<Theme> = {
               border: '1px solid',
               borderColor: gray[200],
               backgroundColor: alpha(gray[50], 0.3),
+              boxShadow: 'none',
               '&:hover': {
                 backgroundColor: gray[100],
                 borderColor: gray[300],
+                boxShadow: 'none',
               },
               '&:active': {
                 backgroundColor: gray[200],
@@ -126,7 +139,6 @@ export const inputsCustomizations: Components<Theme> = {
               ...theme.applyStyles('dark', {
                 backgroundColor: gray[800],
                 borderColor: gray[700],
-
                 '&:hover': {
                   backgroundColor: gray[900],
                   borderColor: gray[600],

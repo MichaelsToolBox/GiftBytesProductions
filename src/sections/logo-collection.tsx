@@ -1,15 +1,17 @@
 import { useColorScheme } from '@mui/material/styles';
+import { alpha } from '@mui/material/styles';
 import Box from '@mui/material/Box';
 import { lightModeLogos, darkModeLogos } from '../utils/styles/logo-links';
+import { sectionPx } from '../utils/section-rhythm';
 
 export default function LogoCollection() {
   const { mode } = useColorScheme();
   const logos = mode === 'light' ? lightModeLogos : darkModeLogos;
 
   return (
-    <Box id="logoCollection" sx={{ py: { xs: 4, sm: 8 }, px: { xs: 2, sm: 3 } }}>
+    <Box id="logoCollection" sx={{ py: { xs: 2.5, sm: 3.5 }, px: sectionPx }}>
       <Box
-        sx={{
+        sx={(theme) => ({
           display: 'grid',
           gridTemplateColumns: {
             xs: 'repeat(2, minmax(0, 1fr))',
@@ -18,22 +20,32 @@ export default function LogoCollection() {
           },
           alignItems: 'center',
           justifyItems: 'center',
-          gap: { xs: 2.5, sm: 3, md: 4 },
-          opacity: 0.6,
+          gap: { xs: 1.75, sm: 2.25, md: 2.75 },
           maxWidth: 1100,
           mx: 'auto',
-        }}
+          px: { xs: 1.5, sm: 2.25 },
+          py: { xs: 1.75, sm: 2 },
+          borderRadius: { xs: 3, sm: 999 },
+          border: '1px solid',
+          borderColor: alpha(theme.palette.divider, 0.85),
+          bgcolor: alpha(theme.palette.background.paper, 0.55),
+          backdropFilter: 'blur(10px)',
+        })}
       >
         {logos.map((logo, index) => (
           <Box
             key={index}
             sx={{
               width: '100%',
-              maxWidth: { xs: 120, sm: 140, md: 150 },
-              height: { xs: 56, sm: 72, md: 80 },
+              maxWidth: { xs: 110, sm: 128, md: 136 },
+              height: { xs: 40, sm: 52, md: 58 },
               display: 'flex',
               alignItems: 'center',
               justifyContent: 'center',
+              opacity: 0.65,
+              filter: 'grayscale(0.25)',
+              transition: 'opacity 200ms ease, filter 200ms ease',
+              '&:hover': { opacity: 1, filter: 'none' },
             }}
           >
             <img

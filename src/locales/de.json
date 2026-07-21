@@ -3,7 +3,7 @@
     "app-bar": {
       "projects": "Funktionen",
       "principles": "Prinzipien",
-      "download": "Herunterladen",
+      "download": "Spiele",
       "latest": "Aktuelles",
       "testimonials": "Testimonials",
       "faq": "FAQ"
@@ -17,8 +17,8 @@
       "cta-secondary": "Auf YouTube ansehen"
     },
     "download-page": {
-      "title": "Herunterladen",
-      "subtitle": "Hier können Sie unsere Projekte herunterladen und ansehen"
+      "title": "Spiele",
+      "subtitle": "Entdecken und laden Sie unsere Spiele und Projekte herunter"
     },
     "tiers": {
       "title1": "Dev Logs",

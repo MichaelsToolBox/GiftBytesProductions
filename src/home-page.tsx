@@ -1,18 +1,17 @@
 import LogoCollection from './sections/logo-collection';
 import Testimonials from './sections/testimonials-page';
-import logoMark from './utils/images/logo-transparent.png';
 import CssBaseline from '@mui/material/CssBaseline';
 import Principles from './sections/principles-page';
 import AppAppBar from './sections/app-bar-page';
 import Download from './sections/download-page';
 import Features from './sections/features-page';
-import Divider from '@mui/material/Divider';
 import Footer from './sections/footer-page';
 import Latest from './sections/latest-page';
 import AppTheme from './theme/app-theme';
 import Hero from './sections/hero-page';
 import FAQ from './sections/faq-page';
 import Reveal from './utils/reveal';
+import { alpha } from '@mui/material/styles';
 import Box from '@mui/material/Box';
 
 export default function HomePage(props: { disableCustomTheme?: boolean }) {
@@ -23,64 +22,45 @@ export default function HomePage(props: { disableCustomTheme?: boolean }) {
       <Box
         sx={(theme) => ({
           minHeight: '100vh',
-          backgroundImage:
-            'radial-gradient(ellipse 90% 40% at 50% -10%, hsl(210, 100%, 92%), transparent 55%), radial-gradient(ellipse 70% 35% at 100% 40%, hsl(210, 80%, 94%), transparent 50%), radial-gradient(ellipse 60% 30% at 0% 75%, hsl(210, 60%, 95%), transparent 45%)',
+          backgroundColor: theme.palette.background.default,
+          backgroundImage: `
+            radial-gradient(ellipse 100% 55% at 50% -15%, ${alpha(theme.palette.primary.main, 0.14)}, transparent 55%),
+            radial-gradient(ellipse 55% 40% at 100% 35%, ${alpha(theme.palette.primary.main, 0.06)}, transparent 55%),
+            radial-gradient(ellipse 45% 35% at 0% 70%, ${alpha(theme.palette.primary.main, 0.05)}, transparent 50%)
+          `,
           ...theme.applyStyles('dark', {
-            backgroundImage:
-              'radial-gradient(ellipse 90% 40% at 50% -10%, hsl(210, 100%, 14%), transparent 55%), radial-gradient(ellipse 70% 35% at 100% 40%, hsl(210, 80%, 10%), transparent 50%), radial-gradient(ellipse 60% 30% at 0% 75%, hsl(210, 60%, 8%), transparent 45%)',
+            backgroundImage: `
+              radial-gradient(ellipse 100% 55% at 50% -15%, ${alpha(theme.palette.primary.main, 0.22)}, transparent 55%),
+              radial-gradient(ellipse 55% 40% at 100% 35%, ${alpha(theme.palette.primary.main, 0.1)}, transparent 55%),
+              radial-gradient(ellipse 45% 35% at 0% 70%, ${alpha(theme.palette.primary.main, 0.08)}, transparent 50%)
+            `,
           }),
         })}
       >
-        <Box
-          aria-hidden
-          sx={(theme) => ({
-            position: 'fixed',
-            inset: 0,
-            zIndex: 100,
-            pointerEvents: 'none',
-            userSelect: 'none',
-            backgroundImage: `url(${logoMark})`,
-            backgroundRepeat: 'no-repeat',
-            backgroundPosition: 'center center',
-            backgroundSize: { xs: 'min(88vw, 280px)', sm: 'min(72vw, 560px)' },
-            opacity: 0.08,
-            ...theme.applyStyles('light', {
-              filter: 'invert(1)',
-              opacity: 0.06,
-            }),
-          })}
-        />
-
         <Box sx={{ position: 'relative' }}>
           <AppAppBar />
           <Hero />
           <Reveal>
             <LogoCollection />
           </Reveal>
-          <Reveal delayMs={40}>
-            <Box id="features"><Features/></Box>
-          </Reveal>
-          <Divider />
-          <Reveal delayMs={40}>
-            <Box id="principles"><Principles/></Box>
-          </Reveal>
-          <Divider />
-          <Reveal delayMs={60}>
+          <Reveal delayMs={50}>
             <Download />
           </Reveal>
-          <Divider />
-          <Reveal delayMs={40}>
-            <Box id="latest"><Latest/></Box>
+          <Reveal delayMs={50}>
+            <Features />
           </Reveal>
-          <Divider/>
-          <Reveal delayMs={40}>
-            <Box id="testimonials"><Testimonials/></Box>
+          <Reveal delayMs={50}>
+            <Principles />
           </Reveal>
-          <Divider />
-          <Reveal delayMs={40}>
-            <Box id="faq"><FAQ/></Box>
+          <Reveal delayMs={50}>
+            <Latest />
           </Reveal>
-          <Divider />
+          <Reveal delayMs={50}>
+            <Testimonials />
+          </Reveal>
+          <Reveal delayMs={50}>
+            <FAQ />
+          </Reveal>
           <Reveal>
             <Footer />
           </Reveal>
