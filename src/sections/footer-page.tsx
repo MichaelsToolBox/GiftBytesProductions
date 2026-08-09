@@ -86,27 +86,59 @@ export default function Footer() {
               </Button>
             </Box>
           </Box>
-          <Stack spacing={1.25} sx={{ minWidth: 180 }}>
-            <Link
-              component="button"
-              type="button"
-              color="text.secondary"
-              underline="hover"
-              onClick={() => setLegalView(legalView === 'impressum' ? null : 'impressum')}
-              sx={{ textAlign: 'inherit', cursor: 'pointer' }}
-            >
-              {t('footer-page.impressum')}
-            </Link>
-            <Link
-              component="button"
-              type="button"
-              color="text.secondary"
-              underline="hover"
-              onClick={() => setLegalView(legalView === 'privacy' ? null : 'privacy')}
-              sx={{ textAlign: 'inherit', cursor: 'pointer' }}
-            >
-              {t('footer-page.policy')}
-            </Link>
+          <Stack
+            direction={{ xs: 'column', sm: 'row' }}
+            spacing={{ xs: 3, sm: 5 }}
+            sx={{ minWidth: { xs: '100%', sm: 'auto' } }}
+          >
+            <Stack spacing={1.25} sx={{ minWidth: 160 }}>
+              <Typography variant="body2" sx={{ fontWeight: 700, color: 'text.primary' }}>
+                Gift Bytes
+              </Typography>
+              <Link
+                component="button"
+                type="button"
+                color="text.secondary"
+                underline="hover"
+                onClick={() => setLegalView(legalView === 'impressum' ? null : 'impressum')}
+                sx={{ textAlign: 'inherit', cursor: 'pointer' }}
+              >
+                {t('footer-page.impressum')}
+              </Link>
+              <Link
+                component="button"
+                type="button"
+                color="text.secondary"
+                underline="hover"
+                onClick={() => setLegalView(legalView === 'privacy' ? null : 'privacy')}
+                sx={{ textAlign: 'inherit', cursor: 'pointer' }}
+              >
+                {t('footer-page.policy')}
+              </Link>
+            </Stack>
+            <Stack spacing={1.25} sx={{ minWidth: 160 }}>
+              <Typography variant="body2" sx={{ fontWeight: 700, color: 'text.primary' }}>
+                {t('footer-page.splitequity')}
+              </Typography>
+              <Link
+                color="text.secondary"
+                underline="hover"
+                href="/legal/privacy.html"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                {t('footer-page.splitequity-privacy')}
+              </Link>
+              <Link
+                color="text.secondary"
+                underline="hover"
+                href="/legal/terms.html"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                {t('footer-page.splitequity-terms')}
+              </Link>
+            </Stack>
           </Stack>
         </Box>
 

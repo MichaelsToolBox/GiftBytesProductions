@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>SplitEquity — Privacy Policy</title>
+  <meta
+    name="description"
+    content="Privacy Policy for SplitEquity by Gift Bytes Productions."
+  />
+  <link rel="icon" type="image/png" href="/logo.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&family=Syne:wght@700&display=swap"
+  />
+  <style>
+    :root {
+      --ink: hsl(220, 30%, 6%);
+      --muted: hsl(220, 20%, 42%);
+      --line: hsl(220, 20%, 88%);
+      --accent: hsl(204, 90%, 40%);
+      --bg: hsl(220, 35%, 97%);
+      --surface: hsl(0, 0%, 100%);
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --ink: hsl(220, 30%, 96%);
+        --muted: hsl(220, 15%, 68%);
+        --line: hsl(220, 20%, 22%);
+        --accent: hsl(204, 88%, 58%);
+        --bg: hsl(220, 35%, 3%);
+        --surface: hsl(220, 30%, 8%);
+      }
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      min-height: 100vh;
+      font-family: "Manrope", system-ui, sans-serif;
+      line-height: 1.6;
+      color: var(--ink);
+      background:
+        radial-gradient(ellipse 80% 50% at 50% -10%, color-mix(in srgb, var(--accent) 16%, transparent), transparent 55%),
+        var(--bg);
+    }
+    .wrap {
+      max-width: 42rem;
+      margin: 0 auto;
+      padding: 1.5rem 1.25rem 3.5rem;
+    }
+    .nav {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem 1.25rem;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 2rem;
+      padding-bottom: 1rem;
+      border-bottom: 1px solid var(--line);
+    }
+    .brand {
+      font-family: "Syne", sans-serif;
+      font-weight: 700;
+      letter-spacing: -0.03em;
+      color: var(--ink);
+      text-decoration: none;
+    }
+    .brand span { color: var(--accent); }
+    .nav-links { display: flex; gap: 1rem; flex-wrap: wrap; }
+    .nav a:not(.brand) {
+      color: var(--muted);
+      text-decoration: none;
+      font-size: 0.95rem;
+      font-weight: 600;
+    }
+    .nav a:not(.brand):hover,
+    .nav a.current { color: var(--accent); }
+    main {
+      background: var(--surface);
+      border: 1px solid var(--line);
+      border-radius: 1rem;
+      padding: 1.75rem 1.5rem;
+    }
+    h1 {
+      font-family: "Syne", sans-serif;
+      font-size: 1.75rem;
+      letter-spacing: -0.03em;
+      margin: 0 0 0.35rem;
+    }
+    h2 {
+      font-size: 1.05rem;
+      margin: 1.75rem 0 0.5rem;
+    }
+    p, li { color: color-mix(in srgb, var(--ink) 82%, var(--muted)); }
+    .muted { color: var(--muted); font-size: 0.9rem; margin-top: 0; }
+    a { color: var(--accent); }
+    ul { padding-left: 1.2rem; }
+    li { margin: 0.35rem 0; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <nav class="nav" aria-label="Legal">
+      <a class="brand" href="/">Gift Bytes <span>Productions</span></a>
+      <div class="nav-links">
+        <a class="current" href="/legal/privacy.html" aria-current="page">Privacy</a>
+        <a href="/legal/terms.html">Terms</a>
+      </div>
+    </nav>
+
+    <main>
+      <h1>Privacy Policy</h1>
+      <p class="muted">SplitEquity by Gift Bytes Productions · Last updated: 9 August 2026</p>
+
+      <p>This policy describes how SplitEquity (“the App”) handles information when you use our household expense and asset splitting service.</p>
+
+      <h2>Information we collect</h2>
+      <ul>
+        <li><strong>Account data:</strong> email address and display name you provide at sign-up.</li>
+        <li><strong>Profile data:</strong> optional profile photo you upload.</li>
+        <li><strong>Household data:</strong> household name, invite codes, income-split percentages, expenses, assets, and optional receipt images.</li>
+        <li><strong>Purchase data:</strong> subscription status processed by Apple, Google, and RevenueCat (we do not store full payment card numbers).</li>
+      </ul>
+
+      <h2>How we use information</h2>
+      <ul>
+        <li>To operate household ledgers, settle-up, and exit-strategy calculations.</li>
+        <li>To authenticate you and sync data across devices.</li>
+        <li>To provide and verify Household Premium subscriptions.</li>
+        <li>To respond to support requests you send us.</li>
+      </ul>
+
+      <h2>Processors</h2>
+      <p>We use Supabase (auth, database, file storage), Expo/EAS (app distribution), and RevenueCat plus Apple/Google for in-app purchases. Their processing is governed by their own policies.</p>
+
+      <h2>Sharing</h2>
+      <p>Household members you invite can see shared household data (transactions, members, premium status). We do not sell your personal data.</p>
+
+      <h2>Retention</h2>
+      <p>We keep account and household data while your account is active. You may request deletion by emailing support. Backups may persist for a limited period.</p>
+
+      <h2>Your choices</h2>
+      <ul>
+        <li>Update your profile in the App.</li>
+        <li>Leave a household or delete uploaded photos/receipts where the App allows.</li>
+        <li>Contact us to request account deletion.</li>
+      </ul>
+
+      <h2>Children</h2>
+      <p>The App is not directed to children under 13. We do not knowingly collect their data.</p>
+
+      <h2>Contact</h2>
+      <p>Gift Bytes Productions · <a href="mailto:giftbytesproductions@gmail.com">giftbytesproductions@gmail.com</a></p>
+    </main>
+  </div>
+</body>
+</html>
