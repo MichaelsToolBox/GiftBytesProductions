@@ -82,17 +82,20 @@
     "footer-page": {
       "left-title": "Join our community",
       "left-button": "Subscribe for free",
-      "policy": "Privacy Policy",
+      "policy": "Website privacy",
       "impressum": "Impressum",
-      "terms": "Terms of service",
+      "terms": "Terms of Use",
+      "splitequity": "SplitEquity",
+      "splitequity-privacy": "Privacy Policy",
+      "splitequity-terms": "Terms of Use",
       "copyright": "Copyright © ",
       "giftbytes": "GiftBytesProductions"
     },
     "legal": {
       "impressum-title": "Impressum",
       "impressum-body": "Gift Bytes Productions\nMichael Schenk\nGermany\nEmail: giftbytesproductions@gmail.com\nResponsible for content: Michael Schenk",
-      "privacy-title": "Privacy Policy",
-      "privacy-body": "This website is a static presentation site. We do not run our own user accounts or analytics trackers on this page. Embedded third-party content (such as YouTube) may set cookies or collect data according to their own policies. Contact: giftbytesproductions@gmail.com."
+      "privacy-title": "Website privacy",
+      "privacy-body": "This website is a static presentation site. We do not run our own user accounts or analytics trackers on this page. Embedded third-party content (such as YouTube) may set cookies or collect data according to their own policies.\n\nFor SplitEquity app data practices, see the SplitEquity Privacy Policy linked in this footer.\n\nContact: giftbytesproductions@gmail.com."
     },
     "latest-page": {
       "title": "Latest",
