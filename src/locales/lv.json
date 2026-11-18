@@ -6,7 +6,8 @@
       "download": "Lejupielādēt",
       "latest": "Jaunākais",
       "testimonials": "Atsauksmes",
-      "faq": "Biežāk uzdotie jautājumi"
+      "faq": "Biežāk uzdotie jautājumi",
+      "demo": "Demo"
     },
     "hero-page": {
       "subtitle": "Mēs esam Vācijā bāzēta radoša izstrādes studija, kas izmanto jaunākās tehnoloģijas, lai radītu saistošus un pieejamus videospēles, lietotnes un mediju pieredzes ikvienam",
@@ -190,6 +191,16 @@
       "light": "Gaišs",
       "dark": "Tumšs"
     },
-    "legal": {}
+    "legal": {},
+    "play-page": {
+      "title": "Byteflip",
+      "subtitle": "Viens pieskāriens apgriež gravitāciju. Paņem dāvanu, pirms josla aizveras.",
+      "start": "Pieskaries, lai spēlētu",
+      "over": "Josla aizvērta",
+      "again": "Pieskaries, lai mēģinātu vēlreiz",
+      "best": "Labākais",
+      "mute": "Izslēgt skaņu",
+      "unmute": "Ieslēgt skaņu"
+    }
   }
 }

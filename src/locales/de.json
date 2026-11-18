@@ -6,7 +6,18 @@
       "download": "Spiele",
       "latest": "Aktuelles",
       "testimonials": "Testimonials",
-      "faq": "FAQ"
+      "faq": "FAQ",
+      "demo": "Demo"
+    },
+    "play-page": {
+      "title": "Byteflip",
+      "subtitle": "Ein Tippen dreht die Schwerkraft. Nimm das Geschenk, bevor die Bahn schließt.",
+      "start": "Tippen zum Spielen",
+      "over": "Bahn geschlossen",
+      "again": "Tippen, um es erneut zu versuchen",
+      "best": "Bestwert",
+      "mute": "Ton aus",
+      "unmute": "Ton an"
     },
     "hero-page": {
       "subtitle": "Wir sind ein deutsches Kreativ-Entwicklungsstudio, das die neueste Technologie nutzt, um fesselnde und zugängliche Videospiele, Apps und Medienerlebnisse für jedermann zu entwickeln",

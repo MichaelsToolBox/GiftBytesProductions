@@ -6,7 +6,8 @@
       "download": "Misintona",
       "latest": "Vaovao farany",
       "testimonials": "Fanamarinana",
-      "faq": "Fanontaniana matetika"
+      "faq": "Fanontaniana matetika",
+      "demo": "Demo"
     },
     "hero-page": {
       "subtitle": "Studio fampandrosoana mamorona monina any Alemaina izahay, mampiasa ny teknolojia farany indrindra mba hamoronana lalao video, app, ary traikefa media mahasarika sy azo idirana ho an'ny rehetra",
@@ -190,6 +191,16 @@
       "light": "Mazava",
       "dark": "Maizina"
     },
-    "legal": {}
+    "legal": {},
+    "play-page": {
+      "title": "Byteflip",
+      "subtitle": "Fikitihana iray no mamadika ny hery misintona. Alaivo ny fanomezana alohan’ny hihidanan’ny lalana.",
+      "start": "Kitiho raha hilalao",
+      "over": "Lalana mihidy",
+      "again": "Kitiho raha hanandrana indray",
+      "best": "Tsara indrindra",
+      "mute": "Vonoy ny feo",
+      "unmute": "Alefaso ny feo"
+    }
   }
 }

@@ -6,7 +6,8 @@
       "download": "Lae alla",
       "latest": "Viimased",
       "testimonials": "Iseloomustused",
-      "faq": "Korduma kippuvad küsimused"
+      "faq": "Korduma kippuvad küsimused",
+      "demo": "Demo"
     },
     "hero-page": {
       "subtitle": "Oleme Saksamaal asuv loominguline arendusstuudio, mis kasutab uusimat tehnoloogiat, et luua kaasahaaravaid ja ligipääsetavaid videomänge, rakendusi ja meediakogemusi kõigile",
@@ -190,6 +191,16 @@
       "light": "Valgus",
       "dark": "Tume"
     },
-    "legal": {}
+    "legal": {},
+    "play-page": {
+      "title": "Byteflip",
+      "subtitle": "Üks puudutus pöörab gravitatsiooni. Võta kingitus enne, kui rada sulgub.",
+      "start": "Puuduta, et mängida",
+      "over": "Rada suletud",
+      "again": "Puuduta, et uuesti proovida",
+      "best": "Parim",
+      "mute": "Vaigista heli",
+      "unmute": "Lülita heli sisse"
+    }
   }
 }

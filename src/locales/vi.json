@@ -6,7 +6,8 @@
       "download": "Tải xuống",
       "latest": "Mới nhất",
       "testimonials": "Lời chứng thực",
-      "faq": "Câu hỏi thường gặp"
+      "faq": "Câu hỏi thường gặp",
+      "demo": "Thử"
     },
     "hero-page": {
       "subtitle": "Chúng tôi là một studio phát triển sáng tạo có trụ sở tại Đức, tận dụng công nghệ mới nhất để tạo ra các trò chơi video, ứng dụng và trải nghiệm truyền thông hấp dẫn và dễ tiếp cận cho mọi người",
@@ -190,6 +191,16 @@
       "light": "Sáng",
       "dark": "Tối"
     },
-    "legal": {}
+    "legal": {},
+    "play-page": {
+      "title": "Byteflip",
+      "subtitle": "Một chạm lật trọng lực. Lấy quà trước khi làn đường đóng.",
+      "start": "Chạm để chơi",
+      "over": "Làn đường đã đóng",
+      "again": "Chạm để thử lại",
+      "best": "Kỷ lục",
+      "mute": "Tắt tiếng",
+      "unmute": "Bật tiếng"
+    }
   }
 }

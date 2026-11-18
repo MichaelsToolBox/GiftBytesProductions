@@ -6,7 +6,8 @@
       "download": "Unduh",
       "latest": "Terbaru",
       "testimonials": "Testimoni",
-      "faq": "FAQ"
+      "faq": "FAQ",
+      "demo": "Demo"
     },
     "hero-page": {
       "subtitle": "Kita minangka studio pangembangan kreatif adhedhasar ing Jerman, sing nggunakake teknologi paling anyar kanggo nggawe video game, aplikasi, lan pengalaman media sing nyenengake lan gampang diakses kanggo kabeh wong",
@@ -190,6 +191,16 @@
       "light": "Terang",
       "dark": "Peteng"
     },
-    "legal": {}
+    "legal": {},
+    "play-page": {
+      "title": "Byteflip",
+      "subtitle": "Siji tutul mbalik gravitasi. Jupuk hadiah sadurunge jalur nutup.",
+      "start": "Tutul kanggo main",
+      "over": "Jalur nutup",
+      "again": "Tutul kanggo nyoba maneh",
+      "best": "Paling apik",
+      "mute": "Pateni swara",
+      "unmute": "Uripake swara"
+    }
   }
 }

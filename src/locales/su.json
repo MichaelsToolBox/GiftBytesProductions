@@ -6,7 +6,8 @@
       "download": "Unduh",
       "latest": "Panganyarna",
       "testimonials": "Testimoni",
-      "faq": "FAQ"
+      "faq": "FAQ",
+      "demo": "Demo"
     },
     "hero-page": {
       "subtitle": "Kami mangrupikeun studio pangembangan kreatif anu berbasis di Jerman, ngamangpaatkeun téknologi panganyarna pikeun ngadamel kaulinan video, aplikasi, sareng pangalaman média anu pikaresepeun sareng tiasa diaksés ku sadayana",
@@ -190,6 +191,16 @@
       "light": "Terang",
       "dark": "Poék"
     },
-    "legal": {}
+    "legal": {},
+    "play-page": {
+      "title": "Byteflip",
+      "subtitle": "Hiji ketok ngabalikkeun gravitasi. Candak kado saméméh jalurna nutup.",
+      "start": "Ketok pikeun maén",
+      "over": "Jalur nutup",
+      "again": "Ketok pikeun cobian deui",
+      "best": "Pangalusna",
+      "mute": "Pareuman sora",
+      "unmute": "Hurungkeun sora"
+    }
   }
 }

@@ -6,7 +6,8 @@
       "download": "Shkarko",
       "latest": "Të fundit",
       "testimonials": "Dëshmi",
-      "faq": "Pyetje të shpeshta"
+      "faq": "Pyetje të shpeshta",
+      "demo": "Demo"
     },
     "hero-page": {
       "subtitle": "Jemi një studio krijuese zhvillimi me bazë në Gjermani, duke shfrytëzuar teknologjinë më të fundit për të krijuar lojëra video, aplikacione dhe përvoja mediatike magjepsëse dhe të aksesueshme për të gjithë",
@@ -190,6 +191,16 @@
       "light": "E lehtë",
       "dark": "E errët"
     },
-    "legal": {}
+    "legal": {},
+    "play-page": {
+      "title": "Byteflip",
+      "subtitle": "Një prekje e kthen gravitetin. Merr dhuratën para se korsia të mbyllet.",
+      "start": "Prek për të luajtur",
+      "over": "Korsia u mbyll",
+      "again": "Prek për të provuar sërish",
+      "best": "Më i miri",
+      "mute": "Hesht zërin",
+      "unmute": "Ndiz zërin"
+    }
   }
 }

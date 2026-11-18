@@ -6,7 +6,8 @@
       "download": "Deskargatu",
       "latest": "Azkena",
       "testimonials": "Iritziak",
-      "faq": "Maiz egindako galderak"
+      "faq": "Maiz egindako galderak",
+      "demo": "Demoa"
     },
     "hero-page": {
       "subtitle": "Alemanian kokatutako garapen-estudio sortzaile bat gara, azken teknologia baliatuz, bideojoko, aplikazio eta komunikabideen esperientzia liluragarri eta eskuragarriak sortzeko, guztiontzat",
@@ -190,6 +191,16 @@
       "light": "Argia",
       "dark": "Iluna"
     },
-    "legal": {}
+    "legal": {},
+    "play-page": {
+      "title": "Byteflip",
+      "subtitle": "Ukitu batek grabitatea iraultzen du. Hartu oparia erreia itxi aurretik.",
+      "start": "Jokatzeko, ukitu",
+      "over": "Erreia itxita",
+      "again": "Berriro saiatzeko, ukitu",
+      "best": "Onena",
+      "mute": "Isildu soinua",
+      "unmute": "Piztu soinua"
+    }
   }
 }

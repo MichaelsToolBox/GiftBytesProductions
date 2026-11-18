@@ -6,7 +6,8 @@
       "download": "Descarcare",
       "latest": "Novissima",
       "testimonials": "Testimonia",
-      "faq": "Quaestiones frequentes"
+      "faq": "Quaestiones frequentes",
+      "demo": "Specimen"
     },
     "hero-page": {
       "subtitle": "Studio evolutionis creativi in Germania sumus, recentissima technologia utentes ad ludos video, applicationes et experientias mediae captantes et omnibus accessibiles creandas",
@@ -190,6 +191,16 @@
       "light": "Lumen",
       "dark": "Tenebrae"
     },
-    "legal": {}
+    "legal": {},
+    "play-page": {
+      "title": "Byteflip",
+      "subtitle": "Ictus unus gravitatem vertit. Munus cape antequam via claudatur.",
+      "start": "Tange ut ludas",
+      "over": "Via clausa",
+      "again": "Tange ut iterum temptes",
+      "best": "Optimum",
+      "mute": "Sonum compesce",
+      "unmute": "Sonum admitte"
+    }
   }
 }

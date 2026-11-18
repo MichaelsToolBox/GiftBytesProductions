@@ -6,7 +6,8 @@
       "download": "Ladda ner",
       "latest": "Senaste",
       "testimonials": "Uttalanden",
-      "faq": "Vanliga frågor"
+      "faq": "Vanliga frågor",
+      "demo": "Demo"
     },
     "hero-page": {
       "subtitle": "Vi är en tyskbaserad kreativ utvecklingsstudio som utnyttjar den senaste teknologin för att skapa fängslande och tillgängliga videospel, appar och medieupplevelser för alla",
@@ -190,6 +191,16 @@
       "light": "Ljust",
       "dark": "Mörkt"
     },
-    "legal": {}
+    "legal": {},
+    "play-page": {
+      "title": "Byteflip",
+      "subtitle": "Ett tryck vänder gravitationen. Ta presenten innan banan stängs.",
+      "start": "Tryck för att spela",
+      "over": "Banan stängd",
+      "again": "Tryck för att försöka igen",
+      "best": "Bästa",
+      "mute": "Stäng av ljudet",
+      "unmute": "Sätt på ljudet"
+    }
   }
 }

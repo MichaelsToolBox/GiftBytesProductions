@@ -6,7 +6,8 @@
       "download": "Atsisiųsti",
       "latest": "Naujausi",
       "testimonials": "Atsiliepimai",
-      "faq": "Dažnai užduodami klausimai"
+      "faq": "Dažnai užduodami klausimai",
+      "demo": "Demo"
     },
     "hero-page": {
       "subtitle": "Esame Vokietijoje įsikūrusi kūrybinė plėtros studija, kuri naudoja naujausias technologijas, kad sukurtų patrauklius ir prieinamus vaizdo žaidimus, programas ir medijos patirtis visiems",
@@ -190,6 +191,16 @@
       "light": "Šviesus",
       "dark": "Tamsus"
     },
-    "legal": {}
+    "legal": {},
+    "play-page": {
+      "title": "Byteflip",
+      "subtitle": "Vienas bakstelėjimas apverčia gravitaciją. Paimk dovaną, kol takas neužsivėrė.",
+      "start": "Bakstelėk ir žaisk",
+      "over": "Takas užvertas",
+      "again": "Bakstelėk ir bandyk dar kartą",
+      "best": "Geriausias",
+      "mute": "Nutildyti garsą",
+      "unmute": "Įjungti garsą"
+    }
   }
 }

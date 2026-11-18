@@ -6,7 +6,8 @@
       "download": "Nbudata",
       "latest": "Nke kachasị ọhụrụ",
       "testimonials": "Asambodo",
-      "faq": "Ajụjụ ndị a na-ajụkarị"
+      "faq": "Ajụjụ ndị a na-ajụkarị",
+      "demo": "Nnwale"
     },
     "hero-page": {
       "subtitle": "Anyị bụ ụlọ ọrụ mmepe okike nke German, na-eji teknụzụ kachasị ọhụrụ emepụta egwuregwu vidiyo, ngwa, na ahụmahụ mgbasa ozi dị egwu ma dị mfe inweta maka onye ọ bụla",
@@ -190,6 +191,16 @@
       "light": "Ọkụ",
       "dark": "Ọchịchịrị"
     },
-    "legal": {}
+    "legal": {},
+    "play-page": {
+      "title": "Byteflip",
+      "subtitle": "Otu mkpabata na-atụgharị ike ịdọta. Were onyinye tupu ụzọ emechie.",
+      "start": "Kpatụ ka ị gbaa",
+      "over": "Ụzọ emechiela",
+      "again": "Kpatụ ka ị nwaa ọzọ",
+      "best": "Kacha mma",
+      "mute": "Mechie ụda",
+      "unmute": "Gbanye ụda"
+    }
   }
 }

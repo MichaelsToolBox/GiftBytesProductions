@@ -6,7 +6,8 @@
       "download": "Pobierz",
       "latest": "Najnowsze",
       "testimonials": "Opinie",
-      "faq": "FAQ"
+      "faq": "FAQ",
+      "demo": "Demo"
     },
     "hero-page": {
       "subtitle": "Jesteśmy niemieckim studiem deweloperskim, które wykorzystuje najnowsze technologie do tworzenia wciągających i dostępnych gier wideo, aplikacji i doświadczeń multimedialnych dla każdego",
@@ -190,6 +191,16 @@
       "light": "Jasny",
       "dark": "Ciemny"
     },
-    "legal": {}
+    "legal": {},
+    "play-page": {
+      "title": "Byteflip",
+      "subtitle": "Jedno stuknięcie odwraca grawitację. Zbierz prezent, zanim pas się zamknie.",
+      "start": "Stuknij, aby grać",
+      "over": "Pas zamknięty",
+      "again": "Stuknij, aby spróbować ponownie",
+      "best": "Najlepszy",
+      "mute": "Wycisz dźwięk",
+      "unmute": "Włącz dźwięk"
+    }
   }
 }

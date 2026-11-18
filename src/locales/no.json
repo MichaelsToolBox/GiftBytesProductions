@@ -6,7 +6,8 @@
       "download": "Last ned",
       "latest": "Siste nytt",
       "testimonials": "Uttalelser",
-      "faq": "Ofte stilte spørsmål"
+      "faq": "Ofte stilte spørsmål",
+      "demo": "Demo"
     },
     "hero-page": {
       "subtitle": "Vi er et tyskbasert kreativt utviklingsstudio som utnytter den nyeste teknologien for å lage fengslende og tilgjengelige videospill, apper og medieopplevelser for alle",
@@ -190,6 +191,16 @@
       "light": "Lys",
       "dark": "Mørk"
     },
-    "legal": {}
+    "legal": {},
+    "play-page": {
+      "title": "Byteflip",
+      "subtitle": "Ett trykk snur tyngdekraften. Ta gaven før banen lukkes.",
+      "start": "Trykk for å spille",
+      "over": "Bane lukket",
+      "again": "Trykk for å prøve igjen",
+      "best": "Beste",
+      "mute": "Demp lyden",
+      "unmute": "Slå på lyden"
+    }
   }
 }

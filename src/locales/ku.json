@@ -6,7 +6,8 @@
       "download": "Daxistin",
       "latest": "Herî nû",
       "testimonials": "Şahidîname",
-      "faq": "Pirsên pir caran tên pirsîn"
+      "faq": "Pirsên pir caran tên pirsîn",
+      "demo": "Demo"
     },
     "hero-page": {
       "subtitle": "Em stûdyoyek pêşkeftina afirîner a Alman in, ku teknolojiya herî dawî bikar tînin da ku lîstikên vîdyoyê, sepanan û ezmûnên medyayê yên balkêş û gihîştî ji bo her kesî biafirînin",
@@ -190,6 +191,16 @@
       "light": "Ronahî",
       "dark": "Tarî"
     },
-    "legal": {}
+    "legal": {},
+    "play-page": {
+      "title": "Byteflip",
+      "subtitle": "یەک پەنجە کێشکردن دەگۆڕێت. دیارییەکە ببە پێش ئەوەی ڕێڕەوەکە دابخرێت.",
+      "start": "بۆ یاریکردن پەنجە بنێ",
+      "over": "ڕێڕەو داخرا",
+      "again": "بۆ دووبارەکردنەوە پەنجە بنێ",
+      "best": "Baştirîn",
+      "mute": "Deng bigire",
+      "unmute": "Deng veke"
+    }
   }
 }

@@ -6,7 +6,8 @@
       "download": "Downloaden",
       "latest": "Laatste",
       "testimonials": "Getuigenissen",
-      "faq": "Veelgestelde Vragen"
+      "faq": "Veelgestelde Vragen",
+      "demo": "Demo"
     },
     "hero-page": {
       "subtitle": "Wij zijn een in Duitsland gevestigde creatieve ontwikkelingsstudio die de nieuwste technologie benut om boeiende en toegankelijke videogames, apps en media-ervaringen te creëren voor iedereen",
@@ -190,6 +191,16 @@
       "light": "Licht",
       "dark": "Donker"
     },
-    "legal": {}
+    "legal": {},
+    "play-page": {
+      "title": "Byteflip",
+      "subtitle": "Eén tik draait de zwaartekracht om. Pak het cadeau voordat de baan sluit.",
+      "start": "Tik om te spelen",
+      "over": "Baan gesloten",
+      "again": "Tik om opnieuw te proberen",
+      "best": "Beste",
+      "mute": "Geluid dempen",
+      "unmute": "Geluid aan"
+    }
   }
 }

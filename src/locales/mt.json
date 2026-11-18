@@ -6,7 +6,8 @@
       "download": "Niżżel",
       "latest": "L-Aħħar",
       "testimonials": "Testimonjanzi",
-      "faq": "Mistoqsijiet Frekwenti"
+      "faq": "Mistoqsijiet Frekwenti",
+      "demo": "Demo"
     },
     "hero-page": {
       "subtitle": "Aħna studjo ta' żvilupp kreattiv ibbażat fil-Ġermanja, li juża l-aħħar teknoloġija biex joħloq logħob tal-kompjuter, apps u esperjenzi tal-midja affaxxinanti u aċċessibbli għal kulħadd",
@@ -190,6 +191,16 @@
       "light": "Dawl",
       "dark": "Dlam"
     },
-    "legal": {}
+    "legal": {},
+    "play-page": {
+      "title": "Byteflip",
+      "subtitle": "Tafsa waħda taqleb il-gravità. Ħu r-rigal qabel ma l-korsija tingħalaq.",
+      "start": "Miss biex tilgħab",
+      "over": "Korsija magħluqa",
+      "again": "Miss biex terġa’ tipprova",
+      "best": "L-aħjar",
+      "mute": "Sikket il-ħoss",
+      "unmute": "Ixgħel il-ħoss"
+    }
   }
 }

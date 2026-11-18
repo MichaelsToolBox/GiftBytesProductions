@@ -6,7 +6,8 @@
       "download": "Descarcă",
       "latest": "Ultimele",
       "testimonials": "Testimoniale",
-      "faq": "Întrebări frecvente"
+      "faq": "Întrebări frecvente",
+      "demo": "Demo"
     },
     "hero-page": {
       "subtitle": "Suntem un studio de dezvoltare creativă cu sediul în Germania, care folosește cele mai noi tehnologii pentru a crea jocuri video, aplicații și experiențe media captivante și accesibile pentru toată lumea",
@@ -190,6 +191,16 @@
       "light": "Luminos",
       "dark": "Întunecat"
     },
-    "legal": {}
+    "legal": {},
+    "play-page": {
+      "title": "Byteflip",
+      "subtitle": "O atingere inversează gravitația. Ia cadoul înainte să se închidă banda.",
+      "start": "Atinge pentru a juca",
+      "over": "Bandă închisă",
+      "again": "Atinge pentru a reîncerca",
+      "best": "Record",
+      "mute": "Oprește sunetul",
+      "unmute": "Pornește sunetul"
+    }
   }
 }

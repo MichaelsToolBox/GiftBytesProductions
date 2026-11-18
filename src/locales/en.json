@@ -6,7 +6,18 @@
       "download": "Games",
       "latest": "Latest",
       "testimonials": "Testimonials",
-      "faq": "FAQ"
+      "faq": "FAQ",
+      "demo": "Demo"
+    },
+    "play-page": {
+      "title": "Byteflip",
+      "subtitle": "Flip gravity with one tap. Take the gift before the lane closes.",
+      "start": "Tap to play",
+      "over": "Lane closed",
+      "again": "Tap to retry",
+      "best": "Best",
+      "mute": "Mute sound",
+      "unmute": "Turn sound on"
     },
     "hero-page": {
       "subtitle": "We are a German-based creative development studio leveraging the latest technology to craft captivating and accessible video games, apps, and media experiences for everyone",

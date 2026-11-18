@@ -6,7 +6,8 @@
       "download": "Tango",
       "latest": "Ina noa nei",
       "testimonials": "Tuhinga",
-      "faq": "FQ"
+      "faq": "FQ",
+      "demo": "Tauira"
     },
     "hero-page": {
       "subtitle": "Ko matou te whanaketanga whanaketanga o te studive-a-Tiamana e whakamahi ana i nga hangarau hou ki te mahi i nga taakaro ataata me te waatea, nga taupānga me nga wheako pāpāho mo te katoa",
@@ -204,6 +205,16 @@
       "light": "Taimāmā",
       "dark": "Wheuri"
     },
-    "legal": {}
+    "legal": {},
+    "play-page": {
+      "title": "Byteflip",
+      "subtitle": "Ka huri te tōrunga i te pā kotahi. Tangohia te koha i mua i te katinga o te ara.",
+      "start": "Pā kia purei",
+      "over": "Kua kati te ara",
+      "again": "Pā kia ngana anō",
+      "best": "Tino pai",
+      "mute": "Whakakangū i te oro",
+      "unmute": "Whakakā i te oro"
+    }
   }
 }

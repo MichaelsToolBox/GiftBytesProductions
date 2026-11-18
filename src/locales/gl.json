@@ -6,7 +6,8 @@
       "download": "Descargar",
       "latest": "Últimas noticias",
       "testimonials": "Testemuños",
-      "faq": "Preguntas frecuentes"
+      "faq": "Preguntas frecuentes",
+      "demo": "Demo"
     },
     "hero-page": {
       "subtitle": "Somos un estudio de desenvolvemento creativo con sede en Alemaña que aproveita a tecnoloxía máis recente para crear videoxogos, aplicacións e experiencias multimedia cativadoras e accesibles para todos",
@@ -190,6 +191,16 @@
       "light": "Claro",
       "dark": "Escuro"
     },
-    "legal": {}
+    "legal": {},
+    "play-page": {
+      "title": "Byteflip",
+      "subtitle": "Un toque invirte a gravidade. Colle o agasallo antes de que o carril se peche.",
+      "start": "Toca para xogar",
+      "over": "Carril pechado",
+      "again": "Toca para tentalo de novo",
+      "best": "Mellor",
+      "mute": "Silenciar o son",
+      "unmute": "Activar o son"
+    }
   }
 }

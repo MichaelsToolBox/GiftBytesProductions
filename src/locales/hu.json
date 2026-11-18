@@ -6,7 +6,8 @@
       "download": "Letöltés",
       "latest": "Legújabb",
       "testimonials": "Ajánlások",
-      "faq": "Gyakori kérdések"
+      "faq": "Gyakori kérdések",
+      "demo": "Demó"
     },
     "hero-page": {
       "subtitle": "Egy németországi székhelyű kreatív fejlesztőstúdió vagyunk, amely a legújabb technológiát használja, hogy magával ragadó és hozzáférhető videójátékokat, alkalmazásokat és médiaélményeket hozzon létre mindenki számára",
@@ -190,6 +191,16 @@
       "light": "Világos",
       "dark": "Sötét"
     },
-    "legal": {}
+    "legal": {},
+    "play-page": {
+      "title": "Byteflip",
+      "subtitle": "Egy koppintás megfordítja a gravitációt. Vidd el az ajándékot, mielőtt a sáv bezárul.",
+      "start": "Koppints a játékhoz",
+      "over": "A sáv bezárult",
+      "again": "Koppints az újrapróbáláshoz",
+      "best": "Legjobb",
+      "mute": "Némítás",
+      "unmute": "Hang be"
+    }
   }
 }

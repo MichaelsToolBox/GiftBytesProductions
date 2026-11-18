@@ -6,7 +6,8 @@
       "download": "Yuklab olish",
       "latest": "Eng soʻnggi",
       "testimonials": "Sharhlar",
-      "faq": "Tez-tez beriladigan savollar"
+      "faq": "Tez-tez beriladigan savollar",
+      "demo": "Demo"
     },
     "hero-page": {
       "subtitle": "Biz Germaniyada joylashgan ijodiy rivojlanish studiyasimiz, eng yangi texnologiyalardan foydalanib, barcha uchun maftunkor va qulay video oʻyinlar, ilovalar va media tajribalarini yaratamiz",
@@ -190,6 +191,16 @@
       "light": "Yorqin",
       "dark": "Qorongʻi"
     },
-    "legal": {}
+    "legal": {},
+    "play-page": {
+      "title": "Byteflip",
+      "subtitle": "Bir marta bosish tortishishni agʻdaradi. Yoʻlak yopilishidan oldin sovgʻani oling.",
+      "start": "Oʻynash uchun bosing",
+      "over": "Yoʻlak yopildi",
+      "again": "Qayta urinish uchun bosing",
+      "best": "Eng yaxshi",
+      "mute": "Ovozni o‘chirish",
+      "unmute": "Ovozni yoqish"
+    }
   }
 }

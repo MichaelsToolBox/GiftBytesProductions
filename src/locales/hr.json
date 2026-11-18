@@ -6,7 +6,8 @@
       "download": "Preuzmi",
       "latest": "Najnovije",
       "testimonials": "Svjedočanstva",
-      "faq": "Česta pitanja"
+      "faq": "Česta pitanja",
+      "demo": "Demo"
     },
     "hero-page": {
       "subtitle": "Mi smo kreativni razvojni studio sa sjedištem u Njemačkoj koji koristi najnoviju tehnologiju za stvaranje zadivljujućih i pristupačnih video igara, aplikacija i medijskih iskustava za svakoga",
@@ -190,6 +191,16 @@
       "light": "Svijetli",
       "dark": "Tamni"
     },
-    "legal": {}
+    "legal": {},
+    "play-page": {
+      "title": "Byteflip",
+      "subtitle": "Jedan dodir okreće gravitaciju. Uzmi dar prije nego se traka zatvori.",
+      "start": "Dodirni za igru",
+      "over": "Traka zatvorena",
+      "again": "Dodirni za novi pokušaj",
+      "best": "Najbolji",
+      "mute": "Isključi zvuk",
+      "unmute": "Uključi zvuk"
+    }
   }
 }

@@ -6,7 +6,8 @@
       "download": "Niðurhal",
       "latest": "Nýjast",
       "testimonials": "Umsagnir",
-      "faq": "Algengar spurningar"
+      "faq": "Algengar spurningar",
+      "demo": "Sýnishorn"
     },
     "hero-page": {
       "subtitle": "Við erum skapandi þróunarstúdíó með aðsetur í Þýskalandi sem nýtir nýjustu tækni til að búa til grípandi og aðgengilega tölvuleiki, forrit og miðlunarupplifun fyrir alla",
@@ -190,6 +191,16 @@
       "light": "Bjart",
       "dark": "Dökkt"
     },
-    "legal": {}
+    "legal": {},
+    "play-page": {
+      "title": "Byteflip",
+      "subtitle": "Eitt snerting snýr þyngdaraflinu. Taktu gjöfina áður en brautin lokast.",
+      "start": "Snertu til að spila",
+      "over": "Braut lokuð",
+      "again": "Snertu til að reyna aftur",
+      "best": "Besta",
+      "mute": "Þagga hljóð",
+      "unmute": "Kveikja á hljóði"
+    }
   }
 }

@@ -5,6 +5,7 @@ import Principles from './sections/principles-page';
 import AppAppBar from './sections/app-bar-page';
 import Download from './sections/download-page';
 import Features from './sections/features-page';
+import Play from './sections/play-page';
 import Footer from './sections/footer-page';
 import Latest from './sections/latest-page';
 import AppTheme from './theme/app-theme';
@@ -48,6 +49,9 @@ export default function HomePage(props: { disableCustomTheme?: boolean }) {
           </Reveal>
           <Reveal delayMs={50}>
             <Features />
+          </Reveal>
+          <Reveal delayMs={50}>
+            <Play />
           </Reveal>
           <Reveal delayMs={50}>
             <Principles />

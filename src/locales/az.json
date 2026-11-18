@@ -6,7 +6,8 @@
       "download": "Yüklə",
       "latest": "Ən son",
       "testimonials": "Rəylər",
-      "faq": "Tez-tez verilən suallar"
+      "faq": "Tez-tez verilən suallar",
+      "demo": "Demo"
     },
     "hero-page": {
       "subtitle": "Biz hər kəs üçün cəlbedici və əlçatan video oyunlar, proqramlar və media təcrübələri yaratmaq üçün ən son texnologiyadan istifadə edən Almaniyada yerləşən yaradıcı inkişaf studiyasıyıq",
@@ -190,6 +191,16 @@
       "light": "İşıq",
       "dark": "Qaranlıq"
     },
-    "legal": {}
+    "legal": {},
+    "play-page": {
+      "title": "Byteflip",
+      "subtitle": "Bir toxunuş cazibəni çevirir. Zolaq bağlanmadan hədiyyəni götür.",
+      "start": "Oynamaq üçün toxunun",
+      "over": "Zolaq bağlandı",
+      "again": "Yenidən cəhd etmək üçün toxunun",
+      "best": "Ən yaxşı",
+      "mute": "Səsi söndür",
+      "unmute": "Səsi aç"
+    }
   }
 }

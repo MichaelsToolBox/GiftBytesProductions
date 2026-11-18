@@ -6,7 +6,8 @@
       "download": "Sii mai",
       "latest": "Tala Fou",
       "testimonials": "Molimau",
-      "faq": "Fesili e Fesiligia Soo"
+      "faq": "Fesili e Fesiligia Soo",
+      "demo": "Faʻataʻitaʻiga"
     },
     "hero-page": {
       "subtitle": "O i matou o se potu atina'e foafoa e fa'avae i Siamani o lo'o fa'aaogaina tekonolosi aupito lata mai e fau ai taaloga vitio, polokalame, ma aafiaga fa'asalalau e manaia ma faigofie ona maua e tagata uma.",
@@ -204,6 +205,16 @@
       "light": "Malamalama",
       "dark": "Pogisa"
     },
-    "legal": {}
+    "legal": {},
+    "play-page": {
+      "title": "Byteflip",
+      "subtitle": "E liliu le kalavite i le tasi paʻi. Ave le meaalofa aʻo leʻi tapuni le ala.",
+      "start": "Paʻi e taʻalo",
+      "over": "Ua tapuni le ala",
+      "again": "Paʻi e toe taumafai",
+      "best": "Sili",
+      "mute": "Tape le leo",
+      "unmute": "Ki le leo"
+    }
   }
 }

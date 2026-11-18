@@ -6,7 +6,8 @@
       "download": "Lataa",
       "latest": "Uusimmat",
       "testimonials": "Asiakaspalautteet",
-      "faq": "UKK"
+      "faq": "UKK",
+      "demo": "Demo"
     },
     "hero-page": {
       "subtitle": "Olemme saksalainen luova kehitysstudio, joka hyödyntää uusinta teknologiaa luodakseen mukaansatempaavia ja saavutettavia videopelejä, sovelluksia ja mediakokemuksia kaikille",
@@ -190,6 +191,16 @@
       "light": "Vaalea",
       "dark": "Tumma"
     },
-    "legal": {}
+    "legal": {},
+    "play-page": {
+      "title": "Byteflip",
+      "subtitle": "Yksi napautus kääntää painovoiman. Ota lahja ennen kuin kaista sulkeutuu.",
+      "start": "Napauta pelataksesi",
+      "over": "Kaista suljettu",
+      "again": "Napauta yrittääksesi uudelleen",
+      "best": "Paras",
+      "mute": "Mykistä ääni",
+      "unmute": "Laita ääni päälle"
+    }
   }
 }

@@ -6,7 +6,8 @@
       "download": "Landa",
       "latest": "Okwakamuva",
       "testimonials": "Ubufakazi",
-      "faq": "Imibuzo Evame Ukubuzwa"
+      "faq": "Imibuzo Evame Ukubuzwa",
+      "demo": "Idemo"
     },
     "hero-page": {
       "subtitle": "Siyisitudiyo sokuthuthukisa esizinze eJalimane esisebenzisa ubuchwepheshe bamuva ukwenza imidlalo yevidiyo, izinhlelo zokusebenza, kanye nokuhlangenwe nakho kwemidiya okuhehayo nokufinyelelekayo kuwo wonke umuntu.",
@@ -204,6 +205,16 @@
       "light": "Ukukhanya",
       "dark": "Ubumnyama"
     },
-    "legal": {}
+    "legal": {},
+    "play-page": {
+      "title": "Byteflip",
+      "subtitle": "Ukuthinta kanye kuguqula amandla adonsayo. Thatha isipho ngaphambi kokuthi umgwaqo uvale.",
+      "start": "Thinta ukuze udlale",
+      "over": "Umgwaqo uvaliwe",
+      "again": "Thinta ukuze uzame futhi",
+      "best": "Okungcono kakhulu",
+      "mute": "Thulisa umsindo",
+      "unmute": "Vula umsindo"
+    }
   }
 }

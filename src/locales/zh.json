@@ -6,7 +6,8 @@
       "download": "下载",
       "latest": "最新动态",
       "testimonials": "客户评价",
-      "faq": "常见问题"
+      "faq": "常见问题",
+      "demo": "试玩"
     },
     "hero-page": {
       "subtitle": "我们是一家总部位于德国的创意开发工作室，利用最新技术为所有人打造引人入胜、易于访问的视频游戏、应用程序和媒体体验",
@@ -190,6 +191,16 @@
       "light": "浅色",
       "dark": "深色"
     },
-    "legal": {}
+    "legal": {},
+    "play-page": {
+      "title": "Byteflip",
+      "subtitle": "点一下，重力翻转。在通道关闭前拿走礼物。",
+      "start": "点按开始",
+      "over": "通道已关闭",
+      "again": "点按再试一次",
+      "best": "最高",
+      "mute": "关闭声音",
+      "unmute": "打开声音"
+    }
   }
 }

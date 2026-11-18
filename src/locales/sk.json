@@ -6,7 +6,8 @@
       "download": "Stiahnuť",
       "latest": "Najnovšie",
       "testimonials": "Referencie",
-      "faq": "FAQ"
+      "faq": "FAQ",
+      "demo": "Ukážka"
     },
     "hero-page": {
       "subtitle": "Sme kreatívne vývojové štúdio so sídlom v Nemecku, ktoré využíva najnovšie technológie na vytváranie pútavých a prístupných videohier, aplikácií a mediálnych zážitkov pre každého",
@@ -190,6 +191,16 @@
       "light": "Svetlý",
       "dark": "Tmavý"
     },
-    "legal": {}
+    "legal": {},
+    "play-page": {
+      "title": "Byteflip",
+      "subtitle": "Jedno ťuknutie otočí gravitáciu. Vezmi darček, kým sa dráha nezavrie.",
+      "start": "Ťuknutím hraj",
+      "over": "Dráha zatvorená",
+      "again": "Ťuknutím skúsiť znova",
+      "best": "Najlepšie",
+      "mute": "Stíšiť zvuk",
+      "unmute": "Zapnúť zvuk"
+    }
   }
 }

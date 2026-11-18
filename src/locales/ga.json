@@ -6,7 +6,8 @@
       "download": "Íoslódáil",
       "latest": "An Nuacht is Déanaí",
       "testimonials": "Teistiméireachtaí",
-      "faq": "Ceisteanna Coitianta"
+      "faq": "Ceisteanna Coitianta",
+      "demo": "Taispeántas"
     },
     "hero-page": {
       "subtitle": "Is stiúideo forbartha cruthaitheach é GiftBytesProductions atá lonnaithe sa Ghearmáin, a bhaineann leas as an teicneolaíocht is déanaí chun físchluichí, aipeanna agus eispéiris meán tarraingteacha agus inrochtana a chruthú do chách",
@@ -190,6 +191,16 @@
       "light": "Éadrom",
       "dark": "Dorcha"
     },
-    "legal": {}
+    "legal": {},
+    "play-page": {
+      "title": "Byteflip",
+      "subtitle": "Casann sconna amháin an imtharraingt. Tóg an bronntanas sula ndruidfidh an lána.",
+      "start": "Tapáil le himirt",
+      "over": "Lána dúnta",
+      "again": "Tapáil le triail eile",
+      "best": "Is fearr",
+      "mute": "Balbhaigh an fhuaim",
+      "unmute": "Cuir an fhuaim ar siúl"
+    }
   }
 }

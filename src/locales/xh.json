@@ -6,7 +6,8 @@
       "download": "Khuphela",
       "latest": "Ezisandula",
       "testimonials": "Ubungqina",
-      "faq": "Imibuzo Ebuzwa Rhoqo"
+      "faq": "Imibuzo Ebuzwa Rhoqo",
+      "demo": "Umboniso"
     },
     "hero-page": {
       "subtitle": "Siyisitudiyo sophuhliso esinobuchule esizinze eJamani esisebenzisa iteknoloji yamva nje ukwenza imidlalo yevidiyo enomtsalane nefikelelekayo, ii-apps, kunye namava eendaba kuye wonke umntu.",
@@ -204,6 +205,16 @@
       "light": "Ukukhanya",
       "dark": "Ubumnyama"
     },
-    "legal": {}
+    "legal": {},
+    "play-page": {
+      "title": "Byteflip",
+      "subtitle": "Ukucofa kanye kujika umxhuzulane. Thatha isipho ngaphambi kokuba indlela ivalwe.",
+      "start": "Cofa ukuze udlale",
+      "over": "Indlela ivaliwe",
+      "again": "Cofa ukuze uzame kwakhona",
+      "best": "Eyona ilungileyo",
+      "mute": "Thulisa isandi",
+      "unmute": "Vula isandi"
+    }
   }
 }

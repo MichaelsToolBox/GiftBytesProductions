@@ -6,7 +6,8 @@
       "download": "Zazzage",
       "latest": "Na baya-bayan nan",
       "testimonials": "Shawarwari",
-      "faq": "Tambayoyin da Ake Yawan Yi"
+      "faq": "Tambayoyin da Ake Yawan Yi",
+      "demo": "Demo"
     },
     "hero-page": {
       "subtitle": "Mu ne wani gidan bincike mai kirkira da ke Jamus, muna amfani da sabuwar fasahar zamani don ƙirƙira kayatattun wasannin bidiyo, apps, da abubuwan jin daɗin kafofin watsa labarai da kowa zai iya amfani da su",
@@ -190,6 +191,16 @@
       "light": "Haske",
       "dark": "Duhu"
     },
-    "legal": {}
+    "legal": {},
+    "play-page": {
+      "title": "Byteflip",
+      "subtitle": "Taɓi ɗaya yana juya nauyi. Ɗauki kyauta kafin hanyar ta rufe.",
+      "start": "Taɓa ka yi wasa",
+      "over": "Hanya ta rufe",
+      "again": "Taɓa ka sake gwadawa",
+      "best": "Mafi kyau",
+      "mute": "Kashe sauti",
+      "unmute": "Kunna sauti"
+    }
   }
 }

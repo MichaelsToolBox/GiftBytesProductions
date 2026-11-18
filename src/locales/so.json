@@ -6,7 +6,8 @@
       "download": "Soo dejiso",
       "latest": "Ugu dambeeyay",
       "testimonials": "Marqaatiyo",
-      "faq": "Su'aalaha Inta badan la Isweydiiyo"
+      "faq": "Su'aalaha Inta badan la Isweydiiyo",
+      "demo": "Tijaabo"
     },
     "hero-page": {
       "subtitle": "Waxaan nahay istuudiyo horumarineed oo hal abuur leh oo fadhigeedu yahay Jarmalka oo ka faa'iideysanaya tikniyoolajiyaddii ugu dambeysay si loo farsameeyo ciyaaraha fiidiyowga ee soo jiidashada leh oo la heli karo, barnaamijyada, iyo waayo-aragnimada warbaahinta ee qof walba.",
@@ -204,6 +205,16 @@
       "light": "Iftiin",
       "dark": "Madow"
     },
-    "legal": {}
+    "legal": {},
+    "play-page": {
+      "title": "Byteflip",
+      "subtitle": "Hal taabasho ayaa roga cufisjiidka. Qaado hadiyadda ka hor intaan waddadu xirmin.",
+      "start": "Taabo si aad u ciyaarto",
+      "over": "Waddadu waa xiran tahay",
+      "again": "Taabo si aad mar kale isugu daydo",
+      "best": "Ugu fiican",
+      "mute": "Aamus dhawaqa",
+      "unmute": "Shid dhawaqa"
+    }
   }
 }

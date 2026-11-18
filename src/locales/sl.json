@@ -6,7 +6,8 @@
       "download": "Prenos",
       "latest": "Najnovejše",
       "testimonials": "Pričevanja",
-      "faq": "Pogosta vprašanja"
+      "faq": "Pogosta vprašanja",
+      "demo": "Demo"
     },
     "hero-page": {
       "subtitle": "Smo kreativni razvojni studio s sedežem v Nemčiji, ki izkorišča najnovejšo tehnologijo za ustvarjanje privlačnih in dostopnih video iger, aplikacij in medijskih izkušenj za vse",
@@ -190,6 +191,16 @@
       "light": "Svetel",
       "dark": "Temen"
     },
-    "legal": {}
+    "legal": {},
+    "play-page": {
+      "title": "Byteflip",
+      "subtitle": "En dotik obrne gravitacijo. Vzemi darilo, preden se steza zapre.",
+      "start": "Dotakni se za igro",
+      "over": "Steza zaprta",
+      "again": "Dotakni se za nov poskus",
+      "best": "Najboljše",
+      "mute": "Utišaj zvok",
+      "unmute": "Vklopi zvok"
+    }
   }
 }

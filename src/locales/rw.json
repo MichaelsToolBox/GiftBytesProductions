@@ -6,7 +6,8 @@
       "download": "Manura",
       "latest": "Ibiherutse",
       "testimonials": "Ubuhamya",
-      "faq": "Ibibazo Bikunze Kubazwa"
+      "faq": "Ibibazo Bikunze Kubazwa",
+      "demo": "Demo"
     },
     "hero-page": {
       "subtitle": "Turi sitidiyo yo mu Budage ishinzwe iterambere ry'ubuhanga ikoresha ikoranabuhanga rigezweho mu gukora imikino ya videwo, porogaramu, n'ibindi bitangazamakuru bishimishije kandi bigezweho kuri buri wese.",
@@ -204,6 +205,16 @@
       "light": "Urumuri",
       "dark": "Umwijima"
     },
-    "legal": {}
+    "legal": {},
+    "play-page": {
+      "title": "Byteflip",
+      "subtitle": "Gukoraho rimwe guhindura uburemere. Fata impano itarafunika inzira.",
+      "start": "Kanda ukine",
+      "over": "Inzira irafunze",
+      "again": "Kanda ugerageze nanone",
+      "best": "Byiza cyane",
+      "mute": "Zimya ijwi",
+      "unmute": "Fungura ijwi"
+    }
   }
 }

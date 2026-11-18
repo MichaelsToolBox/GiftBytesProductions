@@ -6,7 +6,8 @@
       "download": "Eroflueden",
       "latest": "Neist",
       "testimonials": "Zeienaussoen",
-      "faq": "FAQ"
+      "faq": "FAQ",
+      "demo": "Demo"
     },
     "hero-page": {
       "subtitle": "Mir sinn e kreativen Entwécklungsstudio mat Sëtz an Däitschland, deen déi neist Technologien notzt fir faszinéierend an zougänglech Videospiller, Apps a Medienerfarunge fir jiddereen ze kreéieren",
@@ -190,6 +191,16 @@
       "light": "Hell",
       "dark": "Däischter"
     },
-    "legal": {}
+    "legal": {},
+    "play-page": {
+      "title": "Byteflip",
+      "subtitle": "Een Tipp dréit d’Schwéierkraaft. Huel de Kaddo, éier d’Spur zougeet.",
+      "start": "Tipp fir ze spillen",
+      "over": "Spur zou",
+      "again": "Tipp fir nach eng Kéier",
+      "best": "Beschten",
+      "mute": "Toun aus",
+      "unmute": "Toun un"
+    }
   }
 }

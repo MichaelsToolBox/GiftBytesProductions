@@ -6,7 +6,8 @@
       "download": "Aflaai",
       "latest": "Nuutste",
       "testimonials": "Getuigskrifte",
-      "faq": "Gereelde vrae"
+      "faq": "Gereelde vrae",
+      "demo": "Demo"
     },
     "hero-page": {
       "subtitle": "Ons is 'n Duitse-gebaseerde kreatiewe ontwikkelingsateljee wat die nuutste tegnologie benut om boeiende en toeganklike videospeletjies, toepassings en media-ervarings vir almal te skep",
@@ -190,6 +191,16 @@
       "light": "Lig",
       "dark": "Donker"
     },
-    "legal": {}
+    "legal": {},
+    "play-page": {
+      "title": "Byteflip",
+      "subtitle": "Een tik draai swaartekrag om. Neem die geskenk voor die baan toemaak.",
+      "start": "Tik om te speel",
+      "over": "Baan toe",
+      "again": "Tik om weer te probeer",
+      "best": "Beste",
+      "mute": "Demp klank",
+      "unmute": "Skakel klank aan"
+    }
   }
 }

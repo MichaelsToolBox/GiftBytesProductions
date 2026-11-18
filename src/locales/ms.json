@@ -6,7 +6,8 @@
       "download": "Muat Turun",
       "latest": "Terkini",
       "testimonials": "Testimoni",
-      "faq": "Soalan Lazim"
+      "faq": "Soalan Lazim",
+      "demo": "Demo"
     },
     "hero-page": {
       "subtitle": "Kami ialah sebuah studio pembangunan kreatif yang berpangkalan di Jerman, memanfaatkan teknologi terkini untuk mencipta permainan video, aplikasi dan pengalaman media yang menawan dan mudah diakses untuk semua",
@@ -190,6 +191,16 @@
       "light": "Terang",
       "dark": "Gelap"
     },
-    "legal": {}
+    "legal": {},
+    "play-page": {
+      "title": "Byteflip",
+      "subtitle": "Satu ketikan membalikkan graviti. Ambil hadiah sebelum laluan tertutup.",
+      "start": "Ketik untuk bermain",
+      "over": "Laluan tertutup",
+      "again": "Ketik untuk cuba lagi",
+      "best": "Terbaik",
+      "mute": "Redam bunyi",
+      "unmute": "Hidupkan bunyi"
+    }
   }
 }

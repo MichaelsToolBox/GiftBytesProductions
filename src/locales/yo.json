@@ -6,7 +6,8 @@
       "download": "Gbigba lati ayelujara",
       "latest": "Tuntun",
       "testimonials": "Àwọn Ẹ̀rí",
-      "faq": "FAQ"
+      "faq": "FAQ",
+      "demo": "Àpẹẹrẹ"
     },
     "hero-page": {
       "subtitle": "A jẹ́ ilé-iṣẹ́ ìdàgbàsókè oníṣẹ́ ọnà tí ó wà ní Jámánì tí ó ń lo ìmọ̀-ẹ̀rọ tuntun láti ṣẹ̀dá àwọn eré fídíò, àwọn ìṣàfilọ́lẹ̀, àti àwọn ìrírí oníròyìn tí ó fani mọ́ra àti tí ó rọrùn fún gbogbo ènìyàn.",
@@ -204,6 +205,16 @@
       "light": "Ìmọ́lẹ̀",
       "dark": "Òkùnkùn"
     },
-    "legal": {}
+    "legal": {},
+    "play-page": {
+      "title": "Byteflip",
+      "subtitle": "Ìtẹ̀ kan ń yí ìfàmọ́ra padà. Gba ẹ̀bùn náà kí ọ̀nà tó tì.",
+      "start": "Tẹ̀ láti ṣeré",
+      "over": "Ọ̀nà ti tì",
+      "again": "Tẹ̀ láti gbìyànjú lẹ́ẹ̀kan si",
+      "best": "Tó dára jù",
+      "mute": "Pa ohùn",
+      "unmute": "Tan ohùn"
+    }
   }
 }

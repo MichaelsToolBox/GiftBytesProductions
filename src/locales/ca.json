@@ -6,7 +6,8 @@
       "download": "Descarrega",
       "latest": "Últimes notícies",
       "testimonials": "Testimonis",
-      "faq": "Preguntes freqüents"
+      "faq": "Preguntes freqüents",
+      "demo": "Demo"
     },
     "hero-page": {
       "subtitle": "Som un estudi de desenvolupament creatiu amb seu a Alemanya que aprofita la tecnologia més recent per crear videojocs, aplicacions i experiències multimèdia captivadores i accessibles per a tothom",
@@ -190,6 +191,16 @@
       "light": "Clar",
       "dark": "Fosc"
     },
-    "legal": {}
+    "legal": {},
+    "play-page": {
+      "title": "Byteflip",
+      "subtitle": "Un toc capgira la gravetat. Agafa el regal abans que el carril es tanqui.",
+      "start": "Toca per jugar",
+      "over": "Carril tancat",
+      "again": "Toca per tornar-ho a provar",
+      "best": "Millor",
+      "mute": "Silencia el so",
+      "unmute": "Activa el so"
+    }
   }
 }

@@ -6,7 +6,8 @@
       "download": "İndir",
       "latest": "En Son",
       "testimonials": "Görüşler",
-      "faq": "Sıkça Sorulan Sorular"
+      "faq": "Sıkça Sorulan Sorular",
+      "demo": "Demo"
     },
     "hero-page": {
       "subtitle": "Almanya merkezli yaratıcı bir geliştirme stüdyosuyuz ve herkes için büyüleyici ve erişilebilir video oyunları, uygulamalar ve medya deneyimleri yaratmak için en son teknolojiyi kullanıyoruz",
@@ -190,6 +191,16 @@
       "light": "Açık",
       "dark": "Koyu"
     },
-    "legal": {}
+    "legal": {},
+    "play-page": {
+      "title": "Byteflip",
+      "subtitle": "Bir dokunuş yerçekimini çevirir. Şerit kapanmadan hediyeyi al.",
+      "start": "Oynamak için dokun",
+      "over": "Şerit kapandı",
+      "again": "Yeniden denemek için dokun",
+      "best": "En iyi",
+      "mute": "Sesi kapat",
+      "unmute": "Sesi aç"
+    }
   }
 }

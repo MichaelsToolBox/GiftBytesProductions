@@ -6,7 +6,8 @@
       "download": "Unduh",
       "latest": "Terbaru",
       "testimonials": "Testimoni",
-      "faq": "FAQ"
+      "faq": "FAQ",
+      "demo": "Demo"
     },
     "hero-page": {
       "subtitle": "Kami adalah studio pengembangan kreatif yang berbasis di Jerman, memanfaatkan teknologi terbaru untuk membuat video game, aplikasi, dan pengalaman media yang menawan dan mudah diakses oleh semua orang",
@@ -190,6 +191,16 @@
       "light": "Terang",
       "dark": "Gelap"
     },
-    "legal": {}
+    "legal": {},
+    "play-page": {
+      "title": "Byteflip",
+      "subtitle": "Satu ketukan membalik gravitasi. Ambil hadiah sebelum jalur tertutup.",
+      "start": "Ketuk untuk bermain",
+      "over": "Jalur tertutup",
+      "again": "Ketuk untuk mencoba lagi",
+      "best": "Terbaik",
+      "mute": "Bisukan suara",
+      "unmute": "Nyalakan suara"
+    }
   }
 }

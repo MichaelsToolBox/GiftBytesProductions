@@ -6,7 +6,8 @@
       "download": "Pakua",
       "latest": "Mpya Zaidi",
       "testimonials": "Shuhuda",
-      "faq": "Maswali Yanayoulizwa Mara kwa Mara"
+      "faq": "Maswali Yanayoulizwa Mara kwa Mara",
+      "demo": "Onyesho"
     },
     "hero-page": {
       "subtitle": "Sisi ni studio ya ubunifu ya uundaji yenye makao yake nchini Ujerumani, inayotumia teknolojia ya kisasa kuunda michezo ya video, programu, na uzoefu wa media unaovutia na unaopatikana kwa urahisi kwa kila mtu",
@@ -190,6 +191,16 @@
       "light": "Mwanga",
       "dark": "Giza"
     },
-    "legal": {}
+    "legal": {},
+    "play-page": {
+      "title": "Byteflip",
+      "subtitle": "Gusa mara moja kuzungusha mvuto. Chukua zawadi kabla ya njia kufungwa.",
+      "start": "Gusa ucheze",
+      "over": "Njia imefungwa",
+      "again": "Gusa ujaribu tena",
+      "best": "Bora",
+      "mute": "Zima sauti",
+      "unmute": "Washa sauti"
+    }
   }
 }
